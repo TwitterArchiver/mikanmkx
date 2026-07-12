@@ -1,0 +1,384 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043972480524750848",
+        "3_2043972480562520064"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2043972869210935303",
+    "created_at": "2026-04-14T08:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043972869210935303"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 47,
+          "start": 42,
+          "tag": "能登半島"
+        },
+        {
+          "end": 54,
+          "start": 48,
+          "tag": "Nikon"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 27,
+          "id": "3019993781",
+          "start": 11,
+          "username": "MRBlackPhoenix7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/yv0VvbDXx0",
+          "end": 78,
+          "expanded_url": "https://x.com/mikanmkx/status/2043972869210935303/photo/1",
+          "media_key": "3_2043972480524750848",
+          "start": 55,
+          "url": "https://t.co/yv0VvbDXx0"
+        },
+        {
+          "display_url": "pic.x.com/yv0VvbDXx0",
+          "end": 78,
+          "expanded_url": "https://x.com/mikanmkx/status/2043972869210935303/photo/1",
+          "media_key": "3_2043972480562520064",
+          "start": 55,
+          "url": "https://t.co/yv0VvbDXx0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043972869210935303",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能登和棉花娃娃\n\n感谢@MRBlackPhoenix7的soyo和sayaka（\n\n#能登半島\n#Nikon https://t.co/yv0VvbDXx0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2043972480524750848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2mJEBaEAAkJ8M.jpg",
+        "width": 2016
+      },
+      {
+        "height": 2016,
+        "media_key": "3_2043972480562520064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2mJEKaYAApALl.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043972480524750848",
+            "3_2043972480562520064"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2043972869210935303",
+        "created_at": "2026-04-14T08:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043972869210935303"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 42,
+              "tag": "能登半島"
+            },
+            {
+              "end": 54,
+              "start": 48,
+              "tag": "Nikon"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 27,
+              "id": "3019993781",
+              "start": 11,
+              "username": "MRBlackPhoenix7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/yv0VvbDXx0",
+              "end": 78,
+              "expanded_url": "https://x.com/mikanmkx/status/2043972869210935303/photo/1",
+              "media_key": "3_2043972480524750848",
+              "start": 55,
+              "url": "https://t.co/yv0VvbDXx0"
+            },
+            {
+              "display_url": "pic.x.com/yv0VvbDXx0",
+              "end": 78,
+              "expanded_url": "https://x.com/mikanmkx/status/2043972869210935303/photo/1",
+              "media_key": "3_2043972480562520064",
+              "start": 55,
+              "url": "https://t.co/yv0VvbDXx0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043972869210935303",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能登和棉花娃娃\n\n感谢@MRBlackPhoenix7的soyo和sayaka（\n\n#能登半島\n#Nikon https://t.co/yv0VvbDXx0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 53
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-05T15:43:46.000Z",
+        "description": "Aqours推，MyGO!!!!!推，sww推，爱坐火车；\n简体中文(繁體可看)→bìpǐ/\nEnglish→WBP/\n日本語→ひびき；\ndelusionally Nagasaki Soyo's boyfriend",
+        "id": "3019993781",
+        "location": "静岡 沼津市",
+        "name": "ひびき♣避否WBP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950910134345166848/VXfu9xKk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 1384,
+          "like_count": 47694,
+          "listed_count": 2,
+          "media_count": 148,
+          "tweet_count": 3324
+        },
+        "username": "MRBlackPhoenix7",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2046136724544442806",
+    "created_at": "2026-04-20T07:59:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T08:59:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046136724544442806"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/livedoornews/status/2046135431327305922",
+          "start": 6,
+          "url": "https://t.co/OOvegmp8X1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046136724544442806",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046135431327305922",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有点大这个 https://t.co/OOvegmp8X1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2046136724544442806",
+        "created_at": "2026-04-20T07:59:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:59:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046136724544442806"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/livedoornews/status/2046135431327305922",
+              "start": 6,
+              "url": "https://t.co/OOvegmp8X1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046136724544442806",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046135431327305922",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有点大这个 https://t.co/OOvegmp8X1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "気象庁によれば、地震がありました。",
+              "id": "1374413205275996170",
+              "name": "地震のニュース（テスト）"
+            }
+          }
+        ],
+        "conversation_id": "2046135431327305922",
+        "created_at": "2026-04-20T07:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T08:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046135431327305922"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046135431327305922",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 32276,
+          "like_count": 67,
+          "quote_count": 4,
+          "reply_count": 18,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "【地震 16:53】\n［震度５強］青森三八上北\n［震度５弱］岩手沿岸北部、岩手内陸北部\n［震度４］岩手沿岸南部、岩手内陸南部、宮城北部"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 63,
+          "like_count": 256,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 115
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2157389,
+          "following_count": 106,
+          "like_count": 2288,
+          "listed_count": 13912,
+          "media_count": 286960,
+          "tweet_count": 462960
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

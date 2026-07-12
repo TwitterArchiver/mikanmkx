@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2045017759738990856",
+    "created_at": "2026-04-17T05:53:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T06:53:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045017759738990856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/livedoornews/status/2044954567801233722",
+          "start": 8,
+          "url": "https://t.co/T2LwaZx9yo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045017759738990856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044954567801233722",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "讨厌所有随机谷 https://t.co/T2LwaZx9yo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 236,
+        "media_key": "3_2044953081197285376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEh_iMa0AAScw7.png",
+        "width": 900
+      },
+      {
+        "height": 814,
+        "media_key": "3_2044953103171276800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEiA0DbUAAZskN.png",
+        "width": 900
+      },
+      {
+        "height": 249,
+        "media_key": "3_2044954073519230976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEi5S4aEAAH6lD.png",
+        "width": 900
+      },
+      {
+        "height": 518,
+        "media_key": "3_2044954540278251520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGEjUdsbgAAxJki.png",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2045017759738990856",
+        "created_at": "2026-04-17T05:53:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T06:53:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045017759738990856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/livedoornews/status/2044954567801233722",
+              "start": 8,
+              "url": "https://t.co/T2LwaZx9yo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045017759738990856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044954567801233722",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讨厌所有随机谷 https://t.co/T2LwaZx9yo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044953081197285376",
+            "3_2044953103171276800",
+            "3_2044954073519230976",
+            "3_2044954540278251520"
+          ]
+        },
+        "author_id": "17306975",
+        "conversation_id": "2044954567801233722",
+        "created_at": "2026-04-17T01:42:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T02:42:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044954567801233722"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "キャラクタービジネスなどを手掛ける株式会社Hamaru Strategyは、2026年3月28日から4月3日にかけて実施した「ランダムグッズに関する消費者意識調査2026」の中間報告を4月16日に公開しました。SNSとプレスリリー",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 60,
+              "expanded_url": "https://news.livedoor.com/article/detail/31021161/",
+              "images": [
+                {
+                  "height": 400,
+                  "url": "https://pbs.twimg.com/news_img/2044954610742505472/Adp72wSn?format=jpg&name=orig",
+                  "width": 600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2044954610742505472/Adp72wSn?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 37,
+              "status": 200,
+              "title": "約90％が「嫌い」と回答……ランダムグッズの販売手法に一石を投じる大規模アンケート結果が公開",
+              "unwound_url": "https://news.livedoor.com/article/detail/31021161/",
+              "url": "https://t.co/QA3dwcKNsC"
+            },
+            {
+              "display_url": "pic.x.com/v9lEn3TU4g",
+              "end": 183,
+              "expanded_url": "https://x.com/livedoornews/status/2044954567801233722/photo/1",
+              "media_key": "3_2044953081197285376",
+              "start": 160,
+              "url": "https://t.co/v9lEn3TU4g"
+            },
+            {
+              "display_url": "pic.x.com/v9lEn3TU4g",
+              "end": 183,
+              "expanded_url": "https://x.com/livedoornews/status/2044954567801233722/photo/1",
+              "media_key": "3_2044953103171276800",
+              "start": 160,
+              "url": "https://t.co/v9lEn3TU4g"
+            },
+            {
+              "display_url": "pic.x.com/v9lEn3TU4g",
+              "end": 183,
+              "expanded_url": "https://x.com/livedoornews/status/2044954567801233722/photo/1",
+              "media_key": "3_2044954073519230976",
+              "start": 160,
+              "url": "https://t.co/v9lEn3TU4g"
+            },
+            {
+              "display_url": "pic.x.com/v9lEn3TU4g",
+              "end": 183,
+              "expanded_url": "https://x.com/livedoornews/status/2044954567801233722/photo/1",
+              "media_key": "3_2044954540278251520",
+              "start": 160,
+              "url": "https://t.co/v9lEn3TU4g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044954567801233722",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1402,
+          "impression_count": 1363317,
+          "like_count": 14571,
+          "quote_count": 2300,
+          "reply_count": 357,
+          "retweet_count": 7364
+        },
+        "reply_settings": "everyone",
+        "text": "【調査結果】ランダムグッズ販売、約90％が「嫌い」と回答 大多数が否定的\nhttps://t.co/QA3dwcKNsC\n\n1週間で3万5866件もの回答が集まった「ランダムグッズに関する消費者意識調査」の中間報告が公開された。ランダム販売を理由に購入を取り止めた経験を持つ人は93.6％にのぼるという実態も判明した。 https://t.co/v9lEn3TU4g"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 56,
+          "like_count": 159,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 88
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2147899,
+          "following_count": 106,
+          "like_count": 2288,
+          "listed_count": 13894,
+          "media_count": 286745,
+          "tweet_count": 462641
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1294251834106732546",
+          "name": "University of California Los Angeles"
+        }
+      },
+      {
+        "domain": {
+          "description": "Colleges & universities around the world",
+          "id": "157",
+          "name": "Colleges & Universities"
+        },
+        "entity": {
+          "id": "1294251834106732546",
+          "name": "University of California Los Angeles"
+        }
+      }
+    ],
+    "conversation_id": "2058128807136293336",
+    "created_at": "2026-05-23T10:12:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T11:12:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058128807136293336"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tesu777UR/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/tesu777UR/status/2058053364391518238",
+          "start": 8,
+          "url": "https://t.co/iMZolNDPE7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058128807136293336",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058053364391518238",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我大ucla！ https://t.co/iMZolNDPE7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1362,
+        "media_key": "3_2058053362306969600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-soQUa8AAFo1p.png",
+        "width": 1922
+      },
+      {
+        "height": 1362,
+        "media_key": "3_2058053361921089536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-soO4a4AANtxA.png",
+        "width": 1922
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          }
+        ],
+        "conversation_id": "2058128807136293336",
+        "created_at": "2026-05-23T10:12:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T11:12:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058128807136293336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tesu777UR/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/tesu777UR/status/2058053364391518238",
+              "start": 8,
+              "url": "https://t.co/iMZolNDPE7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058128807136293336",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058053364391518238",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我大ucla！ https://t.co/iMZolNDPE7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058053362306969600",
+            "3_2058053361921089536"
+          ]
+        },
+        "author_id": "1554388035466174464",
+        "conversation_id": "2058053364391518238",
+        "created_at": "2026-05-23T05:12:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T06:12:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058053364391518238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZtJo3qucPw",
+              "end": 42,
+              "expanded_url": "https://x.com/tesu777UR/status/2058053364391518238/photo/1",
+              "media_key": "3_2058053362306969600",
+              "start": 19,
+              "url": "https://t.co/ZtJo3qucPw"
+            },
+            {
+              "display_url": "pic.x.com/ZtJo3qucPw",
+              "end": 42,
+              "expanded_url": "https://x.com/tesu777UR/status/2058053364391518238/photo/1",
+              "media_key": "3_2058053361921089536",
+              "start": 19,
+              "url": "https://t.co/ZtJo3qucPw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058053364391518238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 203,
+          "impression_count": 374201,
+          "like_count": 1913,
+          "quote_count": 1165,
+          "reply_count": 468,
+          "retweet_count": 155
+        },
+        "reply_settings": "everyone",
+        "text": "この2つの色は何を思い出させますか？ https://t.co/ZtJo3qucPw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 205,
+          "like_count": 685,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 284
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-02T08:46:15.000Z",
+        "description": "もうこんな季節だねー\n良かったら仲良してねっ⭐\n🎉あとフォローお願いします🎉\n\n🐤✙🐤✙🐤✙🐤✙🐤✙🐤✙🐤✙🐤✙",
+        "id": "1554388035466174464",
+        "name": "テス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013412840321757184/hvZ7GxO9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50493,
+          "following_count": 43466,
+          "like_count": 3124,
+          "listed_count": 143,
+          "media_count": 2126,
+          "tweet_count": 3123
+        },
+        "username": "tesu777UR",
+        "verified": true
+      }
+    ]
+  }
+}

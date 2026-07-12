@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2068355602221523307",
+    "created_at": "2026-06-21T11:52:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T12:52:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068663360552648835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1132133428327899137",
+          "start": 0,
+          "username": "Agera16117806"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068663360552648835",
+    "in_reply_to_user_id": "1132133428327899137",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068638130912055635",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Agera16117806 我寻思mbp进风口不是在侧面吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2068355602221523307",
+        "created_at": "2026-06-21T11:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T12:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068663360552648835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1132133428327899137",
+              "start": 0,
+              "username": "Agera16117806"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068663360552648835",
+        "in_reply_to_user_id": "1132133428327899137",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068638130912055635",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Agera16117806 我寻思mbp进风口不是在侧面吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1132133428327899137",
+        "conversation_id": "2068355602221523307",
+        "created_at": "2026-06-21T10:12:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T11:12:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068638130912055635"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068638130912055635",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068355602221523307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 非得吸灰把风扇堵上是吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 383,
+          "like_count": 1418,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 484
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2019-05-25T03:56:58.000Z",
+        "description": "",
+        "id": "1132133428327899137",
+        "name": "Cynicism",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1132134018634280962/z_A-D4vs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 283,
+          "like_count": 442,
+          "listed_count": 2,
+          "media_count": 11,
+          "tweet_count": 2550
+        },
+        "url": "",
+        "username": "Agera16117806",
+        "verified": false
+      }
+    ]
+  }
+}

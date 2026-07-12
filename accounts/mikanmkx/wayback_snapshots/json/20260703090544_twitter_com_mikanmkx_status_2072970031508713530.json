@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072970031508713530",
+    "created_at": "2026-07-03T09:05:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T10:05:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072970031508713530"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/45_206MHz/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/45_206MHz/status/2072679823672238382",
+          "start": 12,
+          "url": "https://t.co/sYQLoVV1Fh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072970031508713530",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072679823672238382",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "难道我真的是adhd😰 https://t.co/sYQLoVV1Fh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072970031508713530",
+        "created_at": "2026-07-03T09:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T10:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072970031508713530"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/45_206MHz/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/45_206MHz/status/2072679823672238382",
+              "start": 12,
+              "url": "https://t.co/sYQLoVV1Fh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072970031508713530",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072679823672238382",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "难道我真的是adhd😰 https://t.co/sYQLoVV1Fh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1751497892001685504",
+        "conversation_id": "2072679823672238382",
+        "created_at": "2026-07-02T13:52:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T14:52:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072679823672238382"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072679823672238382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 111,
+          "impression_count": 42781,
+          "like_count": 907,
+          "quote_count": 29,
+          "reply_count": 89,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "ADHD 是我见过脑回路最清奇的一类人。\n可以一边说自己没时间，\n一边花 40 分钟研究为什么企鹅走路这么跩。\n可以 ddl 快到了还没动，\n然后凌晨 2 点突然决定整理人生。\n可以房间乱到像灾后现场，\n但对一个新兴趣突然爆发出博士级研究精神。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 573,
+          "following_count": 483,
+          "like_count": 2062,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 115,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 92,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/x45_206mhz",
+                "end": 23,
+                "expanded_url": "https://t.me/x45_206mhz",
+                "start": 0,
+                "url": "https://t.co/eEc1irn5gW"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3229,
+          "following_count": 497,
+          "like_count": 37762,
+          "listed_count": 1,
+          "media_count": 860,
+          "tweet_count": 4646
+        },
+        "url": "https://t.co/eEc1irn5gW",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2058163068136517675",
+    "created_at": "2026-05-23T14:31:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:31:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058194000184754311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "837852476929781761",
+          "start": 0,
+          "username": "cn_LittleYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058194000184754311",
+    "in_reply_to_user_id": "837852476929781761",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058163068136517675",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cn_LittleYu 我有一次报警说一个车站名，然后接线员第一反应是纠正我读音，给我整无语了，就错一个字至于吗（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1101,
+        "media_key": "3_2058163064990814208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAQZyqbUAAQDz0.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2058163065787703296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJAQZ1oa4AAjY7r.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2058163068136517675",
+        "created_at": "2026-05-23T14:31:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058194000184754311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "837852476929781761",
+              "start": 0,
+              "username": "cn_LittleYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058194000184754311",
+        "in_reply_to_user_id": "837852476929781761",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058163068136517675",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cn_LittleYu 我有一次报警说一个车站名，然后接线员第一反应是纠正我读音，给我整无语了，就错一个字至于吗（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058163064990814208",
+            "3_2058163065787703296"
+          ]
+        },
+        "author_id": "837852476929781761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Kyoto",
+              "id": "855096052789026816",
+              "name": "Kyoto"
+            }
+          }
+        ],
+        "conversation_id": "2058163068136517675",
+        "created_at": "2026-05-23T12:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T13:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058163068136517675"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rdf756TINr",
+              "end": 189,
+              "expanded_url": "https://x.com/cn_LittleYu/status/2058163068136517675/photo/1",
+              "media_key": "3_2058163064990814208",
+              "start": 166,
+              "url": "https://t.co/rdf756TINr"
+            },
+            {
+              "display_url": "pic.x.com/rdf756TINr",
+              "end": 189,
+              "expanded_url": "https://x.com/cn_LittleYu/status/2058163068136517675/photo/1",
+              "media_key": "3_2058163065787703296",
+              "start": 166,
+              "url": "https://t.co/rdf756TINr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058163068136517675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4909,
+          "like_count": 55,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "半吊子日语去日本旅游最头疼的就是地名。\n有两回非常尴尬的买票经历。\n第一回是在伊东旅游，傍晚去热海转新干线。把热海读成(netsu umi)，售票员告诉我是 熱海(Atami)\n第二回是京都坐车去米原，准备第二天 K-ON！巡礼，米原读成(kome hara)，把售票员整不会了。\n米原(Maibara)\n\n（谷歌翻译和我一样神人 https://t.co/rdf756TINr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 208,
+          "like_count": 699,
+          "listed_count": 1,
+          "media_count": 76,
+          "tweet_count": 286
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2017-03-04T02:29:31.000Z",
+        "description": "只会端茶送水和电脑开关机的混子程序员 / 不肥不宅的二刺螈 / 买不起Supreme的popping dancer / 脱离高级趣味的现充 / おじさん構文 😁❗",
+        "id": "837852476929781761",
+        "location": "西安市雁塔区大雁塔701室",
+        "name": "poppinzhang",
+        "pinned_tweet_id": "2048852018094338250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950633997794529280/i4dNa0Bo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2056,
+          "following_count": 193,
+          "like_count": 2935,
+          "listed_count": 22,
+          "media_count": 925,
+          "tweet_count": 3924
+        },
+        "username": "cn_LittleYu",
+        "verified": false
+      }
+    ]
+  }
+}

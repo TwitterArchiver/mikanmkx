@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2071124087251042311",
+    "created_at": "2026-06-28T08:03:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T09:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071142469526561145"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040801790443257856",
+          "start": 0,
+          "username": "HamletMaschinen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071142469526561145",
+    "in_reply_to_user_id": "2040801790443257856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071140886726217979",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HamletMaschinen 我购物车里其实有来着，但是一直没买，还是过自己这关最难"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2071124087251042311",
+        "created_at": "2026-06-28T08:03:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T09:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071142469526561145"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040801790443257856",
+              "start": 0,
+              "username": "HamletMaschinen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071142469526561145",
+        "in_reply_to_user_id": "2040801790443257856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071140886726217979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HamletMaschinen 我购物车里其实有来着，但是一直没买，还是过自己这关最难"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040801790443257856",
+        "conversation_id": "2071124087251042311",
+        "created_at": "2026-06-28T07:57:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T08:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071140886726217979"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071140886726217979",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071124087251042311",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 喵要不要试一下国内那些网上的宽松炫彩小衣服店当过渡？感觉就会比较萌然后性别倾向没有那么明显"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 498,
+          "following_count": 425,
+          "like_count": 1724,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 551
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T14:55:56.000Z",
+        "description": "无定义神秘生物。鲨士啤亚。ag泛性恋。但从未有过对象，等待地球online加载中🔛欢迎找我玩\nQU B1| 【Eng/De/粤/中/日本語】語学、撮影、鳥、生き物、旅行、謎な料理、コメント歓迎",
+        "id": "2040801790443257856",
+        "location": "田舎",
+        "name": "SharksBeer",
+        "pinned_tweet_id": "2042276411378159853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040811899236093952/itfPADrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 28,
+          "like_count": 367,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 310
+        },
+        "url": "",
+        "username": "HamletMaschinen",
+        "verified": false
+      }
+    ]
+  }
+}

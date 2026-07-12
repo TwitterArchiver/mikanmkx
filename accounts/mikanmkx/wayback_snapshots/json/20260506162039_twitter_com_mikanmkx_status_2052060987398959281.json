@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2051959937019052157",
+    "created_at": "2026-05-06T16:20:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T17:20:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052060987398959281"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1578029665432010757",
+          "start": 0,
+          "username": "MicroeasyO1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052060987398959281",
+    "in_reply_to_user_id": "1578029665432010757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052060187117461733",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MicroeasyO1 是的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2051959937019052157",
+        "created_at": "2026-05-06T16:20:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:20:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052060987398959281"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1578029665432010757",
+              "start": 0,
+              "username": "MicroeasyO1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052060987398959281",
+        "in_reply_to_user_id": "1578029665432010757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052060187117461733",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MicroeasyO1 是的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1578029665432010757",
+        "conversation_id": "2051959937019052157",
+        "created_at": "2026-05-06T16:17:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T17:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052060187117461733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052060187117461733",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051959937019052157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx kt 写的吗？🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 115,
+          "like_count": 467,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 194
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-06T14:29:46.000Z",
+        "description": "2009.12, 垃圾Android App开发攻城史🥲\n🏳️‍⚧️🍥💊神秘一枚",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "microeasy.xyz",
+                "end": 23,
+                "expanded_url": "http://microeasy.xyz",
+                "start": 0,
+                "url": "https://t.co/7XxRiLuMtb"
+              }
+            ]
+          }
+        },
+        "id": "1578029665432010757",
+        "name": "Microeasy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1578030118135480320/AElpTVDH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 381,
+          "like_count": 1188,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 29
+        },
+        "url": "https://t.co/7XxRiLuMtb",
+        "username": "MicroeasyO1",
+        "verified": false
+      }
+    ]
+  }
+}

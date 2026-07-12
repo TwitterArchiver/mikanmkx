@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2040358983169638719",
+    "created_at": "2026-04-04T12:17:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T13:17:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040403438715216310"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1316718526602780672",
+          "start": 0,
+          "username": "femtagonist"
+        },
+        {
+          "end": 25,
+          "id": "1268475951911854080",
+          "start": 13,
+          "username": "KiyaAkiyama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040403438715216310",
+    "in_reply_to_user_id": "1316718526602780672",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040386949564002604",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@femtagonist @KiyaAkiyama Honestly if multiple use vials are available I'd do injection as well but in some places of the world you can only get 10mg single use vials. They are expensive and have huge e2 level fluctuations"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2222,
+        "media_key": "3_2040386946141401089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFDpHfkaMAEyvyH.jpg",
+        "width": 1439
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2040358983169638719",
+        "created_at": "2026-04-04T12:17:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T13:17:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040403438715216310"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1316718526602780672",
+              "start": 0,
+              "username": "femtagonist"
+            },
+            {
+              "end": 25,
+              "id": "1268475951911854080",
+              "start": 13,
+              "username": "KiyaAkiyama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040403438715216310",
+        "in_reply_to_user_id": "1316718526602780672",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040386949564002604",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@femtagonist @KiyaAkiyama Honestly if multiple use vials are available I'd do injection as well but in some places of the world you can only get 10mg single use vials. They are expensive and have huge e2 level fluctuations"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040386946141401089"
+          ]
+        },
+        "author_id": "1316718526602780672",
+        "conversation_id": "2040358983169638719",
+        "created_at": "2026-04-04T11:12:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040386949564002604"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1268475951911854080",
+              "start": 0,
+              "username": "KiyaAkiyama"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UDM29mF7If",
+              "end": 297,
+              "expanded_url": "https://x.com/femtagonist/status/2040386949564002604/photo/1",
+              "media_key": "3_2040386946141401089",
+              "start": 274,
+              "url": "https://t.co/UDM29mF7If"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040386949564002604",
+        "in_reply_to_user_id": "1268475951911854080",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 77,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040358983169638719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KiyaAkiyama People recommend injection because its the most cost effective and effective in general way to do e. The levels are more consistent and u only have to inject once a week while also not needing to inject as much e as other methods, since its going into ur blood https://t.co/UDM29mF7If"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "mmmmmkx",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2020-10-15T12:32:21.000Z",
+        "description": "thai vampire girl who loves warhound | 19 | Profic | beginner guitarist | under 17 dnf unless oomfs| ktkw and kyokara fan | allergic rhinitis | pfp by @okome103",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 151,
+                "username": "okome103"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/botannn41",
+                "end": 23,
+                "expanded_url": "https://throne.com/botannn41",
+                "start": 0,
+                "url": "https://t.co/Dq5TNP3slL"
+              }
+            ]
+          }
+        },
+        "id": "1316718526602780672",
+        "location": "she/its 🇹🇭",
+        "name": "hinayu/peony",
+        "pinned_tweet_id": "2006646156173127947",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023767868891070464/rquj4Cck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 1541,
+          "like_count": 40436,
+          "listed_count": 6,
+          "media_count": 1296,
+          "tweet_count": 28584
+        },
+        "url": "https://t.co/Dq5TNP3slL",
+        "username": "femtagonist",
+        "verified": false
+      },
+      {
+        "created_at": "2020-06-04T09:34:07.000Z",
+        "description": "Virtual femboy that likes to play games, sing and tease people | I also do 🔞 voice act, you just gotta look for it (⁠*⁠´⁠ω⁠｀⁠*⁠)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/kiyaakiyama",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/c/kiyaakiyama",
+                "start": 0,
+                "url": "https://t.co/vT1AjR6o5U"
+              }
+            ]
+          }
+        },
+        "id": "1268475951911854080",
+        "location": "Indonesia",
+        "name": "Kiya Akiyama",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031966213379932161/-W5uFKso_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1230,
+          "following_count": 2007,
+          "like_count": 70225,
+          "listed_count": 7,
+          "media_count": 1216,
+          "tweet_count": 35690
+        },
+        "url": "https://t.co/vT1AjR6o5U",
+        "username": "KiyaAkiyama",
+        "verified": false
+      }
+    ]
+  }
+}

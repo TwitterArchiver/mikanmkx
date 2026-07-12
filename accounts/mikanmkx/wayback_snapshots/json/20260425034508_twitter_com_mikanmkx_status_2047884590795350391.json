@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2047884590795350391",
+    "created_at": "2026-04-25T03:45:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T04:45:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047884590795350391"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Willowfoxxo/st…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Willowfoxxo/status/2047583847290671352",
+          "start": 15,
+          "url": "https://t.co/7ezrSr0x1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047884590795350391",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047583847290671352",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I need this rn https://t.co/7ezrSr0x1w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 981,
+        "media_key": "3_2047583824180113408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGp6o7gXcAArqvm.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2047884590795350391",
+        "created_at": "2026-04-25T03:45:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T04:45:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047884590795350391"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Willowfoxxo/st…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Willowfoxxo/status/2047583847290671352",
+              "start": 15,
+              "url": "https://t.co/7ezrSr0x1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047884590795350391",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047583847290671352",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I need this rn https://t.co/7ezrSr0x1w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047583824180113408"
+          ]
+        },
+        "author_id": "3108393095",
+        "conversation_id": "2047583847290671352",
+        "created_at": "2026-04-24T07:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T08:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047583847290671352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iUReepCrGF",
+              "end": 32,
+              "expanded_url": "https://x.com/Willowfoxxo/status/2047583847290671352/photo/1",
+              "media_key": "3_2047583824180113408",
+              "start": 9,
+              "url": "https://t.co/iUReepCrGF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047583847290671352",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 478,
+          "impression_count": 124637,
+          "like_count": 17242,
+          "quote_count": 30,
+          "reply_count": 52,
+          "retweet_count": 1652
+        },
+        "reply_settings": "everyone",
+        "text": ":3 :3 :3 https://t.co/iUReepCrGF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 76,
+          "like_count": 343,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 144
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2015-03-23T19:35:06.000Z",
+        "description": "Furry|28 |♀️|She/Her| engaged💍| Leftist👏 | SFW/Suggestive sometimes |Silly Goober😝 | Pedo's/Zoo's dni💀| ✨pretty gal 💅| second acc @SomeFoxThing👀|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "SomeFoxThing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/wildfirer0se",
+                "end": 23,
+                "expanded_url": "https://throne.com/wildfirer0se",
+                "start": 0,
+                "url": "https://t.co/RxmieHK7IR"
+              }
+            ]
+          }
+        },
+        "id": "3108393095",
+        "location": "Rent free in the bigots heads!",
+        "name": "WillowTheFoxΘΔ🏳️‍⚧️🐾Pawbz are cute!🐾",
+        "pinned_tweet_id": "2038402769556553957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005046970956541952/-w5IvgTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13722,
+          "following_count": 5549,
+          "like_count": 75209,
+          "listed_count": 123,
+          "media_count": 15257,
+          "tweet_count": 59847
+        },
+        "url": "https://t.co/RxmieHK7IR",
+        "username": "Willowfoxxo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2074867745049760032",
+    "created_at": "2026-07-08T23:00:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T00:00:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074991921198739721"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1740651131158851584",
+          "start": 0,
+          "username": "STYX40680609"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074991921198739721",
+    "in_reply_to_user_id": "1740651131158851584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074928632401961354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@STYX40680609 其实还有很多我没说的事才会让我这么想，真的不是无病呻吟，唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2074867745049760032",
+        "created_at": "2026-07-08T23:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T00:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074991921198739721"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1740651131158851584",
+              "start": 0,
+              "username": "STYX40680609"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074991921198739721",
+        "in_reply_to_user_id": "1740651131158851584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074928632401961354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@STYX40680609 其实还有很多我没说的事才会让我这么想，真的不是无病呻吟，唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1740651131158851584",
+        "conversation_id": "2074867745049760032",
+        "created_at": "2026-07-08T18:48:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T19:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074928632401961354"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074928632401961354",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074867745049760032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 写这么文青干嘛 都有实力一个电话出国 你的未来怎么可能会被毁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 527,
+          "like_count": 2402,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 692
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-12-29T08:29:22.000Z",
+        "description": "一个无所谓的人",
+        "id": "1740651131158851584",
+        "location": "404",
+        "name": "STYX",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1740660909536845825/iuAEx5EE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "STYX40680609",
+        "verified": false
+      }
+    ]
+  }
+}

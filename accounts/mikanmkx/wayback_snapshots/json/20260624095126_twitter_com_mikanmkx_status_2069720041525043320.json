@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2069717374614520130",
+    "created_at": "2026-06-24T09:51:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T10:51:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069720041525043320"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1832040353542893568",
+          "start": 0,
+          "username": "sheepahead"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069720041525043320",
+    "in_reply_to_user_id": "1832040353542893568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069717374614520130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sheepahead 没事的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2069717374614520130",
+        "created_at": "2026-06-24T09:51:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:51:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069720041525043320"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1832040353542893568",
+              "start": 0,
+              "username": "sheepahead"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069720041525043320",
+        "in_reply_to_user_id": "1832040353542893568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069717374614520130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sheepahead 没事的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1832040353542893568",
+        "conversation_id": "2069717374614520130",
+        "created_at": "2026-06-24T09:40:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T10:40:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069717374614520130"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2069717374614520130",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说飞机上能带糖和色这些处方药吗 会不会被查之类qwp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 397,
+          "like_count": 1523,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 511
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-06T12:57:36.000Z",
+        "description": "重度社恐 不时会发一些帖子 成分互fo | \nOIer ChOer 全栈开发 | \n生产日期 2011.4.24 | \n深柜 无证HRT from 2026.1.27 | \n182cm 65kg 期待变矮？ | \n匿名Q&A：https://t.co/3o6mwdDVpJ\n妹妹@youling_qaq🥺",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 151,
+                "start": 139,
+                "username": "youling_qaq"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sheepahead",
+                "end": 136,
+                "expanded_url": "https://ngl.link/sheepahead",
+                "start": 113,
+                "url": "https://t.co/3o6mwdDVpJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shearbyte.dev",
+                "end": 23,
+                "expanded_url": "https://shearbyte.dev",
+                "start": 0,
+                "url": "https://t.co/k9wVkszwfX"
+              }
+            ]
+          }
+        },
+        "id": "1832040353542893568",
+        "location": "奥陶纪 冈瓦纳古大陆",
+        "name": "Sakaban_🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2063213047473410302",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062905674854703104/o9uvvHdO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 216,
+          "like_count": 188,
+          "listed_count": 2,
+          "media_count": 76,
+          "tweet_count": 443
+        },
+        "url": "https://t.co/k9wVkszwfX",
+        "username": "sheepahead",
+        "verified": true
+      }
+    ]
+  }
+}

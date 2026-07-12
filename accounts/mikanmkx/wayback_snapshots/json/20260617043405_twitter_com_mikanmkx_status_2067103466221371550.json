@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2066798484565663909",
+    "created_at": "2026-06-17T04:34:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T05:34:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067103466221371550"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1754180460769574912",
+          "start": 0,
+          "username": "marcus_0w0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067103466221371550",
+    "in_reply_to_user_id": "1754180460769574912",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067092773631861109",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@marcus_0w0 你说色谱龙吗，那就是安得卡啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2066798484565663909",
+        "created_at": "2026-06-17T04:34:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T05:34:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067103466221371550"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1754180460769574912",
+              "start": 0,
+              "username": "marcus_0w0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067103466221371550",
+        "in_reply_to_user_id": "1754180460769574912",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067092773631861109",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@marcus_0w0 你说色谱龙吗，那就是安得卡啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1754180460769574912",
+        "conversation_id": "2066798484565663909",
+        "created_at": "2026-06-17T03:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T04:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067092773631861109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067092773631861109",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066798484565663909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 安得卡？原來你們那裡買得到這種東西呀，我還一直以為只能買龍而已"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 407,
+          "following_count": 353,
+          "like_count": 1297,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 448
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-04T16:30:06.000Z",
+        "description": "不曝照！\n有事直接私，我懶得一條條翻通知喵",
+        "id": "1754180460769574912",
+        "name": "灰色小蛋糕",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060594174379118592/mKNAMsOM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 444,
+          "like_count": 2376,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 863
+        },
+        "username": "marcus_0w0",
+        "verified": false
+      }
+    ]
+  }
+}

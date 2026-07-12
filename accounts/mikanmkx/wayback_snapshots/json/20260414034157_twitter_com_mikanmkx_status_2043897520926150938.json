@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2043897520926150938",
+    "created_at": "2026-04-14T03:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T04:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043897520926150938"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2043897520926150938",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很想知道科林斯独自在月球背面的时候是怎么想的，虽然他自己事后有描述，但我觉得任何人类语言在其面前都显得苍白无力，可能它超出了语言本身的某种边界，毕竟这种感觉注定只属于那么几个人"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2043897520926150938",
+        "created_at": "2026-04-14T03:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043897520926150938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043897520926150938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很想知道科林斯独自在月球背面的时候是怎么想的，虽然他自己事后有描述，但我觉得任何人类语言在其面前都显得苍白无力，可能它超出了语言本身的某种边界，毕竟这种感觉注定只属于那么几个人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 38,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 47
+        },
+        "username": "mikanmkx",
+        "verified": false
+      }
+    ]
+  }
+}

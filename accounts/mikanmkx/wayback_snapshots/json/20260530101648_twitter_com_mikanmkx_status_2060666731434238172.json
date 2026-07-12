@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060641732971450368"
+      ],
+      "media_source_tweet_id": [
+        "2060641737023037537"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060666731434238172",
+    "created_at": "2026-05-30T10:16:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060666731434238172"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1721895937357004800",
+          "start": 3,
+          "username": "Strf_9040C"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HfbJVZ8ktW",
+          "end": 68,
+          "expanded_url": "https://x.com/Strf_9040C/status/2060641737023037537/photo/1",
+          "media_key": "3_2060641732971450368",
+          "start": 45,
+          "url": "https://t.co/HfbJVZ8ktW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060666731434238172",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060641737023037537",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Strf_9040C: 为什么我的 PFD 有个 SRS\n是在提醒我做变性手术吗 https://t.co/HfbJVZ8ktW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2060641732971450368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjevQcb0AA0REE.jpg",
+        "width": 871
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060641732971450368"
+          ],
+          "media_source_tweet_id": [
+            "2060641737023037537"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060666731434238172",
+        "created_at": "2026-05-30T10:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060666731434238172"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1721895937357004800",
+              "start": 3,
+              "username": "Strf_9040C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfbJVZ8ktW",
+              "end": 68,
+              "expanded_url": "https://x.com/Strf_9040C/status/2060641737023037537/photo/1",
+              "media_key": "3_2060641732971450368",
+              "start": 45,
+              "url": "https://t.co/HfbJVZ8ktW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060666731434238172",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060641737023037537",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Strf_9040C: 为什么我的 PFD 有个 SRS\n是在提醒我做变性手术吗 https://t.co/HfbJVZ8ktW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060641732971450368"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2060641737023037537",
+        "created_at": "2026-05-30T08:37:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:37:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060641737023037537"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HfbJVZ8ktW",
+              "end": 52,
+              "expanded_url": "https://x.com/Strf_9040C/status/2060641737023037537/photo/1",
+              "media_key": "3_2060641732971450368",
+              "start": 29,
+              "url": "https://t.co/HfbJVZ8ktW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060641737023037537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我的 PFD 有个 SRS\n是在提醒我做变性手术吗 https://t.co/HfbJVZ8ktW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 269,
+          "like_count": 869,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 343
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n小狗❤️：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 160,
+                "start": 151,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "forsvarsmakten.se/sv/information…",
+                "end": 23,
+                "expanded_url": "https://www.forsvarsmakten.se/sv/information-och-fakta/materiel-och-teknik/mark/stridsfordon-9040c/",
+                "start": 0,
+                "url": "https://t.co/T2zrnjpxkS"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "location": "全真模拟 战区控制 瑞典",
+        "name": "STRIDSFORDON 9040C “Ljusdimma” 🏳️‍⚧️",
+        "pinned_tweet_id": "2057928692089905225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1458,
+          "following_count": 2213,
+          "like_count": 11162,
+          "listed_count": 2,
+          "media_count": 557,
+          "tweet_count": 1044
+        },
+        "url": "https://t.co/T2zrnjpxkS",
+        "username": "Strf_9040C",
+        "verified": false
+      }
+    ]
+  }
+}

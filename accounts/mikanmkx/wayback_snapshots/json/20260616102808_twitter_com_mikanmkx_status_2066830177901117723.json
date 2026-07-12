@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066830170548527104"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2066830177901117723",
+    "created_at": "2026-06-16T10:28:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T11:28:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066830177901117723"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/xxJlECUwr9",
+          "end": 44,
+          "expanded_url": "https://x.com/mikanmkx/status/2066830177901117723/photo/1",
+          "media_key": "3_2066830170548527104",
+          "start": 21,
+          "url": "https://t.co/xxJlECUwr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066830177901117723",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "67676767676767676767 https://t.co/xxJlECUwr9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066830170548527104",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7bFu6a4AA3yGJ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066830170548527104"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2066830177901117723",
+        "created_at": "2026-06-16T10:28:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T11:28:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066830177901117723"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xxJlECUwr9",
+              "end": 44,
+              "expanded_url": "https://x.com/mikanmkx/status/2066830177901117723/photo/1",
+              "media_key": "3_2066830170548527104",
+              "start": 21,
+              "url": "https://t.co/xxJlECUwr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066830177901117723",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "67676767676767676767 https://t.co/xxJlECUwr9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 405,
+          "following_count": 353,
+          "like_count": 1279,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

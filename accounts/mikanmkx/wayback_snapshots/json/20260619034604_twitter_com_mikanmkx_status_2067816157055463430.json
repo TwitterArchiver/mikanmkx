@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2067591714710380723",
+    "created_at": "2026-06-19T03:46:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T04:46:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067816157055463430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024931765882945536",
+          "start": 0,
+          "username": "kyoumoikimasu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067816157055463430",
+    "in_reply_to_user_id": "2024931765882945536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067812770528317589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kyoumoikimasu 我都不知道还有这种操作（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2067591714710380723",
+        "created_at": "2026-06-19T03:46:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:46:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067816157055463430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024931765882945536",
+              "start": 0,
+              "username": "kyoumoikimasu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067816157055463430",
+        "in_reply_to_user_id": "2024931765882945536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067812770528317589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kyoumoikimasu 我都不知道还有这种操作（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024931765882945536",
+        "conversation_id": "2067591714710380723",
+        "created_at": "2026-06-19T03:32:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T04:32:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067812770528317589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067812770528317589",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067591714710380723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 头发不够长你可以半扎发呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423,
+          "following_count": 365,
+          "like_count": 1347,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 465
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-20T19:51:55.000Z",
+        "description": "🇨🇳 中文 簡単日本語ok ソラまし一番好き💙🤍🫶🏻",
+        "id": "2024931765882945536",
+        "name": "destiny",
+        "pinned_tweet_id": "2025278219218551085",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067465593436131328/-_qDabG0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 88,
+          "like_count": 11585,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 1967
+        },
+        "url": "",
+        "username": "kyoumoikimasu",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051598318887903232"
+      ],
+      "media_source_tweet_id": [
+        "2051598321240977825"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2052009311724023857",
+    "created_at": "2026-05-06T12:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052009311724023857"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "933562792187109376",
+          "start": 3,
+          "username": "tyomateee"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/v9XRB72uS5",
+          "end": 65,
+          "expanded_url": "https://x.com/tyomateee/status/2051598321240977825/photo/1",
+          "media_key": "3_2051598318887903232",
+          "start": 42,
+          "url": "https://t.co/v9XRB72uS5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052009311724023857",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2597
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051598321240977825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tyomateee: この家にどんな人が住んでるのか気になって仕方ない。🦈 https://t.co/v9XRB72uS5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1078,
+        "media_key": "3_2051598318887903232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHi9zRsaIAA2kCr.jpg",
+        "width": 1298
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051598318887903232"
+          ],
+          "media_source_tweet_id": [
+            "2051598321240977825"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2052009311724023857",
+        "created_at": "2026-05-06T12:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052009311724023857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "933562792187109376",
+              "start": 3,
+              "username": "tyomateee"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9XRB72uS5",
+              "end": 65,
+              "expanded_url": "https://x.com/tyomateee/status/2051598321240977825/photo/1",
+              "media_key": "3_2051598318887903232",
+              "start": 42,
+              "url": "https://t.co/v9XRB72uS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052009311724023857",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2597
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051598321240977825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tyomateee: この家にどんな人が住んでるのか気になって仕方ない。🦈 https://t.co/v9XRB72uS5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051598318887903232"
+          ]
+        },
+        "author_id": "933562792187109376",
+        "conversation_id": "2051598321240977825",
+        "created_at": "2026-05-05T09:42:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T10:42:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051598321240977825"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v9XRB72uS5",
+              "end": 50,
+              "expanded_url": "https://x.com/tyomateee/status/2051598321240977825/photo/1",
+              "media_key": "3_2051598318887903232",
+              "start": 27,
+              "url": "https://t.co/v9XRB72uS5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051598321240977825",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1525,
+          "impression_count": 1312674,
+          "like_count": 43788,
+          "quote_count": 410,
+          "reply_count": 270,
+          "retweet_count": 2597
+        },
+        "reply_settings": "everyone",
+        "text": "この家にどんな人が住んでるのか気になって仕方ない。🦈 https://t.co/v9XRB72uS5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 91,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 192
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2017-11-23T05:08:09.000Z",
+        "description": "海外・世界で話題の情報を呟きます。当人が運営しているアカウントは最多情報局 もふもふ動画 カイガイノワダイです。他大喜利 癒しbot等の運営とは一切関係ありません 削除申請はDMまたはメールまでお願い致します。",
+        "id": "933562792187109376",
+        "location": "aokun4321@gmail.com",
+        "name": "最多情報局",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1142197940443680768/_hpVLFxk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 801931,
+          "following_count": 46267,
+          "like_count": 18233,
+          "listed_count": 3367,
+          "media_count": 12390,
+          "tweet_count": 35347
+        },
+        "username": "tyomateee",
+        "verified": true
+      }
+    ]
+  }
+}

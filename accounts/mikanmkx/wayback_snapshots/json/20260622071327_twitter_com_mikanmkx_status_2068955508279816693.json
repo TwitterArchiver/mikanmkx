@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "News",
+          "id": "1046545033657081857",
+          "name": "News"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1405566281378500612",
+          "name": "Shinkansen"
+        }
+      }
+    ],
+    "conversation_id": "2068955508279816693",
+    "created_at": "2026-06-22T07:13:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-22T08:13:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068955508279816693"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JRCentral_OFL/…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/JRCentral_OFL/status/2068938888111120594",
+          "start": 4,
+          "url": "https://t.co/FHTJdy0LBU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068955508279816693",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068938888111120594",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "何意味 https://t.co/FHTJdy0LBU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "2068955508279816693",
+        "created_at": "2026-06-22T07:13:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T08:13:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068955508279816693"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JRCentral_OFL/…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/JRCentral_OFL/status/2068938888111120594",
+              "start": 4,
+              "url": "https://t.co/FHTJdy0LBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068955508279816693",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068938888111120594",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/FHTJdy0LBU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1096276082800513025",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1405566281378500612",
+              "name": "Shinkansen"
+            }
+          }
+        ],
+        "conversation_id": "2068938888111120594",
+        "created_at": "2026-06-22T06:07:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T07:07:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068938888111120594"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "jr-central.co.jp/news/release/_…",
+              "end": 79,
+              "expanded_url": "https://jr-central.co.jp/news/release/_pdf/000045694.pdf",
+              "start": 56,
+              "status": 200,
+              "unwound_url": "https://jr-central.co.jp/news/release/_pdf/000045694.pdf",
+              "url": "https://t.co/KnITrEzXnl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068938888111120594",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 163,
+          "impression_count": 135692,
+          "like_count": 1105,
+          "quote_count": 277,
+          "reply_count": 3,
+          "retweet_count": 939
+        },
+        "reply_settings": "everyone",
+        "text": "【ニュースリリース】東海道新幹線で「当日出発・翌朝到着」の特別列車『東海道ルミエールエクスプレス』を運行します！https://t.co/KnITrEzXnl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 385,
+          "like_count": 1434,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 489
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2019-02-15T05:12:40.000Z",
+        "description": "ＪＲ東海公式のニュースアカウントです。ニュース、ホームページの更新情報などをお届けします。なお、頂いたコメント、ＤＭへの返信は致しかねますのでご了承ください。ご意見等につきましては、ＪＲ東海ＨＰよりお寄せください。ご利用にあたっては、ＪＲ東海ＨＰ内「ソーシャルメディアについて」をご覧ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jr-central.co.jp",
+                "end": 23,
+                "expanded_url": "https://jr-central.co.jp/",
+                "start": 0,
+                "url": "https://t.co/avQRqw7L1l"
+              }
+            ]
+          }
+        },
+        "id": "1096276082800513025",
+        "name": "ＪＲ東海News【公式】",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1099857934421417985/Gfia1KQo_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211380,
+          "following_count": 23,
+          "like_count": 18,
+          "listed_count": 1119,
+          "media_count": 260,
+          "tweet_count": 48355
+        },
+        "url": "https://t.co/avQRqw7L1l",
+        "username": "JRCentral_OFL",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2044048687056466287",
+    "created_at": "2026-04-15T02:23:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T03:23:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044240083491139800"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1856538525396561921",
+          "start": 0,
+          "username": "0xdizz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044240083491139800",
+    "in_reply_to_user_id": "1856538525396561921",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044048687056466287",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xdizz 就昨天晚上开始的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2044048687056466287",
+        "created_at": "2026-04-15T02:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044240083491139800"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1856538525396561921",
+              "start": 0,
+              "username": "0xdizz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044240083491139800",
+        "in_reply_to_user_id": "1856538525396561921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044048687056466287",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xdizz 就昨天晚上开始的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856538525396561921",
+        "conversation_id": "2044048687056466287",
+        "created_at": "2026-04-14T13:42:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044048687056466287"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044048687056466287",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 48582,
+          "like_count": 629,
+          "quote_count": 6,
+          "reply_count": 116,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "推特是不是更新了首页的算法，感觉变成超级信息茧房了怎么刷都是那几条内容"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 44,
+          "like_count": 94,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 56
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-13T03:24:22.000Z",
+        "description": "cooking @predictscandev  预测市场频道 https://t.co/uIIc6E4KKg",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 8,
+                "username": "predictscandev"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/opmmonirot",
+                "end": 55,
+                "expanded_url": "https://t.me/opmmonirot",
+                "start": 32,
+                "url": "https://t.co/uIIc6E4KKg"
+              }
+            ]
+          }
+        },
+        "id": "1856538525396561921",
+        "name": "0x叮当猫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934621482337861632/ouSd1SI0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4221,
+          "following_count": 409,
+          "like_count": 159,
+          "listed_count": 125,
+          "media_count": 306,
+          "tweet_count": 867
+        },
+        "username": "0xdizz",
+        "verified": true
+      }
+    ]
+  }
+}

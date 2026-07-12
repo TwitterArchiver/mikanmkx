@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2046445554151137736",
+    "created_at": "2026-04-21T04:26:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T05:26:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046445554151137736"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/takaichi_sanae…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/takaichi_sanae/status/2046392245604291018",
+          "start": 9,
+          "url": "https://t.co/PvYdhvJHba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046445554151137736",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046392245604291018",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "fuck you https://t.co/PvYdhvJHba"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2046445554151137736",
+        "created_at": "2026-04-21T04:26:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T05:26:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046445554151137736"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/takaichi_sanae…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/takaichi_sanae/status/2046392245604291018",
+              "start": 9,
+              "url": "https://t.co/PvYdhvJHba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046445554151137736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046392245604291018",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "fuck you https://t.co/PvYdhvJHba"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218434058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2046392245604291018",
+        "created_at": "2026-04-21T00:55:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T01:55:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046392245604291018"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046392245604291018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "本日、「防衛装備移転三原則」とその「運用指針」を改正しました。\n\nこれまで国産完成品の海外移転は、救難・輸送・警戒・監視・掃海（いわゆる「５類型」）に限定していましたが、今回の改正により、原則として全ての防衛装備品の移転が可能となります。\n\n安全保障環境が厳しさを増す中、今やどの国も１カ国のみでは自国の平和と安全を守ることはできず、防衛装備面でもお互いを支え合うパートナー国が必要です。\n現に、日本の防衛装備も、他国からの輸入やライセンス生産を通じ、様々な国によって支えられています。\nこうした中、パートナー国からは日本が「専守防衛」の考え方の下で整備してきている防衛装備品に期待する声が寄せられています。\n\nこのようなニーズに応え、防衛装備移転を行うことは、これらの諸国の防衛力向上、ひいては、紛争発生の未然防止に貢献することとなり、日本の安全保障の確保につながります。\nまた、パートナー国が日本と同じ装備品を保有していれば、部品等を相互に融通しあうこともでき、相互の連携が強化されます。\n\n同時に、装備移転に際しては、国際的な輸出管理の枠組みを遵守し、案件ごとに一層厳格に審査を行います。\n移転先での適正な管理もしっかり確保します。\n更に、移転先は、国連憲章に適合した使用を約束する国に限定します。\n\n戦後８０年以上にわたる平和国家としてのこれまでの歩みと基本理念とを堅持することに、全く変わりはありません。\n新たな制度の下、より厳正かつ慎重に移転の可否を判断しながら、装備移転を戦略的に推進してまいります。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 867,
+          "impression_count": 1134389,
+          "like_count": 19449,
+          "quote_count": 1467,
+          "reply_count": 2160,
+          "retweet_count": 3929
+        },
+        "reply_settings": "everyone",
+        "text": "本日、「防衛装備移転三原則」とその「運用指針」を改正しました。\n\nこれまで国産完成品の海外移転は、救難・輸送・警戒・監視・掃海（いわゆる「５類型」）に限定していましたが、今回の改正により、原則として全ての防衛装備品の移転が可能となります。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 65,
+          "like_count": 264,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 118
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNdzy0"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "name": "高市早苗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2859344,
+          "following_count": 1,
+          "like_count": 46,
+          "listed_count": 6165,
+          "media_count": 358,
+          "tweet_count": 1438
+        },
+        "url": "https://t.co/VNedKNdzy0",
+        "username": "takaichi_sanae",
+        "verified": true
+      }
+    ]
+  }
+}

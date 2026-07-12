@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2070467243616747729",
+    "created_at": "2026-06-26T11:20:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T12:20:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070467243616747729"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Mark67358226/s…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/Mark67358226/status/2070367063043190974",
+          "start": 9,
+          "url": "https://t.co/U1WUeDcR1E"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070467243616747729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070367063043190974",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "沒對象好難受…… https://t.co/U1WUeDcR1E"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2070467243616747729",
+        "created_at": "2026-06-26T11:20:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T12:20:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070467243616747729"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mark67358226/s…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/Mark67358226/status/2070367063043190974",
+              "start": 9,
+              "url": "https://t.co/U1WUeDcR1E"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070467243616747729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070367063043190974",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒對象好難受…… https://t.co/U1WUeDcR1E"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1519649212736049152",
+        "conversation_id": "2070367063043190974",
+        "created_at": "2026-06-26T04:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T05:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070367063043190974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/linyongqin9/st…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/linyongqin9/status/2070162335034163442",
+              "start": 9,
+              "url": "https://t.co/nrAj60KL8G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070367063043190974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 205,
+          "like_count": 9,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070162335034163442",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "沒對象好難受…… https://t.co/nrAj60KL8G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 414,
+          "like_count": 1607,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 530
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-04-28T12:06:42.000Z",
+        "description": "生產日期：2010.9.6 | 181cm 57kg | 北京昌平🇨🇳 | 主要繁體 簡體🉑 | 是男孩子 |日語🇯🇵 朝鮮語🇰🇷也會一點 | 友跨+LGBT友好 | 留長髮中 | 喜歡漢服、東亞文化和可愛的男孩子（小南梁），歡迎諸君找我聊天口牙！（求你們私信找我聊天吧！）僅交友不約！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "dreamail.cn",
+                "end": 23,
+                "expanded_url": "http://dreamail.cn",
+                "start": 0,
+                "url": "https://t.co/UrGAmTGSj9"
+              }
+            ]
+          }
+        },
+        "id": "1519649212736049152",
+        "location": "琉球國首里城",
+        "name": "Lhn002",
+        "pinned_tweet_id": "2070101728381591818",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020892688674103296/MTlilAxM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1005,
+          "following_count": 1352,
+          "like_count": 21934,
+          "listed_count": 2,
+          "media_count": 248,
+          "tweet_count": 4767
+        },
+        "url": "https://t.co/UrGAmTGSj9",
+        "username": "Mark67358226",
+        "verified": false
+      }
+    ]
+  }
+}

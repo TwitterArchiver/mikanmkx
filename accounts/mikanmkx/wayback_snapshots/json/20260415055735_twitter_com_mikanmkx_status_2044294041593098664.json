@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2044275029353865342",
+    "created_at": "2026-04-15T05:57:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:57:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044294041593098664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "3108393095",
+          "start": 0,
+          "username": "Willowfoxxo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044294041593098664",
+    "in_reply_to_user_id": "3108393095",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044275029353865342",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Willowfoxxo It's just 2 weeks haven't noticed anything😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2044275029353865342",
+        "created_at": "2026-04-15T05:57:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:57:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044294041593098664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "3108393095",
+              "start": 0,
+              "username": "Willowfoxxo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044294041593098664",
+        "in_reply_to_user_id": "3108393095",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044275029353865342",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Willowfoxxo It's just 2 weeks haven't noticed anything😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3108393095",
+        "conversation_id": "2044275029353865342",
+        "created_at": "2026-04-15T04:42:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T05:42:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044275029353865342"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044275029353865342",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 653,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Trans girlies who are on HRT what is some of your fav changes so far?🩷✨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 45,
+          "like_count": 102,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 61
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-23T19:35:06.000Z",
+        "description": "Furry|28 |♀️|She/Her| engaged💍| Leftist👏 | SFW/Suggestive sometimes |Silly Goober😝 | Pedo's/Zoo's dni💀| ✨pretty gal 💅| second acc @SomeFoxThing👀|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 143,
+                "start": 130,
+                "username": "SomeFoxThing"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/wildfirer0se",
+                "end": 23,
+                "expanded_url": "https://throne.com/wildfirer0se",
+                "start": 0,
+                "url": "https://t.co/RxmieHK7IR"
+              }
+            ]
+          }
+        },
+        "id": "3108393095",
+        "location": "Rent free in the bigots heads!",
+        "name": "WillowTheFoxΘΔ🏳️‍⚧️🐾Pawbz are cute!🐾",
+        "pinned_tweet_id": "2038402769556553957",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005046970956541952/-w5IvgTt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13151,
+          "following_count": 5496,
+          "like_count": 73924,
+          "listed_count": 106,
+          "media_count": 15116,
+          "tweet_count": 59303
+        },
+        "url": "https://t.co/RxmieHK7IR",
+        "username": "Willowfoxxo",
+        "verified": false
+      }
+    ]
+  }
+}

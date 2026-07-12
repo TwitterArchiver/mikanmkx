@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2051959937019052157",
+    "created_at": "2026-05-07T05:07:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T06:07:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052253993972416908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1930348223283290112",
+          "start": 0,
+          "username": "nvn0207"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052253993972416908",
+    "in_reply_to_user_id": "1930348223283290112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2052253119019663601",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nvn0207 我正在做的应用，自定义药物也可以添加的，后面会考虑出一个选项隐藏hrt相关就纯做药物追踪"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2051959937019052157",
+        "created_at": "2026-05-07T05:07:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:07:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052253993972416908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1930348223283290112",
+              "start": 0,
+              "username": "nvn0207"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052253993972416908",
+        "in_reply_to_user_id": "1930348223283290112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052253119019663601",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nvn0207 我正在做的应用，自定义药物也可以添加的，后面会考虑出一个选项隐藏hrt相关就纯做药物追踪"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1930348223283290112",
+        "conversation_id": "2051959937019052157",
+        "created_at": "2026-05-07T05:04:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T06:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052253119019663601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052253119019663601",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051959937019052157",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 你好，这个是啥呀，我也想记录一下我平常吃的药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 120,
+          "like_count": 474,
+          "listed_count": 1,
+          "media_count": 47,
+          "tweet_count": 196
+        },
+        "url": "",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-04T19:38:22.000Z",
+        "description": "05女170cm55kg/istp天秤/有对象/无不良嗜好/重焦不郁/睡眠障碍/托鲁地文拉80mg,阿普唑仑0.4mg,po,qd/不爱说话/不od不自残不吸烟不饮酒/备考28研学英语ing/",
+        "id": "1930348223283290112",
+        "location": "自习室",
+        "name": "雨滴落",
+        "pinned_tweet_id": "1943251086288261565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051001155279572992/uPAw9U0g_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 61,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "nvn0207",
+        "verified": false
+      }
+    ]
+  }
+}

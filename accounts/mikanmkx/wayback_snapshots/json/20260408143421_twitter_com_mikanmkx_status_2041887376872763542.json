@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2041825542547103764",
+    "created_at": "2026-04-08T14:34:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T15:34:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041887376872763542"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1093482865",
+          "start": 0,
+          "username": "0xCAFEBEEF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041887376872763542",
+    "in_reply_to_user_id": "1093482865",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041825542547103764",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0xCAFEBEEF starting at 26 and seeing others who started in their teens even early 20s give me intense gender dysphoria 😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2041825542547103764",
+        "created_at": "2026-04-08T14:34:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T15:34:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041887376872763542"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1093482865",
+              "start": 0,
+              "username": "0xCAFEBEEF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041887376872763542",
+        "in_reply_to_user_id": "1093482865",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041825542547103764",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0xCAFEBEEF starting at 26 and seeing others who started in their teens even early 20s give me intense gender dysphoria 😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1093482865",
+        "conversation_id": "2041825542547103764",
+        "created_at": "2026-04-08T10:28:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T11:28:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041825542547103764"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041825542547103764",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 5942,
+          "like_count": 274,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "the Transitioned In Their 20s group is going to be so vanishingly small over time, everyone is going to be either a giga early transitioner at 13 or honned out at 35 soon, we truly are a rare breed"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | 无证含糖 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 34,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 11
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2013-01-15T22:58:44.000Z",
+        "description": "megalomaniac. all posts are satire, unless you agree with them, in which case they're genuine.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCx3hr…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/channel/UCx3hr51aixNkC2Sj6DdeCsQ",
+                "start": 0,
+                "url": "https://t.co/b5dWmSmlgW"
+              }
+            ]
+          }
+        },
+        "id": "1093482865",
+        "location": "London, UK",
+        "name": "CrimeAndPunishmentAndTheBrothersKaramazovFan1993",
+        "pinned_tweet_id": "1925200133064438034",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039141980085846016/IWT8KdZf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16477,
+          "following_count": 226,
+          "like_count": 45762,
+          "listed_count": 36,
+          "media_count": 3737,
+          "tweet_count": 92021
+        },
+        "url": "https://t.co/b5dWmSmlgW",
+        "username": "0xCAFEBEEF",
+        "verified": false
+      }
+    ]
+  }
+}

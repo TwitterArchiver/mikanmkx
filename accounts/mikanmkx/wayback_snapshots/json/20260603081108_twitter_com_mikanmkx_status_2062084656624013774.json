@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2062084654413631488"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2062084656624013774",
+    "created_at": "2026-06-03T08:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T09:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062084656624013774"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/cjxg0Aeg5x",
+          "end": 58,
+          "expanded_url": "https://x.com/mikanmkx/status/2062084656624013774/photo/1",
+          "media_key": "3_2062084654413631488",
+          "start": 35,
+          "url": "https://t.co/cjxg0Aeg5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062084656624013774",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想把国内sim卡拔了找个备用机转发短信算了，这骚扰电话也多的过分了点 https://t.co/cjxg0Aeg5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062084654413631488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ3_EVsb0AAbWlr.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062084654413631488"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2062084656624013774",
+        "created_at": "2026-06-03T08:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T09:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062084656624013774"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cjxg0Aeg5x",
+              "end": 58,
+              "expanded_url": "https://x.com/mikanmkx/status/2062084656624013774/photo/1",
+              "media_key": "3_2062084654413631488",
+              "start": 35,
+              "url": "https://t.co/cjxg0Aeg5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062084656624013774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想把国内sim卡拔了找个备用机转发短信算了，这骚扰电话也多的过分了点 https://t.co/cjxg0Aeg5x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 305,
+          "like_count": 1006,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

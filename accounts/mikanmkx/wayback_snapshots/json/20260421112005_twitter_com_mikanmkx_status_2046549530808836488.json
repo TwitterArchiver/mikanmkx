@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2046527145841979698",
+    "created_at": "2026-04-21T11:20:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-21T12:20:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046549530808836488"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2038878967181017088",
+          "start": 0,
+          "username": "sayori_awa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046549530808836488",
+    "in_reply_to_user_id": "2038878967181017088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046527145841979698",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sayori_awa 新号都这样"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2046526519204524032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGa5BriaMAARt8a.jpg",
+        "width": 1040
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2046527145841979698",
+        "created_at": "2026-04-21T11:20:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T12:20:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046549530808836488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2038878967181017088",
+              "start": 0,
+              "username": "sayori_awa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046549530808836488",
+        "in_reply_to_user_id": "2038878967181017088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046527145841979698",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sayori_awa 新号都这样"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046526519204524032"
+          ]
+        },
+        "author_id": "2038878967181017088",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046527145841979698",
+        "created_at": "2026-04-21T09:51:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-21T10:51:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046527145841979698"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oOdjdFj7di",
+              "end": 30,
+              "expanded_url": "https://x.com/sayori_awa/status/2046527145841979698/photo/1",
+              "media_key": "3_2046526519204524032",
+              "start": 7,
+              "url": "https://t.co/oOdjdFj7di"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046527145841979698",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Σ(ﾟωﾟ何 https://t.co/oOdjdFj7di"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 64,
+          "like_count": 275,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 123
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-31T07:20:20.000Z",
+        "description": "这里是一只sayori酱 | MtF🏳️‍⚧️ | 互fo大欢迎(•̀ω•́)✧| 09.09.14 | 无证含糖 | INTP | 中文/ENG/日本語初心者 | 精神状态不稳定 | 成分复杂 | i just want to make everyone happy...",
+        "id": "2038878967181017088",
+        "location": "終ノ空",
+        "name": "🍥sayori🍥（缓慢回fo中）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039593919089131520/FpMa5rYl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 365,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 186
+        },
+        "username": "sayori_awa",
+        "verified": false
+      }
+    ]
+  }
+}

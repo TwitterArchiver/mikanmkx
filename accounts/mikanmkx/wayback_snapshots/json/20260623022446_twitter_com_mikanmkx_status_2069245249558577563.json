@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2069245249558577563",
+    "created_at": "2026-06-23T02:24:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T03:24:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069245249558577563"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/latepostnews/s…",
+          "end": 58,
+          "expanded_url": "https://twitter.com/latepostnews/status/2069087332935078151",
+          "start": 35,
+          "url": "https://t.co/50p4uT8euB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069245249558577563",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069087332935078151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这文章看得我想死，感觉应该立刻quit phd而不是继续生产学术垃圾 https://t.co/50p4uT8euB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1176,
+        "media_key": "3_2069087322226978816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLbf9QKacAA7P0u.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2069245249558577563",
+        "created_at": "2026-06-23T02:24:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T03:24:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069245249558577563"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/latepostnews/s…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/latepostnews/status/2069087332935078151",
+              "start": 35,
+              "url": "https://t.co/50p4uT8euB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069245249558577563",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069087332935078151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这文章看得我想死，感觉应该立刻quit phd而不是继续生产学术垃圾 https://t.co/50p4uT8euB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069087322226978816"
+          ]
+        },
+        "author_id": "1988875519623155712",
+        "conversation_id": "2069087332935078151",
+        "created_at": "2026-06-22T15:57:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-22T16:57:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069087332935078151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SD74Sm0jK8",
+              "end": 171,
+              "expanded_url": "https://x.com/latepostnews/status/2069087332935078151/photo/1",
+              "media_key": "3_2069087322226978816",
+              "start": 148,
+              "url": "https://t.co/SD74Sm0jK8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069087332935078151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "17 岁 AI 实习生日薪 5500 元，1998 年的算 “中登”\n\n00 后 AI 从业者，多数喜欢用动漫或卡通角色做头像，习惯用表情包和感叹号，工作间隙会在周围一连串的冰美式订单中点一杯棉花糖热可可。\n\n见一位 00 后 AI 创业者前，投资人提醒我们，想快速拉近距离最好给他带两杯奶茶。\n\n刚刚本科毕业，大厂或投资机构已经给他们开出 200 万元、500 万元 或 100 万美元的高额年薪。不过，谈起几百万元的薪水时，喝着棉花糖热可可的年轻研究员语气平淡，像是讨论上学期的课程表。\n\n“哎，我不太在意，多个一两百万也都无所谓。” 另一位 22 岁的研究员有类似的想法，“反正要创业，我也挣不了几年的工资”。今年夏天，他刚刚大学毕业，拿超过 500 万元的年薪，还有大厂和投资机构想要挖他。\n\n大模型行业批量制造了几百、几千个年薪数百万的年轻精英。大厂们打破过往年龄、职级、经验的限制，高薪招揽年轻人才。\n\n几位猎头和 HR 说，顶尖高校毕业、在大厂大模型核心团队实习过、顶刊论文方向符合、拿到大厂头部人才计划的应届生年薪基本都在 150 万元以上。一位参与 Seed 招聘的人士说，2024 年 TopSeed 校招生年薪约 150 万元，2025 年涨到 300 万-500 万元，2026 年核心岗位的校招生可以开到 600 万元，部分人还能更高。\n\n还没毕业，这些人才就被提前锁定——2000 元起步，最高不止 5500 元，日薪。有人拿到 Meta 的实习录用，月薪 2 万美元，且提供食宿。在大多数行业实习日薪 200 元就算不错时，这些数字超出常识，听到的人经常需要再次确认，“日薪还是月薪”“人民币还是美元”。\n\n按照行业统计数据，2026 年一季度北京外卖员平均月薪一万出头，一个日薪 5500 元的实习生相当于 10 个外卖员。一个年薪 300 万元的 AI 研究员干一年，抵得上一名 2025 年毕业的本科生勤奋工作 39 年。后者还要保证自己别失业。\n\n即便在以高薪著称的互联网大厂，想达到年薪 300 万，你需要硕士毕业，连续工作 8 至 12 年，经历至少 3 次晋升答辩，每一次都名列前 30%，还要身处核心业务或赶上高速发展，才能在 40 岁前成功干到字节 3-2、阿里 P9、腾讯 T11 以上。这时候，你已经管着几十人的团队，在行业里小有名气。\n\n而今天一个 22 岁、本科刚毕业的 AI 研究员，没带过人，没做过业务决策，没经历过一次绩效周期，就拿到了同等收入。\n何况他们实在年轻。“1998 年出生，在基模团队里已经算 ‘中登’。” 一个大厂大模型团队的实习生有点沮丧，自己比同公司多数实习生年龄大。有次加班到深夜，他抬头见到一位年纪 “小多了” 的实习生，“写代码时还蹦蹦跳跳的”，他加重语气，又说了一遍，“字面意义上的蹦蹦跳跳”。\n年纪相对小的才 17 岁——大厂对年龄越来越不设限，很难说谁最小。她被一家大厂的 HR 主动联系上，一边准备高中期末考试，一边在大模型团队实习，在工位上庆祝了六一儿童节。\n\n“读博很浪费时间啊！” 一位年轻研究员想劝那些清华 “姚班” 的朋友，“最聪明的大脑为什么要那么慢地学？” 他举例，一位 19 岁的斯坦福学生没读到大二就离开学校，很快为自己的 AI 初创公司募集了 450 万美元融资，“最坏的情况不过是重新回到斯坦福”。\n\n一名招聘人士曾劝过三四名博士放弃学位、转为正职，开出颇有诱惑的职级和薪酬。“如果读书是为了找到好工作，你现在已经有了。而且两年后不一定还有。” 于是几个年轻人选择中途退学，奋力一跃抓住 AI 这趟车。\n\n一家 AI 公司创始人想法更激进。他计划让读高一的孩子休学，边工作边学习，“他在学校怎么可能学到比我这儿更多的东西？”\n\n全球投资机构  Antler 调研超过 3500 名独角兽创业者后发现，2024 年，全球 AI 独角兽创始人的平均年龄 29 岁，而 2020 年他们大都 40 岁。这个数字大概率还会继续下降——AI 让这些足够聪明的年轻人有可能找到一份更高薪水的工作，也有可能把身价推至数亿美元。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 104,
+          "impression_count": 85100,
+          "like_count": 162,
+          "quote_count": 15,
+          "reply_count": 31,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "17 岁 AI 实习生日薪 5500 元，1998 年的算 “中登”\n\n00 后 AI 从业者，多数喜欢用动漫或卡通角色做头像，习惯用表情包和感叹号，工作间隙会在周围一连串的冰美式订单中点一杯棉花糖热可可。\n\n见一位 00 后 AI 创业者前，投资人提醒我们，想快速拉近距离最好给他带两杯奶茶。 https://t.co/SD74Sm0jK8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 466,
+          "following_count": 389,
+          "like_count": 1459,
+          "listed_count": 1,
+          "media_count": 126,
+          "tweet_count": 498
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-13T07:44:30.000Z",
+        "description": "晚一点，好一点。商业的真相总是在晚点。\n《晚点 LatePost》官方账号",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "latepost.com",
+                "end": 23,
+                "expanded_url": "https://www.latepost.com",
+                "start": 0,
+                "url": "https://t.co/hRJVUatFsZ"
+              }
+            ]
+          }
+        },
+        "id": "1988875519623155712",
+        "name": "晚点 LatePost",
+        "pinned_tweet_id": "2061073691275137438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1988876346496565248/A_UR6LFZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6625,
+          "following_count": 17,
+          "like_count": 50,
+          "listed_count": 51,
+          "media_count": 53,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/hRJVUatFsZ",
+        "username": "latepostnews",
+        "verified": true
+      }
+    ]
+  }
+}

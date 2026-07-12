@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052769041727795200"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2052769126205346025",
+    "created_at": "2026-05-08T15:14:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T16:14:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052769126205346025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/KRPS0w6JVs",
+          "end": 33,
+          "expanded_url": "https://x.com/mikanmkx/status/2052769126205346025/photo/1",
+          "media_key": "3_2052769041727795200",
+          "start": 10,
+          "url": "https://t.co/KRPS0w6JVs"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052769126205346025",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的wsl消失了💀 https://t.co/KRPS0w6JVs"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 742,
+        "media_key": "3_2052769041727795200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHzmkUIasAAkMhX.png",
+        "width": 1660
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052769041727795200"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2052769126205346025",
+        "created_at": "2026-05-08T15:14:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T16:14:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052769126205346025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KRPS0w6JVs",
+              "end": 33,
+              "expanded_url": "https://x.com/mikanmkx/status/2052769126205346025/photo/1",
+              "media_key": "3_2052769041727795200",
+              "start": 10,
+              "url": "https://t.co/KRPS0w6JVs"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052769126205346025",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的wsl消失了💀 https://t.co/KRPS0w6JVs"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 134,
+          "following_count": 138,
+          "like_count": 491,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 206
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

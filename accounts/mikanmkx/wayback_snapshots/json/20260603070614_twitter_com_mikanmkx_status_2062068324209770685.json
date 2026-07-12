@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2062063879564173542",
+    "created_at": "2026-06-03T07:06:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-03T08:06:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062068324209770685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1608637128132685825",
+          "start": 0,
+          "username": "nyaepheia"
+        },
+        {
+          "end": 25,
+          "id": "1882873467340832768",
+          "start": 11,
+          "username": "1896dddd71391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062068324209770685",
+    "in_reply_to_user_id": "1608637128132685825",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062066301108105307",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@nyaepheia @1896dddd71391 雌激素低了就这样，更年期症状（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062066301108105307].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062066301108105307",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062066301108105307"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2062063879564173542",
+        "created_at": "2026-06-03T07:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T08:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062068324209770685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1608637128132685825",
+              "start": 0,
+              "username": "nyaepheia"
+            },
+            {
+              "end": 25,
+              "id": "1882873467340832768",
+              "start": 11,
+              "username": "1896dddd71391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062068324209770685",
+        "in_reply_to_user_id": "1608637128132685825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062066301108105307",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@nyaepheia @1896dddd71391 雌激素低了就这样，更年期症状（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 321,
+          "following_count": 305,
+          "like_count": 1005,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 377
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-30T01:32:52.000Z",
+        "description": "https://t.co/nBvMeK1OLJ /ɪˈfiːə/\n好累。好麻烦。\n评论&备用账号&误ban申诉@epheiamoe\nNo NSFW. 不互fo。\n日常作息UTC+0\n账号访问权限：@yxrchina @0502railgun1949 @lckmtfdesu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "epheiamoe"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "yxrchina"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "0502railgun1949"
+              },
+              {
+                "end": 136,
+                "start": 125,
+                "username": "lckmtfdesu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/watakushi.desuwa.org",
+                "start": 0,
+                "url": "https://t.co/nBvMeK1OLJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "awa.desuwa.org",
+                "end": 23,
+                "expanded_url": "https://awa.desuwa.org/",
+                "start": 0,
+                "url": "https://t.co/OH6juSIljq"
+              }
+            ]
+          }
+        },
+        "id": "1608637128132685825",
+        "location": "❤️@yxrchina",
+        "name": "依菲雅✨𝑬𝒑𝒉𝒆𝒊𝒂🏳️‍⚧️",
+        "pinned_tweet_id": "2061340909577622010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052306322025267200/ZDFRMyZD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 879,
+          "following_count": 896,
+          "like_count": 27294,
+          "listed_count": 3,
+          "media_count": 446,
+          "tweet_count": 5101
+        },
+        "url": "https://t.co/OH6juSIljq",
+        "username": "nyaepheia",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T19:30:04.000Z",
+        "description": "",
+        "id": "1882873467340832768",
+        "name": "1896dddd",
+        "pinned_tweet_id": "2046546814661546264",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 70,
+          "like_count": 3103,
+          "listed_count": 2,
+          "media_count": 18,
+          "tweet_count": 859
+        },
+        "username": "1896dddd71391",
+        "verified": false
+      }
+    ]
+  }
+}

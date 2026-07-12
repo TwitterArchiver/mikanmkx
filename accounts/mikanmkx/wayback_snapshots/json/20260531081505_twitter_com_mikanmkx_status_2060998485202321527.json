@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060975028573966336"
+      ],
+      "media_source_tweet_id": [
+        "2060975065911742630"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060998485202321527",
+    "created_at": "2026-05-31T08:15:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T09:15:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060998485202321527"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 26,
+          "start": 21,
+          "tag": "mygo"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1802527222336753664",
+          "start": 3,
+          "username": "StarAshes444201"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZXYQ5xBxqA",
+          "end": 50,
+          "expanded_url": "https://x.com/StarAshes444201/status/2060975065911742630/photo/1",
+          "media_key": "3_2060975028573966336",
+          "start": 27,
+          "url": "https://t.co/ZXYQ5xBxqA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060998485202321527",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 66
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060975065911742630",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @StarAshes444201: #mygo https://t.co/ZXYQ5xBxqA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2060975028573966336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJoN3nUaEAA2s3j.jpg",
+        "width": 1960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060975028573966336"
+          ],
+          "media_source_tweet_id": [
+            "2060975065911742630"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060998485202321527",
+        "created_at": "2026-05-31T08:15:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T09:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060998485202321527"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 26,
+              "start": 21,
+              "tag": "mygo"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1802527222336753664",
+              "start": 3,
+              "username": "StarAshes444201"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXYQ5xBxqA",
+              "end": 50,
+              "expanded_url": "https://x.com/StarAshes444201/status/2060975065911742630/photo/1",
+              "media_key": "3_2060975028573966336",
+              "start": 27,
+              "url": "https://t.co/ZXYQ5xBxqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060998485202321527",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 66
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060975065911742630",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @StarAshes444201: #mygo https://t.co/ZXYQ5xBxqA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060975028573966336"
+          ]
+        },
+        "author_id": "1802527222336753664",
+        "conversation_id": "2060975065911742630",
+        "created_at": "2026-05-31T06:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T07:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060975065911742630"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "mygo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZXYQ5xBxqA",
+              "end": 29,
+              "expanded_url": "https://x.com/StarAshes444201/status/2060975065911742630/photo/1",
+              "media_key": "3_2060975028573966336",
+              "start": 6,
+              "url": "https://t.co/ZXYQ5xBxqA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060975065911742630",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2153,
+          "like_count": 221,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 66
+        },
+        "reply_settings": "everyone",
+        "text": "#mygo https://t.co/ZXYQ5xBxqA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 310,
+          "following_count": 293,
+          "like_count": 907,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 356
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-17T02:22:41.000Z",
+        "description": "画点破画 养只破猫",
+        "id": "1802527222336753664",
+        "location": "Toronto, Ontario",
+        "name": "StarAshes",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979223436951015432/n0H0F-CT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 606,
+          "following_count": 50,
+          "like_count": 438,
+          "listed_count": 2,
+          "media_count": 84,
+          "tweet_count": 401
+        },
+        "username": "StarAshes444201",
+        "verified": false
+      }
+    ]
+  }
+}

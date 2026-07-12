@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2043602473898627123",
+    "created_at": "2026-04-13T08:24:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T09:24:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043606118329700497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1150753335881826305",
+          "start": 0,
+          "username": "acacia038"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043606118329700497",
+    "in_reply_to_user_id": "1150753335881826305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043602473898627123",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@acacia038 gatekeeping真的是一个很无聊而且邪恶（？）的东西，无论来自群体外部还是内部"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2043602473898627123",
+        "created_at": "2026-04-13T08:24:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:24:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043606118329700497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1150753335881826305",
+              "start": 0,
+              "username": "acacia038"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043606118329700497",
+        "in_reply_to_user_id": "1150753335881826305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043602473898627123",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@acacia038 gatekeeping真的是一个很无聊而且邪恶（？）的东西，无论来自群体外部还是内部"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1150753335881826305",
+        "conversation_id": "2043602473898627123",
+        "created_at": "2026-04-13T08:09:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T09:09:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043602473898627123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_toffee/s…",
+              "end": 136,
+              "expanded_url": "https://twitter.com/amber_toffee/status/2043576120419729623",
+              "start": 113,
+              "url": "https://t.co/LL7pOygdHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043602473898627123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 104,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043576120419729623",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "杭州某医院某友跨医生就是这样，在父母在场的情况下，同我做一个小时“心理咨询”后，得出我不是先天mtf，而是后天创伤造成的结论，建议我停药，并因此导致父母重燃扭转的念头（虽然本人没有真的进扭转，但也让我蒙受了许多内心的折磨…… https://t.co/LL7pOygdHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 35,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 43
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2019-07-15T13:05:50.000Z",
+        "description": "",
+        "id": "1150753335881826305",
+        "name": "suzu",
+        "pinned_tweet_id": "2016084177138155670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1830450281479303169/Zpy4n_d1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 252,
+          "like_count": 1994,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 877
+        },
+        "username": "acacia038",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2045443234558796182",
+    "created_at": "2026-04-18T10:04:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T11:04:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045443234558796182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GlobeEyeNews/s…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/GlobeEyeNews/status/2045430373061140939",
+          "start": 25,
+          "url": "https://t.co/CFSaMVmX0n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045443234558796182",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045430373061140939",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "肯定有人赚麻了，至于是在德黑兰还是华盛顿我不好说 https://t.co/CFSaMVmX0n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 852,
+        "media_key": "3_2045430366274736128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLUFLqaUAApzsP.jpg",
+        "width": 852
+      },
+      {
+        "height": 738,
+        "media_key": "3_2045430366266408960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGLUFLobQAA4tM1.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2045443234558796182",
+        "created_at": "2026-04-18T10:04:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T11:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045443234558796182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GlobeEyeNews/s…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/GlobeEyeNews/status/2045430373061140939",
+              "start": 25,
+              "url": "https://t.co/CFSaMVmX0n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045443234558796182",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045430373061140939",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "肯定有人赚麻了，至于是在德黑兰还是华盛顿我不好说 https://t.co/CFSaMVmX0n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045430366274736128",
+            "3_2045430366266408960"
+          ]
+        },
+        "author_id": "1683054351647121408",
+        "conversation_id": "2045430373061140939",
+        "created_at": "2026-04-18T09:12:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T10:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045430373061140939"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iyGLSCo0cv",
+              "end": 76,
+              "expanded_url": "https://x.com/GlobeEyeNews/status/2045430373061140939/photo/1",
+              "media_key": "3_2045430366274736128",
+              "start": 53,
+              "url": "https://t.co/iyGLSCo0cv"
+            },
+            {
+              "display_url": "pic.x.com/iyGLSCo0cv",
+              "end": 76,
+              "expanded_url": "https://x.com/GlobeEyeNews/status/2045430373061140939/photo/1",
+              "media_key": "3_2045430366266408960",
+              "start": 53,
+              "url": "https://t.co/iyGLSCo0cv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045430373061140939",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 234,
+          "impression_count": 384999,
+          "like_count": 8146,
+          "quote_count": 448,
+          "reply_count": 454,
+          "retweet_count": 852
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: \n\nIran officially closes Strait of Hormuz. https://t.co/iyGLSCo0cv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 27,
+          "following_count": 58,
+          "like_count": 200,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 99
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-07-23T10:00:20.000Z",
+        "description": "International Affairs, Politics, Sports, Trends, and Global Happenings from South Asia to the Middle East and Beyond.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/GlobEyeNews",
+                "end": 23,
+                "expanded_url": "https://t.me/GlobEyeNews",
+                "start": 0,
+                "url": "https://t.co/R0Ear7RY8U"
+              }
+            ]
+          }
+        },
+        "id": "1683054351647121408",
+        "location": "World",
+        "name": "Globe Eye News",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693932087798267904/euVdeaHb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 885386,
+          "following_count": 152,
+          "like_count": 18,
+          "listed_count": 2375,
+          "media_count": 9723,
+          "tweet_count": 10193
+        },
+        "url": "https://t.co/R0Ear7RY8U",
+        "username": "GlobeEyeNews",
+        "verified": true
+      }
+    ]
+  }
+}

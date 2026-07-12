@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2065636622868353026",
+    "created_at": "2026-06-13T03:25:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T04:25:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2065636622868353026"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rainchngshainn…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/rainchngshainn/status/2064514910101356752",
+          "start": 17,
+          "url": "https://t.co/Oxz8hTVNt3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065636622868353026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064514910101356752",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我还没做过女生就已经变成大人了🥲 https://t.co/Oxz8hTVNt3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2065636622868353026",
+        "created_at": "2026-06-13T03:25:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T04:25:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065636622868353026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rainchngshainn…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/rainchngshainn/status/2064514910101356752",
+              "start": 17,
+              "url": "https://t.co/Oxz8hTVNt3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065636622868353026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064514910101356752",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我还没做过女生就已经变成大人了🥲 https://t.co/Oxz8hTVNt3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1534773109940789248",
+        "conversation_id": "2064514910101356752",
+        "created_at": "2026-06-10T01:08:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T02:08:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064514910101356752"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2064514910101356752",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 19127,
+          "like_count": 159,
+          "quote_count": 6,
+          "reply_count": 15,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "我才刚变成女生，不想这么快就变成大人"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2063503271701225759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 366,
+          "following_count": 334,
+          "like_count": 1205,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 424
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-09T05:43:39.000Z",
+        "description": "一位神秘又可爱的女生 ≽^•⩊•^≼ 🏳️‍⚧️ 🇨🇦 大二生物在读，分享一些日常, 中/Eng/日, 欢迎同类互fo， よろしくお願い！\n可爱黑猫卷🐈‍⬛：@CatherinaMeow\n好妹妹🥰：@blingbling712 \n好姐姐🥹：@YeChuan1123\n好闺闺🍋：@tongzikin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 93,
+                "start": 79,
+                "username": "CatherinaMeow"
+              },
+              {
+                "end": 113,
+                "start": 99,
+                "username": "blingbling712"
+              },
+              {
+                "end": 132,
+                "start": 120,
+                "username": "YeChuan1123"
+              },
+              {
+                "end": 148,
+                "start": 138,
+                "username": "tongzikin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+vxf3S4VFb-4xN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+vxf3S4VFb-4xNDE1",
+                "start": 0,
+                "url": "https://t.co/2mjyszXyeP"
+              }
+            ]
+          }
+        },
+        "id": "1534773109940789248",
+        "location": "Toronto, Ontario",
+        "name": "云欣 Akina",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059852851132702725/8t0iRaSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1223,
+          "following_count": 756,
+          "like_count": 10770,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 1299
+        },
+        "url": "https://t.co/2mjyszXyeP",
+        "username": "rainchngshainn",
+        "verified": false
+      }
+    ]
+  }
+}

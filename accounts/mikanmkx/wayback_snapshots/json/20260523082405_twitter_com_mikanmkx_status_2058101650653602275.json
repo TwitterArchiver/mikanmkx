@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2058101650653602275",
+    "created_at": "2026-05-23T08:24:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T09:24:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2058101650653602275"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AqweSun/status…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/AqweSun/status/2058006710254747684",
+          "start": 13,
+          "url": "https://t.co/uMtM2FUUVl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058101650653602275",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058006710254747684",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "literally me https://t.co/uMtM2FUUVl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1313,
+        "media_key": "3_2058006563525459968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI-CENRbgAATZjt.jpg",
+        "width": 1198
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2058101650653602275",
+        "created_at": "2026-05-23T08:24:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T09:24:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058101650653602275"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AqweSun/status…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/AqweSun/status/2058006710254747684",
+              "start": 13,
+              "url": "https://t.co/uMtM2FUUVl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058101650653602275",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058006710254747684",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "literally me https://t.co/uMtM2FUUVl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058006563525459968"
+          ]
+        },
+        "author_id": "1474568797634048000",
+        "conversation_id": "2058006710254747684",
+        "created_at": "2026-05-23T02:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T03:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058006710254747684"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/WtvOqyuwbt",
+              "end": 55,
+              "expanded_url": "https://x.com/AqweSun/status/2058006710254747684/photo/1",
+              "media_key": "3_2058006563525459968",
+              "start": 32,
+              "url": "https://t.co/WtvOqyuwbt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058006710254747684",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 2243,
+          "like_count": 120,
+          "quote_count": 5,
+          "reply_count": 9,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "ついに流行りに負けて作ってしまった💦\n意外と当たってて面白いｗ https://t.co/WtvOqyuwbt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 201,
+          "following_count": 205,
+          "like_count": 679,
+          "listed_count": 1,
+          "media_count": 75,
+          "tweet_count": 281
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2021-12-25T02:33:16.000Z",
+        "description": "ソロキャンしつつスマート望遠鏡DWARF３で天体撮影をしている新米アストロフォトグラファーです！\nもしよろしければフォロー＆イイネおねがいします。基本フォロバさせてもらいます！\nyoutubeでライブ配信始めました！\n週に一回程度で配信する予定ですので、もしよければご視聴、ご参加お願いいたします！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@Aqwe_Sun",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@Aqwe_Sun",
+                "start": 0,
+                "url": "https://t.co/HxVM6tDxPA"
+              }
+            ]
+          }
+        },
+        "id": "1474568797634048000",
+        "location": "京都府",
+        "name": "あくぅえ",
+        "pinned_tweet_id": "2046821194373144713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050638554146164737/XwK3Z2LG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 922,
+          "following_count": 831,
+          "like_count": 59018,
+          "listed_count": 1,
+          "media_count": 1810,
+          "tweet_count": 9612
+        },
+        "url": "https://t.co/HxVM6tDxPA",
+        "username": "AqweSun",
+        "verified": true
+      }
+    ]
+  }
+}

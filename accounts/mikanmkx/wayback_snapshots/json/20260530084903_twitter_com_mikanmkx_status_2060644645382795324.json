@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060632226266751080",
+    "created_at": "2026-05-30T08:49:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:49:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060644645382795324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027313596066369537",
+          "start": 0,
+          "username": "shigemeteor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060644645382795324",
+    "in_reply_to_user_id": "2027313596066369537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060643829775265923",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigemeteor 在考虑出端到端加密的云端备份，如果确实有需求的话"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060632226266751080",
+        "created_at": "2026-05-30T08:49:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:49:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060644645382795324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027313596066369537",
+              "start": 0,
+              "username": "shigemeteor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060644645382795324",
+        "in_reply_to_user_id": "2027313596066369537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060643829775265923",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigemeteor 在考虑出端到端加密的云端备份，如果确实有需求的话"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027313596066369537",
+        "conversation_id": "2060632226266751080",
+        "created_at": "2026-05-30T08:45:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:45:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060643829775265923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060643829775265923",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060632226266751080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 试了一下太爽了（\n希望可以出云功能（比如自己部署web版本到自己的cf-workers并实现云同步这种，因为在校生有时候用手机不方便（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 269,
+          "like_count": 862,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T09:23:51.000Z",
+        "description": "Cu₂S + O₂ = 2Child + SO₂↑\n2Al + Cu ≜ meteor\n人理之光暗淡之时，为了没有眼泪的明天~",
+        "id": "2027313596066369537",
+        "location": "shanghai",
+        "name": "meteor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027313721841000448/hhyXhg9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 20,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "username": "shigemeteor",
+        "verified": false
+      }
+    ]
+  }
+}

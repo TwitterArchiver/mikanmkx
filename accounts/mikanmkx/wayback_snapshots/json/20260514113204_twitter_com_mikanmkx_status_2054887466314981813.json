@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2054887466314981813",
+    "created_at": "2026-05-14T11:32:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-14T12:32:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054887466314981813"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/legendjeongshi…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/legendjeongshin/status/2054840007962300648",
+          "start": 9,
+          "url": "https://t.co/el5Q6E3n4j"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054887466314981813",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054840007962300648",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对上了，都对上了 https://t.co/el5Q6E3n4j"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2054840003143069696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIRCGIma8AAdExq.jpg",
+        "width": 1088
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2054887466314981813",
+        "created_at": "2026-05-14T11:32:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T12:32:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054887466314981813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/legendjeongshi…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/legendjeongshin/status/2054840007962300648",
+              "start": 9,
+              "url": "https://t.co/el5Q6E3n4j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054887466314981813",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054840007962300648",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对上了，都对上了 https://t.co/el5Q6E3n4j"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054840003143069696"
+          ]
+        },
+        "author_id": "1966662439988273152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2054840007962300648",
+        "created_at": "2026-05-14T08:23:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T09:23:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054840007962300648"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9AaijVWFwd",
+              "end": 23,
+              "expanded_url": "https://x.com/legendjeongshin/status/2054840007962300648/photo/1",
+              "media_key": "3_2054840003143069696",
+              "start": 0,
+              "url": "https://t.co/9AaijVWFwd"
+            },
+            {
+              "display_url": "x.com/27crycry/statu…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/27crycry/status/2054728671974568023",
+              "start": 24,
+              "url": "https://t.co/3mObxZSlwH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054840007962300648",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 57,
+          "impression_count": 22815,
+          "like_count": 819,
+          "quote_count": 15,
+          "reply_count": 0,
+          "retweet_count": 393
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054728671974568023",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/9AaijVWFwd https://t.co/3mObxZSlwH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 162,
+          "like_count": 553,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 233
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-09-13T00:37:27.000Z",
+        "description": "only GL | 백합 걸즈밴드 무기미도\n와타나레 ♡",
+        "id": "1966662439988273152",
+        "location": "⚢",
+        "name": "뵹원",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054192712086392832/YkyE38PP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2723,
+          "following_count": 120,
+          "like_count": 3037,
+          "listed_count": 1,
+          "media_count": 457,
+          "tweet_count": 2704
+        },
+        "username": "legendjeongshin",
+        "verified": false
+      }
+    ]
+  }
+}

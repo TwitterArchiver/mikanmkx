@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2044026891179598330",
+    "created_at": "2026-04-14T13:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T14:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044050866710425794"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1594297311836143616",
+          "start": 0,
+          "username": "xiwu0721"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044050866710425794",
+    "in_reply_to_user_id": "1594297311836143616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044026891179598330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiwu0721 单雌hrt某种意义上也算o雌二醇，让身体觉得激素太多了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2044026891179598330",
+        "created_at": "2026-04-14T13:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044050866710425794"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1594297311836143616",
+              "start": 0,
+              "username": "xiwu0721"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044050866710425794",
+        "in_reply_to_user_id": "1594297311836143616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044026891179598330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiwu0721 单雌hrt某种意义上也算o雌二醇，让身体觉得激素太多了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1594297311836143616",
+        "conversation_id": "2044026891179598330",
+        "created_at": "2026-04-14T12:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044026891179598330"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044026891179598330",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好想雌爆，能不能o雌二醇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 43,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 55
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-20T11:51:36.000Z",
+        "description": "INFP|MtF🏳️‍⚧️|HRT 2026.3.12🍥|170cm 54kg🍥|双相休学中 上海某大|zc不od|同类互fo 贴贴喵🥺|家暴党|已被赶出门暂居武汉",
+        "id": "1594297311836143616",
+        "location": "5.20km",
+        "name": "夕雾🏳️‍⚧🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040815765197316096/KCGQMePy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 181,
+          "like_count": 185,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 76
+        },
+        "username": "xiwu0721",
+        "verified": false
+      }
+    ]
+  }
+}

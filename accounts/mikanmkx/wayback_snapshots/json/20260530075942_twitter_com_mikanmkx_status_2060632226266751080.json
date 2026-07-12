@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2060632077180260352",
+        "3_2060632077180268545",
+        "3_2060632077184512000",
+        "3_2060632077184454656"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026820777",
+          "name": "Android"
+        }
+      }
+    ],
+    "conversation_id": "2060632226266751080",
+    "created_at": "2026-05-30T07:59:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:59:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060632226266751080"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "play.google.com/store/apps/det…",
+          "end": 68,
+          "expanded_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+          "start": 45,
+          "status": 200,
+          "unwound_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+          "url": "https://t.co/xaKGmZqaaO"
+        },
+        {
+          "display_url": "pic.x.com/KA25H6FAHq",
+          "end": 180,
+          "expanded_url": "https://x.com/mikanmkx/status/2060632226266751080/photo/1",
+          "media_key": "3_2060632077180260352",
+          "start": 157,
+          "url": "https://t.co/KA25H6FAHq"
+        },
+        {
+          "display_url": "pic.x.com/KA25H6FAHq",
+          "end": 180,
+          "expanded_url": "https://x.com/mikanmkx/status/2060632226266751080/photo/1",
+          "media_key": "3_2060632077180268545",
+          "start": 157,
+          "url": "https://t.co/KA25H6FAHq"
+        },
+        {
+          "display_url": "pic.x.com/KA25H6FAHq",
+          "end": 180,
+          "expanded_url": "https://x.com/mikanmkx/status/2060632226266751080/photo/1",
+          "media_key": "3_2060632077184512000",
+          "start": 157,
+          "url": "https://t.co/KA25H6FAHq"
+        },
+        {
+          "display_url": "pic.x.com/KA25H6FAHq",
+          "end": 180,
+          "expanded_url": "https://x.com/mikanmkx/status/2060632226266751080/photo/1",
+          "media_key": "3_2060632077184454656",
+          "start": 157,
+          "url": "https://t.co/KA25H6FAHq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060632226266751080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {
+        "urls": [
+          {
+            "display_url": "play.google.com/store/apps/det…",
+            "end": 68,
+            "expanded_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+            "start": 45,
+            "url": "https://t.co/CA4JPDhaDf"
+          }
+        ]
+      },
+      "text": "正式发布了喵\nFeatherline - Android 原生HRT追踪应用\n\n下载链接：https://t.co/CA4JPDhaDf\n\n- 遵循 Material 3 设计规范\n- 隐私优先，数据完全本地保存并由硬件支持的密钥库加密保存，开发者不收集任何数据\n- 基于公开的药代动力学模型估算 E2 水平\n- 推送通知，桌面小部件，库存管理，应用锁，加密备份等功能\n- 同步以GPLv3协议开源，repo见评论区"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 1,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "正式发布了喵\nFeatherline - Android 原生HRT追踪应用\n\n下载链接：https://t.co/xaKGmZqaaO\n\n- 遵循 Material 3 设计规范\n- 隐私优先，数据完全本地保存并由硬件支持的密钥库加密保存，开发者不收集任何数据\n- 基于公开的药代动力学模型估算 E2 水平\n- https://t.co/KA25H6FAHq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2060632077180260352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjV9N0a0AArkAT.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2060632077180268545",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjV9N0a8AEuyY4.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2060632077184512000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjV9N1bsAAPIkz.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2060632077184454656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjV9N1a0AAK8zO.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060632077180260352",
+            "3_2060632077180268545",
+            "3_2060632077184512000",
+            "3_2060632077184454656"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2060632226266751080",
+        "created_at": "2026-05-30T07:59:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:59:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060632226266751080"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "play.google.com/store/apps/det…",
+              "end": 68,
+              "expanded_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+              "start": 45,
+              "status": 200,
+              "unwound_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+              "url": "https://t.co/xaKGmZqaaO"
+            },
+            {
+              "display_url": "pic.x.com/KA25H6FAHq",
+              "end": 180,
+              "expanded_url": "https://x.com/mikanmkx/status/2060632226266751080/photo/1",
+              "media_key": "3_2060632077180260352",
+              "start": 157,
+              "url": "https://t.co/KA25H6FAHq"
+            },
+            {
+              "display_url": "pic.x.com/KA25H6FAHq",
+              "end": 180,
+              "expanded_url": "https://x.com/mikanmkx/status/2060632226266751080/photo/1",
+              "media_key": "3_2060632077180268545",
+              "start": 157,
+              "url": "https://t.co/KA25H6FAHq"
+            },
+            {
+              "display_url": "pic.x.com/KA25H6FAHq",
+              "end": 180,
+              "expanded_url": "https://x.com/mikanmkx/status/2060632226266751080/photo/1",
+              "media_key": "3_2060632077184512000",
+              "start": 157,
+              "url": "https://t.co/KA25H6FAHq"
+            },
+            {
+              "display_url": "pic.x.com/KA25H6FAHq",
+              "end": 180,
+              "expanded_url": "https://x.com/mikanmkx/status/2060632226266751080/photo/1",
+              "media_key": "3_2060632077184454656",
+              "start": 157,
+              "url": "https://t.co/KA25H6FAHq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060632226266751080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "play.google.com/store/apps/det…",
+                "end": 68,
+                "expanded_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+                "start": 45,
+                "url": "https://t.co/CA4JPDhaDf"
+              }
+            ]
+          },
+          "text": "正式发布了喵\nFeatherline - Android 原生HRT追踪应用\n\n下载链接：https://t.co/CA4JPDhaDf\n\n- 遵循 Material 3 设计规范\n- 隐私优先，数据完全本地保存并由硬件支持的密钥库加密保存，开发者不收集任何数据\n- 基于公开的药代动力学模型估算 E2 水平\n- 推送通知，桌面小部件，库存管理，应用锁，加密备份等功能\n- 同步以GPLv3协议开源，repo见评论区"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式发布了喵\nFeatherline - Android 原生HRT追踪应用\n\n下载链接：https://t.co/xaKGmZqaaO\n\n- 遵循 Material 3 设计规范\n- 隐私优先，数据完全本地保存并由硬件支持的密钥库加密保存，开发者不收集任何数据\n- 基于公开的药代动力学模型估算 E2 水平\n- https://t.co/KA25H6FAHq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 269,
+          "like_count": 856,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

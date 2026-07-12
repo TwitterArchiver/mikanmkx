@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072513196251033956",
+    "created_at": "2026-07-02T02:50:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T03:50:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072513196251033956"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "3595288948",
+          "start": 3,
+          "username": "gothtism444"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072513196251033956",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7854
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072137583363232176",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @gothtism444: As Pride Month draws to a close, I want people to remember that the \"trans agenda\" is to create a world where Charlotte co…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072513196251033956",
+        "created_at": "2026-07-02T02:50:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T03:50:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072513196251033956"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "3595288948",
+              "start": 3,
+              "username": "gothtism444"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072513196251033956",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7854
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072137583363232176",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @gothtism444: As Pride Month draws to a close, I want people to remember that the \"trans agenda\" is to create a world where Charlotte co…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3595288948",
+        "conversation_id": "2072137583363232176",
+        "created_at": "2026-07-01T01:57:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T02:57:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072137583363232176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/burntfishie/st…",
+              "end": 216,
+              "expanded_url": "https://twitter.com/burntfishie/status/1918223771313561872",
+              "start": 193,
+              "url": "https://t.co/Fu9J2Wn95V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072137583363232176",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1779,
+          "impression_count": 741060,
+          "like_count": 57764,
+          "quote_count": 150,
+          "reply_count": 177,
+          "retweet_count": 7854
+        },
+        "referenced_tweets": [
+          {
+            "id": "1918223771313561872",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "As Pride Month draws to a close, I want people to remember that the \"trans agenda\" is to create a world where Charlotte could've been happy, and where this kind of tragedy never happens again. https://t.co/Fu9J2Wn95V"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 466,
+          "like_count": 1964,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 594
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2015-09-09T05:37:14.000Z",
+        "description": "29yo MtF goth lesbian domme🖤Busty, Curvy, and Always Growing🖤Shameless Flirt🖤\n‼️18+ MDNI‼️fun links down below 💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/EmoEva",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/EmoEva",
+                "start": 0,
+                "url": "https://t.co/mADPquQrMc"
+              }
+            ]
+          }
+        },
+        "id": "3595288948",
+        "location": "$5 monthly, 40+ pics",
+        "name": "𝕲𝖔𝖙𝖍𝖎𝖈𝖈𝖈 💀🕸🖤✨️",
+        "pinned_tweet_id": "2070912281702232239",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072409951772033024/QSwv3xqq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 64,
+          "like_count": 210691,
+          "listed_count": 7,
+          "media_count": 1810,
+          "tweet_count": 21231
+        },
+        "url": "https://t.co/mADPquQrMc",
+        "username": "gothtism444",
+        "verified": false
+      }
+    ]
+  }
+}

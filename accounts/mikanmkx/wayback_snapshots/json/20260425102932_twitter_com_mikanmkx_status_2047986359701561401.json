@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2047963757100282269",
+    "created_at": "2026-04-25T10:29:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-25T11:29:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047986359701561401"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2037915149173182465",
+          "start": 0,
+          "username": "luna_1111__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047986359701561401",
+    "in_reply_to_user_id": "2037915149173182465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047963757100282269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luna_1111__ 我25天只是脸上油变少，胸部没变化，我都怀疑是不是剂量不够（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1167,
+        "media_key": "3_2047963744836128768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGvULOPWEAAOAWa.jpg",
+        "width": 1178
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2047963757100282269",
+        "created_at": "2026-04-25T10:29:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T11:29:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047986359701561401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2037915149173182465",
+              "start": 0,
+              "username": "luna_1111__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047986359701561401",
+        "in_reply_to_user_id": "2037915149173182465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047963757100282269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luna_1111__ 我25天只是脸上油变少，胸部没变化，我都怀疑是不是剂量不够（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047963744836128768"
+          ]
+        },
+        "author_id": "2037915149173182465",
+        "conversation_id": "2047963757100282269",
+        "created_at": "2026-04-25T08:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-25T09:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047963757100282269"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I7Ya7gpIV2",
+              "end": 107,
+              "expanded_url": "https://x.com/luna_1111__/status/2047963757100282269/photo/1",
+              "media_key": "3_2047963744836128768",
+              "start": 84,
+              "url": "https://t.co/I7Ya7gpIV2"
+            },
+            {
+              "display_url": "x.com/luna_1111__/st…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/luna_1111__/status/2045913376434364775",
+              "start": 108,
+              "url": "https://t.co/ZNRFljz0QH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047963757100282269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 140,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045913376434364775",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "HRT进度更新喵～\n\n最近脸上出油明显减少了喵 以前起床的时候脸上都会摸到有不少油 现在基本上都不会怎么摸到油份了喵\n\n但是皮肤目前还没有明显变好\n\n然後奈子还在疼🥺 https://t.co/I7Ya7gpIV2 https://t.co/ZNRFljz0QH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 78,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 150
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-28T15:31:11.000Z",
+        "description": "🏳️‍⚧️MtF | 07 | 💊HRT 26.03.20 | 无性恋 | 应该算是半个家长党？ | 重度社恐/社交障碍 | 150 40 | 繁/简/ENG | 坐标香港🇭🇰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/luna_1111__",
+                "end": 23,
+                "expanded_url": "https://ngl.link/luna_1111__",
+                "start": 0,
+                "url": "https://t.co/IjiV0z82kR"
+              }
+            ]
+          }
+        },
+        "id": "2037915149173182465",
+        "name": "Luna (焦虑ing)",
+        "pinned_tweet_id": "2045081365025083401",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040980903027933184/zF_8vvq7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 291,
+          "like_count": 2618,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 445
+        },
+        "url": "https://t.co/IjiV0z82kR",
+        "username": "luna_1111__",
+        "verified": false
+      }
+    ]
+  }
+}

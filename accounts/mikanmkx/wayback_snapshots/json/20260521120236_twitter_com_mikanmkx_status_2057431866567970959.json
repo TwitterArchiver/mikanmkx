@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2057425662613590439",
+    "created_at": "2026-05-21T12:02:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T13:02:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057431866567970959"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1761282483834998784",
+          "start": 0,
+          "username": "qiancongxyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057431866567970959",
+    "in_reply_to_user_id": "1761282483834998784",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057425662613590439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiancongxyn 我26了唉，看到别的xyn基本都比我小还是挺痛苦的，已经是上个世纪的老登了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2057425662613590439",
+        "created_at": "2026-05-21T12:02:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T13:02:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057431866567970959"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1761282483834998784",
+              "start": 0,
+              "username": "qiancongxyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057431866567970959",
+        "in_reply_to_user_id": "1761282483834998784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057425662613590439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiancongxyn 我26了唉，看到别的xyn基本都比我小还是挺痛苦的，已经是上个世纪的老登了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1761282483834998784",
+        "conversation_id": "2057425662613590439",
+        "created_at": "2026-05-21T11:37:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T12:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057425662613590439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cheesemori_awa…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/cheesemori_awa/status/2049763764535267696",
+              "start": 152,
+              "url": "https://t.co/lsHe0sVMk5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057425662613590439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 104,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049763764535267696",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网路上吃糖很多14岁、15岁的...而且活跃程度很高...比19岁、20岁活跃很多...\n\n就会产生一种「大家都是那么早，只有自己那么晚」的被孤立的感觉...\n\n我想或许大龄药娘（不过多晚才算大龄？）某种程度上被忽视和孤立化了，而且不断和别人年龄党对比自己的身体，不断责怪自己晚吃糖导致巨大的痛苦... https://t.co/lsHe0sVMk5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 195,
+          "like_count": 643,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 266
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-24T06:51:06.000Z",
+        "description": "mtf｜🍥hrt 26.2.21｜出厂 09.3.14｜无证含糖\n隐居两周归来～重新营业中!\n高二在读物化生｜班里倒数｜在考虑休学\n已炸柜呜🥺半家长党（？）\n爱哭➕发牢骚｜不可爱不pass😭｜好想被爱❤️\n看成分fo...会block讨厌的人🚫直男和性压抑退散\n姐姐@xiaoyimiaoaaa",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 147,
+                "start": 133,
+                "username": "xiaoyimiaoaaa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/water14008",
+                "end": 23,
+                "expanded_url": "http://ngl.link/water14008",
+                "start": 0,
+                "url": "https://t.co/e8l2h7lQ53"
+              }
+            ]
+          }
+        },
+        "id": "1761282483834998784",
+        "location": "土卫二",
+        "name": "浅葱🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049365274881835008/cuwwHfF0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 688,
+          "following_count": 649,
+          "like_count": 628,
+          "listed_count": 2,
+          "media_count": 44,
+          "tweet_count": 713
+        },
+        "url": "https://t.co/e8l2h7lQ53",
+        "username": "qiancongxyn",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2066793148463124730",
+    "created_at": "2026-06-16T08:26:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-16T09:26:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066799601538228510"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2011051704440274947",
+          "start": 0,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066799601538228510",
+    "in_reply_to_user_id": "2011051704440274947",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066793148463124730",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luminescence_0 还真是"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066793141269864448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK65aWGaoAAlwwW.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2066793148463124730",
+        "created_at": "2026-06-16T08:26:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:26:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066799601538228510"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2011051704440274947",
+              "start": 0,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066799601538228510",
+        "in_reply_to_user_id": "2011051704440274947",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066793148463124730",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luminescence_0 还真是"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066793141269864448"
+          ]
+        },
+        "author_id": "2011051704440274947",
+        "conversation_id": "2066793148463124730",
+        "created_at": "2026-06-16T08:01:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T09:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066793148463124730"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hBWCtN4l2R",
+              "end": 61,
+              "expanded_url": "https://x.com/luminescence_0/status/2066793148463124730/photo/1",
+              "media_key": "3_2066793141269864448",
+              "start": 38,
+              "url": "https://t.co/hBWCtN4l2R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066793148463124730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "武汉站真的太莫名其妙了 三条线都要出站换乘 而且没修通道 得从外面走 巨热 https://t.co/hBWCtN4l2R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 354,
+          "like_count": 1273,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 444
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "🟨⬜🟪⬛any pronoun // Private Message Welcomed\nBusiness Student, Interested in Faculty of Law\ndelighted to build meaningful friendships with you",
+        "id": "2011051704440274947",
+        "location": "Wuhan, Hubei",
+        "name": "Luminescence",
+        "pinned_tweet_id": "2043777325595275513",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066454103123951616/N-m19PTE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 184,
+          "like_count": 1148,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 88
+        },
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

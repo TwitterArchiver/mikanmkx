@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2059187189783855420",
+    "created_at": "2026-05-26T08:17:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T09:17:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059187189783855420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TrungTPhan/sta…",
+          "end": 42,
+          "expanded_url": "https://twitter.com/TrungTPhan/status/2059096510735044714",
+          "start": 19,
+          "url": "https://t.co/6gnJS8OPOD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059187189783855420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059096510735044714",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "法拉利怎么做到内饰这么好看外观依托的 https://t.co/6gnJS8OPOD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 994,
+        "media_key": "3_2059096498584035328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJNhWxxaIAA0oJY.jpg",
+        "width": 1832
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2059187189783855420",
+        "created_at": "2026-05-26T08:17:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T09:17:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059187189783855420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TrungTPhan/sta…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/TrungTPhan/status/2059096510735044714",
+              "start": 19,
+              "url": "https://t.co/6gnJS8OPOD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059187189783855420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059096510735044714",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "法拉利怎么做到内饰这么好看外观依托的 https://t.co/6gnJS8OPOD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059096498584035328"
+          ]
+        },
+        "author_id": "945817135816654848",
+        "conversation_id": "2059096510735044714",
+        "created_at": "2026-05-26T02:17:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:17:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059096510735044714"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/F0vRf03cwj",
+              "end": 47,
+              "expanded_url": "https://x.com/TrungTPhan/status/2059096510735044714/photo/1",
+              "media_key": "3_2059096498584035328",
+              "start": 24,
+              "url": "https://t.co/F0vRf03cwj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059096510735044714",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 164,
+          "impression_count": 112323,
+          "like_count": 2181,
+          "quote_count": 32,
+          "reply_count": 43,
+          "retweet_count": 251
+        },
+        "reply_settings": "everyone",
+        "text": "Ferrari Luce, explained https://t.co/F0vRf03cwj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 227,
+          "like_count": 771,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 310
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2017-12-27T00:42:32.000Z",
+        "description": "Write on business with @workweekinc. Building @bearlyai.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 23,
+                "username": "workweekinc"
+              },
+              {
+                "end": 55,
+                "start": 46,
+                "username": "bearlyai"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "readtrung.com",
+                "end": 23,
+                "expanded_url": "https://www.readtrung.com",
+                "start": 0,
+                "url": "https://t.co/QXcmEZDThE"
+              }
+            ]
+          }
+        },
+        "id": "945817135816654848",
+        "location": "My Saturday newsletter ➡️",
+        "name": "Trung Phan",
+        "pinned_tweet_id": "1997347627470405993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1506362585448296448/LJg8kVSD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725587,
+          "following_count": 4272,
+          "like_count": 206385,
+          "listed_count": 6126,
+          "media_count": 16609,
+          "tweet_count": 84608
+        },
+        "url": "https://t.co/QXcmEZDThE",
+        "username": "TrungTPhan",
+        "verified": true
+      }
+    ]
+  }
+}

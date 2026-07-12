@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2074050148716749148",
+    "created_at": "2026-07-06T08:37:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T09:37:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074050148716749148"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PriseTwinkle/s…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/PriseTwinkle/status/2073773787091436007",
+          "start": 21,
+          "url": "https://t.co/GsRPVcyLmi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074050148716749148",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073773787091436007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我没29但也算中登了，可能我不配吧😰 https://t.co/GsRPVcyLmi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 748,
+        "media_key": "3_2073773778707132416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMeGQ7BbsAAxpN7.jpg",
+        "width": 1240
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2074050148716749148",
+        "created_at": "2026-07-06T08:37:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T09:37:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074050148716749148"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PriseTwinkle/s…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/PriseTwinkle/status/2073773787091436007",
+              "start": 21,
+              "url": "https://t.co/GsRPVcyLmi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074050148716749148",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073773787091436007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我没29但也算中登了，可能我不配吧😰 https://t.co/GsRPVcyLmi"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2073773778707132416"
+          ]
+        },
+        "author_id": "359348018",
+        "conversation_id": "2073773787091436007",
+        "created_at": "2026-07-05T14:19:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T15:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073773787091436007"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yeuYbUh8B6",
+              "end": 27,
+              "expanded_url": "https://x.com/PriseTwinkle/status/2073773787091436007/photo/1",
+              "media_key": "3_2073773778707132416",
+              "start": 4,
+              "url": "https://t.co/yeuYbUh8B6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073773787091436007",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13855,
+          "like_count": 110,
+          "quote_count": 8,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😨😨😨 https://t.co/yeuYbUh8B6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 598,
+          "following_count": 511,
+          "like_count": 2282,
+          "listed_count": 2,
+          "media_count": 157,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-21T12:38:01.000Z",
+        "description": "|13岁 | 7年级 | 初二生| 泛性恋？跨圈最小? \n|无证小药娘 | 🍥2026.4.7\n|从小想做个女孩子 | 已炸柜 | 继续深柜ing\n|喜欢折腾电子设备\n|分享Hrt日常 | 💊&🔪\n|喜欢我的话点个关注吧🥺 求求你了~\n|@yg_xyn | https://t.co/yw95e9HjhX",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 119,
+                "username": "yg_xyn"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "NGL.Link/prisetwinkle",
+                "end": 152,
+                "expanded_url": "http://NGL.Link/prisetwinkle",
+                "start": 129,
+                "url": "https://t.co/yw95e9HjhX"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/PriseTwinkle",
+                "end": 23,
+                "expanded_url": "http://t.me/PriseTwinkle",
+                "start": 0,
+                "url": "https://t.co/THnXAeHEw0"
+              }
+            ]
+          }
+        },
+        "id": "359348018",
+        "location": "湖北潜江",
+        "name": "PriseTwinkle 芸光",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070669085810319360/3fR3-q7P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8579,
+          "following_count": 9,
+          "like_count": 204,
+          "listed_count": 159,
+          "media_count": 62,
+          "tweet_count": 1727
+        },
+        "url": "https://t.co/THnXAeHEw0",
+        "username": "PriseTwinkle",
+        "verified": true
+      }
+    ]
+  }
+}

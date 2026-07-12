@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2070763117173411911",
+    "created_at": "2026-06-27T07:14:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T08:14:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070767807911047357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027313596066369537",
+          "start": 0,
+          "username": "shigemeteor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070767807911047357",
+    "in_reply_to_user_id": "2027313596066369537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070763117173411911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigemeteor 小证吗，恭喜喵"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2070763104691175424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzUEoUaQAAGtiG.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2070763117173411911",
+        "created_at": "2026-06-27T07:14:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T08:14:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070767807911047357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027313596066369537",
+              "start": 0,
+              "username": "shigemeteor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070767807911047357",
+        "in_reply_to_user_id": "2027313596066369537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070763117173411911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigemeteor 小证吗，恭喜喵"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070763104691175424"
+          ]
+        },
+        "author_id": "2027313596066369537",
+        "conversation_id": "2070763117173411911",
+        "created_at": "2026-06-27T06:56:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:56:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070763117173411911"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/qB05OrqOzc",
+              "end": 139,
+              "expanded_url": "https://x.com/shigemeteor/status/2070763117173411911/photo/1",
+              "media_key": "3_2070763104691175424",
+              "start": 116,
+              "url": "https://t.co/qB05OrqOzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070763117173411911",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我勒个全自动炸柜王\n另外陆铮那边被打发的可以试试上海儿童医学中心（儿保），我当时一个陕西来的儿保医生（好象主要是内分泌，人很好）和一个台湾来的心理（同样人也很好）就给我开了诊断好象，也没写待诊（虽然那个团队里最厉害老奶奶不怎么友跨 https://t.co/qB05OrqOzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 421,
+          "like_count": 1653,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 540
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T09:23:51.000Z",
+        "description": "Cu₂S + O₂ = 2Child + SO₂↑\n2Al + Cu ≜ meteor\n人理之光暗淡之时，为了没有眼泪的明天~",
+        "id": "2027313596066369537",
+        "location": "shanghai",
+        "name": "meteor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027313721841000448/hhyXhg9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 20,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 97
+        },
+        "url": "",
+        "username": "shigemeteor",
+        "verified": false
+      }
+    ]
+  }
+}

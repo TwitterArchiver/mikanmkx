@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074501104696692736"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2074501107494371379",
+    "created_at": "2026-07-07T14:29:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T15:29:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074501107494371379"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/31T1eJqbsy",
+          "end": 40,
+          "expanded_url": "https://x.com/mikanmkx/status/2074501107494371379/photo/1",
+          "media_key": "3_2074501104696692736",
+          "start": 17,
+          "url": "https://t.co/31T1eJqbsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074501107494371379",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ana你给我出这种票真是nm神了 https://t.co/31T1eJqbsy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1679,
+        "media_key": "3_2074501104696692736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMobw3eaEAALeWk.jpg",
+        "width": 1387
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074501104696692736"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2074501107494371379",
+        "created_at": "2026-07-07T14:29:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T15:29:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074501107494371379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/31T1eJqbsy",
+              "end": 40,
+              "expanded_url": "https://x.com/mikanmkx/status/2074501107494371379/photo/1",
+              "media_key": "3_2074501104696692736",
+              "start": 17,
+              "url": "https://t.co/31T1eJqbsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074501107494371379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ana你给我出这种票真是nm神了 https://t.co/31T1eJqbsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 524,
+          "like_count": 2358,
+          "listed_count": 2,
+          "media_count": 161,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

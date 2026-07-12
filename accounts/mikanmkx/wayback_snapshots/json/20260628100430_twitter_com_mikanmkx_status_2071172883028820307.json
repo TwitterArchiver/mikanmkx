@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1364594897458663425",
+          "name": "Sauna"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1364594897458663425",
+          "name": "Sauna"
+        }
+      }
+    ],
+    "conversation_id": "2071172883028820307",
+    "created_at": "2026-06-28T10:04:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T11:04:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071172883028820307"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1373899939",
+          "start": 3,
+          "username": "chemicwald"
+        }
+      ],
+      "urls": [
+        {
+          "description": "熊本市内のサウナで42歳の男性の乳首を触った疑いで熊本市東区の無職の82歳の男が不同意わいせつの疑いで逮捕されました。警察によりますと男は7日午後2時10分頃、熊本市内の温泉施設のサウナを利用していた男性に対し、左の乳首を触るわいせつな行為をした疑いです。",
+          "display_url": "news.ntv.co.jp/n/kkt/category…",
+          "end": 92,
+          "expanded_url": "https://news.ntv.co.jp/n/kkt/category/society/kk96914e3c478c444898c201fe7316a126",
+          "images": [
+            {
+              "height": 675,
+              "url": "https://pbs.twimg.com/news_img/2071032145783726080/Drd1zmCF?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2071032145783726080/Drd1zmCF?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 69,
+          "status": 200,
+          "title": "82歳男｢目の前にあったので…｣2人きりのサウナで男性の乳首を触った疑いで逮捕（2024年2月7日掲載）｜KKT NEWS NNN",
+          "unwound_url": "https://news.ntv.co.jp/n/kkt/category/society/kk96914e3c478c444898c201fe7316a126",
+          "url": "https://t.co/i8DM8WigfZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071172883028820307",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2425
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071032080503550346",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @chemicwald: 82歳男｢目の前にあったので…｣2人きりのサウナで男性の乳首を触った疑いで逮捕｜KKT NEWS NNN https://t.co/i8DM8WigfZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          }
+        ],
+        "conversation_id": "2071172883028820307",
+        "created_at": "2026-06-28T10:04:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T11:04:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071172883028820307"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1373899939",
+              "start": 3,
+              "username": "chemicwald"
+            }
+          ],
+          "urls": [
+            {
+              "description": "熊本市内のサウナで42歳の男性の乳首を触った疑いで熊本市東区の無職の82歳の男が不同意わいせつの疑いで逮捕されました。警察によりますと男は7日午後2時10分頃、熊本市内の温泉施設のサウナを利用していた男性に対し、左の乳首を触るわいせつな行為をした疑いです。",
+              "display_url": "news.ntv.co.jp/n/kkt/category…",
+              "end": 92,
+              "expanded_url": "https://news.ntv.co.jp/n/kkt/category/society/kk96914e3c478c444898c201fe7316a126",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2071032145783726080/Drd1zmCF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071032145783726080/Drd1zmCF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 69,
+              "status": 200,
+              "title": "82歳男｢目の前にあったので…｣2人きりのサウナで男性の乳首を触った疑いで逮捕（2024年2月7日掲載）｜KKT NEWS NNN",
+              "unwound_url": "https://news.ntv.co.jp/n/kkt/category/society/kk96914e3c478c444898c201fe7316a126",
+              "url": "https://t.co/i8DM8WigfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071172883028820307",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2425
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071032080503550346",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @chemicwald: 82歳男｢目の前にあったので…｣2人きりのサウナで男性の乳首を触った疑いで逮捕｜KKT NEWS NNN https://t.co/i8DM8WigfZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1373899939",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1364594897458663425",
+              "name": "Sauna"
+            }
+          }
+        ],
+        "conversation_id": "2071032080503550346",
+        "created_at": "2026-06-28T00:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T01:45:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071032080503550346"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "熊本市内のサウナで42歳の男性の乳首を触った疑いで熊本市東区の無職の82歳の男が不同意わいせつの疑いで逮捕されました。警察によりますと男は7日午後2時10分頃、熊本市内の温泉施設のサウナを利用していた男性に対し、左の乳首を触るわいせつな行為をした疑いです。",
+              "display_url": "news.ntv.co.jp/n/kkt/category…",
+              "end": 76,
+              "expanded_url": "https://news.ntv.co.jp/n/kkt/category/society/kk96914e3c478c444898c201fe7316a126",
+              "images": [
+                {
+                  "height": 675,
+                  "url": "https://pbs.twimg.com/news_img/2071032145783726080/Drd1zmCF?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2071032145783726080/Drd1zmCF?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "82歳男｢目の前にあったので…｣2人きりのサウナで男性の乳首を触った疑いで逮捕（2024年2月7日掲載）｜KKT NEWS NNN",
+              "unwound_url": "https://news.ntv.co.jp/n/kkt/category/society/kk96914e3c478c444898c201fe7316a126",
+              "url": "https://t.co/i8DM8WigfZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071032080503550346",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 911,
+          "impression_count": 1256835,
+          "like_count": 9235,
+          "quote_count": 653,
+          "reply_count": 167,
+          "retweet_count": 2428
+        },
+        "reply_settings": "everyone",
+        "text": "82歳男｢目の前にあったので…｣2人きりのサウナで男性の乳首を触った疑いで逮捕｜KKT NEWS NNN https://t.co/i8DM8WigfZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 428,
+          "like_count": 1745,
+          "listed_count": 2,
+          "media_count": 134,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-23T05:32:27.000Z",
+        "description": "夢を初めて願って今日までどのくらい経っただろう。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/chemicwald",
+                "end": 23,
+                "expanded_url": "https://note.com/chemicwald",
+                "start": 0,
+                "url": "https://t.co/955mVvgH0D"
+              }
+            ]
+          }
+        },
+        "id": "1373899939",
+        "location": " アイコン→ @mtrkm__39s",
+        "name": "ださ森⌬",
+        "pinned_tweet_id": "1546083495096643592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1265537279386320897/cr3fOxhY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1475,
+          "following_count": 1491,
+          "like_count": 100727,
+          "listed_count": 29,
+          "media_count": 18910,
+          "tweet_count": 190815
+        },
+        "url": "https://t.co/955mVvgH0D",
+        "username": "chemicwald",
+        "verified": false
+      }
+    ]
+  }
+}

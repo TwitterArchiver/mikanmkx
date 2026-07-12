@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2067886075708895314",
+    "created_at": "2026-06-19T10:58:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-19T11:58:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067924964708372836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        },
+        {
+          "end": 23,
+          "id": "1745412388629680128",
+          "start": 12,
+          "username": "LiHua1215z"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067924964708372836",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067921255098179716",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue @LiHua1215z 一眼chaser的还是离远点吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2067886075708895314",
+        "created_at": "2026-06-19T10:58:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:58:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067924964708372836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            },
+            {
+              "end": 23,
+              "id": "1745412388629680128",
+              "start": 12,
+              "username": "LiHua1215z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067924964708372836",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067921255098179716",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue @LiHua1215z 一眼chaser的还是离远点吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838866598427549696",
+        "conversation_id": "2067886075708895314",
+        "created_at": "2026-06-19T10:43:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-19T11:43:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067921255098179716"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1745412388629680128",
+              "start": 0,
+              "username": "LiHua1215z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067921255098179716",
+        "in_reply_to_user_id": "1745412388629680128",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067919897406103929",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiHua1215z 我给他讲我目前hrt半年，后续有srs的打算。他给我回一句具体讲讲。我真没招了，这还怎么具体。他给我说不了解什么跨性别但就是喜欢这种。给我聊的都流汗了😅"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 429,
+          "following_count": 365,
+          "like_count": 1354,
+          "listed_count": 1,
+          "media_count": 121,
+          "tweet_count": 467
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "🍬2025.10吃糖🍬\n🍥2026.5开启hrt🍥\n🌈持证含糖MtF🌈\n🎂97年大龄跨🎂\n✨愿自己早日变成女生✨\n❤希望有男人真心的爱我陪伴我❤",
+        "id": "1838866598427549696",
+        "name": "云梦玥Yuzuki🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 610,
+          "following_count": 288,
+          "like_count": 1816,
+          "listed_count": 8,
+          "media_count": 23,
+          "tweet_count": 1183
+        },
+        "url": "",
+        "username": "Yunmengyue",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T11:48:53.000Z",
+        "description": "这是个简介！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lihua1215",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lihua1215",
+                "start": 0,
+                "url": "https://t.co/ykAHrcG1RD"
+              }
+            ]
+          }
+        },
+        "id": "1745412388629680128",
+        "location": "猫猫星球！",
+        "name": "立華丷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036008666839879680/5RsJ5RfU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 569,
+          "like_count": 3752,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 245
+        },
+        "url": "https://t.co/ykAHrcG1RD",
+        "username": "LiHua1215z",
+        "verified": false
+      }
+    ]
+  }
+}

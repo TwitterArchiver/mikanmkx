@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041302998",
+          "name": "ラブライブ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2041041776585400498",
+    "created_at": "2026-04-06T06:34:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T07:34:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041041776585400498"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hasunosora_SIC…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/hasunosora_SIC/status/2041033161925419158",
+          "start": 11,
+          "url": "https://t.co/BgmzcDCKKc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041041776585400498",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041033161925419158",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "谁清明扫墓把莲扫没了 https://t.co/BgmzcDCKKc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2041027450961014784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFMvpx9aMAAmAV8.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2041041776585400498",
+        "created_at": "2026-04-06T06:34:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:34:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041041776585400498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hasunosora_SIC…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/hasunosora_SIC/status/2041033161925419158",
+              "start": 11,
+              "url": "https://t.co/BgmzcDCKKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041041776585400498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041033161925419158",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "谁清明扫墓把莲扫没了 https://t.co/BgmzcDCKKc"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041027450961014784"
+          ]
+        },
+        "author_id": "1577175119151390720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2041033161925419158",
+        "created_at": "2026-04-06T06:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T07:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041033161925419158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iszlGXP0XW",
+              "end": 146,
+              "expanded_url": "https://x.com/hasunosora_SIC/status/2041033161925419158/photo/1",
+              "media_key": "3_2041027450961014784",
+              "start": 123,
+              "url": "https://t.co/iszlGXP0XW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041033161925419158",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 2260,
+                "start": 2255,
+                "tag": "リンクラ"
+              }
+            ]
+          },
+          "text": "『Link！Like！ラブライブ！』\n　サービス終了のお知らせ\n\nいつも『Link！Like！ラブライブ！』をお楽しみいただき、誠にありがとうございます。\n\nプロジェクトを支えてくださるすべてのユーザーのみなさまへ、大切なお知らせがございます。\n\nこの度、『Link！Like！ラブライブ！』は、2026年6月30日(火) 12:00をもちまして、サービスを終了させていただくこととなりました。\n\n■サービス終了までのスケジュール\n\n2026年4月6日(月) 15:00\n・有料アイテム（SIsCa等）の販売停止\n（アプリ内、公式Webストア「アプリペイ」）\n・「メンバーシップ」の新規登録受付の終了\n\n2026年6月30日(火) 12:00（予定）\n・サービス終了\n・未使用の「有償SIsCa」の払戻し受付開始\n\n2026年9月30日(水) 12:00（予定）\n・未使用の「有償SIsCa」の払戻し受付終了\n\n■サービス終了までのコンテンツ展開について\n\n現在、開発・運営チーム内で、本日以降、サービス終了までに提供可能なコンテンツについて、精査と確認を急ぎ進めております。今後更新を予定していた制作途中のコンテンツについても、リリース可能な状態にまで調整できるものに関して、可能な限りみなさまの元へお届けしたいと考えております。\n\n現時点で決定している事項について、以下の通りご報告いたします。\n\n「With×STATION」について、本日2026年4月6日(月) 20:30から順次公開いたします。現状、公開を予定している本数は解説動画を除いた全4本となり、先日公開いたしました予定表からは変更を予定しています。\n\n2026年4月12日(日)に予定しておりました「リンクラ生放送」は中止とさせていただきます。\n\n予定しておりました、Link！Like！ラブライブ！での「Bloom Garden Party Stage／埼玉Day.2公演」の最速先行抽選は実施せず中止とさせていただきます。\n\nそのほか、具体的な配信スケジュールやアップデート内容につきましては、準備が整い次第、順次お知らせいたします。\n\n■未使用の「有償SIsCa」の払い戻しについて\n\nサービス終了に伴いまして、アプリ専用通貨「有償SIsCa」を未使用のまま保有するお客様に対しては、サービス終了後に資金決済に関する法律第20条第1項に基づく払い戻しをいたします。なお、払い戻しの対象となるのはサービス終了時点で保有されている「有償SIsCa」のみとなりますので、ご了承ください。\n\n払戻し手続きの詳細は、後日アプリ内のお知らせにてご案内させていただきます。払戻し手続きにはお客様の本人確認のため「LinkLikeID」と「有償SIsCa残高」の確認が必要となりますので、サービス終了までに情報の保存をお願いいたします。\n\n＜ユーザーIDの確認方法＞\n・「LinkLikeID」はプロフィール画面に表示されている9桁の半角英数字です。\n・「有償SIsCa残高」はショップ画面のSIsCaチャージからご確認可能です\n\nまた、払戻し手続きの際には、お客様のデータ確認を行う必要があるため、払戻し手続きが完了するまでアプリのアンインストールや機種変更に伴うアプリの再インストールはお控えください。アプリ内メニューの「ユーザー削除」からユーザーデータを削除している場合は、お客様の本人確認が困難になるため、払い戻しの対象外となります。\n\n■メンバーシップをご利用中のお客様へ\n\n定期購読（サブスクリプション）サービスの「メンバーシップ」の新規登録受付は2026年4月6日(月) 15:00に終了いたします。\n\nご利用中のお客様は、誠にお手数ではありますが、サービス終了前にお客様ご自身で解約のお手続きをお願いいたします。アプリをアンインストールしただけでは解約されませんので、十分ご注意ください。\nなお、解約後も有効期間最終日、もしくはサービス終了日まではメンバーシップの一部特典はご利用をいただくことができます。\n\n「メンバーシップ」をサービス終了までに解約されなかった場合、サービス終了後に継続して課金が行われる可能性がございます。もしサービス終了後に課金が発生した場合は、Apple または Google Play にお問い合わせの上、返金手続きをご確認ください。弊社では定期購読の直接返金には応じかねますので、お早めのお手続きをお願い申し上げます。\n\n＜iOS版アプリの解約手順 (App Store)＞\n\n・「設定」アプリを起動します\n・一番上に表示されている「ご自身のApple ID名」をタップします\n・「サブスクリプション」のメニューを選択します\n・サブスクリプション一覧から『Link！Like！ラブライブ！』の商品を選択します\n・表示された画面で確認画面の指示に従って解約手続きを完了してください\n\n＜Android版アプリの解約手順 (Google Play)＞\n\n・「Google Play ストア」アプリを起動します\n・画面右上の「プロフィールアイコン」をタップします。\n・メニューから「お支払いと定期購入」を選択して「定期購入」の一覧画面を開きます\n・定期購入リストから『Link！Like！ラブライブ！』の商品を選択します\n・表示された画面で画面の指示に従って解約を完了してください\n\n株式会社オッドナンバー\n\n#リンクラ"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 621,
+          "impression_count": 478051,
+          "like_count": 4304,
+          "quote_count": 1860,
+          "reply_count": 92,
+          "retweet_count": 5290
+        },
+        "reply_settings": "everyone",
+        "text": "『Link！Like！ラブライブ！』\n　サービス終了のお知らせ\n\nいつも『Link！Like！ラブライブ！』をお楽しみいただき、誠にありがとうございます。\n\nプロジェクトを支えてくださるすべてのユーザーのみなさまへ、大切なお知らせがございます。 https://t.co/iszlGXP0XW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 4
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-04T05:54:52.000Z",
+        "description": "#lovelive バーチャルスクールアイドル『蓮ノ空女学院スクールアイドルクラブ』『Link！Like！ラブライブ！』公式です！\n\n🪷アプリ：https://t.co/odwFQYfupx\n🪷YouTube：https://t.co/ppngJ67sKG\n🪷Webストア：https://t.co/v83iwlxmJk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "lovelive"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/LLLLapp",
+                "end": 95,
+                "expanded_url": "https://bit.ly/LLLLapp",
+                "start": 72,
+                "url": "https://t.co/odwFQYfupx"
+              },
+              {
+                "display_url": "bit.ly/hasuYT",
+                "end": 128,
+                "expanded_url": "https://bit.ly/hasuYT",
+                "start": 105,
+                "url": "https://t.co/ppngJ67sKG"
+              },
+              {
+                "display_url": "bit.ly/hasuweb",
+                "end": 160,
+                "expanded_url": "https://bit.ly/hasuweb",
+                "start": 137,
+                "url": "https://t.co/v83iwlxmJk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/hasunosora/",
+                "end": 23,
+                "expanded_url": "https://www.lovelive-anime.jp/hasunosora/",
+                "start": 0,
+                "url": "https://t.co/dnj4Yaqa7f"
+              }
+            ]
+          }
+        },
+        "id": "1577175119151390720",
+        "location": " 石川県金沢市",
+        "name": "ラブライブ！蓮ノ空女学院スクールアイドルクラブ（Link！Like！ラブライブ！）",
+        "pinned_tweet_id": "2038909893462413737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1581612389681680385/cW-pDN_b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 210280,
+          "following_count": 17,
+          "like_count": 2939,
+          "listed_count": 2102,
+          "media_count": 8917,
+          "tweet_count": 12497
+        },
+        "url": "https://t.co/dnj4Yaqa7f",
+        "username": "hasunosora_SIC",
+        "verified": true
+      }
+    ]
+  }
+}

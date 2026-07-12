@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2069424275875082699",
+    "created_at": "2026-06-24T05:22:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T06:22:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069652437930328372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1813261726391148546",
+          "start": 0,
+          "username": "James483582762"
+        },
+        {
+          "end": 23,
+          "id": "2038849475368599552",
+          "start": 16,
+          "username": "z0uy1n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069652437930328372",
+    "in_reply_to_user_id": "1813261726391148546",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069624044823921139",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@James483582762 @z0uy1n 我写的安卓软件，可以看我置顶喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2069424275875082699",
+        "created_at": "2026-06-24T05:22:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T06:22:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069652437930328372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1813261726391148546",
+              "start": 0,
+              "username": "James483582762"
+            },
+            {
+              "end": 23,
+              "id": "2038849475368599552",
+              "start": 16,
+              "username": "z0uy1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069652437930328372",
+        "in_reply_to_user_id": "1813261726391148546",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069624044823921139",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@James483582762 @z0uy1n 我写的安卓软件，可以看我置顶喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1813261726391148546",
+        "conversation_id": "2069424275875082699",
+        "created_at": "2026-06-24T03:29:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T04:29:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069624044823921139"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            },
+            {
+              "end": 17,
+              "id": "2038849475368599552",
+              "start": 10,
+              "username": "z0uy1n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069624044823921139",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069452587343175979",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx @z0uy1n 那是什么呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 397,
+          "like_count": 1511,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 508
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-07-16T17:18:11.000Z",
+        "description": "xyn，深柜，大学在读，计算机爱好者，激进自由主义者。欢迎同类互fo。自由，独立，进步",
+        "id": "1813261726391148546",
+        "name": "CuteOmega🏳️‍⚧️🏳️‍🌈🇹🇼🍥",
+        "pinned_tweet_id": "2069426260850167864",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057526672438751232/SUqk_-gn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 569,
+          "like_count": 9646,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 864
+        },
+        "url": "",
+        "username": "James483582762",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-31T05:23:07.000Z",
+        "description": "主号@K0NS10\nＨ号@K0NSTOO\n\n”私は食通を自称しており。”\n\nフォロバも相互リンクも大歓迎\n欢迎互fo和友情链接\nOSSとアジア文化好きな日本の跨女学生\n一个热爱开源软件、亚洲文化的日本跨女学生\nオエストロジェル2026/06/08~\n雌雌二醇凝胶HRT2026/06/08~\n语言：日/美",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 2,
+                "username": "K0NS10"
+              },
+              {
+                "end": 20,
+                "start": 12,
+                "username": "K0NSTOO"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ZYN.F5.SI",
+                "end": 23,
+                "expanded_url": "http://ZYN.F5.SI",
+                "start": 0,
+                "url": "https://t.co/mtdGWuQ91R"
+              }
+            ]
+          }
+        },
+        "id": "2038849475368599552",
+        "location": "Oyama city, Tochigi pref",
+        "name": "奏音 No.40 ☭ @z0uy1n 🏳️‍⚧️",
+        "pinned_tweet_id": "2069627902715658385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067790064139341824/NJsLeudw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 296,
+          "like_count": 6887,
+          "listed_count": 0,
+          "media_count": 218,
+          "tweet_count": 2148
+        },
+        "url": "https://t.co/mtdGWuQ91R",
+        "username": "z0uy1n",
+        "verified": false
+      }
+    ]
+  }
+}

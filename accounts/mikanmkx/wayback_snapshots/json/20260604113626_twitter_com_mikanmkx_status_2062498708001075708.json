@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2062496793074782280",
+    "created_at": "2026-06-04T11:36:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T12:36:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062498708001075708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1918274202580467713",
+          "start": 0,
+          "username": "CyberKanjousen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062498708001075708",
+    "in_reply_to_user_id": "1918274202580467713",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062496793074782280",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@CyberKanjousen 我一直觉得能看明白ai对代码的解释是vibe coding的底线，甚至都不要求直接看懂代码，不然最后出来的只能是屎山"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_2062496785826975744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ915i2aEAAaUdq.jpg",
+        "width": 928
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2062496793074782280",
+        "created_at": "2026-06-04T11:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062498708001075708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1918274202580467713",
+              "start": 0,
+              "username": "CyberKanjousen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062498708001075708",
+        "in_reply_to_user_id": "1918274202580467713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062496793074782280",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@CyberKanjousen 我一直觉得能看明白ai对代码的解释是vibe coding的底线，甚至都不要求直接看懂代码，不然最后出来的只能是屎山"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062496785826975744"
+          ]
+        },
+        "author_id": "1918274202580467713",
+        "conversation_id": "2062496793074782280",
+        "created_at": "2026-06-04T11:28:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T12:28:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062496793074782280"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V2p50GHZsd",
+              "end": 180,
+              "expanded_url": "https://x.com/CyberKanjousen/status/2062496793074782280/photo/1",
+              "media_key": "3_2062496785826975744",
+              "start": 157,
+              "url": "https://t.co/V2p50GHZsd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062496793074782280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "「文科生 Vibe Coding 比理科生更有优势！」\n这种话能说出来就已经证明其智商不足環状線的一半了。\n\n因为计算机专业属于工科，而非理科。\n\n退一万步讲，就算「文科生 Vibe Coding 比工科生更有优势」也是不正确的。文科生真的比工科生更擅长写提示词吗？文科生对专业词汇的理解比工科生更强吗？\n\n文科 生或许比理工科生更擅长表达，但是对理工科专业的理解肯定是赶不上理工科生的，说「文科生 Vibe Coding 更有优势的」不是割韭菜就是人云亦云盲目跟风。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 87,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "「文科生 Vibe Coding 比理科生更有优势！」\n这种话能说出来就已经证明其智商不足環状線的一半了。\n\n因为计算机专业属于工科，而非理科。\n\n退一万步讲，就算「文科生 Vibe Coding 比工科生更有优势」也是不正确的。文科生真的比工科生更擅长写提示词吗？文科生对专业词汇的理解比工科生更强吗？\n\n文科 https://t.co/V2p50GHZsd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 305,
+          "like_count": 1035,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 382
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 正在由 @yameta_www 保管中\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "yameta_www"
+              },
+              {
+                "end": 92,
+                "start": 77,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 120,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 97,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2062202655741767826",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4818,
+          "following_count": 869,
+          "like_count": 24271,
+          "listed_count": 10,
+          "media_count": 1308,
+          "tweet_count": 7311
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      }
+    ]
+  }
+}

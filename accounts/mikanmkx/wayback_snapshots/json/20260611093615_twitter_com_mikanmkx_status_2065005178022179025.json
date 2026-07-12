@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2065000286490677502",
+    "created_at": "2026-06-11T09:36:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T10:36:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065005178022179025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065005178022179025",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065000286490677502",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona 原来是架空，想了半天这是哪条线（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2064999971833925633",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhaiJZaUAEskdw.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2064999975088693248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhaiVhaIAAgAfa.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2065000097071632384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKhapb8aEAALK1L.jpg",
+        "width": 1920
+      },
+      {
+        "height": 900,
+        "media_key": "3_2065000128839393281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKharSSboAEGzWa.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2065000286490677502",
+        "created_at": "2026-06-11T09:36:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:36:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065005178022179025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065005178022179025",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065000286490677502",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona 原来是架空，想了半天这是哪条线（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064999971833925633",
+            "3_2064999975088693248",
+            "3_2065000097071632384",
+            "3_2065000128839393281"
+          ]
+        },
+        "author_id": "1486893272622505984",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299113760322273280",
+              "name": "Printmaking"
+            }
+          }
+        ],
+        "conversation_id": "2065000286490677502",
+        "created_at": "2026-06-11T09:16:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T10:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065000286490677502"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 47,
+              "start": 34,
+              "tag": "RUNNINGTRAIN"
+            },
+            {
+              "end": 53,
+              "start": 48,
+              "tag": "走ル列车"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sNx1pswFoN",
+              "end": 77,
+              "expanded_url": "https://x.com/Kuriyona/status/2065000286490677502/photo/1",
+              "media_key": "3_2064999971833925633",
+              "start": 54,
+              "url": "https://t.co/sNx1pswFoN"
+            },
+            {
+              "display_url": "pic.x.com/sNx1pswFoN",
+              "end": 77,
+              "expanded_url": "https://x.com/Kuriyona/status/2065000286490677502/photo/1",
+              "media_key": "3_2064999975088693248",
+              "start": 54,
+              "url": "https://t.co/sNx1pswFoN"
+            },
+            {
+              "display_url": "pic.x.com/sNx1pswFoN",
+              "end": 77,
+              "expanded_url": "https://x.com/Kuriyona/status/2065000286490677502/photo/1",
+              "media_key": "3_2065000097071632384",
+              "start": 54,
+              "url": "https://t.co/sNx1pswFoN"
+            },
+            {
+              "display_url": "pic.x.com/sNx1pswFoN",
+              "end": 77,
+              "expanded_url": "https://x.com/Kuriyona/status/2065000286490677502/photo/1",
+              "media_key": "3_2065000128839393281",
+              "start": 54,
+              "url": "https://t.co/sNx1pswFoN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065000286490677502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这游戏的初版画质和内容丰富程度让我很难想象它只有 2.4 GiB\n\n#RUNNINGTRAIN #走ル列车 https://t.co/sNx1pswFoN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2063503271701225759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 324,
+          "like_count": 1165,
+          "listed_count": 1,
+          "media_count": 102,
+          "tweet_count": 411
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "17yo(08.6.28) | 称呼我为「未晞」吧 | 杭州高中女孩子 | 无证含糖 日雌26.1.17 | 兴趣使然的开发者 前端为主 | 亚二次元 | https://t.co/JWMV33I7TV",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/kuriyona",
+                "end": 101,
+                "expanded_url": "http://github.com/kuriyona",
+                "start": 78,
+                "url": "https://t.co/JWMV33I7TV"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAWAz"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "location": "杭州 Hangzhou",
+        "name": "Kuriyona 🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059972450532859904/rdg28yZw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253,
+          "following_count": 163,
+          "like_count": 658,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 135
+        },
+        "url": "https://t.co/PIToyCAWAz",
+        "username": "Kuriyona",
+        "verified": true
+      }
+    ]
+  }
+}

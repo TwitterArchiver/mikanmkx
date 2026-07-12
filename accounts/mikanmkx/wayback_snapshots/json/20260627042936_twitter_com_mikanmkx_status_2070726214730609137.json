@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2070499116673831421",
+    "created_at": "2026-06-27T04:29:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T05:29:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070726214730609137"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907071235777081344",
+          "start": 0,
+          "username": "Lyx1877174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070726214730609137",
+    "in_reply_to_user_id": "1907071235777081344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070701449017995683",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyx1877174 已经设计好了，下版本"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2070499116673831421",
+        "created_at": "2026-06-27T04:29:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T05:29:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070726214730609137"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1907071235777081344",
+              "start": 0,
+              "username": "Lyx1877174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070726214730609137",
+        "in_reply_to_user_id": "1907071235777081344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070701449017995683",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyx1877174 已经设计好了，下版本"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907071235777081344",
+        "conversation_id": "2070499116673831421",
+        "created_at": "2026-06-27T02:51:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T03:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070701449017995683"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070701449017995683",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070499116673831421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 话说什么时候可以更新模型校准的功能呀~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 418,
+          "like_count": 1640,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 537
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T14:03:19.000Z",
+        "description": "MtF! 🏳️‍⚧️ | 生产日期 01.31.2012 | 无证🍥 2025.10.2 | INTJ | 179 | Pan | 上海 | 一点点计算机? | 精神疾病有我也不知道) | 三好学生 - 不抽烟 不喝酒 不od | 还活着 | 我的家长最好不在这里盯着我  | 同类互fo | 背景图片侵权了吗?",
+        "id": "1907071235777081344",
+        "location": "New Jersey, USA",
+        "name": "theObviousNewBirth🍥🏳️‍🌈🏳️‍⚧️🇺🇦🇹🇼🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013233402472787968/tZB0bFhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 128,
+          "following_count": 433,
+          "like_count": 2779,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 216
+        },
+        "url": "",
+        "username": "Lyx1877174",
+        "verified": false
+      }
+    ]
+  }
+}

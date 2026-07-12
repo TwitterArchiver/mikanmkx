@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2073678161599197321",
+    "created_at": "2026-07-05T07:59:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T08:59:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073678161599197321"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1488080791125237760",
+          "start": 3,
+          "username": "MengXi969"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073678161599197321",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 10
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073581647904256002",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MengXi969: 【友情帮转】\n大家好！\n为了更好地打造为跨性别群体设计的语音训练软件Pitchee，我们正在进行一项跨性别声学研究项目——旨在探究：\n- 不同语音在“女性化程度”上的主观感知差异\n- 音高、共鸣、气声等声学特征如何影响听觉判断\n- 人类在语音对比（…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2073678161599197321",
+        "created_at": "2026-07-05T07:59:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T08:59:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073678161599197321"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1488080791125237760",
+              "start": 3,
+              "username": "MengXi969"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073678161599197321",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 10
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073581647904256002",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MengXi969: 【友情帮转】\n大家好！\n为了更好地打造为跨性别群体设计的语音训练软件Pitchee，我们正在进行一项跨性别声学研究项目——旨在探究：\n- 不同语音在“女性化程度”上的主观感知差异\n- 音高、共鸣、气声等声学特征如何影响听觉判断\n- 人类在语音对比（…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1488080791125237760",
+        "conversation_id": "2073581647904256002",
+        "created_at": "2026-07-05T01:36:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T02:36:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073581647904256002"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2073581647904256002",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "arxiv.org/abs/2404.15176",
+                "end": 170,
+                "expanded_url": "http://arxiv.org/abs/2404.15176",
+                "start": 147,
+                "url": "https://t.co/aXihEK3qg3"
+              },
+              {
+                "display_url": "dannyfeng.top:5000",
+                "end": 291,
+                "expanded_url": "http://dannyfeng.top:5000",
+                "start": 268,
+                "url": "https://t.co/EyT1BTHKpH"
+              }
+            ]
+          },
+          "text": "【友情帮转】\n大家好！\n为了更好地打造为跨性别群体设计的语音训练软件Pitchee，我们正在进行一项跨性别声学研究项目——旨在探究：\n- 不同语音在“女性化程度”上的主观感知差异\n- 音高、共鸣、气声等声学特征如何影响听觉判断\n- 人类在语音对比（A/B）任务中的选择规律与反应模式\n研究方式与https://t.co/aXihEK3qg3基本相同。\n\n我们希望为跨性别群体出一份力，并希望前行的路上有您！\n本研究是由个人(Lvy Zhan, Ryo Feng)组织的，且出于公益目的，您可以匿名参与，且我们将保密您的个人信息。\n链接：https://t.co/EyT1BTHKpH"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 14,
+          "impression_count": 1225,
+          "like_count": 42,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "【友情帮转】\n大家好！\n为了更好地打造为跨性别群体设计的语音训练软件Pitchee，我们正在进行一项跨性别声学研究项目——旨在探究：\n- 不同语音在“女性化程度”上的主观感知差异\n- 音高、共鸣、气声等声学特征如何影响听觉判断\n- 人类在语音对比（A/B）任务中的选择规律与反应模式"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 507,
+          "like_count": 2198,
+          "listed_count": 2,
+          "media_count": 153,
+          "tweet_count": 648
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-01-31T09:25:09.000Z",
+        "description": "15 y.r. / Full-Stack / CTFer / Student / @ch3rryzhu\n\n👀 Work for @nexaorion @_entropyhq",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 41,
+                "username": "ch3rryzhu"
+              },
+              {
+                "end": 74,
+                "start": 64,
+                "username": "nexaorion"
+              },
+              {
+                "end": 86,
+                "start": 75,
+                "username": "_entropyhq"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mengxiblog.top",
+                "end": 23,
+                "expanded_url": "http://www.mengxiblog.top",
+                "start": 0,
+                "url": "https://t.co/TIHBlJvNBL"
+              }
+            ]
+          }
+        },
+        "id": "1488080791125237760",
+        "location": "People's Republic of China",
+        "name": "梦溪MengXi",
+        "pinned_tweet_id": "1971529195089166440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1972886853398462464/5fIOa1dx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 3206,
+          "like_count": 95429,
+          "listed_count": 6,
+          "media_count": 1234,
+          "tweet_count": 6980
+        },
+        "url": "https://t.co/TIHBlJvNBL",
+        "username": "MengXi969",
+        "verified": true
+      }
+    ]
+  }
+}

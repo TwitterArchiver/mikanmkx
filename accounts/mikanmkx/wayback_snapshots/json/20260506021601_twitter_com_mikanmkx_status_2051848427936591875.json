@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2051848427936591875",
+    "created_at": "2026-05-06T02:16:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T03:16:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051848427936591875"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Sakura_RinSaki…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2051726253376655724",
+          "start": 13,
+          "url": "https://t.co/yslMTsQg0w"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "94f57f784f2fec2c"
+    },
+    "id": "2051848427936591875",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051726253376655724",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "ohno求求你不要再说了 https://t.co/yslMTsQg0w"
+  },
+  "includes": {
+    "places": [
+      {
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Sendai-shi Miyagino, Miyagi",
+        "geo": {
+          "bbox": [
+            140.890613995569,
+            38.2259169958648,
+            141.027105332941,
+            38.3259870018016
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "94f57f784f2fec2c",
+        "name": "Sendai-shi Miyagino-ku",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2051848427936591875",
+        "created_at": "2026-05-06T02:16:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T03:16:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051848427936591875"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Sakura_RinSaki…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Sakura_RinSaki/status/2051726253376655724",
+              "start": 13,
+              "url": "https://t.co/yslMTsQg0w"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "94f57f784f2fec2c"
+        },
+        "id": "2051848427936591875",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051726253376655724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "ohno求求你不要再说了 https://t.co/yslMTsQg0w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898849785559580672",
+        "conversation_id": "2051726253376655724",
+        "created_at": "2026-05-05T18:10:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T19:10:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051726253376655724"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051726253376655724",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "老天你是不是搞错了，我应该是可爱又活泼的女高中生，穿着好看的jk制服每天3点放学，参加学生会美美回家，跟朋友偷偷坐电车去秋叶原买谷，轻轻松松买到小海景，然后去逛街去109拍大头照，然后阳光灿烂的活着，我能穿浴衣和心爱的人看烟火大会，吃冰沙，捞金鱼，去便利店买布丁。肆无忌惮的青春 ，去开文化祭，和全班同学去修学旅行，而不是投胎到我这么一个死人上。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 654,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "老天你是不是搞错了，我应该是可爱又活泼的女高中生，穿着好看的jk制服每天3点放学，参加学生会美美回家，跟朋友偷偷坐电车去秋叶原买谷，轻轻松松买到小海景，然后去逛街去109拍大头照，然后阳光灿烂的活着，我能穿浴衣和心爱的人看烟火大会，吃冰沙，捞金鱼，去便利店买布丁。肆无忌惮的青春"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 55,
+          "following_count": 89,
+          "like_count": 445,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 189
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-09T21:34:13.000Z",
+        "description": "凜咲咲丨hrt 26.02.10丨47kg丨不可愛的負面帳號\n\n@moon_sakiki\n丨tg:SukuMurong\n\n丨 吸血喵喵\n\n丨小雜魚 @Natsukikawaii_",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 32,
+                "username": "moon_sakiki"
+              },
+              {
+                "end": 89,
+                "start": 74,
+                "username": "Natsukikawaii_"
+              }
+            ]
+          }
+        },
+        "id": "1898849785559580672",
+        "location": "台灣 台中和南投",
+        "name": "絨絨丨🍥",
+        "pinned_tweet_id": "2030916103590027424",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049943192460746752/1xd0bdTU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2224,
+          "following_count": 96,
+          "like_count": 3893,
+          "listed_count": 6,
+          "media_count": 210,
+          "tweet_count": 3527
+        },
+        "username": "Sakura_RinSaki",
+        "verified": true
+      }
+    ]
+  }
+}

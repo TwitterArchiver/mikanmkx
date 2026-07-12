@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050048124434231296"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2050048133246378155",
+    "created_at": "2026-05-01T03:02:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-01T04:02:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050048133246378155"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XZeJMqm7BV",
+          "end": 43,
+          "expanded_url": "https://x.com/mikanmkx/status/2050048133246378155/photo/1",
+          "media_key": "3_2050048124434231296",
+          "start": 20,
+          "url": "https://t.co/XZeJMqm7BV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050048133246378155",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "vibe coding be like https://t.co/XZeJMqm7BV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050048124434231296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHM76FVbsAAfHOy.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050048124434231296"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2050048133246378155",
+        "created_at": "2026-05-01T03:02:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-01T04:02:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050048133246378155"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZeJMqm7BV",
+              "end": 43,
+              "expanded_url": "https://x.com/mikanmkx/status/2050048133246378155/photo/1",
+              "media_key": "3_2050048124434231296",
+              "start": 20,
+              "url": "https://t.co/XZeJMqm7BV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050048133246378155",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "vibe coding be like https://t.co/XZeJMqm7BV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 49,
+          "following_count": 83,
+          "like_count": 401,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 168
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

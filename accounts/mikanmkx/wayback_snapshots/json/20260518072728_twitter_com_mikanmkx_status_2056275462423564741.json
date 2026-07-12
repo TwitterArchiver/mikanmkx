@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2056007406677880886",
+    "created_at": "2026-05-18T07:27:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-18T08:27:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056275462423564741"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "997619727680835584",
+          "start": 0,
+          "username": "onliviane"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056275462423564741",
+    "in_reply_to_user_id": "997619727680835584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056007406677880886",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@onliviane 谷歌的文档是真的烂，不如自己看源码"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2056007406677880886",
+        "created_at": "2026-05-18T07:27:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T08:27:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056275462423564741"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "997619727680835584",
+              "start": 0,
+              "username": "onliviane"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056275462423564741",
+        "in_reply_to_user_id": "997619727680835584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056007406677880886",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@onliviane 谷歌的文档是真的烂，不如自己看源码"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "997619727680835584",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2056007406677880886",
+        "created_at": "2026-05-17T13:42:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-17T14:42:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056007406677880886"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2056007406677880886",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1460,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Jetpack Compose 的文档实在有点复杂，看了几个项目感觉都绕来绕去的，官方的 Now In Android 更是重量级... 还是找个视频跟着学吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 174,
+          "following_count": 180,
+          "like_count": 593,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 248
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2018-05-18T23:27:32.000Z",
+        "description": "我同意接受所有 Cookies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.clickfling.top",
+                "end": 23,
+                "expanded_url": "https://blog.clickfling.top",
+                "start": 0,
+                "url": "https://t.co/rvh4uVqmx7"
+              }
+            ]
+          }
+        },
+        "id": "997619727680835584",
+        "location": "AS 4134",
+        "name": "onliviane🍃",
+        "pinned_tweet_id": "1221091177971077121",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816488086467223552/EY8Ama0h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 299,
+          "following_count": 1665,
+          "like_count": 16185,
+          "listed_count": 2,
+          "media_count": 196,
+          "tweet_count": 1186
+        },
+        "url": "https://t.co/rvh4uVqmx7",
+        "username": "onliviane",
+        "verified": false
+      }
+    ]
+  }
+}

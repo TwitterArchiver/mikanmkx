@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2044453279544054153",
+    "created_at": "2026-04-16T01:30:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:30:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044589179838038016"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040801790443257856",
+          "start": 0,
+          "username": "HamletMaschinen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044589179838038016",
+    "in_reply_to_user_id": "2040801790443257856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044586453779554580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HamletMaschinen 确实感觉ai把握不好敬语的度，跟谁写都是高级别的敬语"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2044453279544054153",
+        "created_at": "2026-04-16T01:30:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:30:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044589179838038016"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040801790443257856",
+              "start": 0,
+              "username": "HamletMaschinen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044589179838038016",
+        "in_reply_to_user_id": "2040801790443257856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044586453779554580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HamletMaschinen 确实感觉ai把握不好敬语的度，跟谁写都是高级别的敬语"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040801790443257856",
+        "conversation_id": "2044453279544054153",
+        "created_at": "2026-04-16T01:19:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:19:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044586453779554580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044586453779554580",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044581791772909924",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 😦可能因为发邮件需要很多敬语的关系？我的日语水平还没有到可以对ai的敬语评头论足的地步……我也不知道，之前还有人跟我说ai写日语很明显因为句子短，我说天啊真的吗我的句子好像还没它那么长（…"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 52,
+          "like_count": 134,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 75
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T14:55:56.000Z",
+        "description": "无定义神秘生物。鲨士啤亚。ag泛性恋。但从未有过对象，等待地球online加载中🔛欢迎找我玩\nQU|【Eng/De/粤/中/日本語】語学、撮影、鳥、旅行、謎な料理、コメント歓迎",
+        "id": "2040801790443257856",
+        "location": "田舎",
+        "name": "SharksBeer",
+        "pinned_tweet_id": "2042276411378159853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040811899236093952/itfPADrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 41
+        },
+        "username": "HamletMaschinen",
+        "verified": false
+      }
+    ]
+  }
+}

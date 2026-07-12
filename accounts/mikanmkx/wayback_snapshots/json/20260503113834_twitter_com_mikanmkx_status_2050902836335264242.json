@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2050902826537353217",
+        "3_2050902826684211200"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2050902836335264242",
+    "created_at": "2026-05-03T11:38:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-03T12:38:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2050902836335264242"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/RntqWA0Tq7",
+          "end": 56,
+          "expanded_url": "https://x.com/mikanmkx/status/2050902836335264242/photo/1",
+          "media_key": "3_2050902826537353217",
+          "start": 33,
+          "url": "https://t.co/RntqWA0Tq7"
+        },
+        {
+          "display_url": "pic.x.com/RntqWA0Tq7",
+          "end": 56,
+          "expanded_url": "https://x.com/mikanmkx/status/2050902836335264242/photo/1",
+          "media_key": "3_2050902826684211200",
+          "start": 33,
+          "url": "https://t.co/RntqWA0Tq7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2050902836335264242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ppp牛逼\nroselia牛逼\n无论何时看到你们都能真心露出笑容 https://t.co/RntqWA0Tq7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2050902826537353217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZFQSyagAEx_mf.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2050902826684211200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHZFQTVbYAAZT6T.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2050902826537353217",
+            "3_2050902826684211200"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2050902836335264242",
+        "created_at": "2026-05-03T11:38:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-03T12:38:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2050902836335264242"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RntqWA0Tq7",
+              "end": 56,
+              "expanded_url": "https://x.com/mikanmkx/status/2050902836335264242/photo/1",
+              "media_key": "3_2050902826537353217",
+              "start": 33,
+              "url": "https://t.co/RntqWA0Tq7"
+            },
+            {
+              "display_url": "pic.x.com/RntqWA0Tq7",
+              "end": 56,
+              "expanded_url": "https://x.com/mikanmkx/status/2050902836335264242/photo/1",
+              "media_key": "3_2050902826684211200",
+              "start": 33,
+              "url": "https://t.co/RntqWA0Tq7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2050902836335264242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ppp牛逼\nroselia牛逼\n无论何时看到你们都能真心露出笑容 https://t.co/RntqWA0Tq7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 85,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 174
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

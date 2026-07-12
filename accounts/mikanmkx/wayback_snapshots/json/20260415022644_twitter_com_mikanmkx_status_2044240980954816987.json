@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2044240980954816987",
+    "created_at": "2026-04-15T02:26:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T03:26:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044240980954816987"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1974071253406527488",
+          "start": 3,
+          "username": "celestiaewhore"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044240980954816987",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1913
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044028178327581101",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @celestiaewhore: i want to talk to more people but i have really bad social anxiety even online"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2044240980954816987",
+        "created_at": "2026-04-15T02:26:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:26:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044240980954816987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1974071253406527488",
+              "start": 3,
+              "username": "celestiaewhore"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044240980954816987",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1913
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044028178327581101",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @celestiaewhore: i want to talk to more people but i have really bad social anxiety even online"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1974071253406527488",
+        "conversation_id": "2044028178327581101",
+        "created_at": "2026-04-14T12:21:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:21:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044028178327581101"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044028178327581101",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 499,
+          "impression_count": 127887,
+          "like_count": 9961,
+          "quote_count": 38,
+          "reply_count": 81,
+          "retweet_count": 1913
+        },
+        "reply_settings": "everyone",
+        "text": "i want to talk to more people but i have really bad social anxiety even online"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 44,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 58
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T11:17:28.000Z",
+        "description": "@celestiaegirl 's spam account\n\nhttps://t.co/WQgl30rONC /ᐠ - ˕ -マ discord: celestiaegirl",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "celestiaegirl"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "celestiaegirl.straw.page",
+                "end": 55,
+                "expanded_url": "https://celestiaegirl.straw.page",
+                "start": 32,
+                "url": "https://t.co/WQgl30rONC"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "throne.com/celestiaegirl",
+                "end": 23,
+                "expanded_url": "https://throne.com/celestiaegirl",
+                "start": 0,
+                "url": "https://t.co/nG2iruGu5N"
+              }
+            ]
+          }
+        },
+        "id": "1974071253406527488",
+        "location": "19 𝜗𝜚 she/her",
+        "name": "cece ୨୧",
+        "pinned_tweet_id": "2008364668482711852",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009094162701066240/2xe4zfEr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2667,
+          "following_count": 131,
+          "like_count": 1475,
+          "listed_count": 1,
+          "media_count": 119,
+          "tweet_count": 1057
+        },
+        "url": "https://t.co/nG2iruGu5N",
+        "username": "celestiaewhore",
+        "verified": false
+      }
+    ]
+  }
+}

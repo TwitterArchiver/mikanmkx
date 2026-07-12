@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2062049087164444871",
+    "created_at": "2026-06-04T00:40:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-04T01:40:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062333685471629585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1462348416374214662",
+          "start": 0,
+          "username": "pcppup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062333685471629585",
+    "in_reply_to_user_id": "1462348416374214662",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062245533842805156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pcppup Progynova is ev, not CPA..."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2062049087164444871",
+        "created_at": "2026-06-04T00:40:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T01:40:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062333685471629585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1462348416374214662",
+              "start": 0,
+              "username": "pcppup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062333685471629585",
+        "in_reply_to_user_id": "1462348416374214662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062245533842805156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pcppup Progynova is ev, not CPA..."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462348416374214662",
+        "conversation_id": "2062049087164444871",
+        "created_at": "2026-06-03T18:50:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T19:50:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062245533842805156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062245533842805156",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 254,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062049087164444871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx i don't think you should take CPA sublingually..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 305,
+          "like_count": 1019,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 378
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2021-11-21T09:13:36.000Z",
+        "description": "🏳️‍⚧️ | She/Her\n20 | ΘΔ | 3 years HRT\n\nDISCORD DE TRANSTWT HISPANO\nhttps://t.co/I7PHnQWU16\n\n.gg/valorantesp Owner (90k)\nwplace best ex-mod",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/megucord",
+                "end": 90,
+                "expanded_url": "https://discord.gg/megucord",
+                "start": 67,
+                "url": "https://t.co/I7PHnQWU16"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hrt.gumi.gay",
+                "end": 23,
+                "expanded_url": "https://hrt.gumi.gay",
+                "start": 0,
+                "url": "https://t.co/WlGbhI7qQy"
+              }
+            ]
+          }
+        },
+        "id": "1462348416374214662",
+        "location": "GUÍA DE DIY HRT HISPANA --",
+        "name": "Megumi, Internet Angel 🏳️‍⚧️",
+        "pinned_tweet_id": "1997761698384740620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955498857338421248/My7SxowO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5327,
+          "following_count": 1245,
+          "like_count": 21179,
+          "listed_count": 5,
+          "media_count": 900,
+          "tweet_count": 12743
+        },
+        "url": "https://t.co/WlGbhI7qQy",
+        "username": "pcppup",
+        "verified": false
+      }
+    ]
+  }
+}

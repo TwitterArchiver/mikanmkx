@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A Video Game Publisher like 'Activision'",
+          "id": "78",
+          "name": "Video Game Publisher"
+        },
+        "entity": {
+          "id": "1181015430711758848",
+          "name": "Bandai Namco"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Video Game Publisher",
+          "id": "1070028312276127746",
+          "name": "Game development"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1181015430711758848",
+          "name": "Bandai Namco"
+        }
+      }
+    ],
+    "conversation_id": "2054453261558817032",
+    "created_at": "2026-05-13T06:46:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T07:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054453261558817032"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AkiraReynir/st…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/AkiraReynir/status/2054039035451203716",
+          "start": 7,
+          "url": "https://t.co/wDdpYYkEjr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054453261558817032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054039035451203716",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "狗代标准操作 https://t.co/wDdpYYkEjr"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 944,
+        "media_key": "3_2054039028006338560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFpnPsbQAAiiCF.jpg",
+        "width": 1040
+      },
+      {
+        "height": 970,
+        "media_key": "3_2054039027091947520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIFpnMSawAAFz-E.png",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          }
+        ],
+        "conversation_id": "2054453261558817032",
+        "created_at": "2026-05-13T06:46:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T07:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054453261558817032"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AkiraReynir/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/AkiraReynir/status/2054039035451203716",
+              "start": 7,
+              "url": "https://t.co/wDdpYYkEjr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054453261558817032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054039035451203716",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "狗代标准操作 https://t.co/wDdpYYkEjr"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054039028006338560",
+            "3_2054039027091947520"
+          ]
+        },
+        "author_id": "909074471666933760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "id": "1181015430711758848",
+              "name": "Bandai Namco"
+            }
+          }
+        ],
+        "conversation_id": "2054039035451203716",
+        "created_at": "2026-05-12T03:20:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T04:20:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054039035451203716"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2qZuT2QkSl",
+              "end": 120,
+              "expanded_url": "https://x.com/AkiraReynir/status/2054039035451203716/photo/1",
+              "media_key": "3_2054039028006338560",
+              "start": 97,
+              "url": "https://t.co/2qZuT2QkSl"
+            },
+            {
+              "display_url": "pic.x.com/2qZuT2QkSl",
+              "end": 120,
+              "expanded_url": "https://x.com/AkiraReynir/status/2054039035451203716/photo/1",
+              "media_key": "3_2054039027091947520",
+              "start": 97,
+              "url": "https://t.co/2qZuT2QkSl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054039035451203716",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 926,
+          "impression_count": 1234388,
+          "like_count": 4691,
+          "quote_count": 118,
+          "reply_count": 0,
+          "retweet_count": 1517
+        },
+        "reply_settings": "following",
+        "text": "バンナムは馬鹿なのか。サービス終了から1年も経たずにドメインを捨てる馬鹿。以前ブランドドメインが乗っ取られたことも、お名前.comでシリーズコラボがあったことももう忘れたらしい。救いようがない https://t.co/2qZuT2QkSl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 160,
+          "like_count": 532,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 223
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2017-09-16T15:20:18.000Z",
+        "description": "ゲーマーで声優ファン。伊波杏樹さん、逢田梨香子さん、斉藤朱夏さん、楠木ともりさん、鬼頭明里さん、石原夏織さん、大西亜玖璃さん、小泉萌香さん、Liyuuさん、矢野妃菜喜さん、法元明菜さん、内田秀さん、林鼓子さん、田中ちえ美さん、村上奈津実さん推し。イベント参戦、写真、旅行も好き。ゆるポタ同好会。福耳。プロフ画はめばち先生",
+        "id": "909074471666933760",
+        "name": "レイニューアキラ",
+        "pinned_tweet_id": "1980257813843567044",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1662186317420306433/pvpezI-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 1058,
+          "like_count": 43478,
+          "listed_count": 11,
+          "media_count": 16320,
+          "tweet_count": 92735
+        },
+        "username": "AkiraReynir",
+        "verified": true
+      }
+    ]
+  }
+}

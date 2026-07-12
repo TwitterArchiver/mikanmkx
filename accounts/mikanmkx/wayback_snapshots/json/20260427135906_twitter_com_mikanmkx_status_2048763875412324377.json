@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2048763873164206081"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2048763875412324377",
+    "created_at": "2026-04-27T13:59:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-27T14:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2048763875412324377"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1bFkFFsQZY",
+          "end": 44,
+          "expanded_url": "https://x.com/mikanmkx/status/2048763875412324377/photo/1",
+          "media_key": "3_2048763873164206081",
+          "start": 21,
+          "url": "https://t.co/1bFkFFsQZY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2048763875412324377",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好不容易凑齐一整套装备结果根本没怎么滑😭 https://t.co/1bFkFFsQZY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2048763873164206081",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG6r40ibIAEc2W4.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048763873164206081"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2048763875412324377",
+        "created_at": "2026-04-27T13:59:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T14:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048763875412324377"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1bFkFFsQZY",
+              "end": 44,
+              "expanded_url": "https://x.com/mikanmkx/status/2048763875412324377/photo/1",
+              "media_key": "3_2048763873164206081",
+              "start": 21,
+              "url": "https://t.co/1bFkFFsQZY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048763875412324377",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好不容易凑齐一整套装备结果根本没怎么滑😭 https://t.co/1bFkFFsQZY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 80,
+          "like_count": 377,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 155
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

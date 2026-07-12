@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2058958707787268357",
+    "created_at": "2026-05-25T17:09:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-25T18:09:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058958707787268357"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1228406233738072064",
+          "start": 3,
+          "username": "AR10545614"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058958707787268357",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058886631177011384",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AR10545614: 自爆开个盒  没力气发mtfwiki了  九州大学(不限于其他乡下的国立大学)，非常劳保，反跨非常严重。我在去年收到了包括不限于老师，教研室同学，其他中国人劳保的各种歧视，导致了严重的精神问题。而且完全没有任何跨性别的医疗机构，唯一一家医院长久处…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2058958707787268357",
+        "created_at": "2026-05-25T17:09:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T18:09:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058958707787268357"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1228406233738072064",
+              "start": 3,
+              "username": "AR10545614"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058958707787268357",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058886631177011384",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AR10545614: 自爆开个盒  没力气发mtfwiki了  九州大学(不限于其他乡下的国立大学)，非常劳保，反跨非常严重。我在去年收到了包括不限于老师，教研室同学，其他中国人劳保的各种歧视，导致了严重的精神问题。而且完全没有任何跨性别的医疗机构，唯一一家医院长久处…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1228406233738072064",
+        "conversation_id": "2058886631177011384",
+        "created_at": "2026-05-25T12:23:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-25T13:23:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058886631177011384"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2058886631177011384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 183,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "自爆开个盒  没力气发mtfwiki了  九州大学(不限于其他乡下的国立大学)，非常劳保，反跨非常严重。我在去年收到了包括不限于老师，教研室同学，其他中国人劳保的各种歧视，导致了严重的精神问题。而且完全没有任何跨性别的医疗机构，唯一一家医院长久处于已读不回状态，估计是不接待外国人。供参考。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 224,
+          "following_count": 228,
+          "like_count": 757,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 307
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2020-02-14T19:50:51.000Z",
+        "description": "普通型enfp 是宇宙人快关！恋ビト:@jaxondid13 /坐标福冈sub/病娇/不会写代码/钕铜贴贴/主要发猫猫/🚪88不陪聊",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "jaxondid13"
+              }
+            ]
+          }
+        },
+        "id": "1228406233738072064",
+        "location": "500m",
+        "name": "ココナラ",
+        "pinned_tweet_id": "2041585601703768498",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1722136309454802944/3MaTpuQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 857,
+          "like_count": 173,
+          "listed_count": 5,
+          "media_count": 141,
+          "tweet_count": 484
+        },
+        "username": "AR10545614",
+        "verified": false
+      }
+    ]
+  }
+}

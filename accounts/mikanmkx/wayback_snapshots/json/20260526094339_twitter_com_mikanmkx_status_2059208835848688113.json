@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2059208835848688113",
+    "created_at": "2026-05-26T09:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-26T10:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059208835848688113"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/buffys/status/…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/buffys/status/2059104208222060917",
+          "start": 12,
+          "url": "https://t.co/J9DJMw9pKz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059208835848688113",
+    "lang": "fr",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059104208222060917",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "transphobia https://t.co/J9DJMw9pKz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2059208835848688113",
+        "created_at": "2026-05-26T09:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T10:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059208835848688113"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/buffys/status/…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/buffys/status/2059104208222060917",
+              "start": 12,
+              "url": "https://t.co/J9DJMw9pKz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059208835848688113",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059104208222060917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "transphobia https://t.co/J9DJMw9pKz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430412014036426753",
+        "conversation_id": "2059104208222060917",
+        "created_at": "2026-05-26T02:47:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T03:47:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059104208222060917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059104208222060917",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 227,
+          "impression_count": 338758,
+          "like_count": 1397,
+          "quote_count": 1279,
+          "reply_count": 2209,
+          "retweet_count": 113
+        },
+        "reply_settings": "everyone",
+        "text": "what’s a sign of low intelligence?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 227,
+          "like_count": 772,
+          "listed_count": 1,
+          "media_count": 80,
+          "tweet_count": 312
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-25T06:09:40.000Z",
+        "description": "i am not buffy summers . ꕤ 。˚⋆",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/@coven",
+                "end": 23,
+                "expanded_url": "http://instagram.com/@coven",
+                "start": 0,
+                "url": "https://t.co/q5uHYRG1jH"
+              }
+            ]
+          }
+        },
+        "id": "1430412014036426753",
+        "location": "Content Page/DM For Promo ♡",
+        "name": "໊",
+        "pinned_tweet_id": "2032867707792523417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1666990480935059457/XZM1G72W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 423861,
+          "following_count": 7174,
+          "like_count": 630965,
+          "listed_count": 617,
+          "media_count": 11776,
+          "tweet_count": 51039
+        },
+        "url": "https://t.co/q5uHYRG1jH",
+        "username": "buffys",
+        "verified": true
+      }
+    ]
+  }
+}

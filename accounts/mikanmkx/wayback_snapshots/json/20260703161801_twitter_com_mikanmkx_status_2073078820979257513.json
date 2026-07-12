@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072863294822793392",
+    "created_at": "2026-07-03T16:18:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T17:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073078820979257513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1882679150034694144",
+          "start": 0,
+          "username": "emm101215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073078820979257513",
+    "in_reply_to_user_id": "1882679150034694144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2073078191988883894",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@emm101215 没，我纯顺男出装（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072863294822793392",
+        "created_at": "2026-07-03T16:18:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073078820979257513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1882679150034694144",
+              "start": 0,
+              "username": "emm101215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073078820979257513",
+        "in_reply_to_user_id": "1882679150034694144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073078191988883894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@emm101215 没，我纯顺男出装（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1882679150034694144",
+        "conversation_id": "2072863294822793392",
+        "created_at": "2026-07-03T16:15:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T17:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073078191988883894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073078191988883894",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2073044673422361063",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 地雷穿搭的是你嘛（）还是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 579,
+          "following_count": 494,
+          "like_count": 2097,
+          "listed_count": 2,
+          "media_count": 152,
+          "tweet_count": 636
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-24T06:38:17.000Z",
+        "description": "170cm 46kg/mtf/infp/hrt：2026.2.5/无证含糖/生产日期：2010.12.15 诡秘@baiyao105",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "baiyao105"
+              }
+            ]
+          }
+        },
+        "id": "1882679150034694144",
+        "name": "emm…🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1882679297128943616/HmNCsRoN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 133,
+          "following_count": 218,
+          "like_count": 202,
+          "listed_count": 2,
+          "media_count": 2,
+          "tweet_count": 136
+        },
+        "url": "",
+        "username": "emm101215",
+        "verified": false
+      }
+    ]
+  }
+}

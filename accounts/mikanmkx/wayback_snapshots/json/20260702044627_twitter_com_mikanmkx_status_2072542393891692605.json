@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072542390779531264",
+        "3_2072542391161311232"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072542393891692605",
+    "created_at": "2026-07-02T04:46:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T05:46:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072542393891692605"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ie4Ttl4dOj",
+          "end": 45,
+          "expanded_url": "https://x.com/mikanmkx/status/2072542393891692605/photo/1",
+          "media_key": "3_2072542390779531264",
+          "start": 22,
+          "url": "https://t.co/ie4Ttl4dOj"
+        },
+        {
+          "display_url": "pic.x.com/ie4Ttl4dOj",
+          "end": 45,
+          "expanded_url": "https://x.com/mikanmkx/status/2072542393891692605/photo/1",
+          "media_key": "3_2072542391161311232",
+          "start": 22,
+          "url": "https://t.co/ie4Ttl4dOj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072542393891692605",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我弟弟是铁佛寺我妹妹是烤p，真是这辈子有了 https://t.co/ie4Ttl4dOj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2072542390779531264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMmUthaUAAG4RZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2072542391161311232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMMmUu8b0AAtHPK.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072542390779531264",
+            "3_2072542391161311232"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072542393891692605",
+        "created_at": "2026-07-02T04:46:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T05:46:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072542393891692605"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ie4Ttl4dOj",
+              "end": 45,
+              "expanded_url": "https://x.com/mikanmkx/status/2072542393891692605/photo/1",
+              "media_key": "3_2072542390779531264",
+              "start": 22,
+              "url": "https://t.co/ie4Ttl4dOj"
+            },
+            {
+              "display_url": "pic.x.com/ie4Ttl4dOj",
+              "end": 45,
+              "expanded_url": "https://x.com/mikanmkx/status/2072542393891692605/photo/1",
+              "media_key": "3_2072542391161311232",
+              "start": 22,
+              "url": "https://t.co/ie4Ttl4dOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072542393891692605",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我弟弟是铁佛寺我妹妹是烤p，真是这辈子有了 https://t.co/ie4Ttl4dOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 466,
+          "like_count": 1970,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 599
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

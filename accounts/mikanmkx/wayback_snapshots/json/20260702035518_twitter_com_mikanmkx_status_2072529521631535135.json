@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072459622011806127",
+    "created_at": "2026-07-02T03:55:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T04:55:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072529521631535135"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1603943537477046273",
+          "start": 0,
+          "username": "pc426_maid"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072529521631535135",
+    "in_reply_to_user_id": "1603943537477046273",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072459622011806127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pc426_maid sd日本人超级多的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072459622011806127",
+        "created_at": "2026-07-02T03:55:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T04:55:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072529521631535135"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1603943537477046273",
+              "start": 0,
+              "username": "pc426_maid"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072529521631535135",
+        "in_reply_to_user_id": "1603943537477046273",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072459622011806127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pc426_maid sd日本人超级多的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1603943537477046273",
+        "conversation_id": "2072459622011806127",
+        "created_at": "2026-07-01T23:17:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T00:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072459622011806127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072459622011806127",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 5359,
+          "like_count": 39,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "？\n刚刚去san diego的Costco，进门扫卡老头问我们会员卡哪的\n给他看了发现是日本发的卡\n突然转换语言为日语\n？？？？\n突然开启日语会话\n老头在大分住，日本語ペラペラ\n\nThis is why it’s important to go out and meet people."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 553,
+          "following_count": 466,
+          "like_count": 1968,
+          "listed_count": 2,
+          "media_count": 145,
+          "tweet_count": 598
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-17T02:42:10.000Z",
+        "description": "中文/English/日本語, Engineer(?), Mitsubishi Pajero Owner V46WG, V24, V46V, L144G. A housekeeping service operated by PC426. Sponsored by @guanyuhan426",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 133,
+                "username": "guanyuhan426"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pc426.com",
+                "end": 23,
+                "expanded_url": "https://www.pc426.com",
+                "start": 0,
+                "url": "https://t.co/8A6M89NHQJ"
+              }
+            ]
+          }
+        },
+        "id": "1603943537477046273",
+        "location": "JAPAN",
+        "name": "pc426_maid",
+        "pinned_tweet_id": "1900018242233786635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1603944954392645632/uoqIy2Aa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1187,
+          "following_count": 110,
+          "like_count": 2319,
+          "listed_count": 4,
+          "media_count": 378,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/8A6M89NHQJ",
+        "username": "pc426_maid",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066460249968832512"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2066460251784990996",
+    "created_at": "2026-06-15T09:58:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T10:58:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066460251784990996"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/PBW8Ix0oaq",
+          "end": 40,
+          "expanded_url": "https://x.com/mikanmkx/status/2066460251784990996/photo/1",
+          "media_key": "3_2066460249968832512",
+          "start": 17,
+          "url": "https://t.co/PBW8Ix0oaq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066460251784990996",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "下版本可以导入外部跟踪器数据了喵 https://t.co/PBW8Ix0oaq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1714,
+        "media_key": "3_2066460249968832512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK2KphXbcAAv7lK.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066460249968832512"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2066460251784990996",
+        "created_at": "2026-06-15T09:58:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T10:58:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066460251784990996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PBW8Ix0oaq",
+              "end": 40,
+              "expanded_url": "https://x.com/mikanmkx/status/2066460251784990996/photo/1",
+              "media_key": "3_2066460249968832512",
+              "start": 17,
+              "url": "https://t.co/PBW8Ix0oaq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066460251784990996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下版本可以导入外部跟踪器数据了喵 https://t.co/PBW8Ix0oaq"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 387,
+          "following_count": 348,
+          "like_count": 1251,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 438
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

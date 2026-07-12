@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2070499116673831421",
+    "created_at": "2026-06-26T13:27:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T14:27:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070499119785984124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "play.google.com/store/apps/det…",
+          "end": 28,
+          "expanded_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+          "start": 5,
+          "status": 200,
+          "unwound_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+          "url": "https://t.co/xaKGmZqaaO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070499119785984124",
+    "in_reply_to_user_id": "1988674513517834244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070499116673831421",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "下载链接：https://t.co/xaKGmZqaaO"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2070498891519381504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLvjxZjaUAAXW0U.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2070499116673831421",
+        "created_at": "2026-06-26T13:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070499119785984124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "play.google.com/store/apps/det…",
+              "end": 28,
+              "expanded_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+              "start": 5,
+              "status": 200,
+              "unwound_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+              "url": "https://t.co/xaKGmZqaaO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070499119785984124",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070499116673831421",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "下载链接：https://t.co/xaKGmZqaaO"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070498891519381504"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2070499116673831421",
+        "created_at": "2026-06-26T13:27:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T14:27:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070499116673831421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "hrt.transmtf.com",
+              "end": 138,
+              "expanded_url": "http://hrt.transmtf.com",
+              "start": 115,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.transmtf.com/",
+              "url": "https://t.co/7KEmyKdogz"
+            },
+            {
+              "display_url": "hrt.mahiro.uk",
+              "end": 162,
+              "expanded_url": "http://hrt.mahiro.uk",
+              "start": 139,
+              "status": 200,
+              "title": "HRT Tracker",
+              "unwound_url": "https://hrt.mahiro.uk/",
+              "url": "https://t.co/A4aObEd8AL"
+            },
+            {
+              "display_url": "pic.x.com/akw7wAOmb9",
+              "end": 204,
+              "expanded_url": "https://x.com/mikanmkx/status/2070499116673831421/photo/1",
+              "media_key": "3_2070498891519381504",
+              "start": 181,
+              "url": "https://t.co/akw7wAOmb9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070499116673831421",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "hrt.transmtf.com",
+                "end": 138,
+                "expanded_url": "http://hrt.transmtf.com",
+                "start": 115,
+                "url": "https://t.co/4Gv9PiPAfg"
+              },
+              {
+                "display_url": "hrt.mahiro.uk",
+                "end": 162,
+                "expanded_url": "http://hrt.mahiro.uk",
+                "start": 139,
+                "url": "https://t.co/BJJLF1V0Ag"
+              }
+            ]
+          },
+          "text": "Featherline v1.3.0 发布了喵，下载链接见评论区\n\n更新内容\n- 新增时间线功能，追踪重要的日子\n- 新增每日笔记功能，随手记下当天的感受\n- 支持重新排序或隐藏首页卡片\n- 支持导入外部hrt追踪器数据（目前支持https://t.co/4Gv9PiPAfg，https://t.co/BJJLF1V0Ag，以及HRT Recorder）\n- 修复了一些已知的问题"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Featherline v1.3.0 发布了喵，下载链接见评论区\n\n更新内容\n- 新增时间线功能，追踪重要的日子\n- 新增每日笔记功能，随手记下当天的感受\n- 支持重新排序或隐藏首页卡片\n- 支持导入外部hrt追踪器数据（目前支持https://t.co/7KEmyKdogz，https://t.co/A4aObEd8AL，以及HRT Recorder）\n- https://t.co/akw7wAOmb9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 486,
+          "following_count": 415,
+          "like_count": 1615,
+          "listed_count": 1,
+          "media_count": 132,
+          "tweet_count": 532
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

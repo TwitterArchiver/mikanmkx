@@ -1,0 +1,134 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047608410552836096"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2047608448171626796",
+    "created_at": "2026-04-24T09:27:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T10:27:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047608448171626796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/gL1zr7lFQU",
+          "end": 41,
+          "expanded_url": "https://x.com/mikanmkx/status/2047608448171626796/photo/1",
+          "media_key": "3_2047608410552836096",
+          "start": 18,
+          "url": "https://t.co/gL1zr7lFQU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047608448171626796",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "ui works 4/7 （凑数） https://t.co/gL1zr7lFQU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3111,
+        "media_key": "3_2047608410552836096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGqRAC4aoAADqz0.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047608410552836096"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2047608448171626796",
+        "created_at": "2026-04-24T09:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T10:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047608448171626796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gL1zr7lFQU",
+              "end": 41,
+              "expanded_url": "https://x.com/mikanmkx/status/2047608448171626796/photo/1",
+              "media_key": "3_2047608410552836096",
+              "start": 18,
+              "url": "https://t.co/gL1zr7lFQU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047608448171626796",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ui works 4/7 （凑数） https://t.co/gL1zr7lFQU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2046085639108698407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 76,
+          "like_count": 329,
+          "listed_count": 0,
+          "media_count": 28,
+          "tweet_count": 139
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

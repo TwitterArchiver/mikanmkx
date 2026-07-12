@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2069396741833756894",
+    "created_at": "2026-06-23T12:26:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T13:26:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2069396741833756894"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/livedoornews/status/2069329197131235571",
+          "start": 7,
+          "url": "https://t.co/6giJVfyrRB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069396741833756894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069329197131235571",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "什么本子剧情 https://t.co/6giJVfyrRB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2069396741833756894",
+        "created_at": "2026-06-23T12:26:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T13:26:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069396741833756894"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/livedoornews/status/2069329197131235571",
+              "start": 7,
+              "url": "https://t.co/6giJVfyrRB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069396741833756894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069329197131235571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么本子剧情 https://t.co/6giJVfyrRB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "17306975",
+        "conversation_id": "2069329197131235571",
+        "created_at": "2026-06-23T07:58:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T08:58:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069329197131235571"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "宮城県の陸上自衛隊駐屯地で、上司から女装を強要されるなどのハラスメントを長年受け、心的外傷後ストレス障害（PTSD）を発症した県内の30代男性自衛官が23日、仙台市内で記者会見し、公務災害に認定されたと明ら",
+              "display_url": "news.livedoor.com/article/detail…",
+              "end": 47,
+              "expanded_url": "https://news.livedoor.com/article/detail/31632185/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2069329239695073280/vkL3jSs_?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2069329239695073280/vkL3jSs_?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "自衛官に女装強要、公務災害認定　「希望の一歩だが、反省ない」",
+              "unwound_url": "https://news.livedoor.com/article/detail/31632185/",
+              "url": "https://t.co/JkSJW80ebK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069329197131235571",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1299,
+          "impression_count": 1632990,
+          "like_count": 7813,
+          "quote_count": 1033,
+          "reply_count": 330,
+          "retweet_count": 3062
+        },
+        "reply_settings": "everyone",
+        "text": "【発表】自衛官が上司から女装強要、公務災害認定\nhttps://t.co/JkSJW80ebK\n\n男性によると、2006年9月の入隊直後から複数の上司に「女みたい」とからかわれ、女装を強要されたという。その際、キスをされたり、体を触られたり、クレーンで数mつり上げられたこともあったという。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 397,
+          "like_count": 1497,
+          "listed_count": 1,
+          "media_count": 128,
+          "tweet_count": 505
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "name": "ライブドアニュース",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2170772,
+          "following_count": 108,
+          "like_count": 2285,
+          "listed_count": 14033,
+          "media_count": 291342,
+          "tweet_count": 469665
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true
+      }
+    ]
+  }
+}

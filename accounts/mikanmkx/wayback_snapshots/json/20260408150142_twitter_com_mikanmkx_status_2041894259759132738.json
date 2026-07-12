@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041894257125097472"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2041841474049077346",
+    "created_at": "2026-04-08T15:01:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-08T16:01:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041894259759132738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1648330332041785344",
+          "start": 0,
+          "username": "BaconG0bblerKel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9antha4c8b",
+          "end": 155,
+          "expanded_url": "https://x.com/mikanmkx/status/2041894259759132738/photo/1",
+          "media_key": "3_2041894257125097472",
+          "start": 132,
+          "url": "https://t.co/9antha4c8b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041894259759132738",
+    "in_reply_to_user_id": "1648330332041785344",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041841474049077346",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BaconG0bblerKel This is hakone btw and I guess the red road under it is hakone turnpike.  The peninsula under it is definitely izu https://t.co/9antha4c8b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1820,
+        "media_key": "3_2041894257125097472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZEAijaAAAS0sX.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041894257125097472"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2041841474049077346",
+        "created_at": "2026-04-08T15:01:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T16:01:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041894259759132738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1648330332041785344",
+              "start": 0,
+              "username": "BaconG0bblerKel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9antha4c8b",
+              "end": 155,
+              "expanded_url": "https://x.com/mikanmkx/status/2041894259759132738/photo/1",
+              "media_key": "3_2041894257125097472",
+              "start": 132,
+              "url": "https://t.co/9antha4c8b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041894259759132738",
+        "in_reply_to_user_id": "1648330332041785344",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041841474049077346",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BaconG0bblerKel This is hakone btw and I guess the red road under it is hakone turnpike.  The peninsula under it is definitely izu https://t.co/9antha4c8b"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1648330332041785344",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "10041743196",
+              "name": "Forza"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898463822381057",
+              "name": "Racing games"
+            }
+          }
+        ],
+        "conversation_id": "2041841474049077346",
+        "created_at": "2026-04-08T11:31:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T12:31:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041841474049077346"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041841474049077346",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ik there was barely any chance to put numazu on forza horizon but FUCK NOT EVEN HAKONE?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | 无证含糖 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 7,
+          "like_count": 38,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 12
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-18T14:19:28.000Z",
+        "description": "he/him LL & Liella truther. pfp by @karimsit00\n\nAll hail GOD Usopp\n\n#FreePalestine #EndtheApartheid #FromtheRivertotheSea🇵🇸🇵🇸",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 68,
+                "tag": "FreePalestine"
+              },
+              {
+                "end": 99,
+                "start": 83,
+                "tag": "EndtheApartheid"
+              },
+              {
+                "end": 121,
+                "start": 100,
+                "tag": "FromtheRivertotheSea"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 46,
+                "start": 35,
+                "username": "karimsit00"
+              }
+            ]
+          }
+        },
+        "id": "1648330332041785344",
+        "location": "🐉",
+        "name": "Kel | Sayurin my beloved 🇵🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039530973608685568/DRaQzJ_T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 2295,
+          "like_count": 164993,
+          "listed_count": 0,
+          "media_count": 1593,
+          "tweet_count": 62173
+        },
+        "username": "BaconG0bblerKel",
+        "verified": false
+      }
+    ]
+  }
+}

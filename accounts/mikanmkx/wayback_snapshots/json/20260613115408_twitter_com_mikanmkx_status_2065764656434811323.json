@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2065413515612201233",
+    "created_at": "2026-06-13T11:54:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T12:54:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065764656434811323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027313596066369537",
+          "start": 0,
+          "username": "shigemeteor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065764656434811323",
+    "in_reply_to_user_id": "2027313596066369537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065748541906321549",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigemeteor 我基频能有200hz但是朋友说我这样说话声音像米老鼠（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2065413515612201233",
+        "created_at": "2026-06-13T11:54:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T12:54:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065764656434811323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027313596066369537",
+              "start": 0,
+              "username": "shigemeteor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065764656434811323",
+        "in_reply_to_user_id": "2027313596066369537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065748541906321549",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigemeteor 我基频能有200hz但是朋友说我这样说话声音像米老鼠（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027313596066369537",
+        "conversation_id": "2065413515612201233",
+        "created_at": "2026-06-13T10:50:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T11:50:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065748541906321549"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065748541906321549",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065736268915630324",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 如果打算做手术最好还是跟父母出柜？我现在想开证主要是如果学校里大面积炸柜有证好很多+600号嗓音训练好像要证（我音高够但音量和感觉不太行室外根本不敢开口（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2063503271701225759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 343,
+          "like_count": 1221,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 430
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T09:23:51.000Z",
+        "description": "Cu₂S + O₂ = 2Child + SO₂↑\n2Al + Cu ≜ meteor\n人理之光暗淡之时，为了没有眼泪的明天~",
+        "id": "2027313596066369537",
+        "location": "shanghai",
+        "name": "meteor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027313721841000448/hhyXhg9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 24,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 59
+        },
+        "username": "shigemeteor",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060354715242934272"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060354733207146621",
+    "created_at": "2026-05-29T13:37:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T14:37:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060354733207146621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AouiUJEyT7",
+          "end": 45,
+          "expanded_url": "https://x.com/mikanmkx/status/2060354733207146621/video/1",
+          "media_key": "7_2060354715242934272",
+          "start": 22,
+          "url": "https://t.co/AouiUJEyT7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060354733207146621",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "展示（炫耀）一下头发掉光优化出来的启动速度 https://t.co/AouiUJEyT7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 7152,
+        "height": 1278,
+        "media_key": "7_2060354715242934272",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060354715242934272/pu/img/b1kKfEuI6DBZ5OJy.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060354715242934272/pu/vid/avc1/320x692/1BLd9_YtvGb45hkZ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060354715242934272/pu/vid/avc1/480x1038/mmfrAe_rVVftZtOg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060354715242934272/pu/vid/avc1/590x1278/TCuS2aFbbPs9pmHZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060354715242934272/pu/pl/avoxQZk7KqmARC5N.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060354715242934272"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060354733207146621",
+        "created_at": "2026-05-29T13:37:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T14:37:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060354733207146621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AouiUJEyT7",
+              "end": 45,
+              "expanded_url": "https://x.com/mikanmkx/status/2060354733207146621/video/1",
+              "media_key": "7_2060354715242934272",
+              "start": 22,
+              "url": "https://t.co/AouiUJEyT7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060354733207146621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "展示（炫耀）一下头发掉光优化出来的启动速度 https://t.co/AouiUJEyT7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 258,
+          "like_count": 843,
+          "listed_count": 1,
+          "media_count": 88,
+          "tweet_count": 333
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

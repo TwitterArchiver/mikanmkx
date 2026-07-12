@@ -1,0 +1,401 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043972071353679872",
+        "3_2043972071383015424",
+        "3_2043972071370391552",
+        "3_2043972071752118273"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cameras and Camcorders",
+          "id": "848920584826126336",
+          "name": "Cameras"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026713292",
+          "name": "Nikon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2043972345891827903",
+    "created_at": "2026-04-14T08:39:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:39:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043972345891827903"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 12,
+          "start": 7,
+          "tag": "能登半島"
+        },
+        {
+          "end": 19,
+          "start": 13,
+          "tag": "Nikon"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cs5jOWGuuQ",
+          "end": 43,
+          "expanded_url": "https://x.com/mikanmkx/status/2043972345891827903/photo/1",
+          "media_key": "3_2043972071353679872",
+          "start": 20,
+          "url": "https://t.co/cs5jOWGuuQ"
+        },
+        {
+          "display_url": "pic.x.com/cs5jOWGuuQ",
+          "end": 43,
+          "expanded_url": "https://x.com/mikanmkx/status/2043972345891827903/photo/1",
+          "media_key": "3_2043972071383015424",
+          "start": 20,
+          "url": "https://t.co/cs5jOWGuuQ"
+        },
+        {
+          "display_url": "pic.x.com/cs5jOWGuuQ",
+          "end": 43,
+          "expanded_url": "https://x.com/mikanmkx/status/2043972345891827903/photo/1",
+          "media_key": "3_2043972071370391552",
+          "start": 20,
+          "url": "https://t.co/cs5jOWGuuQ"
+        },
+        {
+          "display_url": "pic.x.com/cs5jOWGuuQ",
+          "end": 43,
+          "expanded_url": "https://x.com/mikanmkx/status/2043972345891827903/photo/1",
+          "media_key": "3_2043972071752118273",
+          "start": 20,
+          "url": "https://t.co/cs5jOWGuuQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043972345891827903",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "能登 01\n\n#能登半島\n#Nikon https://t.co/cs5jOWGuuQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1892,
+        "media_key": "3_2043972071353679872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2lxPvbAAAE0kw.jpg",
+        "width": 3024
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2043972071383015424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2lxP2aoAA9Hmy.jpg",
+        "width": 2016
+      },
+      {
+        "height": 2515,
+        "media_key": "3_2043972071370391552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2lxPzaAAAiOjB.jpg",
+        "width": 1957
+      },
+      {
+        "height": 2016,
+        "media_key": "3_2043972071752118273",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2lxROasAE_87P.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043972071353679872",
+            "3_2043972071383015424",
+            "3_2043972071370391552",
+            "3_2043972071752118273"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cameras and Camcorders",
+              "id": "848920584826126336",
+              "name": "Cameras"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026713292",
+              "name": "Nikon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2043972345891827903",
+        "created_at": "2026-04-14T08:39:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:39:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043972345891827903"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 7,
+              "tag": "能登半島"
+            },
+            {
+              "end": 19,
+              "start": 13,
+              "tag": "Nikon"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cs5jOWGuuQ",
+              "end": 43,
+              "expanded_url": "https://x.com/mikanmkx/status/2043972345891827903/photo/1",
+              "media_key": "3_2043972071353679872",
+              "start": 20,
+              "url": "https://t.co/cs5jOWGuuQ"
+            },
+            {
+              "display_url": "pic.x.com/cs5jOWGuuQ",
+              "end": 43,
+              "expanded_url": "https://x.com/mikanmkx/status/2043972345891827903/photo/1",
+              "media_key": "3_2043972071383015424",
+              "start": 20,
+              "url": "https://t.co/cs5jOWGuuQ"
+            },
+            {
+              "display_url": "pic.x.com/cs5jOWGuuQ",
+              "end": 43,
+              "expanded_url": "https://x.com/mikanmkx/status/2043972345891827903/photo/1",
+              "media_key": "3_2043972071370391552",
+              "start": 20,
+              "url": "https://t.co/cs5jOWGuuQ"
+            },
+            {
+              "display_url": "pic.x.com/cs5jOWGuuQ",
+              "end": 43,
+              "expanded_url": "https://x.com/mikanmkx/status/2043972345891827903/photo/1",
+              "media_key": "3_2043972071752118273",
+              "start": 20,
+              "url": "https://t.co/cs5jOWGuuQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043972345891827903",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "能登 01\n\n#能登半島\n#Nikon https://t.co/cs5jOWGuuQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 40,
+          "like_count": 89,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 50
+        },
+        "username": "mikanmkx",
+        "verified": false
+      }
+    ]
+  }
+}

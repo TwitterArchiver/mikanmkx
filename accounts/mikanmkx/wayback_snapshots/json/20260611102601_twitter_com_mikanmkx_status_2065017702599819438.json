@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2064728100319928320"
+      ],
+      "media_source_tweet_id": [
+        "2064728353676947746"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2065017702599819438",
+    "created_at": "2026-06-11T10:26:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T11:26:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065017702599819438"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1392282998",
+          "start": 3,
+          "username": "EqualityCaucus"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AegVwMmvAR",
+          "end": 89,
+          "expanded_url": "https://x.com/EqualityCaucus/status/2064728353676947746/photo/1",
+          "media_key": "3_2064728100319928320",
+          "start": 66,
+          "url": "https://t.co/AegVwMmvAR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065017702599819438",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064728353676947746",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EqualityCaucus: Today, tomorrow, always:\n\nPROTECT TRANS KIDS. https://t.co/AegVwMmvAR"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "\"Protect trans kids\" written in the colors of the trans pride flag.",
+        "height": 1350,
+        "media_key": "3_2064728100319928320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdjRJFWIAARNGO.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064728100319928320"
+          ],
+          "media_source_tweet_id": [
+            "2064728353676947746"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2065017702599819438",
+        "created_at": "2026-06-11T10:26:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T11:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065017702599819438"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1392282998",
+              "start": 3,
+              "username": "EqualityCaucus"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AegVwMmvAR",
+              "end": 89,
+              "expanded_url": "https://x.com/EqualityCaucus/status/2064728353676947746/photo/1",
+              "media_key": "3_2064728100319928320",
+              "start": 66,
+              "url": "https://t.co/AegVwMmvAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065017702599819438",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064728353676947746",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EqualityCaucus: Today, tomorrow, always:\n\nPROTECT TRANS KIDS. https://t.co/AegVwMmvAR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064728100319928320"
+          ]
+        },
+        "author_id": "1392282998",
+        "conversation_id": "2064728353676947746",
+        "created_at": "2026-06-10T15:16:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:16:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064728353676947746"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AegVwMmvAR",
+              "end": 69,
+              "expanded_url": "https://x.com/EqualityCaucus/status/2064728353676947746/photo/1",
+              "media_key": "3_2064728100319928320",
+              "start": 46,
+              "url": "https://t.co/AegVwMmvAR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064728353676947746",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 185378,
+          "like_count": 1092,
+          "quote_count": 64,
+          "reply_count": 709,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "Today, tomorrow, always:\n\nPROTECT TRANS KIDS. https://t.co/AegVwMmvAR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2063503271701225759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 324,
+          "like_count": 1168,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 413
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2013-04-30T15:05:42.000Z",
+        "description": "Congressional caucus committed to achieving the full enjoyment of human rights for LGBTQI+ people in the U.S. and around the world | Led by Chair @RepMarkTakano",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 160,
+                "start": 146,
+                "username": "RepMarkTakano"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/equalitycaucus",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/equalitycaucus",
+                "start": 0,
+                "url": "https://t.co/79tjCThzuO"
+              }
+            ]
+          }
+        },
+        "id": "1392282998",
+        "location": "Washington, D.C.",
+        "name": "Congressional Equality Caucus",
+        "pinned_tweet_id": "1990782830323069127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1805263315045679104/gJm60cld_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39043,
+          "following_count": 646,
+          "like_count": 14760,
+          "listed_count": 446,
+          "media_count": 2070,
+          "tweet_count": 17661
+        },
+        "url": "https://t.co/79tjCThzuO",
+        "username": "EqualityCaucus",
+        "verified": true
+      }
+    ]
+  }
+}

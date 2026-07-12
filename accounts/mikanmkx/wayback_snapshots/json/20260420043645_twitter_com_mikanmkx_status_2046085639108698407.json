@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2046085445612982272",
+        "3_2046085445554249728",
+        "3_2046085445558439936",
+        "3_2046085445558444032"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2046085639108698407",
+    "created_at": "2026-04-20T04:36:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T05:36:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2046085639108698407"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/B7y3ODpiab",
+          "end": 77,
+          "expanded_url": "https://x.com/mikanmkx/status/2046085639108698407/photo/1",
+          "media_key": "3_2046085445612982272",
+          "start": 54,
+          "url": "https://t.co/B7y3ODpiab"
+        },
+        {
+          "display_url": "pic.x.com/B7y3ODpiab",
+          "end": 77,
+          "expanded_url": "https://x.com/mikanmkx/status/2046085639108698407/photo/1",
+          "media_key": "3_2046085445554249728",
+          "start": 54,
+          "url": "https://t.co/B7y3ODpiab"
+        },
+        {
+          "display_url": "pic.x.com/B7y3ODpiab",
+          "end": 77,
+          "expanded_url": "https://x.com/mikanmkx/status/2046085639108698407/photo/1",
+          "media_key": "3_2046085445558439936",
+          "start": 54,
+          "url": "https://t.co/B7y3ODpiab"
+        },
+        {
+          "display_url": "pic.x.com/B7y3ODpiab",
+          "end": 77,
+          "expanded_url": "https://x.com/mikanmkx/status/2046085639108698407/photo/1",
+          "media_key": "3_2046085445558444032",
+          "start": 54,
+          "url": "https://t.co/B7y3ODpiab"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046085639108698407",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "claude design真好用，就是对钱包不太友好，4个ui花了20多刀，不过对于小规模app还可以接受 https://t.co/B7y3ODpiab"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1716,
+        "media_key": "3_2046085445612982272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUn30Xb0AAGeqe.jpg",
+        "width": 855
+      },
+      {
+        "height": 1669,
+        "media_key": "3_2046085445554249728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUn30JboAADNwk.jpg",
+        "width": 839
+      },
+      {
+        "height": 1498,
+        "media_key": "3_2046085445558439936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUn30KbkAAcHf-.jpg",
+        "width": 861
+      },
+      {
+        "height": 1665,
+        "media_key": "3_2046085445558444032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGUn30KboAAgKlj.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046085445612982272",
+            "3_2046085445554249728",
+            "3_2046085445558439936",
+            "3_2046085445558444032"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2046085639108698407",
+        "created_at": "2026-04-20T04:36:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T05:36:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046085639108698407"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/B7y3ODpiab",
+              "end": 77,
+              "expanded_url": "https://x.com/mikanmkx/status/2046085639108698407/photo/1",
+              "media_key": "3_2046085445612982272",
+              "start": 54,
+              "url": "https://t.co/B7y3ODpiab"
+            },
+            {
+              "display_url": "pic.x.com/B7y3ODpiab",
+              "end": 77,
+              "expanded_url": "https://x.com/mikanmkx/status/2046085639108698407/photo/1",
+              "media_key": "3_2046085445554249728",
+              "start": 54,
+              "url": "https://t.co/B7y3ODpiab"
+            },
+            {
+              "display_url": "pic.x.com/B7y3ODpiab",
+              "end": 77,
+              "expanded_url": "https://x.com/mikanmkx/status/2046085639108698407/photo/1",
+              "media_key": "3_2046085445558439936",
+              "start": 54,
+              "url": "https://t.co/B7y3ODpiab"
+            },
+            {
+              "display_url": "pic.x.com/B7y3ODpiab",
+              "end": 77,
+              "expanded_url": "https://x.com/mikanmkx/status/2046085639108698407/photo/1",
+              "media_key": "3_2046085445558444032",
+              "start": 54,
+              "url": "https://t.co/B7y3ODpiab"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046085639108698407",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "claude design真好用，就是对钱包不太友好，4个ui花了20多刀，不过对于小规模app还可以接受 https://t.co/B7y3ODpiab"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 63,
+          "like_count": 249,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 114
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

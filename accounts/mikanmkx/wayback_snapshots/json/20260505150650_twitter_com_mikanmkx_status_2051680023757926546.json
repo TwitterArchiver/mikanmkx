@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2051680021442707456"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2051680023757926546",
+    "created_at": "2026-05-05T15:06:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T16:06:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2051680023757926546"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/LPrctPuLCl",
+          "end": 29,
+          "expanded_url": "https://x.com/mikanmkx/status/2051680023757926546/photo/1",
+          "media_key": "3_2051680021442707456",
+          "start": 6,
+          "url": "https://t.co/LPrctPuLCl"
+        }
+      ]
+    },
+    "geo": {
+      "place_id": "94f57f784f2fec2c"
+    },
+    "id": "2051680023757926546",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "已接入模型 https://t.co/LPrctPuLCl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2051680021442707456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHkIG_bbwAA2Ius.jpg",
+        "width": 945
+      }
+    ],
+    "places": [
+      {
+        "country": "Japan",
+        "country_code": "JP",
+        "full_name": "Sendai-shi Miyagino, Miyagi",
+        "geo": {
+          "bbox": [
+            140.890613995569,
+            38.2259169958648,
+            141.027105332941,
+            38.3259870018016
+          ],
+          "properties": {},
+          "type": "Feature"
+        },
+        "id": "94f57f784f2fec2c",
+        "name": "Sendai-shi Miyagino-ku",
+        "place_type": "city"
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2051680021442707456"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2051680023757926546",
+        "created_at": "2026-05-05T15:06:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T16:06:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051680023757926546"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LPrctPuLCl",
+              "end": 29,
+              "expanded_url": "https://x.com/mikanmkx/status/2051680023757926546/photo/1",
+              "media_key": "3_2051680021442707456",
+              "start": 6,
+              "url": "https://t.co/LPrctPuLCl"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "94f57f784f2fec2c"
+        },
+        "id": "2051680023757926546",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "已接入模型 https://t.co/LPrctPuLCl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 87,
+          "like_count": 440,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 186
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

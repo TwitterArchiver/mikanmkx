@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054937323222257664"
+      ],
+      "media_source_tweet_id": [
+        "2054937341249409328"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2055203839574482980",
+    "created_at": "2026-05-15T08:29:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-15T09:29:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2055203839574482980"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "710834337965420544",
+          "start": 3,
+          "username": "excited_naive"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/c9MjrpIAEK",
+          "end": 54,
+          "expanded_url": "https://x.com/excited_naive/status/2054937341249409328/photo/1",
+          "media_key": "3_2054937323222257664",
+          "start": 31,
+          "url": "https://t.co/c9MjrpIAEK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2055203839574482980",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1015
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054937341249409328",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @excited_naive: 中南海（下北沢ver） https://t.co/c9MjrpIAEK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 997,
+        "media_key": "3_2054937323222257664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HISam6Ja0AAv-aX.jpg",
+        "width": 1578
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054937323222257664"
+          ],
+          "media_source_tweet_id": [
+            "2054937341249409328"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2055203839574482980",
+        "created_at": "2026-05-15T08:29:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-15T09:29:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2055203839574482980"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "710834337965420544",
+              "start": 3,
+              "username": "excited_naive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9MjrpIAEK",
+              "end": 54,
+              "expanded_url": "https://x.com/excited_naive/status/2054937341249409328/photo/1",
+              "media_key": "3_2054937323222257664",
+              "start": 31,
+              "url": "https://t.co/c9MjrpIAEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2055203839574482980",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1015
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054937341249409328",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @excited_naive: 中南海（下北沢ver） https://t.co/c9MjrpIAEK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054937323222257664"
+          ]
+        },
+        "author_id": "710834337965420544",
+        "conversation_id": "2054937341249409328",
+        "created_at": "2026-05-14T14:50:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T15:50:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054937341249409328"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/c9MjrpIAEK",
+              "end": 35,
+              "expanded_url": "https://x.com/excited_naive/status/2054937341249409328/photo/1",
+              "media_key": "3_2054937323222257664",
+              "start": 12,
+              "url": "https://t.co/c9MjrpIAEK"
+            },
+            {
+              "display_url": "x.com/isokaze183/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/isokaze183/status/2054869701185187912",
+              "start": 36,
+              "url": "https://t.co/NuGRizb6KR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054937341249409328",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 486,
+          "impression_count": 325435,
+          "like_count": 5664,
+          "quote_count": 46,
+          "reply_count": 37,
+          "retweet_count": 1015
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054869701185187912",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中南海（下北沢ver） https://t.co/c9MjrpIAEK https://t.co/NuGRizb6KR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 162,
+          "following_count": 174,
+          "like_count": 560,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 235
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2016-03-18T14:24:47.000Z",
+        "description": "聖地、コラボイベント巡礼bot（迫真）/ 限界旅 / 萌豚/ B級グルメ / 登山（34/100）/ 乗り鉄(駅メモ8964駅達成） / 温泉むすめ / 🏫🐴",
+        "id": "710834337965420544",
+        "location": "星取県倉野川市/限界旅途中",
+        "name": "イのヒ英オ",
+        "pinned_tweet_id": "1587995743570493441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966293410328776705/GhnV75r2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1744,
+          "following_count": 1278,
+          "like_count": 129365,
+          "listed_count": 14,
+          "media_count": 7041,
+          "tweet_count": 37523
+        },
+        "username": "excited_naive",
+        "verified": false
+      }
+    ]
+  }
+}

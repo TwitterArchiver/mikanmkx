@@ -1,0 +1,348 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "San Diego",
+          "id": "1012406055941226496",
+          "name": "San Diego"
+        }
+      }
+    ],
+    "conversation_id": "2044279553351119313",
+    "created_at": "2026-04-15T08:41:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T09:41:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044335263095361569"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481695629739020288",
+          "start": 0,
+          "username": "ODINAKAXO"
+        },
+        {
+          "end": 22,
+          "id": "1711307986100961281",
+          "start": 11,
+          "username": "logyAussie"
+        },
+        {
+          "end": 34,
+          "id": "1939438142894792704",
+          "start": 23,
+          "username": "BiGBENNGTR"
+        },
+        {
+          "end": 44,
+          "id": "1258094477861892096",
+          "start": 35,
+          "username": "ManMilk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044335263095361569",
+    "in_reply_to_user_id": "1481695629739020288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044332997705343225",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ODINAKAXO @logyAussie @BiGBENNGTR @ManMilk2 what are you talking about? you don't know the orion capsule landed near san diego? then i have nothing to say"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "San Diego",
+              "id": "1012406055941226496",
+              "name": "San Diego"
+            }
+          }
+        ],
+        "conversation_id": "2044279553351119313",
+        "created_at": "2026-04-15T08:41:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:41:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044335263095361569"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481695629739020288",
+              "start": 0,
+              "username": "ODINAKAXO"
+            },
+            {
+              "end": 22,
+              "id": "1711307986100961281",
+              "start": 11,
+              "username": "logyAussie"
+            },
+            {
+              "end": 34,
+              "id": "1939438142894792704",
+              "start": 23,
+              "username": "BiGBENNGTR"
+            },
+            {
+              "end": 44,
+              "id": "1258094477861892096",
+              "start": 35,
+              "username": "ManMilk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044335263095361569",
+        "in_reply_to_user_id": "1481695629739020288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044332997705343225",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ODINAKAXO @logyAussie @BiGBENNGTR @ManMilk2 what are you talking about? you don't know the orion capsule landed near san diego? then i have nothing to say"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481695629739020288",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Florida",
+              "id": "855436277054750722",
+              "name": "Florida"
+            }
+          }
+        ],
+        "conversation_id": "2044279553351119313",
+        "created_at": "2026-04-15T08:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T09:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044332997705343225"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            },
+            {
+              "end": 21,
+              "id": "1711307986100961281",
+              "start": 10,
+              "username": "logyAussie"
+            },
+            {
+              "end": 33,
+              "id": "1939438142894792704",
+              "start": 22,
+              "username": "BiGBENNGTR"
+            },
+            {
+              "end": 43,
+              "id": "1258094477861892096",
+              "start": 34,
+              "username": "ManMilk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044332997705343225",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044330000984486371",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx @logyAussie @BiGBENNGTR @ManMilk2 Distance from the Canary Islands to Florida 8000km \n\nI said tens of km of course \n\nDo u compare 10 or 15km  to 8000km ? 🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 45,
+          "like_count": 111,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 69
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T18:32:50.000Z",
+        "description": "💙❤️ 🚀",
+        "id": "1481695629739020288",
+        "location": "Jupitar🪐",
+        "name": "ODINAKA 🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745501366154338304/K1suivb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 642,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 3137
+        },
+        "username": "ODINAKAXO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T09:10:05.000Z",
+        "description": "Views my own not employer • possibly a bot • GSTK! • RP≠agree • prev OPSEC, aviation • not always serious • Told to put p-nouns & flags in bio so: I/we, 🏳️🏴🏁",
+        "id": "1711307986100961281",
+        "location": "Drummoyne, NSW",
+        "name": "Logy Australian",
+        "pinned_tweet_id": "2031224610809930205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752167273165721600/vr6Y7W9v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1975,
+          "following_count": 7437,
+          "like_count": 312415,
+          "listed_count": 6,
+          "media_count": 1540,
+          "tweet_count": 114753
+        },
+        "username": "logyAussie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T21:37:59.000Z",
+        "description": "Model Scout | Beth Model Management | DM for advert|IG -50k followers |Youtube -28k sub",
+        "id": "1939438142894792704",
+        "location": "Universe ",
+        "name": "Model Y",
+        "pinned_tweet_id": "2043053467774709772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036557268033101824/ftMFAj4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1623,
+          "following_count": 238,
+          "like_count": 13349,
+          "listed_count": 1,
+          "media_count": 595,
+          "tweet_count": 17964
+        },
+        "username": "BiGBENNGTR",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-06T18:01:26.000Z",
+        "description": "You’re gonna leave here in a whole lot of pain 😣",
+        "id": "1258094477861892096",
+        "name": "Images That Make You Feel Pain",
+        "pinned_tweet_id": "2042000528297566398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693869509357019136/9M9BjCl3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526694,
+          "following_count": 582,
+          "like_count": 12954,
+          "listed_count": 2409,
+          "media_count": 20717,
+          "tweet_count": 27351
+        },
+        "username": "ManMilk2",
+        "verified": true
+      }
+    ]
+  }
+}

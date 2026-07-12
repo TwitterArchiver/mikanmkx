@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2043572120664555829",
+    "created_at": "2026-04-13T06:23:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T07:23:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043575788700934365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040801790443257856",
+          "start": 0,
+          "username": "HamletMaschinen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043575788700934365",
+    "in_reply_to_user_id": "2040801790443257856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043574397785850023",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HamletMaschinen 确实而且离海很近上面风景超好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2043572120664555829",
+        "created_at": "2026-04-13T06:23:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:23:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043575788700934365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040801790443257856",
+              "start": 0,
+              "username": "HamletMaschinen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043575788700934365",
+        "in_reply_to_user_id": "2040801790443257856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043574397785850023",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HamletMaschinen 确实而且离海很近上面风景超好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040801790443257856",
+        "conversation_id": "2043572120664555829",
+        "created_at": "2026-04-13T06:17:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T07:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043574397785850023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043574397785850023",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043572120664555829",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 鸟海山好好看🥹之前去看出羽三山的时候总是想去看但是都以没空告终"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 74,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 42
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-05T14:55:56.000Z",
+        "description": "无定义神秘生物。鲨士啤亚。ag泛性恋、攻め。但从未有过对象，等待地球online加载中🔛欢迎找我玩\n【Eng/De/粤/中/日本語】語学、撮影、旅行、謎な料理、コメント歓迎",
+        "id": "2040801790443257856",
+        "location": "田舎",
+        "name": "SharksBeer",
+        "pinned_tweet_id": "2042276411378159853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040811899236093952/itfPADrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 5,
+          "like_count": 17,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 30
+        },
+        "username": "HamletMaschinen",
+        "verified": false
+      }
+    ]
+  }
+}

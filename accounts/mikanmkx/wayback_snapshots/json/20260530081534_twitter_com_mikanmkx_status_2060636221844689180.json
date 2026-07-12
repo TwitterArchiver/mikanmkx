@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060632226266751080",
+    "created_at": "2026-05-30T08:15:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T09:15:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060636221844689180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2047679401400373248",
+          "start": 0,
+          "username": "Hysteriadie0331"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060636221844689180",
+    "in_reply_to_user_id": "2047679401400373248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060635304839803148",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hysteriadie0331 需要安卓12以上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060632226266751080",
+        "created_at": "2026-05-30T08:15:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:15:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060636221844689180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2047679401400373248",
+              "start": 0,
+              "username": "Hysteriadie0331"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060636221844689180",
+        "in_reply_to_user_id": "2047679401400373248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060635304839803148",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hysteriadie0331 需要安卓12以上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047679401400373248",
+        "conversation_id": "2060632226266751080",
+        "created_at": "2026-05-30T08:11:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T09:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060635304839803148"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060635304839803148",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060632226266751080",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 你没有做兼容嘛，咱旧手机好像不可以，不过好手机可以用🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 269,
+          "like_count": 857,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 337
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-24T14:10:22.000Z",
+        "description": "2009｜mtf｜中度GD🏳️‍⚧️｜重启hrt:2026.05.01🍥｜有易性症病历｜家长反对党｜天残党｜INFP-T｜逆来顺受｜BPD｜同类fo｜请和咱交朋友嘛~｜疑似精神病患者（有病历）｜咱不喜欢屏蔽\n人，被屏蔽会特别难过...｜一只小透明\n‖‖聊天群:1101059788‖‖",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/hysteriadie",
+                "end": 23,
+                "expanded_url": "https://ngl.link/hysteriadie",
+                "start": 0,
+                "url": "https://t.co/TRsizLBvcB"
+              }
+            ]
+          }
+        },
+        "id": "2047679401400373248",
+        "location": "Internet and Paradise",
+        "name": "Life要吃糖🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057125853923049472/vp_IJNQA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 522,
+          "following_count": 352,
+          "like_count": 88,
+          "listed_count": 2,
+          "media_count": 13,
+          "tweet_count": 338
+        },
+        "url": "https://t.co/TRsizLBvcB",
+        "username": "Hysteriadie0331",
+        "verified": false
+      }
+    ]
+  }
+}

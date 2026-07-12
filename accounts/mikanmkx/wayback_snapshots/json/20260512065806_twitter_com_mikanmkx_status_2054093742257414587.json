@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2054093723223674880"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2054093742257414587",
+    "created_at": "2026-05-12T06:58:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T07:58:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2054093742257414587"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/oztUO8dzGw",
+          "end": 29,
+          "expanded_url": "https://x.com/mikanmkx/status/2054093742257414587/photo/1",
+          "media_key": "3_2054093723223674880",
+          "start": 6,
+          "url": "https://t.co/oztUO8dzGw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054093742257414587",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "累死我了（ https://t.co/oztUO8dzGw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 460,
+        "media_key": "3_2054093723223674880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIGbW7QbUAAxFNr.png",
+        "width": 360
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054093723223674880"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2054093742257414587",
+        "created_at": "2026-05-12T06:58:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T07:58:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054093742257414587"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oztUO8dzGw",
+              "end": 29,
+              "expanded_url": "https://x.com/mikanmkx/status/2054093742257414587/photo/1",
+              "media_key": "3_2054093723223674880",
+              "start": 6,
+              "url": "https://t.co/oztUO8dzGw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054093742257414587",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "累死我了（ https://t.co/oztUO8dzGw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 156,
+          "like_count": 523,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 220
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

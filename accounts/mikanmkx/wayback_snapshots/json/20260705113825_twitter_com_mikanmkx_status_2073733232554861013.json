@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2073733232554861013",
+    "created_at": "2026-07-05T11:38:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-05T12:38:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2073733232554861013"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pmamtraveller/…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/pmamtraveller/status/2054975937272242604",
+          "start": 11,
+          "url": "https://t.co/Exxp0wfiYu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073733232554861013",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2054975937272242604",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "😰真的有人想要这种吗 https://t.co/Exxp0wfiYu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 691,
+        "media_key": "3_2054975928636170242",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HIS9uChWYAISVHd.jpg",
+        "width": 1319
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2073733232554861013",
+        "created_at": "2026-07-05T11:38:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-05T12:38:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2073733232554861013"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pmamtraveller/…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/pmamtraveller/status/2054975937272242604",
+              "start": 11,
+              "url": "https://t.co/Exxp0wfiYu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073733232554861013",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054975937272242604",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😰真的有人想要这种吗 https://t.co/Exxp0wfiYu"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2054975928636170242"
+          ]
+        },
+        "author_id": "1698338340381020161",
+        "conversation_id": "2054975937272242604",
+        "created_at": "2026-05-14T17:23:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-14T18:23:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2054975937272242604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IJiueqosV1",
+              "end": 46,
+              "expanded_url": "https://x.com/pmamtraveller/status/2054975937272242604/photo/1",
+              "media_key": "3_2054975928636170242",
+              "start": 23,
+              "url": "https://t.co/IJiueqosV1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054975937272242604",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8033,
+          "impression_count": 23769883,
+          "like_count": 38556,
+          "quote_count": 3088,
+          "reply_count": 1043,
+          "retweet_count": 1935
+        },
+        "reply_settings": "everyone",
+        "text": "4000cc breast implants https://t.co/IJiueqosV1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 592,
+          "following_count": 507,
+          "like_count": 2220,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 652
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-03T14:13:32.000Z",
+        "description": "Ecce Mulier",
+        "id": "1698338340381020161",
+        "name": "PmAmTraveller",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698381116388868096/mNqD6ClK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104729,
+          "following_count": 302,
+          "like_count": 18578,
+          "listed_count": 530,
+          "media_count": 11223,
+          "tweet_count": 11384
+        },
+        "url": "",
+        "username": "pmamtraveller",
+        "verified": true
+      }
+    ]
+  }
+}

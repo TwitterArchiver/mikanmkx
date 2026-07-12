@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060632226266751080",
+    "created_at": "2026-05-31T05:05:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-31T06:05:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060950894901072023"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1541690170160070657",
+          "start": 0,
+          "username": "gold_ddl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060950894901072023",
+    "in_reply_to_user_id": "1541690170160070657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060789096814129459",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gold_ddl 真的有人切1/8片啊。。。好我会加的，第二个问题我需要考虑一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060632226266751080",
+        "created_at": "2026-05-31T05:05:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T06:05:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060950894901072023"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1541690170160070657",
+              "start": 0,
+              "username": "gold_ddl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060950894901072023",
+        "in_reply_to_user_id": "1541690170160070657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060789096814129459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gold_ddl 真的有人切1/8片啊。。。好我会加的，第二个问题我需要考虑一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1541690170160070657",
+        "conversation_id": "2060632226266751080",
+        "created_at": "2026-05-30T18:23:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T19:23:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060789096814129459"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060789096814129459",
+        "in_reply_to_user_id": "1541690170160070657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "遇到的一些问题：CPA有每次6.25mg的低剂量用法，即八分之一50mg片，当前版本最低只能下调到四分之一片;\n添加计划只有开始时间没有截止时间:如果甲方案(口服)不用了更换到乙方案(凝胶)，想要记录以前的方案甲，是否只能添加一个计划，然后按时间段添加记录后再归档旧方案甲？这样会导致每天都有一个旧方案的错过记录。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060772353999843370",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 遇到的一些问题：CPA有每次6.25mg的低剂量用法，即八分之一50mg片，当前版本最低只能下调到四分之一片;"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 278,
+          "like_count": 900,
+          "listed_count": 1,
+          "media_count": 91,
+          "tweet_count": 352
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-06-28T07:49:34.000Z",
+        "description": "ND | MtX | 现居安徽 | 沉迷尖塔中...\nsteam1365859697欢迎找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/gold_ddl",
+                "end": 23,
+                "expanded_url": "http://t.me/gold_ddl",
+                "start": 0,
+                "url": "https://t.co/ztWKvyp4Ei"
+              }
+            ]
+          }
+        },
+        "id": "1541690170160070657",
+        "location": "川陀大学图书馆",
+        "name": "金蒲公英(可食用)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035048383489220609/-WIV_jXC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 516,
+          "like_count": 4108,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 221
+        },
+        "url": "https://t.co/ztWKvyp4Ei",
+        "username": "gold_ddl",
+        "verified": true
+      }
+    ]
+  }
+}

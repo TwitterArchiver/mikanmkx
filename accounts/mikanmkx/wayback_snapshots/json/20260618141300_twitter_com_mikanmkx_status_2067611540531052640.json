@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2067591714710380723",
+    "created_at": "2026-06-18T14:13:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T15:13:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067611540531052640"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1554696046021730305",
+          "start": 0,
+          "username": "Pyuyi233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067611540531052640",
+    "in_reply_to_user_id": "1554696046021730305",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067602140198310384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pyuyi233 我刚就这么吃的，然后撩起来一边另外一边又掉下去了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2067591714710380723",
+        "created_at": "2026-06-18T14:13:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T15:13:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067611540531052640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1554696046021730305",
+              "start": 0,
+              "username": "Pyuyi233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067611540531052640",
+        "in_reply_to_user_id": "1554696046021730305",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067602140198310384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pyuyi233 我刚就这么吃的，然后撩起来一边另外一边又掉下去了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554696046021730305",
+        "conversation_id": "2067591714710380723",
+        "created_at": "2026-06-18T13:35:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T14:35:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067602140198310384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067602140198310384",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067591714710380723",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 一只手撩头发，一只手拿筷子吃（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 410,
+          "following_count": 360,
+          "like_count": 1328,
+          "listed_count": 1,
+          "media_count": 120,
+          "tweet_count": 460
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-08-03T05:10:13.000Z",
+        "description": "可以叫我mmm(Pyuyi)，INFJ\n\nmath\nAI Interpretability\nCybersecurity\n\n红薯：https://t.co/Bsz7QlXkD8",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "xiaohongshu.com/user/profile/6…",
+                "end": 87,
+                "expanded_url": "https://www.xiaohongshu.com/user/profile/60aa2bc40000000001002d6e?xsec_token=YBzOnWib22kxz9OHHhQ",
+                "start": 64,
+                "url": "https://t.co/Bsz7QlXkD8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/VeraPyuyi",
+                "end": 23,
+                "expanded_url": "https://github.com/VeraPyuyi",
+                "start": 0,
+                "url": "https://t.co/vZgYQSg5hB"
+              }
+            ]
+          }
+        },
+        "id": "1554696046021730305",
+        "location": "卡冈图雅",
+        "name": "Pyuyi",
+        "pinned_tweet_id": "2065675267646108047",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060548602880221185/XP4emOUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 904,
+          "following_count": 61,
+          "like_count": 244,
+          "listed_count": 2,
+          "media_count": 56,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/vZgYQSg5hB",
+        "username": "Pyuyi233",
+        "verified": true
+      }
+    ]
+  }
+}

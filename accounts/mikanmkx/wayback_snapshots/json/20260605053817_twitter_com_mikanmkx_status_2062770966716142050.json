@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2062770966716142050",
+    "created_at": "2026-06-05T05:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T06:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2062770966716142050"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rabbit_2333/st…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/rabbit_2333/status/2062424927719014526",
+          "start": 28,
+          "url": "https://t.co/y342r6LJNl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062770966716142050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062424927719014526",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然我一直觉得死后发生什么都与我无关但这实在是太恶心了 https://t.co/y342r6LJNl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2062424921574404096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ80ifpa8AA2ky1.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2062770966716142050",
+        "created_at": "2026-06-05T05:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T06:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062770966716142050"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rabbit_2333/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/rabbit_2333/status/2062424927719014526",
+              "start": 28,
+              "url": "https://t.co/y342r6LJNl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062770966716142050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062424927719014526",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然我一直觉得死后发生什么都与我无关但这实在是太恶心了 https://t.co/y342r6LJNl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062424921574404096"
+          ]
+        },
+        "author_id": "1426614422546518017",
+        "conversation_id": "2062424927719014526",
+        "created_at": "2026-06-04T06:43:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-04T07:43:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062424927719014526"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZCnoUkudXX",
+              "end": 47,
+              "expanded_url": "https://x.com/rabbit_2333/status/2062424927719014526/photo/1",
+              "media_key": "3_2062424921574404096",
+              "start": 24,
+              "url": "https://t.co/ZCnoUkudXX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062424927719014526",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 25041,
+          "like_count": 299,
+          "quote_count": 11,
+          "reply_count": 20,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "孩子们 不要紫砂 死了也会被劳保家长拉去配阴婚 https://t.co/ZCnoUkudXX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 323,
+          "following_count": 306,
+          "like_count": 1048,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 385
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2021-08-14T18:39:34.000Z",
+        "description": "A normal rabbit, nothing special",
+        "id": "1426614422546518017",
+        "name": "rabbit",
+        "pinned_tweet_id": "1737892653143064904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1567977506367770625/-b5Hbkjm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2491,
+          "following_count": 187,
+          "like_count": 522,
+          "listed_count": 14,
+          "media_count": 44,
+          "tweet_count": 385
+        },
+        "username": "rabbit_2333",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2066179322474557682",
+    "created_at": "2026-06-14T15:21:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T16:21:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066179322474557682"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/GazzettaFerrar…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/GazzettaFerrari/status/2066162831368610159",
+          "start": 18,
+          "url": "https://t.co/oKUXXteiMV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066179322474557682",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066162831368610159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "no risk full push https://t.co/oKUXXteiMV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 816,
+        "media_key": "3_2066162825672757248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKx8JJhXkAAfZhy.jpg",
+        "width": 1295
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2066179322474557682",
+        "created_at": "2026-06-14T15:21:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T16:21:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066179322474557682"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/GazzettaFerrar…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/GazzettaFerrari/status/2066162831368610159",
+              "start": 18,
+              "url": "https://t.co/oKUXXteiMV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066179322474557682",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066162831368610159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "no risk full push https://t.co/oKUXXteiMV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066162825672757248"
+          ]
+        },
+        "author_id": "1749554380670431232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "description": "Racing",
+              "id": "1058103880376971264",
+              "name": "Racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Auto racing",
+              "id": "847900599387430912",
+              "name": "Auto racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Formula 1",
+              "id": "854701577994616832",
+              "name": "Formula 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1497266565669998594",
+              "name": "Open-wheel racing"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509530211146088466",
+              "name": "Motorsport"
+            }
+          }
+        ],
+        "conversation_id": "2066162831368610159",
+        "created_at": "2026-06-14T14:16:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T15:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066162831368610159"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 73,
+              "tag": "BarcelonaGP"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/kMKbVZB8lw",
+              "end": 112,
+              "expanded_url": "https://x.com/GazzettaFerrari/status/2066162831368610159/photo/1",
+              "media_key": "3_2066162825672757248",
+              "start": 89,
+              "url": "https://t.co/kMKbVZB8lw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066162831368610159",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 120,
+          "impression_count": 64933,
+          "like_count": 7089,
+          "quote_count": 19,
+          "reply_count": 32,
+          "retweet_count": 702
+        },
+        "reply_settings": "everyone",
+        "text": "📻 |  Santi: \"15 laps to go, you are doing a good job so you can go on.\"\n\n#BarcelonaGP 🇪🇸 https://t.co/kMKbVZB8lw"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2063569998988382403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 348,
+          "like_count": 1245,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-01-22T22:07:48.000Z",
+        "description": "Fan account | Scuderia Ferrari News ❤️🐎",
+        "id": "1749554380670431232",
+        "name": "La Gazzetta Ferrari",
+        "pinned_tweet_id": "2066167677270245459",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885672570063630336/Ufi6VLm-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 94425,
+          "following_count": 3485,
+          "like_count": 2797,
+          "listed_count": 348,
+          "media_count": 5140,
+          "tweet_count": 6935
+        },
+        "username": "GazzettaFerrari",
+        "verified": true
+      }
+    ]
+  }
+}

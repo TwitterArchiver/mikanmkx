@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2046030428608594273",
+    "created_at": "2026-04-20T01:23:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T02:23:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046036927560949943"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1689672109612818432",
+          "start": 0,
+          "username": "KinaCatGirl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046036927560949943",
+    "in_reply_to_user_id": "1689672109612818432",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046030428608594273",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KinaCatGirl Congrats🎉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 486,
+        "media_key": "3_2046030015465398272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGT1dW-aIAAAuUp.png",
+        "width": 596
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2046030428608594273",
+        "created_at": "2026-04-20T01:23:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T02:23:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046036927560949943"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1689672109612818432",
+              "start": 0,
+              "username": "KinaCatGirl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046036927560949943",
+        "in_reply_to_user_id": "1689672109612818432",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046030428608594273",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KinaCatGirl Congrats🎉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046030015465398272"
+          ]
+        },
+        "author_id": "1689672109612818432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2046030428608594273",
+        "created_at": "2026-04-20T00:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T01:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046030428608594273"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Gi6fDIVnXW",
+              "end": 218,
+              "expanded_url": "https://x.com/KinaCatGirl/status/2046030428608594273/photo/1",
+              "media_key": "3_2046030015465398272",
+              "start": 195,
+              "url": "https://t.co/Gi6fDIVnXW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046030428608594273",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "thanks for 10 followers :3\n\nall jokes aside but it really is like a dream come true!\n\nI've been working towards this goal for so long now and I've finally reached it \n\nthanks for all being here! https://t.co/Gi6fDIVnXW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39,
+          "following_count": 62,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 112
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-10T16:16:45.000Z",
+        "description": "Magical Cat Girl Vtuber 🐈‍⬛🪄| Trans Teenager who has opinions  | 🍬 HRT: Sep/26/2025 | EN/中文 | Ethnicity: 🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ko-fi.com/KinaVT",
+                "end": 23,
+                "expanded_url": "https://www.ko-fi.com/KinaVT",
+                "start": 0,
+                "url": "https://t.co/aohP2pCAfO"
+              }
+            ]
+          }
+        },
+        "id": "1689672109612818432",
+        "location": "She/Her 🏳️‍⚧️| 18yro",
+        "name": "Kina🐈‍⬛🪄",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037440588916862976/qGgTFSYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10019,
+          "following_count": 2286,
+          "like_count": 32547,
+          "listed_count": 20,
+          "media_count": 1756,
+          "tweet_count": 15831
+        },
+        "url": "https://t.co/aohP2pCAfO",
+        "username": "KinaCatGirl",
+        "verified": true
+      }
+    ]
+  }
+}

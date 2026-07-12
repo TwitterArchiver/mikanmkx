@@ -1,0 +1,482 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1271188422292463616",
+          "name": "Pragmata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1271188422292463616",
+          "name": "Pragmata"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897364881178624",
+          "name": "Action-adventure games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491898787358408746",
+          "name": "Sci-fi games"
+        }
+      }
+    ],
+    "conversation_id": "2047212628779335951",
+    "created_at": "2026-04-23T08:17:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T09:17:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047228256294961278"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "989294690108293126",
+          "start": 0,
+          "username": "NVIDIAGeForceJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047228256294961278",
+    "in_reply_to_user_id": "989294690108293126",
+    "lang": "eu",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047212628779335951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NVIDIAGeForceJP PRAGMATA RTX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2047212621405757440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGkpCFaWIAADCNW.jpg",
+        "width": 6000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          }
+        ],
+        "conversation_id": "2047212628779335951",
+        "created_at": "2026-04-23T08:17:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T09:17:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047228256294961278"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "989294690108293126",
+              "start": 0,
+              "username": "NVIDIAGeForceJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047228256294961278",
+        "in_reply_to_user_id": "989294690108293126",
+        "lang": "eu",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047212628779335951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NVIDIAGeForceJP PRAGMATA RTX"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047212621405757440"
+          ]
+        },
+        "author_id": "989294690108293126",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1271188422292463616",
+              "name": "Pragmata"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897364881178624",
+              "name": "Action-adventure games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491898787358408746",
+              "name": "Sci-fi games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10042890459",
+              "name": "NVIDIA GeForce"
+            }
+          }
+        ],
+        "conversation_id": "2047212628779335951",
+        "created_at": "2026-04-23T07:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T08:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047212628779335951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Mc4gnapt9O",
+              "end": 173,
+              "expanded_url": "https://x.com/NVIDIAGeForceJP/status/2047212628779335951/photo/1",
+              "media_key": "3_2047212621405757440",
+              "start": 150,
+              "url": "https://t.co/Mc4gnapt9O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047212628779335951",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 168,
+          "impression_count": 106198,
+          "like_count": 1243,
+          "quote_count": 32,
+          "reply_count": 1866,
+          "retweet_count": 455
+        },
+        "reply_settings": "everyone",
+        "text": "『PRAGMATA』がパストレーシングと DLSS 4 対応で発売開始！\n\nこれを記念して、ヒューとディアナをモチーフにした「GeForce RTX 5090 Founders Edition」を抽選でプレゼント🎁\n\n応募方法はこのアカウントをフォローして、「PRAGMATA RTX」とコメント。 https://t.co/Mc4gnapt9O"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2046085639108698407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 72,
+          "like_count": 304,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 133
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2018-04-26T00:06:49.000Z",
+        "description": "NVIDIA Blackwell と AI を搭載した GeForce RTX 50 シリーズグラフィックスカードとノート PC が登場。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nvidia.com/ja-jp/geforce/",
+                "end": 23,
+                "expanded_url": "https://www.nvidia.com/ja-jp/geforce/",
+                "start": 0,
+                "url": "https://t.co/bh5tuSqOu7"
+              }
+            ]
+          }
+        },
+        "id": "989294690108293126",
+        "location": "東京都港区赤坂",
+        "name": "NVIDIA GeForce JP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033725556207022080/JtOuT04R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 331163,
+          "following_count": 156,
+          "like_count": 3425,
+          "listed_count": 1137,
+          "media_count": 4616,
+          "tweet_count": 6292
+        },
+        "url": "https://t.co/bh5tuSqOu7",
+        "username": "NVIDIAGeForceJP",
+        "verified": true
+      }
+    ]
+  }
+}

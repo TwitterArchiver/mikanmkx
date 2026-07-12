@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072601621067088106",
+    "created_at": "2026-07-03T01:57:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T02:57:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072862297538892082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1907071235777081344",
+          "start": 0,
+          "username": "Lyx1877174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072862297538892082",
+    "in_reply_to_user_id": "1907071235777081344",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072861060764201460",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyx1877174 其实好几个星期前就写好设计了，不过我觉得校准这种功能还是用fable5最后检查下好些"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072601621067088106",
+        "created_at": "2026-07-03T01:57:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:57:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072862297538892082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1907071235777081344",
+              "start": 0,
+              "username": "Lyx1877174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072862297538892082",
+        "in_reply_to_user_id": "1907071235777081344",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072861060764201460",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyx1877174 其实好几个星期前就写好设计了，不过我觉得校准这种功能还是用fable5最后检查下好些"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1907071235777081344",
+        "conversation_id": "2072601621067088106",
+        "created_at": "2026-07-03T01:52:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T02:52:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072861060764201460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072861060764201460",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072601621067088106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 等一下居然用的是fable5吗!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 559,
+          "following_count": 472,
+          "like_count": 2021,
+          "listed_count": 2,
+          "media_count": 149,
+          "tweet_count": 615
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-01T14:03:19.000Z",
+        "description": "MtF! 🏳️‍⚧️ | 生产日期 01.31.2012 | 无证🍥 2025.10.2 | INTJ | 179 | Pan | 上海 | 一点点计算机? | 精神疾病有我也不知道) | 三好学生 - 不抽烟 不喝酒 不od | 还活着 | 我的家长最好不在这里盯着我  | 同类互fo | 背景图片侵权了吗?",
+        "id": "1907071235777081344",
+        "location": "New Jersey, USA",
+        "name": "theObviousNewBirth🍥🏳️‍🌈🏳️‍⚧️🇺🇦🇹🇼🇺🇸",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013233402472787968/tZB0bFhr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 502,
+          "like_count": 3941,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 236
+        },
+        "url": "",
+        "username": "Lyx1877174",
+        "verified": false
+      }
+    ]
+  }
+}

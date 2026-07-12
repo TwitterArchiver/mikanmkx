@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2043545881069387942",
+    "created_at": "2026-04-13T04:24:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:24:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043545881069387942"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Tiny69fr0g/sta…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/Tiny69fr0g/status/2043478435750613020",
+          "start": 13,
+          "url": "https://t.co/hW264MHr7p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043545881069387942",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043478435750613020",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "Literally me https://t.co/hW264MHr7p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1422,
+        "media_key": "3_2043478428565831680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFvkzdDXAAADe87.jpg",
+        "width": 1887
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2043545881069387942",
+        "created_at": "2026-04-13T04:24:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:24:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043545881069387942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Tiny69fr0g/sta…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/Tiny69fr0g/status/2043478435750613020",
+              "start": 13,
+              "url": "https://t.co/hW264MHr7p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043545881069387942",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043478435750613020",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Literally me https://t.co/hW264MHr7p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043478428565831680"
+          ]
+        },
+        "author_id": "2015568571787591680",
+        "conversation_id": "2043478435750613020",
+        "created_at": "2026-04-12T23:56:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T00:56:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043478435750613020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6jRWeCwFfG",
+              "end": 35,
+              "expanded_url": "https://x.com/Tiny69fr0g/status/2043478435750613020/photo/1",
+              "media_key": "3_2043478428565831680",
+              "start": 12,
+              "url": "https://t.co/6jRWeCwFfG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043478435750613020",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 578,
+          "impression_count": 25634,
+          "like_count": 4033,
+          "quote_count": 20,
+          "reply_count": 11,
+          "retweet_count": 540
+        },
+        "reply_settings": "everyone",
+        "text": "Gender envy https://t.co/6jRWeCwFfG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 37
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-25T23:33:08.000Z",
+        "description": "Mdni 🔞|| 🕊️⚰️ || disturbing , problematic, weird media ahead if it makes you uncomfortable, please just block me",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yuhrih.straw.page",
+                "end": 23,
+                "expanded_url": "http://yuhrih.straw.page",
+                "start": 0,
+                "url": "https://t.co/EFGlIjnZEA"
+              }
+            ]
+          }
+        },
+        "id": "2015568571787591680",
+        "name": "ْ",
+        "pinned_tweet_id": "2015572726606450729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041912671662968832/LtI-ZU2c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17474,
+          "following_count": 7,
+          "like_count": 278,
+          "listed_count": 10,
+          "media_count": 81,
+          "tweet_count": 267
+        },
+        "url": "https://t.co/EFGlIjnZEA",
+        "username": "Tiny69fr0g",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057410476183814144"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2057410565686092157",
+    "created_at": "2026-05-21T10:37:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T11:37:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057410565686092157"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sWfI50cCH8",
+          "end": 48,
+          "expanded_url": "https://x.com/mikanmkx/status/2057410565686092157/photo/1",
+          "media_key": "3_2057410476183814144",
+          "start": 25,
+          "url": "https://t.co/sWfI50cCH8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057410565686092157",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "opus4.7已经完全变成美国留学生说话方式了💀 https://t.co/sWfI50cCH8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 211,
+        "media_key": "3_2057410476183814144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI1j7W4agAAnVPg.jpg",
+        "width": 1572
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057410476183814144"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2057410565686092157",
+        "created_at": "2026-05-21T10:37:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T11:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057410565686092157"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sWfI50cCH8",
+              "end": 48,
+              "expanded_url": "https://x.com/mikanmkx/status/2057410565686092157/photo/1",
+              "media_key": "3_2057410476183814144",
+              "start": 25,
+              "url": "https://t.co/sWfI50cCH8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057410565686092157",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "opus4.7已经完全变成美国留学生说话方式了💀 https://t.co/sWfI50cCH8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 195,
+          "like_count": 642,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 265
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2044619888581586954",
+    "created_at": "2026-04-16T03:32:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T04:32:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044619888581586954"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Firebrandstan/…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Firebrandstan/status/2044499061395349785",
+          "start": 5,
+          "url": "https://t.co/GTidNvpZ1w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044619888581586954",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044499061395349785",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "かわいい https://t.co/GTidNvpZ1w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 550,
+        "media_key": "3_2044498934236610560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF-E8s7WgAANDJE.png",
+        "width": 542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2044619888581586954",
+        "created_at": "2026-04-16T03:32:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T04:32:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044619888581586954"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Firebrandstan/…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Firebrandstan/status/2044499061395349785",
+              "start": 5,
+              "url": "https://t.co/GTidNvpZ1w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044619888581586954",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044499061395349785",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "かわいい https://t.co/GTidNvpZ1w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044498934236610560"
+          ]
+        },
+        "author_id": "1186776118902362112",
+        "conversation_id": "2044499061395349785",
+        "created_at": "2026-04-15T19:32:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T20:32:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044499061395349785"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/a9M04TewhC",
+              "end": 23,
+              "expanded_url": "https://x.com/Firebrandstan/status/2044499061395349785/photo/1",
+              "media_key": "3_2044498934236610560",
+              "start": 0,
+              "url": "https://t.co/a9M04TewhC"
+            },
+            {
+              "display_url": "x.com/CBSNews/status…",
+              "end": 47,
+              "expanded_url": "https://twitter.com/CBSNews/status/2044442907667476818",
+              "start": 24,
+              "url": "https://t.co/ZbYgFL3t7f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044499061395349785",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 718,
+          "impression_count": 162167,
+          "like_count": 7982,
+          "quote_count": 13,
+          "reply_count": 6,
+          "retweet_count": 899
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044442907667476818",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/a9M04TewhC https://t.co/ZbYgFL3t7f"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 54,
+          "like_count": 139,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 80
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2019-10-22T22:47:42.000Z",
+        "description": "best strike fighter since February 1942 | any/all",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "baesystems.com/en-uk/heritage…",
+                "end": 23,
+                "expanded_url": "https://www.baesystems.com/en-uk/heritage/blackburn-b37-firebrand",
+                "start": 0,
+                "url": "https://t.co/IQxHHNlV3Q"
+              }
+            ]
+          }
+        },
+        "id": "1186776118902362112",
+        "location": "Yorkshire",
+        "name": "Blackburn Firebrand official fanpage",
+        "pinned_tweet_id": "1691203563182022656",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039501396647591936/35bw1xqr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2266,
+          "following_count": 2092,
+          "like_count": 451492,
+          "listed_count": 18,
+          "media_count": 8404,
+          "tweet_count": 24466
+        },
+        "url": "https://t.co/IQxHHNlV3Q",
+        "username": "Firebrandstan",
+        "verified": false
+      }
+    ]
+  }
+}

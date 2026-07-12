@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2042016631581209032",
+    "created_at": "2026-04-09T05:58:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T06:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042119859274969399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1687209225783525376",
+          "start": 0,
+          "username": "nyaraVT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042119859274969399",
+    "in_reply_to_user_id": "1687209225783525376",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042016631581209032",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyaraVT It really is complete bs but it's also deceptive. I was trapped in it for months before realizing. Also for some reason in non English speaking trans communities people still talk about it"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2042016631581209032",
+        "created_at": "2026-04-09T05:58:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T06:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042119859274969399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1687209225783525376",
+              "start": 0,
+              "username": "nyaraVT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042119859274969399",
+        "in_reply_to_user_id": "1687209225783525376",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042016631581209032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyaraVT It really is complete bs but it's also deceptive. I was trapped in it for months before realizing. Also for some reason in non English speaking trans communities people still talk about it"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1687209225783525376",
+        "conversation_id": "2042016631581209032",
+        "created_at": "2026-04-08T23:07:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T00:07:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042016631581209032"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042016631581209032",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3833,
+          "like_count": 324,
+          "quote_count": 1,
+          "reply_count": 23,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "AGP was a theory invented by misogynistic men who think women don’t find themselves attractive when dressing up and only do it to cater to men."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | 无证含糖 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 9,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T21:10:05.000Z",
+        "description": "Just a Foxgirl with an opinion, cat VA, doesn’t stfu\n\n✉️ business@nyara.eu PFP: @mugripley",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 80,
+                "username": "mugripley"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@nyaraVT",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@nyaraVT",
+                "start": 0,
+                "url": "https://t.co/F4ohkT9Snj"
+              }
+            ]
+          }
+        },
+        "id": "1687209225783525376",
+        "location": "her/she",
+        "name": "nyara",
+        "pinned_tweet_id": "1985310324476826022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964436574608805888/3lhBq3Kj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44892,
+          "following_count": 1605,
+          "like_count": 97695,
+          "listed_count": 330,
+          "media_count": 3849,
+          "tweet_count": 27309
+        },
+        "url": "https://t.co/F4ohkT9Snj",
+        "username": "nyaraVT",
+        "verified": true
+      }
+    ]
+  }
+}

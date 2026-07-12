@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2044453279544054153",
+    "created_at": "2026-04-16T01:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T02:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044592208364597468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040801790443257856",
+          "start": 0,
+          "username": "HamletMaschinen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044592208364597468",
+    "in_reply_to_user_id": "2040801790443257856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044590043642384888",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HamletMaschinen 唉我日语写作残废没有ai已经不知道怎么写了，结果就是日常三个ai来回转最后拼凑出一封邮件（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2044453279544054153",
+        "created_at": "2026-04-16T01:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044592208364597468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040801790443257856",
+              "start": 0,
+              "username": "HamletMaschinen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044592208364597468",
+        "in_reply_to_user_id": "2040801790443257856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044590043642384888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HamletMaschinen 唉我日语写作残废没有ai已经不知道怎么写了，结果就是日常三个ai来回转最后拼凑出一封邮件（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040801790443257856",
+        "conversation_id": "2044453279544054153",
+        "created_at": "2026-04-16T01:33:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T02:33:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044590043642384888"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044590043642384888",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044589179838038016",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 不需要高级别敬语的感觉自己写就行了，但给学校发邮件我经常诚惶诚恐地问ai这敬语怎么加😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19,
+          "following_count": 52,
+          "like_count": 135,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 76
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-05T14:55:56.000Z",
+        "description": "无定义神秘生物。鲨士啤亚。ag泛性恋。但从未有过对象，等待地球online加载中🔛欢迎找我玩\nQU|【Eng/De/粤/中/日本語】語学、撮影、鳥、旅行、謎な料理、コメント歓迎",
+        "id": "2040801790443257856",
+        "location": "田舎",
+        "name": "SharksBeer",
+        "pinned_tweet_id": "2042276411378159853",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040811899236093952/itfPADrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 9,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 42
+        },
+        "username": "HamletMaschinen",
+        "verified": false
+      }
+    ]
+  }
+}

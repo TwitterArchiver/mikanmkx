@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2053317831564075517",
+    "created_at": "2026-05-10T04:31:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-10T05:31:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2053332176733909204"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1870322321560629248",
+          "start": 0,
+          "username": "EMP_Today"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2053332176733909204",
+    "in_reply_to_user_id": "1870322321560629248",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053317831564075517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EMP_Today m3e真的不好看"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2053317831564075517",
+        "created_at": "2026-05-10T04:31:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T05:31:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2053332176733909204"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1870322321560629248",
+              "start": 0,
+              "username": "EMP_Today"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2053332176733909204",
+        "in_reply_to_user_id": "1870322321560629248",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053317831564075517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EMP_Today m3e真的不好看"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870322321560629248",
+        "conversation_id": "2053317831564075517",
+        "created_at": "2026-05-10T03:34:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-10T04:34:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2053317831564075517"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2053317831564075517",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 20,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我有一种谷歌的设计水平越来越差的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 143,
+          "like_count": 499,
+          "listed_count": 1,
+          "media_count": 56,
+          "tweet_count": 212
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-21T04:16:25.000Z",
+        "description": "wireheading｜🏳️‍🌈 Gay｜he/him｜音ゲー｜Social Liberal｜Interact ≠ Endorse｜🥰🐱@skhdohwo @tutu65537｜💤 @sleepy3302｜@EMP_Alter",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 68,
+                "username": "skhdohwo"
+              },
+              {
+                "end": 88,
+                "start": 78,
+                "username": "tutu65537"
+              },
+              {
+                "end": 102,
+                "start": 91,
+                "username": "sleepy3302"
+              },
+              {
+                "end": 113,
+                "start": 103,
+                "username": "EMP_Alter"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "arcaea.lowiro.com",
+                "end": 23,
+                "expanded_url": "https://arcaea.lowiro.com",
+                "start": 0,
+                "url": "https://t.co/7JbhVkgt7N"
+              }
+            ]
+          }
+        },
+        "id": "1870322321560629248",
+        "location": "但是一切已经改变不了了。",
+        "name": "EmptyPlate 🏳️‍🌈",
+        "pinned_tweet_id": "1962420289641603097",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009634216611557376/4VCC3UQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 372,
+          "like_count": 31469,
+          "listed_count": 2,
+          "media_count": 360,
+          "tweet_count": 4789
+        },
+        "url": "https://t.co/7JbhVkgt7N",
+        "username": "EMP_Today",
+        "verified": false
+      }
+    ]
+  }
+}

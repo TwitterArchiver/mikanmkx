@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2075021938825875718",
+    "created_at": "2026-07-09T00:59:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T01:59:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075021938825875718"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/williamlab/sta…",
+          "end": 26,
+          "expanded_url": "https://twitter.com/williamlab/status/2074842568685461800",
+          "start": 3,
+          "url": "https://t.co/AGm7s9jDbq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075021938825875718",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074842568685461800",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "赢！ https://t.co/AGm7s9jDbq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 168,
+        "media_key": "3_2074842461302841344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMtSOb7aYAAaGjs.png",
+        "width": 648
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2075021938825875718",
+        "created_at": "2026-07-09T00:59:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T01:59:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075021938825875718"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/williamlab/sta…",
+              "end": 26,
+              "expanded_url": "https://twitter.com/williamlab/status/2074842568685461800",
+              "start": 3,
+              "url": "https://t.co/AGm7s9jDbq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075021938825875718",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074842568685461800",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "赢！ https://t.co/AGm7s9jDbq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074842461302841344"
+          ]
+        },
+        "author_id": "763250971141025792",
+        "conversation_id": "2074842568685461800",
+        "created_at": "2026-07-08T13:06:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074842568685461800"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5Sgm5zR8T",
+              "end": 27,
+              "expanded_url": "https://x.com/williamlab/status/2074842568685461800/photo/1",
+              "media_key": "3_2074842461302841344",
+              "start": 4,
+              "url": "https://t.co/o5Sgm5zR8T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074842568685461800",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 176613,
+          "like_count": 361,
+          "quote_count": 5,
+          "reply_count": 232,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "？？？ https://t.co/o5Sgm5zR8T"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 617,
+          "following_count": 530,
+          "like_count": 2418,
+          "listed_count": 2,
+          "media_count": 165,
+          "tweet_count": 695
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2016-08-10T05:49:46.000Z",
+        "description": "一个伪装成加密博主的段子手。\n聊投资，聊加密，聊心态，聊比特币。\n这里的所有内容均不作为投资建议。 BTC HODL",
+        "id": "763250971141025792",
+        "location": "Hongkong",
+        "name": "陳威廉",
+        "pinned_tweet_id": "2014240420847600069",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1905263911060078592/0QafMmkn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195837,
+          "following_count": 358,
+          "like_count": 702,
+          "listed_count": 2707,
+          "media_count": 3331,
+          "tweet_count": 7392
+        },
+        "url": "",
+        "username": "williamlab",
+        "verified": true
+      }
+    ]
+  }
+}

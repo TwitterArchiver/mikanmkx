@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072863294822793392",
+    "created_at": "2026-07-03T05:48:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T06:48:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072920299201544227"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1551042471575973889",
+          "start": 0,
+          "username": "fnoozp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072920299201544227",
+    "in_reply_to_user_id": "1551042471575973889",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072917203226415344",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@fnoozp 不知道这个能不能开药。。只能先找潘柏林问问了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072863294822793392",
+        "created_at": "2026-07-03T05:48:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072920299201544227"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1551042471575973889",
+              "start": 0,
+              "username": "fnoozp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072920299201544227",
+        "in_reply_to_user_id": "1551042471575973889",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072917203226415344",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fnoozp 不知道这个能不能开药。。只能先找潘柏林问问了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1551042471575973889",
+        "conversation_id": "2072863294822793392",
+        "created_at": "2026-07-03T05:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T06:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072917203226415344"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072917203226415344",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072863294822793392",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 恭喜你呀，开出隐藏款了（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 568,
+          "following_count": 475,
+          "like_count": 2049,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 627
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-24T03:12:27.000Z",
+        "description": "20岁顺女（确信）",
+        "id": "1551042471575973889",
+        "name": "初怡晓晓🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034599883244802048/X9AhM2Mk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 1984,
+          "like_count": 12381,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 135
+        },
+        "url": "",
+        "username": "fnoozp",
+        "verified": false
+      }
+    ]
+  }
+}

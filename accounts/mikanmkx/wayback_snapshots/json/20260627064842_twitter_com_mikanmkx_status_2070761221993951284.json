@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2070761221993951284",
+    "created_at": "2026-06-27T06:48:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:48:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070761221993951284"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/landiantech/st…",
+          "end": 70,
+          "expanded_url": "https://twitter.com/landiantech/status/2070341781011808371",
+          "start": 47,
+          "url": "https://t.co/UiSqbz816B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070761221993951284",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070341781011808371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "本来说攒钱年底换个m6pro的，结果tm不出了，现在m5pro还涨价了，这下等等党真的大失败 https://t.co/UiSqbz816B"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2070325842962743296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLtGYpcbAAAMo-s.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2070761221993951284",
+        "created_at": "2026-06-27T06:48:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:48:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070761221993951284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/landiantech/st…",
+              "end": 70,
+              "expanded_url": "https://twitter.com/landiantech/status/2070341781011808371",
+              "start": 47,
+              "url": "https://t.co/UiSqbz816B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070761221993951284",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070341781011808371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "本来说攒钱年底换个m6pro的，结果tm不出了，现在m5pro还涨价了，这下等等党真的大失败 https://t.co/UiSqbz816B"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070325842962743296"
+          ]
+        },
+        "author_id": "1602320477347000325",
+        "conversation_id": "2070341781011808371",
+        "created_at": "2026-06-26T03:02:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T04:02:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070341781011808371"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 41,
+              "start": 38,
+              "tag": "M7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "ourl.co/113662?x",
+              "end": 176,
+              "expanded_url": "https://ourl.co/113662?x",
+              "start": 153,
+              "status": 404,
+              "unwound_url": "https://www.landian.news/archives/113662.html?utm_campaign=share&utm_source=x.com&utm_medium=social&utm_content=landiantech&utm_term=landian-default",
+              "url": "https://t.co/AegMAanaFW"
+            },
+            {
+              "display_url": "pic.x.com/Z81bPWmy4z",
+              "end": 200,
+              "expanded_url": "https://x.com/landiantech/status/2070341781011808371/photo/1",
+              "media_key": "3_2070325842962743296",
+              "start": 177,
+              "url": "https://t.co/Z81bPWmy4z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070341781011808371",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 38,
+                "tag": "M7"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ourl.co/113662?x",
+                "end": 176,
+                "expanded_url": "https://ourl.co/113662?x",
+                "start": 153,
+                "url": "https://t.co/ePbXFT4T0Z"
+              }
+            ]
+          },
+          "text": "全力转向本地 AI 计算：苹果将跳过 M6 高端版，直接转向聚焦 AI 的 #M7。\n\n苹果将只提供 M6 基础版，但即便是基础版内存带宽也提高到 200GB / 秒，从明年开始苹果将推出聚焦于 AI 架构优化的 M7 芯片，这些芯片拥有更强大的本地 AI 计算能力，内存带宽会提升到 240GB / 秒：https://t.co/ePbXFT4T0Z"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 21852,
+          "like_count": 70,
+          "quote_count": 3,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "全力转向本地 AI 计算：苹果将跳过 M6 高端版，直接转向聚焦 AI 的 #M7。\n\n苹果将只提供 M6 基础版，但即便是基础版内存带宽也提高到 200GB / 秒，从明年开始苹果将推出聚焦于 AI 架构优化的 M7 芯片，这些芯片拥有更强大的本地 AI 计算能力，内存带宽会提升到 240GB / 秒：https://t.co/AegMAanaFW https://t.co/Z81bPWmy4z"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 421,
+          "like_count": 1649,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 539
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-12-12T15:12:39.000Z",
+        "description": "独立科技网站 - 蓝点网 / 感谢关注 / AI / 重度 Codex & Claude Code 用户",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "landian.news",
+                "end": 23,
+                "expanded_url": "https://www.landian.news/",
+                "start": 0,
+                "url": "https://t.co/AQRoCx3e7F"
+              }
+            ]
+          }
+        },
+        "id": "1602320477347000325",
+        "location": "土卫六",
+        "name": "蓝点网",
+        "pinned_tweet_id": "2061311181663715671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1602322985750532101/74lzDoYy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36022,
+          "following_count": 762,
+          "like_count": 5097,
+          "listed_count": 280,
+          "media_count": 5909,
+          "tweet_count": 16146
+        },
+        "url": "https://t.co/AQRoCx3e7F",
+        "username": "landiantech",
+        "verified": true
+      }
+    ]
+  }
+}

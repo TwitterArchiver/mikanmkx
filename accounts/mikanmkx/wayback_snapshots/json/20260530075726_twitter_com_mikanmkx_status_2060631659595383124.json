@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060631655891742868",
+    "created_at": "2026-05-30T07:57:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T08:57:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060631659595383124"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "HRT tracker for Android: dose log, PK projection, lab results. Encrypted, offline. - mkx173/Featherline",
+          "display_url": "github.com/mkx173/Feather…",
+          "end": 23,
+          "expanded_url": "https://github.com/mkx173/Featherline",
+          "start": 0,
+          "status": 200,
+          "title": "GitHub - mkx173/Featherline: HRT tracker for Android: dose log, PK projection, lab results. Encrypted, offline.",
+          "unwound_url": "https://github.com/mkx173/Featherline",
+          "url": "https://t.co/ZGA6VCSWeD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060631659595383124",
+    "in_reply_to_user_id": "1988674513517834244",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060631655891742868",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "https://t.co/ZGA6VCSWeD\n推荐使用 Play 商店版本。由于本应用不申请网络权限，apk无法自动检查更新，您需要手动关注release页面"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2160,
+        "media_key": "3_2060631061613490176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjVCGibsAA52iS.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2060631061621809152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjVCGkaoAAY5tb.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2060631061626007552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjVCGlasAAPK7Q.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2060631061613481984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJjVCGibkAAEnSp.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060631655891742868",
+        "created_at": "2026-05-30T07:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060631659595383124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "HRT tracker for Android: dose log, PK projection, lab results. Encrypted, offline. - mkx173/Featherline",
+              "display_url": "github.com/mkx173/Feather…",
+              "end": 23,
+              "expanded_url": "https://github.com/mkx173/Featherline",
+              "start": 0,
+              "status": 200,
+              "title": "GitHub - mkx173/Featherline: HRT tracker for Android: dose log, PK projection, lab results. Encrypted, offline.",
+              "unwound_url": "https://github.com/mkx173/Featherline",
+              "url": "https://t.co/ZGA6VCSWeD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060631659595383124",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060631655891742868",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "https://t.co/ZGA6VCSWeD\n推荐使用 Play 商店版本。由于本应用不申请网络权限，apk无法自动检查更新，您需要手动关注release页面"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2060631061613490176",
+            "3_2060631061621809152",
+            "3_2060631061626007552",
+            "3_2060631061613481984"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026820777",
+              "name": "Android"
+            }
+          }
+        ],
+        "conversation_id": "2060631655891742868",
+        "created_at": "2026-05-30T07:57:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T08:57:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060631655891742868"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NulnBpb7va",
+              "end": 179,
+              "expanded_url": "https://x.com/mikanmkx/status/2060631655891742868/photo/1",
+              "media_key": "3_2060631061613490176",
+              "start": 156,
+              "url": "https://t.co/NulnBpb7va"
+            },
+            {
+              "display_url": "pic.x.com/NulnBpb7va",
+              "end": 179,
+              "expanded_url": "https://x.com/mikanmkx/status/2060631655891742868/photo/1",
+              "media_key": "3_2060631061621809152",
+              "start": 156,
+              "url": "https://t.co/NulnBpb7va"
+            },
+            {
+              "display_url": "pic.x.com/NulnBpb7va",
+              "end": 179,
+              "expanded_url": "https://x.com/mikanmkx/status/2060631655891742868/photo/1",
+              "media_key": "3_2060631061626007552",
+              "start": 156,
+              "url": "https://t.co/NulnBpb7va"
+            },
+            {
+              "display_url": "pic.x.com/NulnBpb7va",
+              "end": 179,
+              "expanded_url": "https://x.com/mikanmkx/status/2060631655891742868/photo/1",
+              "media_key": "3_2060631061613481984",
+              "start": 156,
+              "url": "https://t.co/NulnBpb7va"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060631655891742868",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "play.google.com/store/apps/det…",
+                "end": 207,
+                "expanded_url": "https://play.google.com/store/apps/details?id=com.mkx.hrttracker",
+                "start": 184,
+                "url": "https://t.co/CA4JPDhaDf"
+              }
+            ]
+          },
+          "text": "正式发布了喵\nFeatherline - Android 原生HRT追踪应用\n- 遵循 Material 3 设计规范\n- 隐私优先，数据完全本地保存并由硬件支持的密钥库加密保存，开发者不收集任何数据\n- 基于公开的药代动力学模型估算 E2 水平\n- 推送通知，桌面小部件，库存管理，应用锁，加密备份等功能\n- 同步以GPLv3协议开源，repo见评论区\n\n下载链接：https://t.co/CA4JPDhaDf"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "正式发布了喵\nFeatherline - Android 原生HRT追踪应用\n- 遵循 Material 3 设计规范\n- 隐私优先，数据完全本地保存并由硬件支持的密钥库加密保存，开发者不收集任何数据\n- 基于公开的药代动力学模型估算 E2 水平\n- 推送通知，桌面小部件，库存管理，应用锁，加密备份等功能\n- https://t.co/NulnBpb7va"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 273,
+          "following_count": 269,
+          "like_count": 856,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 336
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052596960230817792"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2052596971328962624",
+    "created_at": "2026-05-08T03:50:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-08T04:50:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052596971328962624"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hsp4Xc3DKh",
+          "end": 46,
+          "expanded_url": "https://x.com/mikanmkx/status/2052596971328962624/photo/1",
+          "media_key": "3_2052596960230817792",
+          "start": 23,
+          "url": "https://t.co/hsp4Xc3DKh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052596971328962624",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "说实话开着开着突然冒出这个玩意我只觉得很吓人 https://t.co/hsp4Xc3DKh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2052596960230817792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHxKD2mawAAdSyy.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052596960230817792"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2052596971328962624",
+        "created_at": "2026-05-08T03:50:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-08T04:50:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052596971328962624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hsp4Xc3DKh",
+              "end": 46,
+              "expanded_url": "https://x.com/mikanmkx/status/2052596971328962624/photo/1",
+              "media_key": "3_2052596960230817792",
+              "start": 23,
+              "url": "https://t.co/hsp4Xc3DKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052596971328962624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说实话开着开着突然冒出这个玩意我只觉得很吓人 https://t.co/hsp4Xc3DKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 136,
+          "like_count": 485,
+          "listed_count": 1,
+          "media_count": 51,
+          "tweet_count": 204
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

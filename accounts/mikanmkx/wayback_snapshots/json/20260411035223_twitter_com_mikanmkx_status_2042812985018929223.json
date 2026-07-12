@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2042812985018929223",
+    "created_at": "2026-04-11T03:52:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T04:52:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2042812985018929223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nypost/status/…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/nypost/status/2042630080787034591",
+          "start": 50,
+          "url": "https://t.co/6xNuEftZX2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042812985018929223",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042630080787034591",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "I feel bad for him but this is genuinely funny af https://t.co/6xNuEftZX2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 799,
+        "media_key": "3_2042630073296048128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjhOrZXUAAD9fu.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2042812985018929223",
+        "created_at": "2026-04-11T03:52:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:52:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042812985018929223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nypost/status/…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/nypost/status/2042630080787034591",
+              "start": 50,
+              "url": "https://t.co/6xNuEftZX2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042812985018929223",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042630080787034591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I feel bad for him but this is genuinely funny af https://t.co/6xNuEftZX2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042630073296048128"
+          ]
+        },
+        "author_id": "17469289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "New York Post",
+              "id": "1065654169002885120",
+              "name": "New York Post"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "New York Post",
+              "id": "1065654169002885120",
+              "name": "New York Post"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "2042630080787034591",
+        "created_at": "2026-04-10T15:45:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T16:45:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042630080787034591"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Kristi Noem’s cross-dressing husband, Bryon, allegedly once told a dominatrix sex worker he wanted to be her \"trans bimbo slut.\"",
+              "display_url": "trib.al/Stpjjzk",
+              "end": 136,
+              "expanded_url": "https://trib.al/Stpjjzk",
+              "start": 113,
+              "status": 200,
+              "title": "Bryon Noem told dominatrix that he wanted to be 'trans bimbo slut,' revealed woman's name he wanted to be called",
+              "unwound_url": "https://nypost.com/2026/04/10/us-news/kristi-noems-husband-told-dominatrix-he-wanted-to-be-trans-bimbo-slut/?utm_campaign=nypost&utm_medium=social&utm_source=twitter",
+              "url": "https://t.co/8AvvwfnU6K"
+            },
+            {
+              "display_url": "pic.x.com/qa9N2j9rnS",
+              "end": 160,
+              "expanded_url": "https://x.com/nypost/status/2042630080787034591/photo/1",
+              "media_key": "3_2042630073296048128",
+              "start": 137,
+              "url": "https://t.co/qa9N2j9rnS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042630080787034591",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1099,
+          "impression_count": 1350566,
+          "like_count": 4296,
+          "quote_count": 424,
+          "reply_count": 262,
+          "retweet_count": 350
+        },
+        "reply_settings": "everyone",
+        "text": "Bryon Noem told dominatrix that he wanted to be 'trans bimbo slut,' revealed woman's name he wanted to be called https://t.co/8AvvwfnU6K https://t.co/qa9N2j9rnS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | 无证含糖 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 25,
+          "like_count": 46,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 28
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2008-11-18T19:46:36.000Z",
+        "description": "Breaking news, features and more from the NY Post. Follow ➡️  @pagesix, @nypmetro, @nypostbiz, @nypostsports, @nypfashion, @nypostopinion, @vrtpod, @_nynext",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 62,
+                "username": "pagesix"
+              },
+              {
+                "end": 81,
+                "start": 72,
+                "username": "nypmetro"
+              },
+              {
+                "end": 93,
+                "start": 83,
+                "username": "nypostbiz"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "nypostsports"
+              },
+              {
+                "end": 121,
+                "start": 110,
+                "username": "nypfashion"
+              },
+              {
+                "end": 137,
+                "start": 123,
+                "username": "nypostopinion"
+              },
+              {
+                "end": 146,
+                "start": 139,
+                "username": "vrtpod"
+              },
+              {
+                "end": 156,
+                "start": 148,
+                "username": "_nynext"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nypost.com",
+                "end": 23,
+                "expanded_url": "http://www.nypost.com",
+                "start": 0,
+                "url": "https://t.co/PwCuyvAYAJ"
+              }
+            ]
+          }
+        },
+        "id": "17469289",
+        "location": "New York, NY",
+        "name": "New York Post",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/966372680306868224/60wfGe9e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3733786,
+          "following_count": 10065,
+          "like_count": 2006,
+          "listed_count": 23824,
+          "media_count": 678106,
+          "tweet_count": 823834
+        },
+        "url": "https://t.co/PwCuyvAYAJ",
+        "username": "nypost",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060676648018813088",
+    "created_at": "2026-05-30T10:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T11:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060676648018813088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/fabien_elharra…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/fabien_elharrar/status/2060440733711057104",
+          "start": 13,
+          "url": "https://t.co/hVYR0j2RHk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060676648018813088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2060440733711057104",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个梗到底要玩到什么时候 https://t.co/hVYR0j2RHk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060676648018813088",
+        "created_at": "2026-05-30T10:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T11:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060676648018813088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/fabien_elharra…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/fabien_elharrar/status/2060440733711057104",
+              "start": 13,
+              "url": "https://t.co/hVYR0j2RHk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060676648018813088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2060440733711057104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个梗到底要玩到什么时候 https://t.co/hVYR0j2RHk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "305620638",
+        "conversation_id": "2060440733711057104",
+        "created_at": "2026-05-29T19:18:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T20:18:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060440733711057104"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2060440733711057104",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 151,
+          "impression_count": 217157,
+          "like_count": 713,
+          "quote_count": 16,
+          "reply_count": 75,
+          "retweet_count": 35
+        },
+        "reply_settings": "everyone",
+        "text": "Claude Code 4.8 est dingue 😱\n\nJe ne connais littéralement RIEN au codage. ZÉRO. NADA ! Et pourtant je viens de construire 3 applis web 100% fonctionnelles en 30 minutes ⏱️\n\nhttp://localhost:3000/ \nhttp://localhost:8000/ \nhttp://localhost:5000/  \n\nAllez jeter un œil"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2060632226266751080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 269,
+          "like_count": 869,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 344
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2011-05-26T14:38:35.000Z",
+        "description": "🚀 20 ans d'expérience en gestion de projets digitaux 🤖 Expert IA Marketing et SEO 🎓 Enseignant 📰 Journaliste Tech 🌐 Editeur web depuis 2009",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "bit.ly/tarifsPXN",
+                "end": 23,
+                "expanded_url": "http://bit.ly/tarifsPXN",
+                "start": 0,
+                "url": "https://t.co/WXZzXtE1DE"
+              }
+            ]
+          }
+        },
+        "id": "305620638",
+        "name": "Fabien Elharrar",
+        "pinned_tweet_id": "2053783863646675015",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1998452531060506624/LXpgJgur_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2330,
+          "following_count": 2808,
+          "like_count": 7879,
+          "listed_count": 190,
+          "media_count": 923,
+          "tweet_count": 15069
+        },
+        "url": "https://t.co/WXZzXtE1DE",
+        "username": "fabien_elharrar",
+        "verified": false
+      }
+    ]
+  }
+}

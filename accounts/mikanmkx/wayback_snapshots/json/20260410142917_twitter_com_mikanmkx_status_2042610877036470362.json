@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2042474649628655971",
+    "created_at": "2026-04-10T14:29:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T15:29:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042610877036470362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1932434375955857409",
+          "start": 0,
+          "username": "ena1_mizuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042610877036470362",
+    "in_reply_to_user_id": "1932434375955857409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042474649628655971",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ena1_mizuki 我买糖之后在家放了好几个月才敢吃，首先我一直怀疑自己够不够跨，然后我又觉得糖就像打开了就关不上的门，自己重视的一切都会滑向不可控的方向，但同时我又清楚不hrt的话gd也会毁了我，就很纠结。我觉得其实我自己已经有答案了，只是不敢面对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2042474649628655971",
+        "created_at": "2026-04-10T14:29:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:29:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042610877036470362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1932434375955857409",
+              "start": 0,
+              "username": "ena1_mizuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042610877036470362",
+        "in_reply_to_user_id": "1932434375955857409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042474649628655971",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ena1_mizuki 我买糖之后在家放了好几个月才敢吃，首先我一直怀疑自己够不够跨，然后我又觉得糖就像打开了就关不上的门，自己重视的一切都会滑向不可控的方向，但同时我又清楚不hrt的话gd也会毁了我，就很纠结。我觉得其实我自己已经有答案了，只是不敢面对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932434375955857409",
+        "conversation_id": "2042474649628655971",
+        "created_at": "2026-04-10T05:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T06:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042474649628655971"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042474649628655971",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1972,
+          "like_count": 51,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "说起来之前我一直很抗拒正式hrt，不知道为什么，难道是潜移默化的受到了什么反跨宣传的影响\n后来焦虑太强甚至尝试过非那雄胺+大豆异黄酮的组合好几个月，一天4粒大豆异黄酮吃的我内分泌紊乱脸上爆痘，现在看来这样的方案比正式hrt副作用大的多😇"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | 无证含糖 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 13,
+          "like_count": 44,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 26
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-10T13:47:26.000Z",
+        "description": "大龄天残党，天文爱好者，大概也算半个天文科研人，我有抑郁症、易性症、开火成瘾症.jpg，同类欢迎互fo🥺",
+        "id": "1932434375955857409",
+        "location": "Albireo",
+        "name": "水母雨🍥",
+        "pinned_tweet_id": "2021957474845331677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004579975840866304/mn8GECit_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1674,
+          "following_count": 1112,
+          "like_count": 16560,
+          "listed_count": 6,
+          "media_count": 600,
+          "tweet_count": 4528
+        },
+        "username": "ena1_mizuki",
+        "verified": false
+      }
+    ]
+  }
+}

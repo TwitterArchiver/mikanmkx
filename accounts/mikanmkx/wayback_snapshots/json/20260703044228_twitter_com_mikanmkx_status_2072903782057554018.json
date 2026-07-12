@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072903782057554018",
+    "created_at": "2026-07-03T04:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T05:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072903782057554018"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Hazalizy/statu…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Hazalizy/status/2072664066170974376",
+          "start": 16,
+          "url": "https://t.co/Hs9Esd7ltj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072903782057554018",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072664066170974376",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "怎么土耳其区全是这种弱智小问答 https://t.co/Hs9Esd7ltj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1141,
+        "media_key": "3_2072664059346874368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMOU-wQW8AA2o5r.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072903782057554018",
+        "created_at": "2026-07-03T04:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T05:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072903782057554018"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Hazalizy/statu…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Hazalizy/status/2072664066170974376",
+              "start": 16,
+              "url": "https://t.co/Hs9Esd7ltj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072903782057554018",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072664066170974376",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "怎么土耳其区全是这种弱智小问答 https://t.co/Hs9Esd7ltj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072664059346874368"
+          ]
+        },
+        "author_id": "1991930650816077825",
+        "conversation_id": "2072664066170974376",
+        "created_at": "2026-07-02T12:49:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T13:49:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072664066170974376"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7cRYrFU0G7",
+              "end": 90,
+              "expanded_url": "https://x.com/Hazalizy/status/2072664066170974376/photo/1",
+              "media_key": "3_2072664059346874368",
+              "start": 67,
+              "url": "https://t.co/7cRYrFU0G7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072664066170974376",
+        "lang": "tr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 553,
+          "impression_count": 1404854,
+          "like_count": 3071,
+          "quote_count": 190,
+          "reply_count": 12817,
+          "retweet_count": 173
+        },
+        "reply_settings": "everyone",
+        "text": "bu soruyu doğru çözenlerin oranı %5'in altında. \n\nçözebilir misin? https://t.co/7cRYrFU0G7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 567,
+          "following_count": 475,
+          "like_count": 2043,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 626
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-21T18:04:55.000Z",
+        "description": "Matematik | Sınıf Öğretmeniniz",
+        "id": "1991930650816077825",
+        "name": "Hazal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031515792248881152/kTgcqhXM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13086,
+          "following_count": 11751,
+          "like_count": 10941,
+          "listed_count": 1,
+          "media_count": 1369,
+          "tweet_count": 4931
+        },
+        "url": "",
+        "username": "Hazalizy",
+        "verified": true
+      }
+    ]
+  }
+}

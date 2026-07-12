@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2047093341599514962",
+    "created_at": "2026-04-22T23:21:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-23T00:21:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2047093341599514962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/suni_code/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/suni_code/status/2046972567844798813",
+          "start": 22,
+          "url": "https://t.co/1p9kEKkQel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047093341599514962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046972567844798813",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "连这个都不知道还是别去interview了 https://t.co/1p9kEKkQel"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 136,
+        "media_key": "3_2046972323279069184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGhOe5Ia4AAeOxb.png",
+        "width": 529
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2047093341599514962",
+        "created_at": "2026-04-22T23:21:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T00:21:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047093341599514962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/suni_code/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/suni_code/status/2046972567844798813",
+              "start": 22,
+              "url": "https://t.co/1p9kEKkQel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047093341599514962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046972567844798813",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "连这个都不知道还是别去interview了 https://t.co/1p9kEKkQel"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2046972323279069184"
+          ]
+        },
+        "author_id": "2008751574705967104",
+        "conversation_id": "2046972567844798813",
+        "created_at": "2026-04-22T15:21:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-22T16:21:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046972567844798813"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HAXDvk14yF",
+              "end": 91,
+              "expanded_url": "https://x.com/suni_code/status/2046972567844798813/photo/1",
+              "media_key": "3_2046972323279069184",
+              "start": 68,
+              "url": "https://t.co/HAXDvk14yF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046972567844798813",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 698,
+          "impression_count": 432785,
+          "like_count": 2522,
+          "quote_count": 36,
+          "reply_count": 130,
+          "retweet_count": 61
+        },
+        "reply_settings": "everyone",
+        "text": "97% vibe coder will fumble during interviews if asked what this is. https://t.co/HAXDvk14yF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2046085639108698407",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40,
+          "following_count": 71,
+          "like_count": 297,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 129
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-07T04:05:30.000Z",
+        "description": "Design Engineer • Dm for collab/work",
+        "id": "2008751574705967104",
+        "name": "Suni",
+        "pinned_tweet_id": "2045943463372521628",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022743074905243649/x8-SJCb8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8603,
+          "following_count": 835,
+          "like_count": 10663,
+          "listed_count": 23,
+          "media_count": 301,
+          "tweet_count": 4501
+        },
+        "username": "suni_code",
+        "verified": true
+      }
+    ]
+  }
+}

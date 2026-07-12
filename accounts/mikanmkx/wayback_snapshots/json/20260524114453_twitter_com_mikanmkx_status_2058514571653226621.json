@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "5G",
+          "id": "1085628093627195392",
+          "name": "5G"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "2058203213371973934",
+    "created_at": "2026-05-24T11:44:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-24T12:44:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058514571653226621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1069946377201799168",
+          "start": 0,
+          "username": "Locas_56227"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058514571653226621",
+    "in_reply_to_user_id": "1069946377201799168",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058203213371973934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Locas_56227 我nuro的10g只能跑到2.5g左右，真不知道他们什么情况"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1592,
+        "media_key": "3_2058203209194442752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJA06feakAAyiYa.jpg",
+        "width": 1268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "5G",
+              "id": "1085628093627195392",
+              "name": "5G"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2058203213371973934",
+        "created_at": "2026-05-24T11:44:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-24T12:44:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058514571653226621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1069946377201799168",
+              "start": 0,
+              "username": "Locas_56227"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058514571653226621",
+        "in_reply_to_user_id": "1069946377201799168",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058203213371973934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Locas_56227 我nuro的10g只能跑到2.5g左右，真不知道他们什么情况"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2058203209194442752"
+          ]
+        },
+        "author_id": "1069946377201799168",
+        "conversation_id": "2058203213371973934",
+        "created_at": "2026-05-23T15:07:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T16:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2058203213371973934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Wx2XWL0Kvx",
+              "end": 27,
+              "expanded_url": "https://x.com/Locas_56227/status/2058203213371973934/photo/1",
+              "media_key": "3_2058203209194442752",
+              "start": 4,
+              "url": "https://t.co/Wx2XWL0Kvx"
+            },
+            {
+              "display_url": "x.com/locas_56227/st…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/locas_56227/status/2049493544944165225",
+              "start": 28,
+              "url": "https://t.co/Ip26l9tYSx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058203213371973934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1141,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049493544944165225",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起飞！ https://t.co/Wx2XWL0Kvx https://t.co/Ip26l9tYSx"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 217,
+          "like_count": 726,
+          "listed_count": 1,
+          "media_count": 78,
+          "tweet_count": 300
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2018-12-04T13:27:49.000Z",
+        "description": "🏷️TAGS: 👨HE/HIM | 🌍中文&ENG&日本語 | 🏳️‍🌈 Homosexual | 🐺FURRY | 🙀社恐 | 💻科技数码技术控 | 🎮又菜又爱玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "r18.locas.me",
+                "end": 23,
+                "expanded_url": "https://r18.locas.me",
+                "start": 0,
+                "url": "https://t.co/KTUlCH9nO0"
+              }
+            ]
+          }
+        },
+        "id": "1069946377201799168",
+        "location": "Tokyo-to, Japan",
+        "name": "Locas",
+        "pinned_tweet_id": "1895796716156436996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052351678335352832/0Ih3UeV2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 1209,
+          "like_count": 17812,
+          "listed_count": 0,
+          "media_count": 482,
+          "tweet_count": 4242
+        },
+        "url": "https://t.co/KTUlCH9nO0",
+        "username": "Locas_56227",
+        "verified": false
+      }
+    ]
+  }
+}

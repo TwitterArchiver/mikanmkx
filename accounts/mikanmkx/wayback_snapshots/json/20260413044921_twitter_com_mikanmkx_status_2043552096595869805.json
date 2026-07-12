@@ -1,0 +1,133 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043552088412782592"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2043552096595869805",
+    "created_at": "2026-04-13T04:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T05:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043552096595869805"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Xk0zrhBfEv",
+          "end": 35,
+          "expanded_url": "https://x.com/mikanmkx/status/2043552096595869805/photo/1",
+          "media_key": "3_2043552088412782592",
+          "start": 12,
+          "url": "https://t.co/Xk0zrhBfEv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043552096595869805",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "好像脱胡子也没那么痛（ https://t.co/Xk0zrhBfEv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2043552088412782592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFwnzBXaAAAka1H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043552088412782592"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2043552096595869805",
+        "created_at": "2026-04-13T04:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T05:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043552096595869805"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Xk0zrhBfEv",
+              "end": 35,
+              "expanded_url": "https://x.com/mikanmkx/status/2043552096595869805/photo/1",
+              "media_key": "3_2043552088412782592",
+              "start": 12,
+              "url": "https://t.co/Xk0zrhBfEv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043552096595869805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像脱胡子也没那么痛（ https://t.co/Xk0zrhBfEv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | 東北大学 | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 34,
+          "like_count": 72,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 38
+        },
+        "username": "mikanmkx",
+        "verified": false
+      }
+    ]
+  }
+}

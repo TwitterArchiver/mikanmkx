@@ -1,0 +1,166 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066338273799393281"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2066338275720409161",
+    "created_at": "2026-06-15T01:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T02:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066338275720409161"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "play.google.com/store/apps/det",
+          "end": 53,
+          "expanded_url": "http://play.google.com/store/apps/det",
+          "start": 30,
+          "status": 404,
+          "unwound_url": "http://play.google.com/store/apps/det",
+          "url": "https://t.co/6oXjTZckWw"
+        },
+        {
+          "display_url": "pic.x.com/c8moAGjiyI",
+          "end": 168,
+          "expanded_url": "https://x.com/mikanmkx/status/2066338275720409161/photo/1",
+          "media_key": "3_2066338273799393281",
+          "start": 145,
+          "url": "https://t.co/c8moAGjiyI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066338275720409161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "Featherline v1.2.0 发布了喵\n\n下载链接：https://t.co/6oXjTZckWw…\n\n本次主要是视觉和性能上的更新\n- 为部分界面元素添加高斯模糊效果\n- 小部件支持更多自定义选项，并支持实时预览\n- 大幅优化了计划和历史页面的滑动性能\n- 修复了一些已知的问题 https://t.co/c8moAGjiyI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2066338273799393281",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK0btkubUAEXMMH.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066338273799393281"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2066338275720409161",
+        "created_at": "2026-06-15T01:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T02:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066338275720409161"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "play.google.com/store/apps/det",
+              "end": 53,
+              "expanded_url": "http://play.google.com/store/apps/det",
+              "start": 30,
+              "status": 404,
+              "unwound_url": "http://play.google.com/store/apps/det",
+              "url": "https://t.co/6oXjTZckWw"
+            },
+            {
+              "display_url": "pic.x.com/c8moAGjiyI",
+              "end": 168,
+              "expanded_url": "https://x.com/mikanmkx/status/2066338275720409161/photo/1",
+              "media_key": "3_2066338273799393281",
+              "start": 145,
+              "url": "https://t.co/c8moAGjiyI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066338275720409161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Featherline v1.2.0 发布了喵\n\n下载链接：https://t.co/6oXjTZckWw…\n\n本次主要是视觉和性能上的更新\n- 为部分界面元素添加高斯模糊效果\n- 小部件支持更多自定义选项，并支持实时预览\n- 大幅优化了计划和历史页面的滑动性能\n- 修复了一些已知的问题 https://t.co/c8moAGjiyI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2063569998988382403",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 376,
+          "following_count": 348,
+          "like_count": 1248,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 436
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

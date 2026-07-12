@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2059856278957215812",
+    "created_at": "2026-05-28T04:36:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-28T05:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059856278957215812"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xhFK114514/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/xhFK114514/status/2059852672140980498",
+          "start": 36,
+          "url": "https://t.co/1IMebYGfF8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059856278957215812",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059852672140980498",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死 https://t.co/1IMebYGfF8"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2059856278957215812",
+        "created_at": "2026-05-28T04:36:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059856278957215812"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xhFK114514/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/xhFK114514/status/2059852672140980498",
+              "start": 36,
+              "url": "https://t.co/1IMebYGfF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059856278957215812",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059852672140980498",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死 https://t.co/1IMebYGfF8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018986573090717696",
+        "conversation_id": "2059852672140980498",
+        "created_at": "2026-05-28T04:22:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-28T05:22:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059852672140980498"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MorisaSeko/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/MorisaSeko/status/2043001217341849615",
+              "start": 36,
+              "url": "https://t.co/BBzr2gAFrD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059852672140980498",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043001217341849615",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好想当女孩😭😭😭\n男性躯壳太难受了😭😭😭\n每次看到女性身体都羡慕得要死 https://t.co/BBzr2gAFrD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 232,
+          "following_count": 233,
+          "like_count": 813,
+          "listed_count": 1,
+          "media_count": 84,
+          "tweet_count": 327
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-04T09:56:48.000Z",
+        "description": "FuKarl7/2026年3月21日起活跃在此号/友跨🏳️‍⚧️(没翻车!)/高三/无糖(?)/含糖(?)/不od/不割手/(选择性)互关/喵\n❤️❤️❤️❤️❤️：@ruoruoruoMing\n❤️❤️❤️❤️❤️：@happiness_sleep\n意义重大的日子：2026年3月15日/2026年5月2日",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 97,
+                "start": 83,
+                "username": "ruoruoruoMing"
+              },
+              {
+                "end": 125,
+                "start": 109,
+                "username": "happiness_sleep"
+              }
+            ]
+          }
+        },
+        "id": "2018986573090717696",
+        "location": "天津",
+        "name": "阿这",
+        "pinned_tweet_id": "2053410325878522002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037862051725594624/P9TAAf07_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 833,
+          "like_count": 7592,
+          "listed_count": 3,
+          "media_count": 80,
+          "tweet_count": 1137
+        },
+        "username": "xhFK114514",
+        "verified": false
+      }
+    ]
+  }
+}

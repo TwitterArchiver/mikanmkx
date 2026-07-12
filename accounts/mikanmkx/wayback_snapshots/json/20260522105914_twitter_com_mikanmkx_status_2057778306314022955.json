@@ -1,0 +1,147 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2057778303927508992"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2057778306314022955",
+    "created_at": "2026-05-22T10:59:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-22T11:59:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2057778306314022955"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lVwmQhDjx8",
+          "end": 60,
+          "expanded_url": "https://x.com/mikanmkx/status/2057778306314022955/photo/1",
+          "media_key": "3_2057778303927508992",
+          "start": 37,
+          "url": "https://t.co/lVwmQhDjx8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057778306314022955",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "日本程序员真是吃太好了，这么个破功能做了几年，我tm一天给你vibe出来 https://t.co/lVwmQhDjx8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2057778303927508992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HI6ydwAa4AAgTiP.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2057778303927508992"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2057778306314022955",
+        "created_at": "2026-05-22T10:59:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-22T11:59:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057778306314022955"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lVwmQhDjx8",
+              "end": 60,
+              "expanded_url": "https://x.com/mikanmkx/status/2057778306314022955/photo/1",
+              "media_key": "3_2057778303927508992",
+              "start": 37,
+              "url": "https://t.co/lVwmQhDjx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057778306314022955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "日本程序员真是吃太好了，这么个破功能做了几年，我tm一天给你vibe出来 https://t.co/lVwmQhDjx8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 202,
+          "like_count": 658,
+          "listed_count": 1,
+          "media_count": 73,
+          "tweet_count": 276
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

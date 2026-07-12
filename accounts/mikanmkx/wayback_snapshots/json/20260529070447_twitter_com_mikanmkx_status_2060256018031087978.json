@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2060256008904343552"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2060256018031087978",
+    "created_at": "2026-05-29T07:04:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T08:04:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2060256018031087978"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/kiToDqGLXl",
+          "end": 29,
+          "expanded_url": "https://x.com/mikanmkx/status/2060256018031087978/video/1",
+          "media_key": "7_2060256008904343552",
+          "start": 6,
+          "url": "https://t.co/kiToDqGLXl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060256018031087978",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "花里胡哨（ https://t.co/kiToDqGLXl"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2814,
+        "height": 1278,
+        "media_key": "7_2060256008904343552",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2060256008904343552/pu/img/4k_X5qzCeSklQKIj.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060256008904343552/pu/vid/avc1/320x692/NOAn-tWT1mLWmQvJ.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060256008904343552/pu/vid/avc1/480x1038/O1Kn0QgC3OwYVsCu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2060256008904343552/pu/vid/avc1/590x1278/uNkEeCxC6ECrF0a_.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2060256008904343552/pu/pl/oIRLS_zQ92HuEqmL.m3u8"
+          }
+        ],
+        "width": 590
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2060256008904343552"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2060256018031087978",
+        "created_at": "2026-05-29T07:04:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T08:04:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2060256018031087978"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kiToDqGLXl",
+              "end": 29,
+              "expanded_url": "https://x.com/mikanmkx/status/2060256018031087978/video/1",
+              "media_key": "7_2060256008904343552",
+              "start": 6,
+              "url": "https://t.co/kiToDqGLXl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060256018031087978",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "花里胡哨（ https://t.co/kiToDqGLXl"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2051959937019052157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 255,
+          "like_count": 832,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 332
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2072704946831769600"
+      ],
+      "media_source_tweet_id": [
+        "2072705013785514003"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072892623975764422",
+    "created_at": "2026-07-03T03:58:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T04:58:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072892623975764422"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1565301639925608449",
+          "start": 3,
+          "username": "tamayan2nd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ohJFqvcWPH",
+          "end": 50,
+          "expanded_url": "https://x.com/tamayan2nd/status/2072705013785514003/photo/1",
+          "media_key": "3_2072704946831769600",
+          "start": 27,
+          "url": "https://t.co/ohJFqvcWPH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072892623975764422",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 143
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072705013785514003",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tamayan2nd: 確かに違和感無くて草 https://t.co/ohJFqvcWPH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 631,
+        "media_key": "3_2072704946831769600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMO6KuAaQAAYcdR.jpg",
+        "width": 665
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072704946831769600"
+          ],
+          "media_source_tweet_id": [
+            "2072705013785514003"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072892623975764422",
+        "created_at": "2026-07-03T03:58:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T04:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072892623975764422"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1565301639925608449",
+              "start": 3,
+              "username": "tamayan2nd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohJFqvcWPH",
+              "end": 50,
+              "expanded_url": "https://x.com/tamayan2nd/status/2072705013785514003/photo/1",
+              "media_key": "3_2072704946831769600",
+              "start": 27,
+              "url": "https://t.co/ohJFqvcWPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072892623975764422",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 143
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072705013785514003",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tamayan2nd: 確かに違和感無くて草 https://t.co/ohJFqvcWPH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072704946831769600"
+          ]
+        },
+        "author_id": "1565301639925608449",
+        "conversation_id": "2072705013785514003",
+        "created_at": "2026-07-02T15:32:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T16:32:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072705013785514003"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ohJFqvcWPH",
+              "end": 34,
+              "expanded_url": "https://x.com/tamayan2nd/status/2072705013785514003/photo/1",
+              "media_key": "3_2072704946831769600",
+              "start": 11,
+              "url": "https://t.co/ohJFqvcWPH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072705013785514003",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 15907,
+          "like_count": 1248,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 143
+        },
+        "reply_settings": "everyone",
+        "text": "確かに違和感無くて草 https://t.co/ohJFqvcWPH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 565,
+          "following_count": 474,
+          "like_count": 2040,
+          "listed_count": 2,
+          "media_count": 151,
+          "tweet_count": 625
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-01T11:34:53.000Z",
+        "description": "絵を描いたり小説を書いたりする趣味人\nカクヨムにて「バ美肉チート吸血鬼VTuber爆誕！」連載中\nhttps://t.co/LdLPx5yRVf\npixiv https://t.co/XYYTeKhafk",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kakuyomu.jp/works/16818622…",
+                "end": 72,
+                "expanded_url": "https://kakuyomu.jp/works/16818622176021874765",
+                "start": 49,
+                "url": "https://t.co/LdLPx5yRVf"
+              },
+              {
+                "display_url": "pixiv.net/users/136424",
+                "end": 102,
+                "expanded_url": "https://www.pixiv.net/users/136424",
+                "start": 79,
+                "url": "https://t.co/XYYTeKhafk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@hro4831",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@hro4831",
+                "start": 0,
+                "url": "https://t.co/cKTZjQ3ski"
+              }
+            ]
+          }
+        },
+        "id": "1565301639925608449",
+        "name": "たまやん2nd",
+        "pinned_tweet_id": "2018459788687114506",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1961069276477140992/WXvrklPu_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36985,
+          "following_count": 441,
+          "like_count": 16607,
+          "listed_count": 254,
+          "media_count": 1575,
+          "tweet_count": 10104
+        },
+        "url": "https://t.co/cKTZjQ3ski",
+        "username": "tamayan2nd",
+        "verified": true
+      }
+    ]
+  }
+}

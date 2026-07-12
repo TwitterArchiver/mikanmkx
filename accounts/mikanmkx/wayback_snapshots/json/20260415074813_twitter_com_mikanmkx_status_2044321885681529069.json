@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2044279553351119313",
+    "created_at": "2026-04-15T07:48:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T08:48:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044321885681529069"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1481695629739020288",
+          "start": 0,
+          "username": "ODINAKAXO"
+        },
+        {
+          "end": 22,
+          "id": "1711307986100961281",
+          "start": 11,
+          "username": "logyAussie"
+        },
+        {
+          "end": 34,
+          "id": "1939438142894792704",
+          "start": 23,
+          "username": "BiGBENNGTR"
+        },
+        {
+          "end": 44,
+          "id": "1258094477861892096",
+          "start": 35,
+          "username": "ManMilk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044321885681529069",
+    "in_reply_to_user_id": "1481695629739020288",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044320568506290650",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ODINAKAXO @logyAussie @BiGBENNGTR @ManMilk2 you can calculate the landing position with very high precision, and in case you don't know, the orion landing site is &lt;100km away from land."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2044279553351119313",
+        "created_at": "2026-04-15T07:48:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:48:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044321885681529069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1481695629739020288",
+              "start": 0,
+              "username": "ODINAKAXO"
+            },
+            {
+              "end": 22,
+              "id": "1711307986100961281",
+              "start": 11,
+              "username": "logyAussie"
+            },
+            {
+              "end": 34,
+              "id": "1939438142894792704",
+              "start": 23,
+              "username": "BiGBENNGTR"
+            },
+            {
+              "end": 44,
+              "id": "1258094477861892096",
+              "start": 35,
+              "username": "ManMilk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044321885681529069",
+        "in_reply_to_user_id": "1481695629739020288",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044320568506290650",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ODINAKAXO @logyAussie @BiGBENNGTR @ManMilk2 you can calculate the landing position with very high precision, and in case you don't know, the orion landing site is &lt;100km away from land."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1481695629739020288",
+        "conversation_id": "2044279553351119313",
+        "created_at": "2026-04-15T07:42:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T08:42:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044320568506290650"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1711307986100961281",
+              "start": 0,
+              "username": "logyAussie"
+            },
+            {
+              "end": 23,
+              "id": "1939438142894792704",
+              "start": 12,
+              "username": "BiGBENNGTR"
+            },
+            {
+              "end": 33,
+              "id": "1988674513517834244",
+              "start": 24,
+              "username": "mikanmkx"
+            },
+            {
+              "end": 43,
+              "id": "1258094477861892096",
+              "start": 34,
+              "username": "ManMilk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044320568506290650",
+        "in_reply_to_user_id": "1711307986100961281",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044319706660921802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@logyAussie @BiGBENNGTR @mikanmkx @ManMilk2 when u re-enter the atmosphere at that speed the level of precision to land at a point goes down so you might go hundreds km away from ur intended landing spot \n\nThe ocean is almost endless with no big rock or stuff to damage the capsule compared to the land"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 45,
+          "like_count": 109,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 67
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2022-01-13T18:32:50.000Z",
+        "description": "💙❤️ 🚀",
+        "id": "1481695629739020288",
+        "location": "Jupitar🪐",
+        "name": "ODINAKA 🎈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745501366154338304/K1suivb4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 642,
+          "like_count": 2317,
+          "listed_count": 0,
+          "media_count": 419,
+          "tweet_count": 3134
+        },
+        "username": "ODINAKAXO",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-09T09:10:05.000Z",
+        "description": "Views my own not employer • possibly a bot • GSTK! • RP≠agree • prev OPSEC, aviation • not always serious • Told to put p-nouns & flags in bio so: I/we, 🏳️🏴🏁",
+        "id": "1711307986100961281",
+        "location": "Drummoyne, NSW",
+        "name": "Logy Australian",
+        "pinned_tweet_id": "2031224610809930205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1752167273165721600/vr6Y7W9v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1976,
+          "following_count": 7437,
+          "like_count": 312402,
+          "listed_count": 6,
+          "media_count": 1540,
+          "tweet_count": 114738
+        },
+        "username": "logyAussie",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T21:37:59.000Z",
+        "description": "Model Scout | Beth Model Management | DM for advert|IG -50k followers |Youtube -28k sub",
+        "id": "1939438142894792704",
+        "location": "Universe ",
+        "name": "Model Y",
+        "pinned_tweet_id": "2043053467774709772",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036557268033101824/ftMFAj4D_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1622,
+          "following_count": 236,
+          "like_count": 13341,
+          "listed_count": 1,
+          "media_count": 595,
+          "tweet_count": 17953
+        },
+        "username": "BiGBENNGTR",
+        "verified": true
+      },
+      {
+        "created_at": "2020-05-06T18:01:26.000Z",
+        "description": "You’re gonna leave here in a whole lot of pain 😣",
+        "id": "1258094477861892096",
+        "name": "Images That Make You Feel Pain",
+        "pinned_tweet_id": "2042000528297566398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1693869509357019136/9M9BjCl3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1526664,
+          "following_count": 582,
+          "like_count": 12954,
+          "listed_count": 2409,
+          "media_count": 20715,
+          "tweet_count": 27349
+        },
+        "username": "ManMilk2",
+        "verified": true
+      }
+    ]
+  }
+}

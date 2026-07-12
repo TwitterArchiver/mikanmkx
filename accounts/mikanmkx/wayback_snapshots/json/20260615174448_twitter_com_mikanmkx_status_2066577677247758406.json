@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066577262582112256"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2066577677247758406",
+    "created_at": "2026-06-15T17:44:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T18:44:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066577677247758406"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/vEDaccd5ZH",
+          "end": 98,
+          "expanded_url": "https://x.com/mikanmkx/status/2066577677247758406/photo/1",
+          "media_key": "3_2066577262582112256",
+          "start": 75,
+          "url": "https://t.co/vEDaccd5ZH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066577677247758406",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "拍银河战败（？）结算，这次又是忘了带灯只能用手机屏幕凑合照亮地景，为什么我每次出去拍星都要忘点东西，不是鱼骨板就是快装板，或者手电筒，或者除雾带（） https://t.co/vEDaccd5ZH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2066577262582112256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK31EjUbIAAeXpB.jpg",
+        "width": 3091
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066577262582112256"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2066577677247758406",
+        "created_at": "2026-06-15T17:44:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T18:44:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066577677247758406"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vEDaccd5ZH",
+              "end": 98,
+              "expanded_url": "https://x.com/mikanmkx/status/2066577677247758406/photo/1",
+              "media_key": "3_2066577262582112256",
+              "start": 75,
+              "url": "https://t.co/vEDaccd5ZH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066577677247758406",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "拍银河战败（？）结算，这次又是忘了带灯只能用手机屏幕凑合照亮地景，为什么我每次出去拍星都要忘点东西，不是鱼骨板就是快装板，或者手电筒，或者除雾带（） https://t.co/vEDaccd5ZH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 352,
+          "like_count": 1265,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 441
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

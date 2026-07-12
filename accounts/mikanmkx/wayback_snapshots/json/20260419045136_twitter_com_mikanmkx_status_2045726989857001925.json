@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045633674138542080"
+      ],
+      "media_source_tweet_id": [
+        "2045633677577867668"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2045726989857001925",
+    "created_at": "2026-04-19T04:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T05:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045726989857001925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "703905510735478784",
+          "start": 3,
+          "username": "sakaimii"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/9DGFwbXKF0",
+          "end": 107,
+          "expanded_url": "https://x.com/sakaimii/status/2045633677577867668/photo/1",
+          "media_key": "3_2045633674138542080",
+          "start": 84,
+          "url": "https://t.co/9DGFwbXKF0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045726989857001925",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1059
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045633677577867668",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @sakaimii: meanwhile this is how me and my bilingual JP roommate text each other https://t.co/9DGFwbXKF0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 294,
+        "media_key": "3_2045633674138542080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGOM_Qea4AAI4my.jpg",
+        "width": 666
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045633674138542080"
+          ],
+          "media_source_tweet_id": [
+            "2045633677577867668"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2045726989857001925",
+        "created_at": "2026-04-19T04:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T05:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045726989857001925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "703905510735478784",
+              "start": 3,
+              "username": "sakaimii"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DGFwbXKF0",
+              "end": 107,
+              "expanded_url": "https://x.com/sakaimii/status/2045633677577867668/photo/1",
+              "media_key": "3_2045633674138542080",
+              "start": 84,
+              "url": "https://t.co/9DGFwbXKF0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045726989857001925",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1059
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045633677577867668",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @sakaimii: meanwhile this is how me and my bilingual JP roommate text each other https://t.co/9DGFwbXKF0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045633674138542080"
+          ]
+        },
+        "author_id": "703905510735478784",
+        "conversation_id": "2045633677577867668",
+        "created_at": "2026-04-18T22:40:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-18T23:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045633677577867668"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9DGFwbXKF0",
+              "end": 93,
+              "expanded_url": "https://x.com/sakaimii/status/2045633677577867668/photo/1",
+              "media_key": "3_2045633674138542080",
+              "start": 70,
+              "url": "https://t.co/9DGFwbXKF0"
+            },
+            {
+              "display_url": "x.com/de4dgrrrl/stat…",
+              "end": 117,
+              "expanded_url": "https://twitter.com/de4dgrrrl/status/2045360190539886665",
+              "start": 94,
+              "url": "https://t.co/yDsTuPazlr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045633677577867668",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1016,
+          "impression_count": 433111,
+          "like_count": 10237,
+          "quote_count": 261,
+          "reply_count": 25,
+          "retweet_count": 1059
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045360190539886665",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "meanwhile this is how me and my bilingual JP roommate text each other https://t.co/9DGFwbXKF0 https://t.co/yDsTuPazlr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 59,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 105
+        },
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2016-02-28T11:32:06.000Z",
+        "description": "Published shoujo mangaka in Japan/(award-winning!) translator. she/her. Black. EN/JP ok. 30↑| https://t.co/ynYRCzzE2L",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/sakaimii",
+                "end": 117,
+                "expanded_url": "http://marshmallow-qa.com/sakaimii",
+                "start": 94,
+                "url": "https://t.co/ynYRCzzE2L"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/sakaimii",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/sakaimii",
+                "start": 0,
+                "url": "https://t.co/fwjCC5bRzy"
+              }
+            ]
+          }
+        },
+        "id": "703905510735478784",
+        "location": "Tokyo",
+        "name": "minami",
+        "pinned_tweet_id": "1724450177757626631",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1267109355792433154/kGTD788m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29806,
+          "following_count": 946,
+          "like_count": 33360,
+          "listed_count": 101,
+          "media_count": 4987,
+          "tweet_count": 73382
+        },
+        "url": "https://t.co/fwjCC5bRzy",
+        "username": "sakaimii",
+        "verified": false
+      }
+    ]
+  }
+}

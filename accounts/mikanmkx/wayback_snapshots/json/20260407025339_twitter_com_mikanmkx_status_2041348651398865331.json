@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2041164937830309985",
+    "created_at": "2026-04-07T02:53:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T03:53:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041348651398865331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1683218035602255872",
+          "start": 0,
+          "username": "jlxc2001"
+        },
+        {
+          "end": 20,
+          "id": "1282893311573766145",
+          "start": 10,
+          "username": "9moX20076"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041348651398865331",
+    "in_reply_to_user_id": "1683218035602255872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041171187687178577",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jlxc2001 @9moX20076 买sim free就好了，我日版26u甚至比美版24u还干净"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2041171184239493121",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOyYKJbwAEUB8s.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2041171183534821376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFOyYHhbUAADv4H.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2041164937830309985",
+        "created_at": "2026-04-07T02:53:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T03:53:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041348651398865331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1683218035602255872",
+              "start": 0,
+              "username": "jlxc2001"
+            },
+            {
+              "end": 20,
+              "id": "1282893311573766145",
+              "start": 10,
+              "username": "9moX20076"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041348651398865331",
+        "in_reply_to_user_id": "1683218035602255872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041171187687178577",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jlxc2001 @9moX20076 买sim free就好了，我日版26u甚至比美版24u还干净"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041171184239493121",
+            "3_2041171183534821376"
+          ]
+        },
+        "author_id": "1683218035602255872",
+        "conversation_id": "2041164937830309985",
+        "created_at": "2026-04-06T15:08:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T16:08:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041171187687178577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1282893311573766145",
+              "start": 0,
+              "username": "9moX20076"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mlKrKWPrzc",
+              "end": 122,
+              "expanded_url": "https://x.com/jlxc2001/status/2041171187687178577/photo/1",
+              "media_key": "3_2041171184239493121",
+              "start": 99,
+              "url": "https://t.co/mlKrKWPrzc"
+            },
+            {
+              "display_url": "pic.x.com/mlKrKWPrzc",
+              "end": 122,
+              "expanded_url": "https://x.com/jlxc2001/status/2041171187687178577/photo/1",
+              "media_key": "3_2041171183534821376",
+              "start": 99,
+              "url": "https://t.co/mlKrKWPrzc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041171187687178577",
+        "in_reply_to_user_id": "1282893311573766145",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4878,
+          "like_count": 35,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041169994667671943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9moX20076 因为我玩日本手机玩的比较多，所以专门整理了一个日本手机预装软件的禁用列表脚本，目前已经收集了242个了🥹🥹🥹日本手机的预制软件真的很多，而且不给删除，不过还好可以用ADB禁用 https://t.co/mlKrKWPrzc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 0,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 6
+        },
+        "username": "mikanmkx",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-23T20:50:49.000Z",
+        "description": "可能是个技术宅（\n喜欢数码，DIY还有初音未来，是产品经理（\n工作室在深圳喵（已于26年年初搬到江西萍乡老家了）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@jlxc2001?si=j…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@jlxc2001?si=jbdNIMfp4TT4-nEv",
+                "start": 0,
+                "url": "https://t.co/pIA1Q7xqCz"
+              }
+            ]
+          }
+        },
+        "id": "1683218035602255872",
+        "location": "中国深圳",
+        "name": "江灵夏草",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934604096973271040/LyHoR0xg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14128,
+          "following_count": 191,
+          "like_count": 461,
+          "listed_count": 29,
+          "media_count": 845,
+          "tweet_count": 2182
+        },
+        "url": "https://t.co/pIA1Q7xqCz",
+        "username": "jlxc2001",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-14T04:23:07.000Z",
+        "description": "🇯🇵生まれの🇯🇵🇨🇳ハーフ/某関西無名大学/JLPT N1/HSK5級/左翼右派/HUAWEI/vivo/oppo/DJI/BYD/SFC修行準備中/サブ→@X_CNJP ※成分複雑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 85,
+                "start": 78,
+                "username": "X_CNJP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kinketu.com",
+                "end": 23,
+                "expanded_url": "http://kinketu.com",
+                "start": 0,
+                "url": "https://t.co/fDaBBVNXdz"
+              }
+            ]
+          }
+        },
+        "id": "1282893311573766145",
+        "location": "イワシ　むれで　いきる　さかな\n",
+        "name": "Kia",
+        "pinned_tweet_id": "1958453872277717471",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1884466026773180416/T92tL03V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6811,
+          "following_count": 6808,
+          "like_count": 107793,
+          "listed_count": 28,
+          "media_count": 12326,
+          "tweet_count": 96725
+        },
+        "url": "https://t.co/fDaBBVNXdz",
+        "username": "9moX20076",
+        "verified": false
+      }
+    ]
+  }
+}

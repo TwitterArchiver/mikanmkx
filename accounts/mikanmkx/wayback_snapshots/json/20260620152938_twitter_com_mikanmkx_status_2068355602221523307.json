@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2068355600078258176"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2068355602221523307",
+    "created_at": "2026-06-20T15:29:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T16:29:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2068355602221523307"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/h1vbvyHjsy",
+          "end": 44,
+          "expanded_url": "https://x.com/mikanmkx/status/2068355602221523307/photo/1",
+          "media_key": "3_2068355600078258176",
+          "start": 21,
+          "url": "https://t.co/h1vbvyHjsy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068355602221523307",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "解锁了新的vibe coding姿势（？ https://t.co/h1vbvyHjsy"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1539,
+        "media_key": "3_2068355600078258176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLRGdavawAAqD3a.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2068355600078258176"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2068355602221523307",
+        "created_at": "2026-06-20T15:29:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T16:29:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2068355602221523307"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h1vbvyHjsy",
+              "end": 44,
+              "expanded_url": "https://x.com/mikanmkx/status/2068355602221523307/photo/1",
+              "media_key": "3_2068355600078258176",
+              "start": 21,
+              "url": "https://t.co/h1vbvyHjsy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068355602221523307",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解锁了新的vibe coding姿势（？ https://t.co/h1vbvyHjsy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 374,
+          "like_count": 1395,
+          "listed_count": 1,
+          "media_count": 125,
+          "tweet_count": 482
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2072197626737701121",
+    "created_at": "2026-07-01T05:56:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-01T06:56:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2072197626737701121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Cl0817kxx/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/Cl0817kxx/status/2071995550082404805",
+          "start": 22,
+          "url": "https://t.co/6OuJm7gTzO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072197626737701121",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071995550082404805",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "男生也可以喵，只需要把睾酮降到女性范围（？ https://t.co/6OuJm7gTzO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2072197626737701121",
+        "created_at": "2026-07-01T05:56:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-01T06:56:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072197626737701121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Cl0817kxx/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/Cl0817kxx/status/2071995550082404805",
+              "start": 22,
+              "url": "https://t.co/6OuJm7gTzO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072197626737701121",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071995550082404805",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "男生也可以喵，只需要把睾酮降到女性范围（？ https://t.co/6OuJm7gTzO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1889724986929414144",
+        "conversation_id": "2071995550082404805",
+        "created_at": "2026-06-30T16:33:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-30T17:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071995550082404805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071995550082404805",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 109540,
+          "like_count": 408,
+          "quote_count": 2,
+          "reply_count": 163,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "一想到女生可以连续自慰高潮好几次我连管都不想撸了..."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 545,
+          "following_count": 456,
+          "like_count": 1902,
+          "listed_count": 2,
+          "media_count": 140,
+          "tweet_count": 587
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-12T17:15:34.000Z",
+        "description": "一个笨蛋的碎碎念｜Dom偏S｜sp/窒息/羞辱｜专注于为对方服务｜直男｜📍悉尼/上海/福建｜（暂无门槛 玩推就是分享日常和找同好者 有空就会回 ）",
+        "id": "1889724986929414144",
+        "location": "奥思摧利呀",
+        "name": "孤单小列",
+        "pinned_tweet_id": "2033503863974826438",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032302170213924867/oV6VMsYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 11,
+          "like_count": 111,
+          "listed_count": 1,
+          "media_count": 40,
+          "tweet_count": 388
+        },
+        "url": "",
+        "username": "Cl0817kxx",
+        "verified": false
+      }
+    ]
+  }
+}

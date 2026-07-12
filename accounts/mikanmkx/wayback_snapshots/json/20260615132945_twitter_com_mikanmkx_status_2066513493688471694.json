@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2066513482955300865",
+        "3_2066513485383843842"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2066513493688471694",
+    "created_at": "2026-06-15T13:29:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T14:29:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2066513493688471694"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uYMUAB6lvm",
+          "end": 36,
+          "expanded_url": "https://x.com/mikanmkx/status/2066513493688471694/photo/1",
+          "media_key": "3_2066513482955300865",
+          "start": 13,
+          "url": "https://t.co/uYMUAB6lvm"
+        },
+        {
+          "display_url": "pic.x.com/uYMUAB6lvm",
+          "end": 36,
+          "expanded_url": "https://x.com/mikanmkx/status/2066513493688471694/photo/1",
+          "media_key": "3_2066513485383843842",
+          "start": 13,
+          "url": "https://t.co/uYMUAB6lvm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066513493688471694",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又是被光污染地图骗的一天 https://t.co/uYMUAB6lvm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2066513482955300865",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK27EFsbIAERd5J.jpg",
+        "width": 1119
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2066513485383843842",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK27EOvbwAIXpnj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066513482955300865",
+            "3_2066513485383843842"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2066513493688471694",
+        "created_at": "2026-06-15T13:29:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T14:29:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066513493688471694"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uYMUAB6lvm",
+              "end": 36,
+              "expanded_url": "https://x.com/mikanmkx/status/2066513493688471694/photo/1",
+              "media_key": "3_2066513482955300865",
+              "start": 13,
+              "url": "https://t.co/uYMUAB6lvm"
+            },
+            {
+              "display_url": "pic.x.com/uYMUAB6lvm",
+              "end": 36,
+              "expanded_url": "https://x.com/mikanmkx/status/2066513493688471694/photo/1",
+              "media_key": "3_2066513485383843842",
+              "start": 13,
+              "url": "https://t.co/uYMUAB6lvm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066513493688471694",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又是被光污染地图骗的一天 https://t.co/uYMUAB6lvm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2066338275720409161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 393,
+          "following_count": 348,
+          "like_count": 1255,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 440
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

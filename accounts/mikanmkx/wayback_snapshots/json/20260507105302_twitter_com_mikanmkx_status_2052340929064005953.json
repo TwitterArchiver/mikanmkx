@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2052340876224221185"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2052340929064005953",
+    "created_at": "2026-05-07T10:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-07T11:52:50.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2052340878661111950",
+      "2052340929064005953"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rfJZ8HIVId",
+          "end": 52,
+          "expanded_url": "https://x.com/mikanmkx/status/2052340929064005953/photo/1",
+          "media_key": "3_2052340876224221185",
+          "start": 29,
+          "url": "https://t.co/rfJZ8HIVId"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052340929064005953",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "神津岛 赤崎游步道\n\n尼康云创直出，光线意外的很有电影感 https://t.co/rfJZ8HIVId"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1365,
+        "media_key": "3_2052340876224221185",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HHthJzVb0AE3VQr.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052340876224221185"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2052340878661111950",
+        "created_at": "2026-05-07T10:52:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:52:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052340878661111950",
+          "2052340929064005953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1JhVqAvxVt",
+              "end": 52,
+              "expanded_url": "https://x.com/mikanmkx/status/2052340878661111950/photo/1",
+              "media_key": "3_2052340876224221185",
+              "start": 29,
+              "url": "https://t.co/1JhVqAvxVt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052340878661111950",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神津岛 赤崎游布道\n\n尼康云创直出，光线意外的很有电影感 https://t.co/1JhVqAvxVt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2052340876224221185"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2052340929064005953",
+        "created_at": "2026-05-07T10:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-07T11:52:50.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2052340878661111950",
+          "2052340929064005953"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rfJZ8HIVId",
+              "end": 52,
+              "expanded_url": "https://x.com/mikanmkx/status/2052340929064005953/photo/1",
+              "media_key": "3_2052340876224221185",
+              "start": 29,
+              "url": "https://t.co/rfJZ8HIVId"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052340929064005953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神津岛 赤崎游步道\n\n尼康云创直出，光线意外的很有电影感 https://t.co/rfJZ8HIVId"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029730465037631488/z05x8FYU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 130,
+          "like_count": 479,
+          "listed_count": 1,
+          "media_count": 50,
+          "tweet_count": 204
+        },
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}
