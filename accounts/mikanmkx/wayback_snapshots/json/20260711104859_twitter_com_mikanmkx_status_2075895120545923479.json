@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075895022256582656",
+        "3_2075895022260797440",
+        "3_2075895022256566272",
+        "3_2075895022281715712"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2075895120545923479",
+    "created_at": "2026-07-11T10:48:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T11:48:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075895120545923479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2hl61J9bBZ",
+          "end": 46,
+          "expanded_url": "https://x.com/mikanmkx/status/2075895120545923479/photo/1",
+          "media_key": "3_2075895022256582656",
+          "start": 23,
+          "url": "https://t.co/2hl61J9bBZ"
+        },
+        {
+          "display_url": "pic.x.com/2hl61J9bBZ",
+          "end": 46,
+          "expanded_url": "https://x.com/mikanmkx/status/2075895120545923479/photo/1",
+          "media_key": "3_2075895022260797440",
+          "start": 23,
+          "url": "https://t.co/2hl61J9bBZ"
+        },
+        {
+          "display_url": "pic.x.com/2hl61J9bBZ",
+          "end": 46,
+          "expanded_url": "https://x.com/mikanmkx/status/2075895120545923479/photo/1",
+          "media_key": "3_2075895022256566272",
+          "start": 23,
+          "url": "https://t.co/2hl61J9bBZ"
+        },
+        {
+          "display_url": "pic.x.com/2hl61J9bBZ",
+          "end": 46,
+          "expanded_url": "https://x.com/mikanmkx/status/2075895120545923479/photo/1",
+          "media_key": "3_2075895022281715712",
+          "start": 23,
+          "url": "https://t.co/2hl61J9bBZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075895120545923479",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "加了一些新药物，不知道有没有用户真的用就是了 https://t.co/2hl61J9bBZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3111,
+        "media_key": "3_2075895022256582656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8PhjCa8AAHnIT.jpg",
+        "width": 1472
+      },
+      {
+        "height": 3111,
+        "media_key": "3_2075895022260797440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8PhjDbQAAlirp.jpg",
+        "width": 1472
+      },
+      {
+        "height": 3111,
+        "media_key": "3_2075895022256566272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8PhjCasAAXgkX.jpg",
+        "width": 1472
+      },
+      {
+        "height": 3111,
+        "media_key": "3_2075895022281715712",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8PhjIacAADYFU.jpg",
+        "width": 1472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075895022256582656",
+            "3_2075895022260797440",
+            "3_2075895022256566272",
+            "3_2075895022281715712"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2075895120545923479",
+        "created_at": "2026-07-11T10:48:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T11:48:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075895120545923479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2hl61J9bBZ",
+              "end": 46,
+              "expanded_url": "https://x.com/mikanmkx/status/2075895120545923479/photo/1",
+              "media_key": "3_2075895022256582656",
+              "start": 23,
+              "url": "https://t.co/2hl61J9bBZ"
+            },
+            {
+              "display_url": "pic.x.com/2hl61J9bBZ",
+              "end": 46,
+              "expanded_url": "https://x.com/mikanmkx/status/2075895120545923479/photo/1",
+              "media_key": "3_2075895022260797440",
+              "start": 23,
+              "url": "https://t.co/2hl61J9bBZ"
+            },
+            {
+              "display_url": "pic.x.com/2hl61J9bBZ",
+              "end": 46,
+              "expanded_url": "https://x.com/mikanmkx/status/2075895120545923479/photo/1",
+              "media_key": "3_2075895022256566272",
+              "start": 23,
+              "url": "https://t.co/2hl61J9bBZ"
+            },
+            {
+              "display_url": "pic.x.com/2hl61J9bBZ",
+              "end": 46,
+              "expanded_url": "https://x.com/mikanmkx/status/2075895120545923479/photo/1",
+              "media_key": "3_2075895022281715712",
+              "start": 23,
+              "url": "https://t.co/2hl61J9bBZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075895120545923479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "加了一些新药物，不知道有没有用户真的用就是了 https://t.co/2hl61J9bBZ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 640,
+          "following_count": 541,
+          "like_count": 2512,
+          "listed_count": 2,
+          "media_count": 169,
+          "tweet_count": 714
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

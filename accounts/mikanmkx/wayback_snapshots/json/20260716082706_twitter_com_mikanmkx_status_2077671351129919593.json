@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2077668062065766494",
+    "created_at": "2026-07-16T08:27:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:27:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077671351129919593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1701484460250890240",
+          "start": 0,
+          "username": "SonogamiRinneTS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077671351129919593",
+    "in_reply_to_user_id": "1701484460250890240",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077668062065766494",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SonogamiRinneTS 这种事就不在议事日程上，有家长反映问题那就一刀切了就完事了，至于跨性别者自身谁管呢，反正ta们也没什么能量去反映问题"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2077668052423090176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVcFfHbIAAYZuK.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2077668062065766494",
+        "created_at": "2026-07-16T08:27:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:27:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077671351129919593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1701484460250890240",
+              "start": 0,
+              "username": "SonogamiRinneTS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077671351129919593",
+        "in_reply_to_user_id": "1701484460250890240",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077668062065766494",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SonogamiRinneTS 这种事就不在议事日程上，有家长反映问题那就一刀切了就完事了，至于跨性别者自身谁管呢，反正ta们也没什么能量去反映问题"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077668052423090176"
+          ]
+        },
+        "author_id": "1701484460250890240",
+        "conversation_id": "2077668062065766494",
+        "created_at": "2026-07-16T08:14:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:14:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077668062065766494"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rjepViulQh",
+              "end": 144,
+              "expanded_url": "https://x.com/SonogamiRinneTS/status/2077668062065766494/photo/1",
+              "media_key": "3_2077668052423090176",
+              "start": 121,
+              "url": "https://t.co/rjepViulQh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077668062065766494",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我是觉得吧，上面为什么要管激素售卖，是为了担心没有正规医生的指导乱吃药吃出问题。可现实是并不是我们不想去正规医院买药，而是根本过不了家长这一关，但用药需求并不会因此消失，把正规药店的激素给下架了，大家只能跑到更不正规，风险更大的药商那里购买\n\n与其这样，不如直接取消未成年跨性别者购买青春期阻断剂和性激素必须家长同意的规定，只要自己去医院诊断为性别焦虑，就走医保给报销大部分然后自己象征性把生活费挤出一点来买药。从12岁到18岁打三年阻断剂再吃三年激素的话就算全报销也就两万多块，但如果错过早期干预窗口，整成重性精神病的话，不仅劳动能力大幅度降低，还要拖累其他人照顾他们，并且会给社会带来更大的隐患，这些直接，间接损失加起来，别说两万，就算20万恐怕都不止\n\n毫无疑问的是，家长是否陪诊和是否同意孩子进行早期性别过渡治疗，这并不会影响孩子是跨性别的事实。而且十一二岁的年龄实际上已经足够和医生交流解释自己的情况了，诊断过程中父母的描述并不是判断孩子是不是跨性别者的必要条件，总不能说“未经批准，禁止生病”吧\n\n至于民间反对，也无需担心和在意。现在国内未成年人打青春期阻断剂的纸面要求在全世界看也是最低的国家之一，也没见得有老保集体反对。由此看来，如果国家执意要取消未成年人变性必须家长知情同意的要求，老保就算是反对也最多就是在网上发两天牢骚也就过去了，毕竟这事和绝大多数人的日常生活没有半点关系。如果真有人线下抗议，直接全抓走关进去冷静两天也就好了\n\n还有，之前网上有美国未成年人在父母不知情的情况下变性的谣言流传，就吓得国内很多人不敢向西方国家移民了，这还只是没头没脑的谣言的情况。我看现在国内不也一堆人担忧和反对中国大规模接收外国移民吗，如果中国真成了世界上第一个未成年人不需要父母知情同意就能进行性别过渡治疗的国家，经过国内外媒体大肆宣扬一番，肯定也能吓退很多想来中国混吃混喝的底层白人和落后国家的移民"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 80,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我是觉得吧，上面为什么要管激素售卖，是为了担心没有正规医生的指导乱吃药吃出问题。可现实是并不是我们不想去正规医院买药，而是根本过不了家长这一关，但用药需求并不会因此消失，把正规药店的激素给下架了，大家只能跑到更不正规，风险更大的药商那里购买 https://t.co/rjepViulQh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 575,
+          "like_count": 2768,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 778
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-09-12T06:34:58.000Z",
+        "description": "药娘mtf/无证含糖/hrt: 2025.1.15/仓库搬砖中/自闭症精残/究极天残党/同类互关/王者，崩铁，原神",
+        "id": "1701484460250890240",
+        "name": "是Rinne酱呀",
+        "pinned_tweet_id": "1889100356099203268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1888922914763988992/-ixcDogC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5096,
+          "following_count": 3783,
+          "like_count": 1522,
+          "listed_count": 17,
+          "media_count": 293,
+          "tweet_count": 2007
+        },
+        "url": "",
+        "username": "SonogamiRinneTS",
+        "verified": true
+      }
+    ]
+  }
+}

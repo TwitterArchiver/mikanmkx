@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2075855653051253149",
+    "created_at": "2026-07-12T06:54:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T07:54:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076198495665725877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1800122571972812801",
+          "start": 0,
+          "username": "A_Schenberg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076198495665725877",
+    "in_reply_to_user_id": "1800122571972812801",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075855653051253149",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@A_Schenberg 想要唉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2075855647464415233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7rtoga4AEo_pb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075855647451774976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7rtodaAAA3zJO.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2075855647447592960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7rtocaMAALZrW.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2075855647489589249",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7rtombAAEiCHL.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2075855653051253149",
+        "created_at": "2026-07-12T06:54:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T07:54:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076198495665725877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1800122571972812801",
+              "start": 0,
+              "username": "A_Schenberg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076198495665725877",
+        "in_reply_to_user_id": "1800122571972812801",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075855653051253149",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@A_Schenberg 想要唉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075855647464415233",
+            "3_2075855647451774976",
+            "3_2075855647447592960",
+            "3_2075855647489589249"
+          ]
+        },
+        "author_id": "1800122571972812801",
+        "conversation_id": "2075855653051253149",
+        "created_at": "2026-07-11T08:12:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T09:12:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075855653051253149"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DXH0xrkY5w",
+              "end": 33,
+              "expanded_url": "https://x.com/A_Schenberg/status/2075855653051253149/photo/1",
+              "media_key": "3_2075855647464415233",
+              "start": 10,
+              "url": "https://t.co/DXH0xrkY5w"
+            },
+            {
+              "display_url": "pic.x.com/DXH0xrkY5w",
+              "end": 33,
+              "expanded_url": "https://x.com/A_Schenberg/status/2075855653051253149/photo/1",
+              "media_key": "3_2075855647451774976",
+              "start": 10,
+              "url": "https://t.co/DXH0xrkY5w"
+            },
+            {
+              "display_url": "pic.x.com/DXH0xrkY5w",
+              "end": 33,
+              "expanded_url": "https://x.com/A_Schenberg/status/2075855653051253149/photo/1",
+              "media_key": "3_2075855647447592960",
+              "start": 10,
+              "url": "https://t.co/DXH0xrkY5w"
+            },
+            {
+              "display_url": "pic.x.com/DXH0xrkY5w",
+              "end": 33,
+              "expanded_url": "https://x.com/A_Schenberg/status/2075855653051253149/photo/1",
+              "media_key": "3_2075855647489589249",
+              "start": 10,
+              "url": "https://t.co/DXH0xrkY5w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075855653051253149",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 123,
+          "impression_count": 63251,
+          "like_count": 763,
+          "quote_count": 17,
+          "reply_count": 24,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "お待ちしております https://t.co/DXH0xrkY5w"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 656,
+          "following_count": 550,
+          "like_count": 2570,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 729
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-10T11:07:45.000Z",
+        "description": "理系院（留学）生 | 京都➡️〇〇➡️札幌➡️東京 | 4月から社会人 | 無言フォロー失礼します\n⚠︎外国語注意",
+        "id": "1800122571972812801",
+        "name": "アジサイ",
+        "pinned_tweet_id": "2027199455376859569",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027205646966530048/BxJoPbis_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 198,
+          "like_count": 1486,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "A_Schenberg",
+        "verified": false
+      }
+    ]
+  }
+}

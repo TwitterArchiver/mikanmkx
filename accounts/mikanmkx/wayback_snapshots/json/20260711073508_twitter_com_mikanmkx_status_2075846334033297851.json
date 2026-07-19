@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075846330384355328"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2075846334033297851",
+    "created_at": "2026-07-11T07:35:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T08:35:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075846334033297851"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/YxFOTptiiu",
+          "end": 41,
+          "expanded_url": "https://x.com/mikanmkx/status/2075846334033297851/photo/1",
+          "media_key": "3_2075846330384355328",
+          "start": 18,
+          "url": "https://t.co/YxFOTptiiu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075846334033297851",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有种想把这80g本子全删了的冲动😠 https://t.co/YxFOTptiiu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1638,
+        "media_key": "3_2075846330384355328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM7jPTrbkAAe62u.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075846330384355328"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2075846334033297851",
+        "created_at": "2026-07-11T07:35:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T08:35:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075846334033297851"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YxFOTptiiu",
+              "end": 41,
+              "expanded_url": "https://x.com/mikanmkx/status/2075846334033297851/photo/1",
+              "media_key": "3_2075846330384355328",
+              "start": 18,
+              "url": "https://t.co/YxFOTptiiu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075846334033297851",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有种想把这80g本子全删了的冲动😠 https://t.co/YxFOTptiiu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 638,
+          "following_count": 537,
+          "like_count": 2498,
+          "listed_count": 2,
+          "media_count": 168,
+          "tweet_count": 711
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

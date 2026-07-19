@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2077642686392311808"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2077642691459047562",
+    "created_at": "2026-07-16T06:33:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T07:33:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077642691459047562"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/I8ODD8XyNH",
+          "end": 32,
+          "expanded_url": "https://x.com/mikanmkx/status/2077642691459047562/photo/1",
+          "media_key": "3_2077642686392311808",
+          "start": 9,
+          "url": "https://t.co/I8ODD8XyNH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077642691459047562",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "严肃入学莲之空喵 https://t.co/I8ODD8XyNH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2077642686392311808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNVFA_SaIAAC8NQ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2077642686392311808"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2077642691459047562",
+        "created_at": "2026-07-16T06:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T07:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077642691459047562"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/I8ODD8XyNH",
+              "end": 32,
+              "expanded_url": "https://x.com/mikanmkx/status/2077642691459047562/photo/1",
+              "media_key": "3_2077642686392311808",
+              "start": 9,
+              "url": "https://t.co/I8ODD8XyNH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077642691459047562",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "严肃入学莲之空喵 https://t.co/I8ODD8XyNH"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 576,
+          "like_count": 2761,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 771
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

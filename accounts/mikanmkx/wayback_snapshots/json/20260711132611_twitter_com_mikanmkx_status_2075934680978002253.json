@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2075932962844213248"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106361979039746",
+          "name": "Fujifilm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106361979039746",
+          "name": "Fujifilm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2075934680978002253",
+    "created_at": "2026-07-11T13:26:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:26:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2075934680978002253"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/v3xIr01eg4",
+          "end": 186,
+          "expanded_url": "https://x.com/mikanmkx/status/2075934680978002253/photo/1",
+          "media_key": "3_2075932962844213248",
+          "start": 163,
+          "url": "https://t.co/v3xIr01eg4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075934680978002253",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "No. 1\n洛杉矶，加利福尼亚，美国\n2022/06/24\nFUJIFILM X-S10\nSAMYANG 135mm F/2.0 ED UMC\n---\n其实那天我是去拍一个什么行星连线的，结果最后拍出来的效果不太好，然后在回去的路上突然看到这一幕，吓得我赶紧停车架三脚架，幸好那天我带了这支镜头，不然靠广角肯定拍不出这种感觉 https://t.co/v3xIr01eg4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2075932962844213248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8yB-vagAAoxFA.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075932962844213248"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2075934680978002253",
+        "created_at": "2026-07-11T13:26:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:26:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075934680978002253"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/v3xIr01eg4",
+              "end": 186,
+              "expanded_url": "https://x.com/mikanmkx/status/2075934680978002253/photo/1",
+              "media_key": "3_2075932962844213248",
+              "start": 163,
+              "url": "https://t.co/v3xIr01eg4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075934680978002253",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "No. 1\n洛杉矶，加利福尼亚，美国\n2022/06/24\nFUJIFILM X-S10\nSAMYANG 135mm F/2.0 ED UMC\n---\n其实那天我是去拍一个什么行星连线的，结果最后拍出来的效果不太好，然后在回去的路上突然看到这一幕，吓得我赶紧停车架三脚架，幸好那天我带了这支镜头，不然靠广角肯定拍不出这种感觉 https://t.co/v3xIr01eg4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 544,
+          "like_count": 2539,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 721
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

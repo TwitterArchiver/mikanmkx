@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2077952019734937640",
+    "created_at": "2026-07-17T03:27:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:27:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077958403947995395"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2060015773553479680",
+          "start": 0,
+          "username": "jianjianOuO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077958403947995395",
+    "in_reply_to_user_id": "2060015773553479680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077958054109401462",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jianjianOuO 要卡点抢的，提前一星期上午十一点"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2077952019734937640",
+        "created_at": "2026-07-17T03:27:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:27:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077958403947995395"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2060015773553479680",
+              "start": 0,
+              "username": "jianjianOuO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077958403947995395",
+        "in_reply_to_user_id": "2060015773553479680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077958054109401462",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jianjianOuO 要卡点抢的，提前一星期上午十一点"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060015773553479680",
+        "conversation_id": "2077952019734937640",
+        "created_at": "2026-07-17T03:26:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:26:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077958054109401462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077958054109401462",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077952019734937640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 怎么挂到的啊？我去回龙观小程序上看都是无号😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 684,
+          "following_count": 580,
+          "like_count": 2826,
+          "listed_count": 2,
+          "media_count": 188,
+          "tweet_count": 799
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-28T15:10:56.000Z",
+        "description": "06年新手xyn / 天残党🏳️‍⚧️ / 家长不管党？ / mtf / 泛性恋 / 求互fo\nhrt：2026.2.7\n小证：2026.5.23\n想扩列的可以来找我喵，大学牲基本随时在线，📍杭州",
+        "id": "2060015773553479680",
+        "name": "渐渐🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060016217595969536/W0DeXifD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 59,
+          "like_count": 179,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "jianjianOuO",
+        "verified": false
+      }
+    ]
+  }
+}

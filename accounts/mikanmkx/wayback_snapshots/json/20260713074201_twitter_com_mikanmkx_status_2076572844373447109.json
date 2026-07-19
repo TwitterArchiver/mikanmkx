@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2076572830838435840",
+        "3_2076572838316904448"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2076572844373447109",
+    "created_at": "2026-07-13T07:42:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T08:42:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076572844373447109"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yMLbjTIkod",
+          "end": 32,
+          "expanded_url": "https://x.com/mikanmkx/status/2076572844373447109/photo/1",
+          "media_key": "3_2076572830838435840",
+          "start": 9,
+          "url": "https://t.co/yMLbjTIkod"
+        },
+        {
+          "display_url": "pic.x.com/yMLbjTIkod",
+          "end": 32,
+          "expanded_url": "https://x.com/mikanmkx/status/2076572844373447109/photo/1",
+          "media_key": "3_2076572838316904448",
+          "start": 9,
+          "url": "https://t.co/yMLbjTIkod"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076572844373447109",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "补充点邦多利能量 https://t.co/yMLbjTIkod"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076572830838435840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNF3_MxaMAA1Geu.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2076572838316904448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNF3_ooakAATM_V.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076572830838435840",
+            "3_2076572838316904448"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2076572844373447109",
+        "created_at": "2026-07-13T07:42:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T08:42:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076572844373447109"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yMLbjTIkod",
+              "end": 32,
+              "expanded_url": "https://x.com/mikanmkx/status/2076572844373447109/photo/1",
+              "media_key": "3_2076572830838435840",
+              "start": 9,
+              "url": "https://t.co/yMLbjTIkod"
+            },
+            {
+              "display_url": "pic.x.com/yMLbjTIkod",
+              "end": 32,
+              "expanded_url": "https://x.com/mikanmkx/status/2076572844373447109/photo/1",
+              "media_key": "3_2076572838316904448",
+              "start": 9,
+              "url": "https://t.co/yMLbjTIkod"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076572844373447109",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "补充点邦多利能量 https://t.co/yMLbjTIkod"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 662,
+          "following_count": 555,
+          "like_count": 2612,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 742
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

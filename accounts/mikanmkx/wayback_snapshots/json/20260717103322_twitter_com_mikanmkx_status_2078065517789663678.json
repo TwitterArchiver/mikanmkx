@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2078065517789663678",
+    "created_at": "2026-07-17T10:33:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T11:33:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078065517789663678"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "2025449560580259844",
+          "start": 3,
+          "username": "AlimataOue45353"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078065517789663678",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078051210729599479",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AlimataOue45353: 长胸了柰子摸着好舒服"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2078065517789663678",
+        "created_at": "2026-07-17T10:33:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T11:33:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078065517789663678"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2025449560580259844",
+              "start": 3,
+              "username": "AlimataOue45353"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078065517789663678",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078051210729599479",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AlimataOue45353: 长胸了柰子摸着好舒服"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2025449560580259844",
+        "conversation_id": "2078051210729599479",
+        "created_at": "2026-07-17T09:36:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T10:36:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078051210729599479"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2078051210729599479",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "长胸了柰子摸着好舒服"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 686,
+          "following_count": 581,
+          "like_count": 2867,
+          "listed_count": 2,
+          "media_count": 193,
+          "tweet_count": 822
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-22T05:56:52.000Z",
+        "description": "xyn🍥，hrt🍥2026.6.6",
+        "id": "2025449560580259844",
+        "name": "鎮命🍥",
+        "pinned_tweet_id": "2070822500813152316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077362587168354304/0b-zC7-e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 367,
+          "following_count": 470,
+          "like_count": 4046,
+          "listed_count": 3,
+          "media_count": 24,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "AlimataOue45353",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2075929184917164455",
+    "created_at": "2026-07-11T13:57:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:57:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075942464507302167"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2067447448549949440",
+          "start": 0,
+          "username": "Unk_Snow"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075942464507302167",
+    "in_reply_to_user_id": "2067447448549949440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075929184917164455",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Unk_Snow 超好吃"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2075929169738055680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HM8ulMUbwAAyr9u.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2075929184917164455",
+        "created_at": "2026-07-11T13:57:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:57:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075942464507302167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2067447448549949440",
+              "start": 0,
+              "username": "Unk_Snow"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075942464507302167",
+        "in_reply_to_user_id": "2067447448549949440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075929184917164455",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Unk_Snow 超好吃"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2075929169738055680"
+          ]
+        },
+        "author_id": "2067447448549949440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1494705554589061120",
+              "name": "Shake Shack"
+            }
+          }
+        ],
+        "conversation_id": "2075929184917164455",
+        "created_at": "2026-07-11T13:04:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075929184917164455"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7PB9JxEE2",
+              "end": 40,
+              "expanded_url": "https://x.com/Unk_Snow/status/2075929184917164455/photo/1",
+              "media_key": "3_2075929169738055680",
+              "start": 17,
+              "url": "https://t.co/A7PB9JxEE2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075929184917164455",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一次见到Shake Shack https://t.co/A7PB9JxEE2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 644,
+          "following_count": 545,
+          "like_count": 2543,
+          "listed_count": 2,
+          "media_count": 170,
+          "tweet_count": 722
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-18T03:21:40.000Z",
+        "description": "被关精卫中，不发帖就是被晶抓走了😭|\n前世@UnkXyn|\nMTX🏳️‍⚧️|HRT🍥01.28.2026，被迫断糖06.06.2026|无证|年龄党|家暴党😭|\n🎂11.13.2011🍰|暂时无法Od💊|163cm53kg|INFP-T|重度社恐|",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "UnkXyn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/unk1111131",
+                "end": 23,
+                "expanded_url": "http://ngl.link/unk1111131",
+                "start": 0,
+                "url": "https://t.co/0ewSOP9bxV"
+              }
+            ]
+          }
+        },
+        "id": "2067447448549949440",
+        "name": "Unk🍥(5.0互fo寻回)",
+        "pinned_tweet_id": "2074414371103793364",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073222728484851712/z8pUDHz2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 274,
+          "following_count": 472,
+          "like_count": 312,
+          "listed_count": 4,
+          "media_count": 29,
+          "tweet_count": 168
+        },
+        "url": "https://t.co/0ewSOP9bxV",
+        "username": "Unk_Snow",
+        "verified": false
+      }
+    ]
+  }
+}

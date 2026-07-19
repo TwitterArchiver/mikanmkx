@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2077665661359378853",
+    "created_at": "2026-07-16T08:04:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-16T09:04:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2077665661359378853"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Poca2381/statu…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/Poca2381/status/2077409621824999631",
+          "start": 36,
+          "url": "https://t.co/fThhBdE27a"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077665661359378853",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077409621824999631",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "由于本人无法接受自己现在的年龄，决定即日起擅自给自己减龄十岁，望周知。 https://t.co/fThhBdE27a"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2077665661359378853",
+        "created_at": "2026-07-16T08:04:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T09:04:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077665661359378853"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Poca2381/statu…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/Poca2381/status/2077409621824999631",
+              "start": 36,
+              "url": "https://t.co/fThhBdE27a"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077665661359378853",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077409621824999631",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "由于本人无法接受自己现在的年龄，决定即日起擅自给自己减龄十岁，望周知。 https://t.co/fThhBdE27a"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1280001743162609664",
+        "conversation_id": "2077409621824999631",
+        "created_at": "2026-07-15T15:07:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T16:07:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077409621824999631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2077409621824999631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3386,
+          "like_count": 84,
+          "quote_count": 2,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "由于本人无法接受自己现在的年龄，决定即日起擅自给自己减龄五岁，望周知。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 682,
+          "following_count": 576,
+          "like_count": 2768,
+          "listed_count": 2,
+          "media_count": 183,
+          "tweet_count": 776
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-06T04:53:06.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露\n可爱对象YOYO：@vu_yoyo\n娃图专用号：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 42,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 66,
+                "start": 57,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1280001743162609664",
+        "location": "香港",
+        "name": "是早露泡泡兔呀",
+        "pinned_tweet_id": "1563474617657749504",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051672456298205184/OiCCKyub_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22738,
+          "following_count": 9986,
+          "like_count": 153300,
+          "listed_count": 51,
+          "media_count": 5475,
+          "tweet_count": 53930
+        },
+        "url": "",
+        "username": "Poca2381",
+        "verified": true
+      }
+    ]
+  }
+}

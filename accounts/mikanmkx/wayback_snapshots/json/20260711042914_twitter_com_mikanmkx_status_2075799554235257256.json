@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2075790643843244292",
+    "created_at": "2026-07-11T04:29:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T05:29:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075799554235257256"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1984321775333937152",
+          "start": 0,
+          "username": "Epheiamoe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075799554235257256",
+    "in_reply_to_user_id": "1984321775333937152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075790643843244292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Epheiamoe 不要在这种弱智观点上浪费时间（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2075790643843244292",
+        "created_at": "2026-07-11T04:29:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T05:29:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075799554235257256"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1984321775333937152",
+              "start": 0,
+              "username": "Epheiamoe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075799554235257256",
+        "in_reply_to_user_id": "1984321775333937152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075790643843244292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Epheiamoe 不要在这种弱智观点上浪费时间（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984321775333937152",
+        "conversation_id": "2075790643843244292",
+        "created_at": "2026-07-11T03:53:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T04:53:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075790643843244292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ShitpostRock/s…",
+              "end": 181,
+              "expanded_url": "https://twitter.com/ShitpostRock/status/2075387780016848926",
+              "start": 158,
+              "url": "https://t.co/eP5iIYhqDA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075790643843244292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "你他妈世界观中就只有「道德」\n无神论的基础是科学，不是你拍脑瓜想出来的什么「道德」，不和尸体发生性行为仅仅是因为这不卫生。\n而宗教就没有这些困扰了，如果某个宗教让你去这么做，你就放弃道德了。\n这就是为什么应该相信无神论，它们让你独立思考，而不是盲从。\n\nYour fucking worldview is only about \"morality.\" The foundation of atheism is science, not some \"morality\" you pulled out of your ass. Not having sex with a corpse is simply because it's unhygienic. Religion, on the other hand, doesn't have these hang-ups—if some religion tells you to do it, you just throw your morality out the window. That's exactly why you should believe in atheism: it makes you think for yourself, not blindly follow."
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075387780016848926",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你他妈世界观中就只有「道德」\n无神论的基础是科学，不是你拍脑瓜想出来的什么「道德」，不和尸体发生性行为仅仅是因为这不卫生。\n而宗教就没有这些困扰了，如果某个宗教让你去这么做，你就放弃道德了。\n这就是为什么应该相信无神论，它们让你独立思考，而不是盲从。\n\nYour fucking worldview is only https://t.co/eP5iIYhqDA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 537,
+          "like_count": 2488,
+          "listed_count": 2,
+          "media_count": 167,
+          "tweet_count": 710
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-31T18:09:28.000Z",
+        "description": "@nyaepheia 的评论账号\n酷儿，女性倾向跨性别者（She/They）\nBluesky: https://t.co/efMJJyVO9V\n\n人权理应大于一切。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "nyaepheia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/wataku…",
+                "end": 71,
+                "expanded_url": "https://bsky.app/profile/watakushi.desuwa.org",
+                "start": 48,
+                "url": "https://t.co/efMJJyVO9V"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nya.epheia.moe",
+                "end": 23,
+                "expanded_url": "https://nya.epheia.moe/",
+                "start": 0,
+                "url": "https://t.co/GSaNdUzzN7"
+              }
+            ]
+          }
+        },
+        "id": "1984321775333937152",
+        "location": "Japan",
+        "name": "𝑬𝒑𝒉𝒆𝒊𝒂(she/they)",
+        "pinned_tweet_id": "2074801532462342499",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027373919360163840/Gz8Pb5MH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 66,
+          "like_count": 567,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 431
+        },
+        "url": "https://t.co/GSaNdUzzN7",
+        "username": "Epheiamoe",
+        "verified": true
+      }
+    ]
+  }
+}
