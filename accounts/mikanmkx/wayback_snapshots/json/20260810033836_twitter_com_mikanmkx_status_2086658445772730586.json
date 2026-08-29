@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2086004092615397586",
+    "created_at": "2026-08-10T03:38:36.000Z",
+    "display_text_range": [
+      14,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:38:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086658445772730586"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1567670093550858242",
+          "start": 0,
+          "username": "ATRI_5201314"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086658445772730586",
+    "in_reply_to_user_id": "1567670093550858242",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086555832867795105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ATRI_5201314 我就是ultra，sol太喜欢自作主张然后over engineering了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2086004092615397586",
+        "created_at": "2026-08-10T03:38:36.000Z",
+        "display_text_range": [
+          14,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:38:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086658445772730586"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1567670093550858242",
+              "start": 0,
+              "username": "ATRI_5201314"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086658445772730586",
+        "in_reply_to_user_id": "1567670093550858242",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086555832867795105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ATRI_5201314 我就是ultra，sol太喜欢自作主张然后over engineering了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1567670093550858242",
+        "conversation_id": "2086004092615397586",
+        "created_at": "2026-08-09T20:50:51.000Z",
+        "display_text_range": [
+          10,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T21:50:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086555832867795105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086555832867795105",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086004092615397586",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 你嫌5.6sol不好用说明你推理强度没开到最大，我直接 5.6-sol ultra 1.5x，写代码又快又爽"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2086658445772730586",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 964,
+          "following_count": 781,
+          "like_count": 4364,
+          "listed_count": 3,
+          "media_count": 245,
+          "tweet_count": 1185
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-08T00:24:28.000Z",
+        "description": "破产IDC老板/计算机科班学生/个人站长/二次元阿宅/小药娘\n关注了这么多小男娘跟小药娘，结果自己却变成小药娘了",
+        "id": "1567670093550858242",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2086608578581045377",
+        "name": "往生堂贵宾一位",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1567670093550858242/1763626338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991419441511559171/3RprTY8z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 52,
+          "like_count": 4054,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 286
+        },
+        "url": "",
+        "username": "ATRI_5201314",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

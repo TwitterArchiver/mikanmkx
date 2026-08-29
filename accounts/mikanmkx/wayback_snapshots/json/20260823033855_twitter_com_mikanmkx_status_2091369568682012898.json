@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2091369568682012898",
+    "created_at": "2026-08-23T03:38:55.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T04:38:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091369568682012898"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/tgirlhimejoshi…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/tgirlhimejoshi/status/2091190786092052772",
+          "start": 5,
+          "url": "https://t.co/PZcaPg8x3Y"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091369568682012898",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091190786092052772",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "严肃学习 https://t.co/PZcaPg8x3Y"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3134,
+        "media_key": "3_2091190772070494208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVm7XbWMAAIorc.jpg",
+        "width": 1667
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2091369568682012898",
+        "created_at": "2026-08-23T03:38:55.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T04:38:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091369568682012898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/tgirlhimejoshi…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/tgirlhimejoshi/status/2091190786092052772",
+              "start": 5,
+              "url": "https://t.co/PZcaPg8x3Y"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091369568682012898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091190786092052772",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "严肃学习 https://t.co/PZcaPg8x3Y"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091190772070494208"
+          ]
+        },
+        "author_id": "1990570774286249984",
+        "conversation_id": "2091190786092052772",
+        "created_at": "2026-08-22T15:48:30.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T16:48:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091190786092052772"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eeeLvwsgy4",
+              "end": 72,
+              "expanded_url": "https://x.com/tgirlhimejoshi/status/2091190786092052772/photo/1",
+              "media_key": "3_2091190772070494208",
+              "start": 49,
+              "url": "https://t.co/eeeLvwsgy4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091190786092052772",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2091190772070494208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 421,
+          "impression_count": 29257,
+          "like_count": 3224,
+          "quote_count": 14,
+          "reply_count": 54,
+          "retweet_count": 44
+        },
+        "reply_settings": "everyone",
+        "text": "this is still boymoding right guys.... right.... https://t.co/eeeLvwsgy4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2091369568682012898",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1061,
+          "following_count": 860,
+          "like_count": 5469,
+          "listed_count": 3,
+          "media_count": 277,
+          "tweet_count": 1406
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-18T00:02:14.000Z",
+        "description": "21 | your local aroace lesbian trans catgirl | I love yuri❗❗❗and vocaloid and games",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tgirlhimejoshi.straw.page",
+                "end": 23,
+                "expanded_url": "https://tgirlhimejoshi.straw.page",
+                "start": 0,
+                "url": "https://t.co/9nv9r5b2XO"
+              }
+            ]
+          }
+        },
+        "id": "1990570774286249984",
+        "is_identity_verified": false,
+        "location": "🇦🇹",
+        "most_recent_tweet_id": "2091351357282267471",
+        "name": "krisha🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1990570774286249984/1782605042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090827873854582784/1m2Z7-hX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759,
+          "following_count": 393,
+          "like_count": 34466,
+          "listed_count": 3,
+          "media_count": 638,
+          "tweet_count": 4871
+        },
+        "url": "https://t.co/9nv9r5b2XO",
+        "username": "tgirlhimejoshi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

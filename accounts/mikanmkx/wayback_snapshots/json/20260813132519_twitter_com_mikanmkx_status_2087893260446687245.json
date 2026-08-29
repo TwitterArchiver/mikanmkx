@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087893260446687245",
+    "created_at": "2026-08-13T13:25:19.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T14:25:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087893260446687245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2835314533",
+          "start": 3,
+          "username": "LostinChaos_l"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087893260446687245",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087542855313277252",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LostinChaos_l: 我安全感的来源大部分来自于确定性，当一件事悬而未决的时候我就会极度焦虑烦躁。我所有假装松弛的动作都浮于表面，就算我假装随性也只是知道就算这个决定偏离路线也还有别的在我控制范围内的选择，一旦前方完全是一片未知的领域我就赶紧收拾收拾打道回府了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087893260446687245",
+        "created_at": "2026-08-13T13:25:19.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:25:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087893260446687245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2835314533",
+              "start": 3,
+              "username": "LostinChaos_l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087893260446687245",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087542855313277252",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LostinChaos_l: 我安全感的来源大部分来自于确定性，当一件事悬而未决的时候我就会极度焦虑烦躁。我所有假装松弛的动作都浮于表面，就算我假装随性也只是知道就算这个决定偏离路线也还有别的在我控制范围内的选择，一旦前方完全是一片未知的领域我就赶紧收拾收拾打道回府了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2835314533",
+        "conversation_id": "2087542855313277252",
+        "created_at": "2026-08-12T14:12:56.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T15:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087542855313277252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2087542855313277252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 4232,
+          "like_count": 155,
+          "quote_count": 0,
+          "reply_count": 49,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我安全感的来源大部分来自于确定性，当一件事悬而未决的时候我就会极度焦虑烦躁。我所有假装松弛的动作都浮于表面，就算我假装随性也只是知道就算这个决定偏离路线也还有别的在我控制范围内的选择，一旦前方完全是一片未知的领域我就赶紧收拾收拾打道回府了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087893260446687245",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 806,
+          "like_count": 4637,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 1259
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-09-28T17:10:06.000Z",
+        "description": "Take the leap",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lostinchaos814…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lostinchaos81434",
+                "start": 0,
+                "url": "https://t.co/Oz9yWVzGga"
+              }
+            ]
+          }
+        },
+        "id": "2835314533",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087856559305167098",
+        "name": "Croissant",
+        "pinned_tweet_id": "1952015816196755867",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2835314533/1765941602",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047731919392235520/XT90wLd4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 217,
+          "following_count": 141,
+          "like_count": 4918,
+          "listed_count": 2,
+          "media_count": 733,
+          "tweet_count": 2241
+        },
+        "url": "https://t.co/Oz9yWVzGga",
+        "username": "LostinChaos_l",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

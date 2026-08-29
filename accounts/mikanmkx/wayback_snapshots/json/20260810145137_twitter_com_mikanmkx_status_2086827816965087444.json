@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2086827816965087444",
+    "created_at": "2026-08-10T14:51:37.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2086827816965087444"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NASASpacefligh…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/NASASpaceflight/status/2086790576402256321",
+          "start": 7,
+          "url": "https://t.co/5rLC63cHuM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086827816965087444",
+    "lang": "qst",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086790576402256321",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "？？？？？？ https://t.co/5rLC63cHuM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19049,
+        "height": 872,
+        "media_key": "13_2086790439718244352",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2086790439718244352/img/YgPbJbJ7Er0pMcKT.jpg",
+        "public_metrics": {
+          "view_count": 59653
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2086790439718244352/pl/KLXF9XrygwOC3OmM.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086790439718244352/vid/avc1/1552x872/qX-2nwHhIP0D02W-.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086790439718244352/vid/avc1/480x270/MNsNvAtRUzkCN1yL.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086790439718244352/vid/avc1/640x360/Jg5zZIe0jM6aNNDq.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2086790439718244352/vid/avc1/1280x720/SJosN60wYDPQx3an.mp4"
+          }
+        ],
+        "width": 1552
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2086827816965087444",
+        "created_at": "2026-08-10T14:51:37.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086827816965087444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NASASpacefligh…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/NASASpaceflight/status/2086790576402256321",
+              "start": 7,
+              "url": "https://t.co/5rLC63cHuM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086827816965087444",
+        "lang": "qst",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086790576402256321",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "？？？？？？ https://t.co/5rLC63cHuM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2086790439718244352"
+          ]
+        },
+        "author_id": "21292523",
+        "conversation_id": "2086790576402256321",
+        "created_at": "2026-08-10T12:23:38.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T13:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086790576402256321"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Wenchang launch coverage in partnership with 追箭部落Additional foota...",
+              "display_url": "youtube.com/live/GBj4IB6zM…",
+              "end": 86,
+              "expanded_url": "https://www.youtube.com/live/GBj4IB6zM1s",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2086779699339096065/Coh-fPhQ?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2086779699339096065/Coh-fPhQ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 63,
+              "status": 200,
+              "title": "Live: Long March 7A Flight 18 Launch (No Commentary)",
+              "unwound_url": "https://www.youtube.com/live/GBj4IB6zM1s",
+              "url": "https://t.co/8Ije1oeWe7"
+            },
+            {
+              "display_url": "pic.x.com/qNa1nIYH6T",
+              "end": 110,
+              "expanded_url": "https://x.com/NASASpaceflight/status/2086790576402256321/video/1",
+              "media_key": "13_2086790439718244352",
+              "start": 87,
+              "url": "https://t.co/qNa1nIYH6T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086790576402256321",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2086790439718244352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 123560,
+          "like_count": 1366,
+          "quote_count": 62,
+          "reply_count": 86,
+          "retweet_count": 197
+        },
+        "reply_settings": "everyone",
+        "text": "China's Long March 7A has exploded during first stage flight.\n\nhttps://t.co/8Ije1oeWe7 https://t.co/qNa1nIYH6T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2086827816965087444",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 784,
+          "like_count": 4392,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 1193
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-02-19T12:02:37.000Z",
+        "description": "Official Account of NSF. News, videos, and community for spaceflight enthusiasts since 2005.\n\nNSF is not affiliated with NASA, initials used with permission.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "nasaspaceflight.com",
+                "end": 23,
+                "expanded_url": "http://www.nasaspaceflight.com",
+                "start": 0,
+                "url": "https://t.co/hzKTotwsHx"
+              }
+            ]
+          }
+        },
+        "id": "21292523",
+        "is_identity_verified": false,
+        "location": "USA",
+        "most_recent_tweet_id": "2086821930431041989",
+        "name": "NSF - NASASpaceflight.com",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/21292523/1556162588",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637919260298158080/kRT8BkYf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 738655,
+          "following_count": 337,
+          "like_count": 63453,
+          "listed_count": 4895,
+          "media_count": 30140,
+          "tweet_count": 86258
+        },
+        "url": "https://t.co/hzKTotwsHx",
+        "username": "NASASpaceflight",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

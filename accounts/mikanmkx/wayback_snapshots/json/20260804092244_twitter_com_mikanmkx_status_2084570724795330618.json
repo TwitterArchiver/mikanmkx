@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2084570724795330618",
+    "created_at": "2026-08-04T09:22:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:22:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084570724795330618"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hsn8086xe/stat…",
+          "end": 68,
+          "expanded_url": "https://twitter.com/hsn8086xe/status/2084518793406222345",
+          "start": 45,
+          "url": "https://t.co/9yKWGgAgEH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084570724795330618",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084518793406222345",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我小学还是幼儿园甚至还用过软盘，这下真成老东西了\n\n顺带一提那台电脑最后被我拆掉了（默哀 https://t.co/9yKWGgAgEH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_2084518782098341888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO2yyb6aAAAQL74.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084570724795330618",
+        "created_at": "2026-08-04T09:22:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:22:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084570724795330618"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hsn8086xe/stat…",
+              "end": 68,
+              "expanded_url": "https://twitter.com/hsn8086xe/status/2084518793406222345",
+              "start": 45,
+              "url": "https://t.co/9yKWGgAgEH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084570724795330618",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084518793406222345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我小学还是幼儿园甚至还用过软盘，这下真成老东西了\n\n顺带一提那台电脑最后被我拆掉了（默哀 https://t.co/9yKWGgAgEH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084518782098341888"
+          ]
+        },
+        "author_id": "1863439189909618688",
+        "conversation_id": "2084518793406222345",
+        "created_at": "2026-08-04T05:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T06:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084518793406222345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nZEz5e29Ry",
+              "end": 23,
+              "expanded_url": "https://x.com/hsn8086xe/status/2084518793406222345/photo/1",
+              "media_key": "3_2084518782098341888",
+              "start": 0,
+              "url": "https://t.co/nZEz5e29Ry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084518793406222345",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 5064,
+          "like_count": 144,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/nZEz5e29Ry"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 733,
+          "like_count": 3982,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 1093
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-12-02T04:25:11.000Z",
+        "description": "都是老图 | 头像来自: @PetitPoissonXY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 13,
+                "username": "PetitPoissonXY"
+              }
+            ]
+          }
+        },
+        "id": "1863439189909618688",
+        "location": "Internet",
+        "name": "hsn.bot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897601834170404864/XYWOnn7f_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36825,
+          "following_count": 368,
+          "like_count": 264,
+          "listed_count": 109,
+          "media_count": 18511,
+          "tweet_count": 18613
+        },
+        "url": "",
+        "username": "hsn8086xe",
+        "verified": true
+      }
+    ]
+  }
+}

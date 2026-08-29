@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080332085160783872"
+      ],
+      "media_source_tweet_id": [
+        "2080332087698337839"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2080440615452692611",
+    "created_at": "2026-07-23T23:51:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T00:51:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080440615452692611"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1585513297557831681",
+          "start": 3,
+          "username": "EcoKohaku"
+        },
+        {
+          "end": 24,
+          "id": "1699797396589588480",
+          "start": 15,
+          "username": "MaxForAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zoEfsfMylS",
+          "end": 48,
+          "expanded_url": "https://x.com/EcoKohaku/status/2080332087698337839/photo/1",
+          "media_key": "3_2080332085160783872",
+          "start": 25,
+          "url": "https://t.co/zoEfsfMylS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080440615452692611",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080332087698337839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @EcoKohaku: @MaxForAI https://t.co/zoEfsfMylS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 330,
+        "media_key": "3_2080332085160783872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN7TAmbbMAA1FcY.jpg",
+        "width": 1258
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080332085160783872"
+          ]
+        },
+        "author_id": "1585513297557831681",
+        "conversation_id": "2080323707982283057",
+        "created_at": "2026-07-23T16:39:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T17:39:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080332087698337839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1699797396589588480",
+              "start": 0,
+              "username": "MaxForAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoEfsfMylS",
+              "end": 33,
+              "expanded_url": "https://x.com/EcoKohaku/status/2080332087698337839/photo/1",
+              "media_key": "3_2080332085160783872",
+              "start": 10,
+              "url": "https://t.co/zoEfsfMylS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080332087698337839",
+        "in_reply_to_user_id": "1699797396589588480",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 6817,
+          "like_count": 126,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080323707982283057",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MaxForAI https://t.co/zoEfsfMylS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080332085160783872"
+          ],
+          "media_source_tweet_id": [
+            "2080332087698337839"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2080440615452692611",
+        "created_at": "2026-07-23T23:51:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T00:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080440615452692611"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1585513297557831681",
+              "start": 3,
+              "username": "EcoKohaku"
+            },
+            {
+              "end": 24,
+              "id": "1699797396589588480",
+              "start": 15,
+              "username": "MaxForAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zoEfsfMylS",
+              "end": 48,
+              "expanded_url": "https://x.com/EcoKohaku/status/2080332087698337839/photo/1",
+              "media_key": "3_2080332085160783872",
+              "start": 25,
+              "url": "https://t.co/zoEfsfMylS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080440615452692611",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080332087698337839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @EcoKohaku: @MaxForAI https://t.co/zoEfsfMylS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 626,
+          "like_count": 3305,
+          "listed_count": 2,
+          "media_count": 212,
+          "tweet_count": 913
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-10-27T06:07:01.000Z",
+        "description": "齿轮也有齿轮的意志",
+        "id": "1585513297557831681",
+        "name": "塔克萨队长",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048615816401494016/HFarQ9cp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 33,
+          "following_count": 54,
+          "like_count": 3391,
+          "listed_count": 7,
+          "media_count": 113,
+          "tweet_count": 2404
+        },
+        "url": "",
+        "username": "EcoKohaku",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-07T14:51:17.000Z",
+        "description": "本科辍学创业，没啥好看的，也就发点AI相关的内容🫡\nHead of growth @lobehub（79K🌟）\nPrev @listenhub @Sapient_Int \n同名小红书4万粉丝，公众号01Founder（长文首发）\n观点仅代表个人\n更多请访问网站⬇️（欢迎DM",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 41,
+                "username": "lobehub"
+              },
+              {
+                "end": 71,
+                "start": 61,
+                "username": "listenhub"
+              },
+              {
+                "end": 84,
+                "start": 72,
+                "username": "Sapient_Int"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maxforai.com",
+                "end": 23,
+                "expanded_url": "http://maxforai.com",
+                "start": 0,
+                "url": "https://t.co/Sl0Wv6feey"
+              }
+            ]
+          }
+        },
+        "id": "1699797396589588480",
+        "location": "Singapore",
+        "name": "Max For AI",
+        "pinned_tweet_id": "2062538878096130207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885611457376903171/zWWnahYp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21533,
+          "following_count": 2484,
+          "like_count": 17190,
+          "listed_count": 191,
+          "media_count": 1014,
+          "tweet_count": 7867
+        },
+        "url": "https://t.co/Sl0Wv6feey",
+        "username": "MaxForAI",
+        "verified": true
+      }
+    ]
+  }
+}

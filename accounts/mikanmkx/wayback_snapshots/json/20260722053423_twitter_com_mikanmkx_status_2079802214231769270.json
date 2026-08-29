@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2079756727709581558",
+    "created_at": "2026-07-22T05:34:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T06:34:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079802214231769270"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2027313596066369537",
+          "start": 0,
+          "username": "shigemeteor"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079802214231769270",
+    "in_reply_to_user_id": "2027313596066369537",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079786163335033047",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigemeteor 3.5flash确实好玩"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3168,
+        "media_key": "3_2079786148864602112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzie7PaMAAgkqZ.jpg",
+        "width": 1440
+      },
+      {
+        "height": 3168,
+        "media_key": "3_2079786156196306944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNzifWjbIAAEL6G.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2079756727709581558",
+        "created_at": "2026-07-22T05:34:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:34:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079802214231769270"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2027313596066369537",
+              "start": 0,
+              "username": "shigemeteor"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079802214231769270",
+        "in_reply_to_user_id": "2027313596066369537",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079786163335033047",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigemeteor 3.5flash确实好玩"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079786148864602112",
+            "3_2079786156196306944"
+          ]
+        },
+        "author_id": "2027313596066369537",
+        "conversation_id": "2079756727709581558",
+        "created_at": "2026-07-22T04:30:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T05:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079786163335033047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/QzZr45k2t5",
+              "end": 146,
+              "expanded_url": "https://x.com/shigemeteor/status/2079786163335033047/photo/1",
+              "media_key": "3_2079786148864602112",
+              "start": 123,
+              "url": "https://t.co/QzZr45k2t5"
+            },
+            {
+              "display_url": "pic.x.com/QzZr45k2t5",
+              "end": 146,
+              "expanded_url": "https://x.com/shigemeteor/status/2079786163335033047/photo/1",
+              "media_key": "3_2079786156196306944",
+              "start": 123,
+              "url": "https://t.co/QzZr45k2t5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079786163335033047",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079756727709581558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx Gemini3.5flash lite无思考或者gpt5.3instant（一定要5.3,5.5不行）然后狂抽奖感觉还挺好玩（gpt用了个性化所以说话风格偏我hh\n另外Claude这个sb哪怕用haiku都会碰安全护栏，难崩 https://t.co/QzZr45k2t5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 742,
+          "following_count": 621,
+          "like_count": 3189,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 885
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T09:23:51.000Z",
+        "description": "Cu₂S + O₂ = 2Child + SO₂↑\n2Al + Cu ≜ meteor\n人理之光黯淡之时，为了没有眼泪的明天~\n可爱的姐姐! :@sjxa1111 （我才是妹妹！\n朋友会回fo | 小证🍥 | 技术/博物/摄影/天文(穷 ! )",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 81,
+                "start": 72,
+                "username": "sjxa1111"
+              }
+            ]
+          }
+        },
+        "id": "2027313596066369537",
+        "location": "不存在的地方",
+        "name": "meteor",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027313721841000448/hhyXhg9E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 23,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 270
+        },
+        "url": "",
+        "username": "shigemeteor",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2087117732496162816"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087117736715698369",
+    "created_at": "2026-08-11T10:03:39.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T11:03:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087117736715698369"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/wsGehz89XQ",
+          "end": 37,
+          "expanded_url": "https://x.com/mikanmkx/status/2087117736715698369/photo/1",
+          "media_key": "3_2087117732496162816",
+          "start": 14,
+          "url": "https://t.co/wsGehz89XQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087117736715698369",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2087117732496162816"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "你们业务已经拓展到日本了吗 https://t.co/wsGehz89XQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1132,
+        "media_key": "3_2087117732496162816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPbuhQnaQAAY_bz.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087117732496162816"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087117736715698369",
+        "created_at": "2026-08-11T10:03:39.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T11:03:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087117736715698369"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wsGehz89XQ",
+              "end": 37,
+              "expanded_url": "https://x.com/mikanmkx/status/2087117736715698369/photo/1",
+              "media_key": "3_2087117732496162816",
+              "start": 14,
+              "url": "https://t.co/wsGehz89XQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087117736715698369",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087117732496162816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们业务已经拓展到日本了吗 https://t.co/wsGehz89XQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087117736715698369",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 976,
+          "following_count": 785,
+          "like_count": 4441,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 1210
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
