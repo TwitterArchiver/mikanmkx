@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087831621655478442",
+    "created_at": "2026-08-13T11:45:13.000Z",
+    "display_text_range": [
+      24,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T12:45:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087868069754659309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1838866598427549696",
+          "start": 0,
+          "username": "Yunmengyue"
+        },
+        {
+          "end": 23,
+          "id": "2033116026410598400",
+          "start": 12,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087868069754659309",
+    "in_reply_to_user_id": "1838866598427549696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087841738434228522",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yunmengyue @Irosas_xyn 😱但我真的无法接受男的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087831621655478442",
+        "created_at": "2026-08-13T11:45:13.000Z",
+        "display_text_range": [
+          24,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T12:45:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087868069754659309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1838866598427549696",
+              "start": 0,
+              "username": "Yunmengyue"
+            },
+            {
+              "end": 23,
+              "id": "2033116026410598400",
+              "start": 12,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087868069754659309",
+        "in_reply_to_user_id": "1838866598427549696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087841738434228522",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yunmengyue @Irosas_xyn 😱但我真的无法接受男的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1838866598427549696",
+        "conversation_id": "2087831621655478442",
+        "created_at": "2026-08-13T10:00:35.000Z",
+        "display_text_range": [
+          12,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T11:00:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087841738434228522"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087841738434228522",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 8,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087831621655478442",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 等你什么时候有了一个明确的可以幻想的男性目标，幻想自己以女性的身份和对方做亲昵的事情并且很享受的时候，你就知道了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087868069754659309",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1012,
+          "following_count": 806,
+          "like_count": 4630,
+          "listed_count": 3,
+          "media_count": 253,
+          "tweet_count": 1257
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-25T09:02:26.000Z",
+        "description": "2026.5持证启动hrt丨28岁大龄跨\n🌹花儿会在最美的时刻凋谢，或许我也是",
+        "id": "1838866598427549696",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087856245135073449",
+        "name": "云梦玥Yuzuki🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1838866598427549696/1785424287",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060339603601854464/KKYNJjoy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1403,
+          "following_count": 261,
+          "like_count": 6102,
+          "listed_count": 4,
+          "media_count": 77,
+          "tweet_count": 3448
+        },
+        "url": "",
+        "username": "Yunmengyue",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\nhttps://t.co/qIlOM00IQY\nhttps://t.co/gIYkKuBCiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 111,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 88,
+                "url": "https://t.co/qIlOM00IQY"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 135,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 112,
+                "url": "https://t.co/gIYkKuBCiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRSHUE"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "is_identity_verified": false,
+        "location": "Jinan",
+        "most_recent_tweet_id": "2087838550037578020",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2087544286766309696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2033116026410598400/1782080137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1197,
+          "following_count": 405,
+          "like_count": 1826,
+          "listed_count": 6,
+          "media_count": 72,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/atwlxRSHUE",
+        "username": "Irosas_xyn",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

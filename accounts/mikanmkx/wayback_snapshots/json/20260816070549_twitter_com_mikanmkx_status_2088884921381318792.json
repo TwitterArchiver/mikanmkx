@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2088884921381318792",
+    "created_at": "2026-08-16T07:05:49.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:05:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088884921381318792"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0TwT012/status…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/0TwT012/status/2088535312754704627",
+          "start": 15,
+          "url": "https://t.co/xF0eW0uJ1W"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088884921381318792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088535312754704627",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "毕竟中国人愿意用隐私交换便利 https://t.co/xF0eW0uJ1W"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2088884921381318792",
+        "created_at": "2026-08-16T07:05:49.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:05:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088884921381318792"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0TwT012/status…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/0TwT012/status/2088535312754704627",
+              "start": 15,
+              "url": "https://t.co/xF0eW0uJ1W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088884921381318792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088535312754704627",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "毕竟中国人愿意用隐私交换便利 https://t.co/xF0eW0uJ1W"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1917047326990094336",
+        "conversation_id": "2088535312754704627",
+        "created_at": "2026-08-15T07:56:36.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T08:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088535312754704627"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088535312754704627",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 92,
+          "impression_count": 325669,
+          "like_count": 3534,
+          "quote_count": 13,
+          "reply_count": 450,
+          "retweet_count": 72
+        },
+        "reply_settings": "everyone",
+        "text": "这些大学为什么这么执着于把学生放在同一个共享文档里开盒全家"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2088884921381318792",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 804,
+          "like_count": 4762,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-29T02:44:47.000Z",
+        "description": "ISTJ/摩羯//日常碎碎念//情感博主👽//蓝标会回fo//你喜欢我我喜欢你//🚪支持口令//讨厌没有礼貌的人//🈲搬运",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kiri54720",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kiri54720",
+                "start": 0,
+                "url": "https://t.co/hLLfQQAfFm"
+              }
+            ]
+          }
+        },
+        "id": "1917047326990094336",
+        "is_identity_verified": false,
+        "location": "188/288🚪纯绿",
+        "most_recent_tweet_id": "2088733671088132340",
+        "name": "kiri",
+        "pinned_tweet_id": "2020558471880732841",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1917047326990094336/1786302892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917047544313679872/akAJkXe1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4790,
+          "following_count": 268,
+          "like_count": 1325,
+          "listed_count": 2,
+          "media_count": 174,
+          "tweet_count": 2128
+        },
+        "url": "https://t.co/hLLfQQAfFm",
+        "username": "0TwT012",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

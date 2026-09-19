@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2099044305784770790",
+    "created_at": "2026-09-13T08:19:26.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T09:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099050306218668504"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1340283470304591873",
+          "start": 0,
+          "username": "magatropy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099050306218668504",
+    "in_reply_to_user_id": "1340283470304591873",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099049639093936193",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@magatropy 真的好吃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2099044305784770790",
+        "created_at": "2026-09-13T08:19:26.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099050306218668504"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1340283470304591873",
+              "start": 0,
+              "username": "magatropy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099050306218668504",
+        "in_reply_to_user_id": "1340283470304591873",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099049639093936193",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@magatropy 真的好吃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1340283470304591873",
+        "conversation_id": "2099044305784770790",
+        "created_at": "2026-09-13T08:16:47.000Z",
+        "display_text_range": [
+          10,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T09:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099049639093936193"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099049639093936193",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099044305784770790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx hara的薯條好吃死了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2099050306218668504",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1218,
+          "following_count": 971,
+          "like_count": 6773,
+          "listed_count": 3,
+          "media_count": 316,
+          "tweet_count": 1664
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-19T13:12:00.000Z",
+        "description": "Audhd｜Enby｜病み垢",
+        "id": "1340283470304591873",
+        "is_identity_verified": false,
+        "location": "emeōto",
+        "most_recent_tweet_id": "2099049639093936193",
+        "name": "禍尾栖",
+        "pinned_tweet_id": "1491738642104328192",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1340283470304591873/1785315778",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090959773550383104/0HjXdtnq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96,
+          "following_count": 194,
+          "like_count": 19561,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "magatropy",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

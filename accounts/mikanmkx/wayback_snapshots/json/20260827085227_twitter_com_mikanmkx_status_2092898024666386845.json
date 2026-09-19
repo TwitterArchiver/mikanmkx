@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2092890732675952838",
+    "created_at": "2026-08-27T08:52:27.000Z",
+    "display_text_range": [
+      17,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:52:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092898024666386845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2040801790443257856",
+          "start": 0,
+          "username": "HamletMaschinen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092898024666386845",
+    "in_reply_to_user_id": "2040801790443257856",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092892226213011781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HamletMaschinen 😺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2092890732675952838",
+        "created_at": "2026-08-27T08:52:27.000Z",
+        "display_text_range": [
+          17,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:52:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092898024666386845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2040801790443257856",
+              "start": 0,
+              "username": "HamletMaschinen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092898024666386845",
+        "in_reply_to_user_id": "2040801790443257856",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092892226213011781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HamletMaschinen 😺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2040801790443257856",
+        "conversation_id": "2092890732675952838",
+        "created_at": "2026-08-27T08:29:25.000Z",
+        "display_text_range": [
+          10,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092892226213011781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092892226213011781",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092890732675952838",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 咪saki"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2092898024666386845",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1099,
+          "following_count": 890,
+          "like_count": 5765,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 1471
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-05T14:55:56.000Z",
+        "description": "无定义神秘生物。鲨士啤亚。ag泛性恋。但从未有过对象，等待地球online加载中🔛欢迎找我玩\nQU B1| 【Eng/De/粤/中/日本語】語学、撮影、鳥、生き物、旅行、謎な料理、コメント歓迎",
+        "id": "2040801790443257856",
+        "is_identity_verified": false,
+        "location": "田舎",
+        "most_recent_tweet_id": "2092896565656797670",
+        "name": "SharksBeer",
+        "pinned_tweet_id": "2042276411378159853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2040801790443257856/1775401454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040811899236093952/itfPADrn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 29,
+          "like_count": 514,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 455
+        },
+        "url": "",
+        "username": "HamletMaschinen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

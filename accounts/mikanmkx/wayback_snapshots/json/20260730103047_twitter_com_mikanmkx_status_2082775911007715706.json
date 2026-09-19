@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2082468077024006210",
+    "created_at": "2026-07-30T10:30:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T11:30:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082775911007715706"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1574720577969197056",
+          "start": 0,
+          "username": "rafaeru54035903"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082775911007715706",
+    "in_reply_to_user_id": "1574720577969197056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082742995057778920",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rafaeru54035903 我知道的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2082468077024006210",
+        "created_at": "2026-07-30T10:30:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T11:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082775911007715706"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1574720577969197056",
+              "start": 0,
+              "username": "rafaeru54035903"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082775911007715706",
+        "in_reply_to_user_id": "1574720577969197056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082742995057778920",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rafaeru54035903 我知道的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1574720577969197056",
+        "conversation_id": "2082468077024006210",
+        "created_at": "2026-07-30T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082742995057778920"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082742995057778920",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082468077024006210",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 还是想提醒一下要小心，小心驶得万年船"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 677,
+          "like_count": 3725,
+          "listed_count": 2,
+          "media_count": 228,
+          "tweet_count": 1025
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-09-27T11:20:35.000Z",
+        "description": "🏳️‍⚧️",
+        "id": "1574720577969197056",
+        "name": "ラファエル🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1574721537126854657/qh76YHvd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 99,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 225
+        },
+        "url": "",
+        "username": "rafaeru54035903",
+        "verified": false
+      }
+    ]
+  }
+}

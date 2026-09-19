@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2078765019484033240",
+    "created_at": "2026-07-19T09:17:59.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-19T10:17:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078771323040624736"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890726710821453824",
+          "start": 0,
+          "username": "nagasakisoyoyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078771323040624736",
+    "in_reply_to_user_id": "1890726710821453824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2078765019484033240",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagasakisoyoyo 今天开了个b最后一排，烂完了真的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 374,
+        "media_key": "3_2078765014283128832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNlBxEfbEAAsylR.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2078765019484033240",
+        "created_at": "2026-07-19T09:17:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T10:17:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078771323040624736"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890726710821453824",
+              "start": 0,
+              "username": "nagasakisoyoyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078771323040624736",
+        "in_reply_to_user_id": "1890726710821453824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2078765019484033240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagasakisoyoyo 今天开了个b最后一排，烂完了真的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2078765014283128832"
+          ]
+        },
+        "author_id": "1890726710821453824",
+        "conversation_id": "2078765019484033240",
+        "created_at": "2026-07-19T08:52:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-19T09:52:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2078765019484033240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NwhyOLnkRN",
+              "end": 27,
+              "expanded_url": "https://x.com/nagasakisoyoyo/status/2078765019484033240/photo/1",
+              "media_key": "3_2078765014283128832",
+              "start": 4,
+              "url": "https://t.co/NwhyOLnkRN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078765019484033240",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "神席😭 https://t.co/NwhyOLnkRN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 717,
+          "following_count": 597,
+          "like_count": 2990,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 841
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T11:35:58.000Z",
+        "description": "元垢凍結@soyosan_rabu/留学生/新人バンドリマー/Mygo箱推しで特にそよ推し/百合/タメ⚪︎/フォローバ99%/日本語/中文/English いいね≠賛成/ Social Democrat🌹🟥↙️🇪🇺🇩🇪🇺🇦🏳️‍🌈/they or them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "soyosan_rabu"
+              }
+            ]
+          }
+        },
+        "id": "1890726710821453824",
+        "name": "そよよ2号機🌹",
+        "pinned_tweet_id": "2013096353124233222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049092757638307840/y_3mEsx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 897,
+          "following_count": 1784,
+          "like_count": 61158,
+          "listed_count": 8,
+          "media_count": 171,
+          "tweet_count": 5023
+        },
+        "url": "",
+        "username": "nagasakisoyoyo",
+        "verified": false
+      }
+    ]
+  }
+}

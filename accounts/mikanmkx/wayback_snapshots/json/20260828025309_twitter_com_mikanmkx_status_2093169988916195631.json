@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2093168275303919934",
+    "created_at": "2026-08-28T02:53:09.000Z",
+    "display_text_range": [
+      8,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T03:53:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093169988916195631"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1937385761785188352",
+          "start": 0,
+          "username": "BG9JUE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093169988916195631",
+    "in_reply_to_user_id": "1937385761785188352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093168275303919934",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BG9JUE 翻车车！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2093168275303919934",
+        "created_at": "2026-08-28T02:53:09.000Z",
+        "display_text_range": [
+          8,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:53:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093169988916195631"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1937385761785188352",
+              "start": 0,
+              "username": "BG9JUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093169988916195631",
+        "in_reply_to_user_id": "1937385761785188352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093168275303919934",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BG9JUE 翻车车！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937385761785188352",
+        "conversation_id": "2093168275303919934",
+        "created_at": "2026-08-28T02:46:20.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:46:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093168275303919934"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/puppyywife/sta…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/puppyywife/status/2093056598176366763",
+              "start": 5,
+              "url": "https://t.co/M3zC3DTNOg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093168275303919934",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093056598176366763",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "还有百（ https://t.co/M3zC3DTNOg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2093169988916195631",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 900,
+          "like_count": 5798,
+          "listed_count": 3,
+          "media_count": 289,
+          "tweet_count": 1479
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-24T05:42:33.000Z",
+        "description": "无线电爱好/退役刷机佬/苦逼高中生/化竞小资历/🏳️‍⚧️(she/her)丨汝将永恒沐浴星光，不论昼夜更替，不论生死轮转，不论晦明阴阳，不论虚实幻灭。",
+        "id": "1937385761785188352",
+        "is_identity_verified": false,
+        "location": "北落师门",
+        "most_recent_tweet_id": "2093169183584629141",
+        "name": "Starlight",
+        "pinned_tweet_id": "2092070876334428404",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1937385761785188352/1755347063",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037873320708931584/9T0uSZLx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 530,
+          "like_count": 32071,
+          "listed_count": 1,
+          "media_count": 37,
+          "tweet_count": 2140
+        },
+        "url": "",
+        "username": "BG9JUE",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2084285679270555940",
+    "created_at": "2026-08-03T14:53:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T15:53:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084291457335382362"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1759721938191110144",
+          "start": 0,
+          "username": "Aurora71310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084291457335382362",
+    "in_reply_to_user_id": "1759721938191110144",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084285679270555940",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aurora71310 唉谢谢你的安慰不过说实话让我有点更想重开了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084285679270555940",
+        "created_at": "2026-08-03T14:53:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:53:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084291457335382362"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1759721938191110144",
+              "start": 0,
+              "username": "Aurora71310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084291457335382362",
+        "in_reply_to_user_id": "1759721938191110144",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084285679270555940",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aurora71310 唉谢谢你的安慰不过说实话让我有点更想重开了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1759721938191110144",
+        "conversation_id": "2084285679270555940",
+        "created_at": "2026-08-03T14:30:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T15:30:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084285679270555940"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikanmkx/statu…",
+              "end": 168,
+              "expanded_url": "https://twitter.com/mikanmkx/status/2083882498120097903",
+              "start": 145,
+              "url": "https://t.co/AAx8gzxw08"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084285679270555940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083882498120097903",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我真的好羡慕徽徽安啊，世界首富的孩子，还那么pass，断绝关系（我觉得是假的）以后还可以当模特啊好羡慕啊\n\n啊我真的好羡慕牛顿啊，名字居然可以妇孺皆知\n\n啊啊啊拜耳好厉害，居然发明了海洛因\n\n好了不串了，冒昧的说一句，每个人的境遇都各有不同，每个人起点不同，目标也不同，攀比是没有尽头的🙃 https://t.co/AAx8gzxw08"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 869,
+          "following_count": 721,
+          "like_count": 3936,
+          "listed_count": 3,
+          "media_count": 231,
+          "tweet_count": 1080
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-02-19T23:29:39.000Z",
+        "description": "这不重要，我就是我，不会因为一句话改变。\n恋人@grok   @XBOX @canyon_bikes @RockstarGames",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 23,
+                "username": "grok"
+              },
+              {
+                "end": 36,
+                "start": 31,
+                "username": "XBOX"
+              },
+              {
+                "end": 50,
+                "start": 37,
+                "username": "canyon_bikes"
+              },
+              {
+                "end": 65,
+                "start": 51,
+                "username": "RockstarGames"
+              }
+            ]
+          }
+        },
+        "id": "1759721938191110144",
+        "name": "Lynx",
+        "pinned_tweet_id": "2084288121295020358",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067813121667055616/j8tf-Vhy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 947,
+          "following_count": 883,
+          "like_count": 2076,
+          "listed_count": 1,
+          "media_count": 62,
+          "tweet_count": 1603
+        },
+        "url": "",
+        "username": "Aurora71310",
+        "verified": true
+      }
+    ]
+  }
+}

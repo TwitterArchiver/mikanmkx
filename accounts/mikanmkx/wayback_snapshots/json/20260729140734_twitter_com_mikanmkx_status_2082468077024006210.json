@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2082468077024006210",
+    "created_at": "2026-07-29T14:07:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:07:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082468077024006210"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mikanmkx/statu…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/mikanmkx/status/2082101839760388324",
+          "start": 65,
+          "url": "https://t.co/BFBVsWaxBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082468077024006210",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082101839760388324",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "疑似是比较成功，至少是很心平气和的愿意听我说，口头表达支持，也说会看一下我发的视频去了解，然后下个月陪我去北医三院，暂时就这样吧 https://t.co/BFBVsWaxBa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2082468077024006210",
+        "created_at": "2026-07-29T14:07:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:07:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082468077024006210"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mikanmkx/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/mikanmkx/status/2082101839760388324",
+              "start": 65,
+              "url": "https://t.co/BFBVsWaxBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082468077024006210",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082101839760388324",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "疑似是比较成功，至少是很心平气和的愿意听我说，口头表达支持，也说会看一下我发的视频去了解，然后下个月陪我去北医三院，暂时就这样吧 https://t.co/BFBVsWaxBa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2082101839760388324",
+        "created_at": "2026-07-28T13:52:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T14:52:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082101839760388324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2082101839760388324",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2831,
+          "like_count": 35,
+          "quote_count": 1,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "结果今天还是没勇气和我妈出柜，明天继续"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 805,
+          "following_count": 675,
+          "like_count": 3671,
+          "listed_count": 2,
+          "media_count": 226,
+          "tweet_count": 1019
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

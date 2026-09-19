@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087035769093489025",
+    "created_at": "2026-08-11T04:37:57.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T05:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087035769093489025"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ak1raQ_love/st…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/Ak1raQ_love/status/2087016379052392878",
+          "start": 59,
+          "url": "https://t.co/AkqFeSsEOY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087035769093489025",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087016379052392878",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个理论上跟爱斯妥是一样的吧，一瓶含56喷的话大致相当于2管爱斯妥少一点，这样看价格也没有说很贵，下周我去问问刘烨🤔 https://t.co/AkqFeSsEOY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 502,
+        "media_key": "3_2087016373910130688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaSVadWUAAn1XH.jpg",
+        "width": 1079
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2087016376225460224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPaSVjFXcAAsUk-.jpg",
+        "width": 1001
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087035769093489025",
+        "created_at": "2026-08-11T04:37:57.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T05:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087035769093489025"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ak1raQ_love/st…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/Ak1raQ_love/status/2087016379052392878",
+              "start": 59,
+              "url": "https://t.co/AkqFeSsEOY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087035769093489025",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087016379052392878",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个理论上跟爱斯妥是一样的吧，一瓶含56喷的话大致相当于2管爱斯妥少一点，这样看价格也没有说很贵，下周我去问问刘烨🤔 https://t.co/AkqFeSsEOY"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087016373910130688",
+            "3_2087016376225460224"
+          ]
+        },
+        "author_id": "1663066129923981312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2087016379052392878",
+        "created_at": "2026-08-11T03:20:54.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T04:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087016379052392878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jnQsff6gQc",
+              "end": 49,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2087016379052392878/photo/1",
+              "media_key": "3_2087016373910130688",
+              "start": 26,
+              "url": "https://t.co/jnQsff6gQc"
+            },
+            {
+              "display_url": "pic.x.com/jnQsff6gQc",
+              "end": 49,
+              "expanded_url": "https://x.com/Ak1raQ_love/status/2087016379052392878/photo/1",
+              "media_key": "3_2087016376225460224",
+              "start": 26,
+              "url": "https://t.co/jnQsff6gQc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087016379052392878",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087016373910130688"
+          },
+          {
+            "media_key": "3_2087016376225460224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 380,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "雌二醇喷雾，好新奇的给药方式，有用过能说说怎么样嘛 https://t.co/jnQsff6gQc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087035769093489025",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 784,
+          "like_count": 4413,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 1195
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/hrt 26.7.31/什么都不会/向往自由/#推友情況通報/原创meme/顺直女 @zhwevea/秋月喵 @qiuylove/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 34,
+                "tag": "推友情況通報"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "zhwevea"
+              },
+              {
+                "end": 75,
+                "start": 66,
+                "username": "qiuylove"
+              },
+              {
+                "end": 93,
+                "start": 79,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2087031323080712389",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1663066129923981312/1783771654",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8773,
+          "following_count": 1239,
+          "like_count": 212578,
+          "listed_count": 6,
+          "media_count": 1126,
+          "tweet_count": 8634
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

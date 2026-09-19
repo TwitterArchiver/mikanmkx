@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2084597819722407975",
+    "created_at": "2026-08-04T12:04:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T13:04:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084611341864849713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1167792264795394048",
+          "start": 0,
+          "username": "leetfs1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084611341864849713",
+    "in_reply_to_user_id": "1167792264795394048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084610153110999360",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leetfs1 肝毒性低大概算优点吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084597819722407975",
+        "created_at": "2026-08-04T12:04:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T13:04:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084611341864849713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1167792264795394048",
+              "start": 0,
+              "username": "leetfs1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084611341864849713",
+        "in_reply_to_user_id": "1167792264795394048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084610153110999360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leetfs1 肝毒性低大概算优点吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1167792264795394048",
+        "conversation_id": "2084597819722407975",
+        "created_at": "2026-08-04T11:59:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084610153110999360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084610153110999360",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084597819722407975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 按照切8片算，30*8=240片，可以吃240天。日本买50色只要300块钱，可以吃200天（12.5mg用量）。看起来不太划算"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 742,
+          "like_count": 4025,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 1104
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2019-08-31T13:32:39.000Z",
+        "description": "Member of @MtFwiki & @RLEwiki & @AB_aboutTrans | Intern at https://t.co/dkwoFb9hyL | Love front-end and RISC-V | Trans ally 🏳️‍⚧️ | They/Them | 可爱猫卷 @itsCatRoll",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              },
+              {
+                "end": 29,
+                "start": 21,
+                "username": "RLEwiki"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "AB_aboutTrans"
+              },
+              {
+                "end": 160,
+                "start": 149,
+                "username": "itsCatRoll"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "is.cas.cn",
+                "end": 82,
+                "expanded_url": "http://is.cas.cn",
+                "start": 59,
+                "url": "https://t.co/dkwoFb9hyL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "leetfs.com",
+                "end": 23,
+                "expanded_url": "https://leetfs.com/",
+                "start": 0,
+                "url": "https://t.co/US8IASVs7i"
+              }
+            ]
+          }
+        },
+        "id": "1167792264795394048",
+        "name": "Lee🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028353368008339456/o3OhBxWk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4486,
+          "following_count": 2213,
+          "like_count": 2615,
+          "listed_count": 23,
+          "media_count": 992,
+          "tweet_count": 6268
+        },
+        "url": "https://t.co/US8IASVs7i",
+        "username": "leetfs1",
+        "verified": true
+      }
+    ]
+  }
+}

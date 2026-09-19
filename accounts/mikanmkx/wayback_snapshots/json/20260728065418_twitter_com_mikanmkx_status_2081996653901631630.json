@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2081996641096372224"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106361979039746",
+          "name": "Fujifilm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106361979039746",
+          "name": "Fujifilm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2081996653901631630",
+    "created_at": "2026-07-28T06:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T07:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081996653901631630"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6HZL4GOKQ2",
+          "end": 105,
+          "expanded_url": "https://x.com/mikanmkx/status/2081996653901631630/photo/1",
+          "media_key": "3_2081996641096372224",
+          "start": 82,
+          "url": "https://t.co/6HZL4GOKQ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081996653901631630",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "No. 7\n2022/07/04\nFUJIFILM X-S10\nSAMYANG 135mm F/2.0 ED UMC\n---\n心脏与灵魂星云，献给所有离开我们的人 https://t.co/6HZL4GOKQ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2734,
+        "media_key": "3_2081996641096372224",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOS86ggbEAAWYeX.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081996641096372224"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2081996653901631630",
+        "created_at": "2026-07-28T06:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T07:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081996653901631630"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6HZL4GOKQ2",
+              "end": 105,
+              "expanded_url": "https://x.com/mikanmkx/status/2081996653901631630/photo/1",
+              "media_key": "3_2081996641096372224",
+              "start": 82,
+              "url": "https://t.co/6HZL4GOKQ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081996653901631630",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "No. 7\n2022/07/04\nFUJIFILM X-S10\nSAMYANG 135mm F/2.0 ED UMC\n---\n心脏与灵魂星云，献给所有离开我们的人 https://t.co/6HZL4GOKQ2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 777,
+          "following_count": 652,
+          "like_count": 3558,
+          "listed_count": 2,
+          "media_count": 222,
+          "tweet_count": 987
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

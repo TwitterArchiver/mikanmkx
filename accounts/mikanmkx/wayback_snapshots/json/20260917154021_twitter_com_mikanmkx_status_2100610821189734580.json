@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2100474318123925823",
+    "created_at": "2026-09-17T15:40:21.000Z",
+    "display_text_range": [
+      12,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T16:40:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100610821189734580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1569737545667444737",
+          "start": 0,
+          "username": "bigIkayaki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100610821189734580",
+    "in_reply_to_user_id": "1569737545667444737",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100474318123925823",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigIkayaki 我发现跟我llm表达同样的内容，只要是技术相关的大部分时候都是直接打英文快"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2100474318123925823",
+        "created_at": "2026-09-17T15:40:21.000Z",
+        "display_text_range": [
+          12,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T16:40:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100610821189734580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1569737545667444737",
+              "start": 0,
+              "username": "bigIkayaki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100610821189734580",
+        "in_reply_to_user_id": "1569737545667444737",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100474318123925823",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigIkayaki 我发现跟我llm表达同样的内容，只要是技术相关的大部分时候都是直接打英文快"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1569737545667444737",
+        "conversation_id": "2100474318123925823",
+        "created_at": "2026-09-17T06:37:57.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T07:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100474318123925823"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100474318123925823",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1762,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有的时候有一点点难过的事情是，一旦开始和 llm 讨论技术问题就会需要切换到全英文了……如果看中文经常出现每个字我都认识组合起来不知道在说什么的情况（如果要求他专业术语必须用英文的话其实会好很多，但多数时候我懒得 prompt）\n在美国才呆了七八年，母语在离我远去………🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2100610821189734580",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1237,
+          "following_count": 982,
+          "like_count": 6926,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 1693
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-13T17:19:36.000Z",
+        "description": "👋 hiya｜💬 ENFP 碎碎念｜ 📷 随手拍｜🛍️ 差生文具多｜🏖️ 每天都想去夏威夷｜🩵 家属 @dekaitakoyaki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 51,
+                "username": "dekaitakoyaki"
+              }
+            ]
+          }
+        },
+        "id": "1569737545667444737",
+        "is_identity_verified": false,
+        "location": "☀️ Rainbow State",
+        "most_recent_tweet_id": "2100497025544724919",
+        "name": "小小小墨鱼 🩵",
+        "pinned_tweet_id": "1987691577448550608",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1569737545667444737/1756493148",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083259043809030144/YvCXu8BP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2946,
+          "following_count": 286,
+          "like_count": 8678,
+          "listed_count": 14,
+          "media_count": 1710,
+          "tweet_count": 12098
+        },
+        "url": "",
+        "username": "bigIkayaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

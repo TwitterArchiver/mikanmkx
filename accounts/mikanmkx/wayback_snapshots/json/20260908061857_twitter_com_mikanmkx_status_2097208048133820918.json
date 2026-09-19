@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2097208048133820918",
+    "created_at": "2026-09-08T06:18:57.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T07:18:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097208048133820918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1872847997886971904",
+          "start": 3,
+          "username": "cone__XD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097208048133820918",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 158
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096958270338400439",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @cone__XD: Awwwwww❤️❤️ que lindo❤️\nEla injetou na sua arteria femural amiga vai no medico❤️"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2097208048133820918",
+        "created_at": "2026-09-08T06:18:57.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:18:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097208048133820918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1872847997886971904",
+              "start": 3,
+              "username": "cone__XD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097208048133820918",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096958270338400439",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @cone__XD: Awwwwww❤️❤️ que lindo❤️\nEla injetou na sua arteria femural amiga vai no medico❤️"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1872847997886971904",
+        "conversation_id": "2096958270338400439",
+        "created_at": "2026-09-07T13:46:25.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:46:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096958270338400439"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/The_Bunny_Doll…",
+              "end": 104,
+              "expanded_url": "https://twitter.com/The_Bunny_Doll/status/2096620974091260345",
+              "start": 81,
+              "url": "https://t.co/dAgoYtgQn9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096958270338400439",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 230,
+          "impression_count": 245988,
+          "like_count": 9778,
+          "quote_count": 6,
+          "reply_count": 22,
+          "retweet_count": 158
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096620974091260345",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Awwwwww❤️❤️ que lindo❤️\nEla injetou na sua arteria femural amiga vai no medico❤️ https://t.co/dAgoYtgQn9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2097208048133820918",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 953,
+          "like_count": 6516,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 1602
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-28T03:32:27.000Z",
+        "description": "Ela/dela👇\nGabriella💚                 \nConta patrocinada pelos generos catarthes e coragyps #urubutwt",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 100,
+                "start": 91,
+                "tag": "urubutwt"
+              }
+            ]
+          }
+        },
+        "id": "1872847997886971904",
+        "is_identity_verified": false,
+        "location": "vulture city",
+        "most_recent_tweet_id": "2097161072583082100",
+        "name": "alice lol...🦉⍨⃝📷",
+        "pinned_tweet_id": "2096275404809994279",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1872847997886971904/1754329353",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093145159479250945/yAEYWGsJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 214,
+          "following_count": 482,
+          "like_count": 54580,
+          "listed_count": 0,
+          "media_count": 420,
+          "tweet_count": 4208
+        },
+        "url": "",
+        "username": "cone__XD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

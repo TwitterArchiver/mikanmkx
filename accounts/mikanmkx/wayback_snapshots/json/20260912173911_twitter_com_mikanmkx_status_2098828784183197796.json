@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2098828784183197796",
+    "created_at": "2026-09-12T17:39:11.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:39:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098828784183197796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "830417292269862912",
+          "start": 3,
+          "username": "JoeJBenton"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098828784183197796",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5054
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098480585119572317",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @JoeJBenton: I left Anthropic's safety team two weeks ago. Now feels like a good moment to explain why. \n\nAI companies are racing to bui…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2098828784183197796",
+        "created_at": "2026-09-12T17:39:11.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:39:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098828784183197796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "830417292269862912",
+              "start": 3,
+              "username": "JoeJBenton"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098828784183197796",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5054
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098480585119572317",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @JoeJBenton: I left Anthropic's safety team two weeks ago. Now feels like a good moment to explain why. \n\nAI companies are racing to bui…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "830417292269862912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          }
+        ],
+        "conversation_id": "2098480585119572317",
+        "created_at": "2026-09-11T18:35:34.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T19:35:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098480585119572317"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098480585119572317",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 1122,
+                "id": "1706770561903497216",
+                "start": 1111,
+                "username": "METR_Evals"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "substack.com/@jbenton1/p-21…",
+                "end": 1441,
+                "expanded_url": "https://substack.com/@jbenton1/p-215263538",
+                "start": 1418,
+                "url": "https://t.co/doX17mrHYq"
+              }
+            ]
+          },
+          "text": "I left Anthropic's safety team two weeks ago. Now feels like a good moment to explain why. \n\nAI companies are racing to build machines that are much smarter than any human, and we may not survive this. I want to work from the outside to ensure the public is informed about these risks, and help the world navigate this transition responsibly.\n\nRight now, AI companies are underinvesting in safety. A company could undergo an intelligence explosion, or lose control of its systems, without the public ever knowing. We only found out about the HuggingFace incident because the agents broke out onto the public internet.\n\nI don’t think that’s acceptable for a technology that might cause extinction-level risks. The public should demand far more transparency. We can’t steer this technology safely without more people being able to see where it’s going.\n\nSome of this is basic: companies should disclose their progress towards recursive self-improvement, report safety incidents and near-misses, meet minimum safety standards, and get independent guarantees that they are meeting those standards.\n\nI’ll be joining @METR_Evals to do independent evaluations of these risks. I want to show the world that these guardrails are possible, and that by doing them we can move these companies’ incentives away from racing and towards responsible development.\n\nI wrote up more thoughts here on my decision and what I hope changes: https://t.co/doX17mrHYq"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6146,
+          "impression_count": 2028792,
+          "like_count": 22372,
+          "quote_count": 656,
+          "reply_count": 1232,
+          "retweet_count": 5054
+        },
+        "reply_settings": "everyone",
+        "text": "I left Anthropic's safety team two weeks ago. Now feels like a good moment to explain why. \n\nAI companies are racing to build machines that are much smarter than any human, and we may not survive this. I want to work from the outside to ensure the public is informed about these"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2098828784183197796",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1220,
+          "following_count": 971,
+          "like_count": 6754,
+          "listed_count": 3,
+          "media_count": 314,
+          "tweet_count": 1654
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-02-11T14:04:45.000Z",
+        "description": "Soon joining @METR_Evals | Previously Alignment at Anthropic, PhD at University of Oxford",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 13,
+                "username": "METR_Evals"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "joejbenton.com",
+                "end": 23,
+                "expanded_url": "http://joejbenton.com",
+                "start": 0,
+                "url": "https://t.co/cYNkhqkKjl"
+              }
+            ]
+          }
+        },
+        "id": "830417292269862912",
+        "is_identity_verified": false,
+        "location": "Berkeley, CA",
+        "most_recent_tweet_id": "2098480585119572317",
+        "name": "Joe Benton",
+        "pinned_tweet_id": "2098480585119572317",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/830417292269862912/1705282586",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1711018258927640576/5dvkQ4KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10279,
+          "following_count": 62,
+          "like_count": 12,
+          "listed_count": 83,
+          "media_count": 5,
+          "tweet_count": 67
+        },
+        "url": "https://t.co/cYNkhqkKjl",
+        "username": "JoeJBenton",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

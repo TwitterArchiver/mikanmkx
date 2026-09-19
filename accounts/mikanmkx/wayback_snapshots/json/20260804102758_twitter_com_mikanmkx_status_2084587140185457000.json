@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2084476903210008944",
+    "created_at": "2026-08-04T10:27:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:27:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084587140185457000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2027300186507374592",
+          "start": 0,
+          "username": "ConatusMoon2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084587140185457000",
+    "in_reply_to_user_id": "2027300186507374592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084586031312154666",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ConatusMoon2222 按时间来看多半是文拉法辛的副作用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084476903210008944",
+        "created_at": "2026-08-04T10:27:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:27:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084587140185457000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2027300186507374592",
+              "start": 0,
+              "username": "ConatusMoon2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084587140185457000",
+        "in_reply_to_user_id": "2027300186507374592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084586031312154666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ConatusMoon2222 按时间来看多半是文拉法辛的副作用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2027300186507374592",
+        "conversation_id": "2084476903210008944",
+        "created_at": "2026-08-04T10:23:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:23:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084586031312154666"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084586031312154666",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084476903210008944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 我吃的地文拉 , 好像没啥特别大的生理上的不良反应?"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 902,
+          "following_count": 742,
+          "like_count": 4004,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 1099
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-27T08:38:02.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/conatusmoon222…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/conatusmoon22221",
+                "start": 0,
+                "url": "https://t.co/T7u5hcsmFl"
+              }
+            ]
+          }
+        },
+        "id": "2027300186507374592",
+        "location": "数据链路层 - 媒体访问控制子层",
+        "name": "ConatusMoon",
+        "pinned_tweet_id": "2066088327414210894",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061135155725742080/CrMPbfY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 68,
+          "following_count": 1435,
+          "like_count": 5446,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 886
+        },
+        "url": "https://t.co/T7u5hcsmFl",
+        "username": "ConatusMoon2222",
+        "verified": false
+      }
+    ]
+  }
+}

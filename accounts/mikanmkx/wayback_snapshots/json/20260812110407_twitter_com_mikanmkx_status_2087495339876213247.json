@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087446924345716907",
+    "created_at": "2026-08-12T11:04:07.000Z",
+    "display_text_range": [
+      12,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T12:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087495339876213247"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1493416075991859204",
+          "start": 0,
+          "username": "Meryl_0215"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087495339876213247",
+    "in_reply_to_user_id": "1493416075991859204",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087493478418911489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Meryl_0215 别别别🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087446924345716907",
+        "created_at": "2026-08-12T11:04:07.000Z",
+        "display_text_range": [
+          12,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T12:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087495339876213247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1493416075991859204",
+              "start": 0,
+              "username": "Meryl_0215"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087495339876213247",
+        "in_reply_to_user_id": "1493416075991859204",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087493478418911489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Meryl_0215 别别别🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1493416075991859204",
+        "conversation_id": "2087446924345716907",
+        "created_at": "2026-08-12T10:56:43.000Z",
+        "display_text_range": [
+          10,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T11:56:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087493478418911489"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087493478418911489",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087446924345716907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 老师这样美丽帅气博学的人应该有10000000（划掉）（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087495339876213247",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 798,
+          "like_count": 4531,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 1243
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-15T02:45:47.000Z",
+        "description": "Größe und Bedeutungslosigkeit werden gleichzeitig aufgelöst",
+        "id": "1493416075991859204",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087493478418911489",
+        "name": "Meryl❄️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1493416075991859204/1720747501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086419784498098176/RVN-wo93_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 607,
+          "following_count": 214,
+          "like_count": 1467,
+          "listed_count": 1,
+          "media_count": 27,
+          "tweet_count": 654
+        },
+        "url": "",
+        "username": "Meryl_0215",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2079545437955227683",
+    "created_at": "2026-07-21T12:34:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T13:34:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079545437955227683"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2079545437955227683",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我觉得我青春期还挺奇怪的，唯一可能是gd的就是声音，其实我基本没有用真声唱过歌，基本都是夹或者假声，导致我有次去合唱的时候莫名用假声唱了半天高音部才发现我真声应该唱中低音部，体毛生殖器焦虑之类的我到大二才有，虽然我本来毛就少（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2079545437955227683",
+        "created_at": "2026-07-21T12:34:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T13:34:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079545437955227683"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079545437955227683",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我觉得我青春期还挺奇怪的，唯一可能是gd的就是声音，其实我基本没有用真声唱过歌，基本都是夹或者假声，导致我有次去合唱的时候莫名用假声唱了半天高音部才发现我真声应该唱中低音部，体毛生殖器焦虑之类的我到大二才有，虽然我本来毛就少（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 617,
+          "like_count": 3146,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 878
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

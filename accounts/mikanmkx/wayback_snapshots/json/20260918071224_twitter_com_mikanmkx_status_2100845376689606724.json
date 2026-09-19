@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2100845376689606724",
+    "created_at": "2026-09-18T07:12:24.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T08:12:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100845376689606724"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3038583767",
+          "start": 3,
+          "username": "Ayanarinashi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100845376689606724",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2574
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100664694973292861",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Ayanarinashi: Worse: Your ADHD makes you avoid playing games because it keeps telling you “time to do some work!” and it never happens…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2100845376689606724",
+        "created_at": "2026-09-18T07:12:24.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T08:12:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100845376689606724"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3038583767",
+              "start": 3,
+              "username": "Ayanarinashi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100845376689606724",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2574
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100664694973292861",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Ayanarinashi: Worse: Your ADHD makes you avoid playing games because it keeps telling you “time to do some work!” and it never happens…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3038583767",
+        "conversation_id": "2100664694973292861",
+        "created_at": "2026-09-17T19:14:26.000Z",
+        "display_text_range": [
+          0,
+          187
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T20:14:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100664694973292861"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nakukinen/stat…",
+              "end": 211,
+              "expanded_url": "https://twitter.com/nakukinen/status/2100292095823192252",
+              "start": 188,
+              "url": "https://t.co/yUiCo1D5Nn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100664694973292861",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1267,
+          "impression_count": 159312,
+          "like_count": 15191,
+          "quote_count": 179,
+          "reply_count": 67,
+          "retweet_count": 2574
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100292095823192252",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Worse: Your ADHD makes you avoid playing games because it keeps telling you “time to do some work!” and it never happens so you just wasted another day literally doing nothing but SITTING https://t.co/yUiCo1D5Nn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2100845376689606724",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 982,
+          "like_count": 6966,
+          "listed_count": 3,
+          "media_count": 324,
+          "tweet_count": 1701
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-15T08:56:15.000Z",
+        "description": "♂️Male♂️\n【Business Inquiry】ayanarinashi@gmail.com\n【Site】https://t.co/5hR06gTX7h\n【Art】@art_of_ayanari\n\nModel: @ChalizKokoda | Retexture: me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 100,
+                "start": 85,
+                "username": "art_of_ayanari"
+              },
+              {
+                "end": 122,
+                "start": 109,
+                "username": "ChalizKokoda"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ayanari.carrd.co",
+                "end": 79,
+                "expanded_url": "https://ayanari.carrd.co/",
+                "start": 56,
+                "url": "https://t.co/5hR06gTX7h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/ayanarivt",
+                "end": 23,
+                "expanded_url": "https://www.twitch.tv/ayanarivt",
+                "start": 0,
+                "url": "https://t.co/DXVaCaqDvU"
+              }
+            ]
+          }
+        },
+        "id": "3038583767",
+        "is_identity_verified": false,
+        "location": "🎨 #artanari | 🔞#assanari ",
+        "most_recent_tweet_id": "2100788349640343987",
+        "name": "♂️Ayanari💙😈",
+        "pinned_tweet_id": "2083179460530933933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3038583767/1734897341",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090903102266216448/G4KCCZgY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61461,
+          "following_count": 5146,
+          "like_count": 112109,
+          "listed_count": 168,
+          "media_count": 697,
+          "tweet_count": 3011
+        },
+        "url": "https://t.co/DXVaCaqDvU",
+        "username": "Ayanarinashi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

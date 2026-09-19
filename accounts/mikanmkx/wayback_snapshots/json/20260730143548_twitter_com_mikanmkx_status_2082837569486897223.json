@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2082836807444500869",
+    "created_at": "2026-07-30T14:35:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T15:35:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082837569486897223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2041159531657416704",
+          "start": 0,
+          "username": "amber_digit2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082837569486897223",
+    "in_reply_to_user_id": "2041159531657416704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082836807444500869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@amber_digit2 有点太低了。。你是outstanding debt高吗还是有逾期记录"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2082836804588142592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOe5CdaWAAA_ZKZ.jpg",
+        "width": 1174
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2082836807444500869",
+        "created_at": "2026-07-30T14:35:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:35:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082837569486897223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2041159531657416704",
+              "start": 0,
+              "username": "amber_digit2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082837569486897223",
+        "in_reply_to_user_id": "2041159531657416704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082836807444500869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_digit2 有点太低了。。你是outstanding debt高吗还是有逾期记录"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082836804588142592"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2082836807444500869",
+        "created_at": "2026-07-30T14:32:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T15:32:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082836807444500869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QMbAggnMUr",
+              "end": 131,
+              "expanded_url": "https://x.com/amber_digit2/status/2082836807444500869/photo/1",
+              "media_key": "3_2082836804588142592",
+              "start": 108,
+              "url": "https://t.co/QMbAggnMUr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082836807444500869",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 31,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "is this considered a low credit score? my prospective landlord is demanding a 12-month upfront rent deposit https://t.co/QMbAggnMUr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 678,
+          "like_count": 3741,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1040
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "phd @wgsi / 中文, en, fr / priv @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 4,
+                "username": "wgsi"
+              },
+              {
+                "end": 46,
+                "start": 30,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 65,
+                "start": 52,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazehuZE"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "🇨🇦 toronto・🏳️‍⚧️☭ she/her",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4116,
+          "following_count": 662,
+          "like_count": 1932,
+          "listed_count": 4,
+          "media_count": 139,
+          "tweet_count": 1761
+        },
+        "url": "https://t.co/IMqazehuZE",
+        "username": "amber_digit2",
+        "verified": false
+      }
+    ]
+  }
+}

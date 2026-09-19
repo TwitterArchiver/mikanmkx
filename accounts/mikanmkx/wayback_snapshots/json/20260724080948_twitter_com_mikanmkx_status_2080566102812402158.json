@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2080549889323462728",
+    "created_at": "2026-07-24T08:09:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:09:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080566102812402158"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2080222978588225536",
+          "start": 0,
+          "username": "GriseoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080566102812402158",
+    "in_reply_to_user_id": "2080222978588225536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080564349429838208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@GriseoQWQ 谢谢喵🥰"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2080549889323462728",
+        "created_at": "2026-07-24T08:09:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:09:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080566102812402158"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2080222978588225536",
+              "start": 0,
+              "username": "GriseoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080566102812402158",
+        "in_reply_to_user_id": "2080222978588225536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080564349429838208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@GriseoQWQ 谢谢喵🥰"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080222978588225536",
+        "conversation_id": "2080549889323462728",
+        "created_at": "2026-07-24T08:02:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:02:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080564349429838208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080564349429838208",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080549889323462728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 629,
+          "like_count": 3344,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 936
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-07-23T09:27:15.000Z",
+        "description": "推友寻回！前世@GRISEOQAQ\n发现之前的号没啥流量根本无法寻回👉🏻👈🏻\n坐标广西南宁...无证含糖，在上高中\nmtf/x?\n喜欢的人@reallyshow_imp永远喜欢宝宝诶嘿嘿www\n半家长党/hrt since2025.2.22-\n有意向小窗可线下\n问答小房间https://t.co/gcxoTK8dnJ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "GRISEOQAQ"
+              },
+              {
+                "end": 84,
+                "start": 69,
+                "username": "reallyshow_imp"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "wngl.link/griseo5201314",
+                "end": 159,
+                "expanded_url": "http://wngl.link/griseo5201314",
+                "start": 136,
+                "url": "https://t.co/gcxoTK8dnJ"
+              }
+            ]
+          }
+        },
+        "id": "2080222978588225536",
+        "name": "格蕾格蕾修/夏目安安安～☆🍥🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080475496803151872/reQP-6ah_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 59,
+          "like_count": 104,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "GriseoQWQ",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2080886377370312913",
+    "created_at": "2026-07-25T05:22:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T06:22:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080886377370312913"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2011051704440274947",
+          "start": 3,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080886377370312913",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080648086326772198",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @luminescence_0: 我对象呢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2080886377370312913",
+        "created_at": "2026-07-25T05:22:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T06:22:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080886377370312913"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2011051704440274947",
+              "start": 3,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080886377370312913",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080648086326772198",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @luminescence_0: 我对象呢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2011051704440274947",
+        "conversation_id": "2080648086326772198",
+        "created_at": "2026-07-24T13:35:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080648086326772198"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080648086326772198",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 941,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我对象呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 763,
+          "following_count": 642,
+          "like_count": 3407,
+          "listed_count": 2,
+          "media_count": 217,
+          "tweet_count": 960
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "enby iiii depression\n欢迎扩列&友善的人会回fo❤️ 可交友\nThey told me all of my cages were mental So I got wasted like all my potential\n私信完全开放 ⬇️ngl链接",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/indigo73483",
+                "end": 23,
+                "expanded_url": "https://ngl.link/indigo73483",
+                "start": 0,
+                "url": "https://t.co/EQGVs6sr3N"
+              }
+            ]
+          }
+        },
+        "id": "2011051704440274947",
+        "location": "武汉",
+        "name": "Luminescence💚",
+        "pinned_tweet_id": "2079958567952794074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078779941844635648/ufP4w65o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 406,
+          "like_count": 2229,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 292
+        },
+        "url": "https://t.co/EQGVs6sr3N",
+        "username": "luminescence_0",
+        "verified": false
+      }
+    ]
+  }
+}

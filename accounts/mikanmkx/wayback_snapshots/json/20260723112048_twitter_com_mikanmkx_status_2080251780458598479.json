@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2080239443970302043",
+    "created_at": "2026-07-23T11:20:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T12:20:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080251780458598479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1906595429162299392",
+          "start": 0,
+          "username": "Dream_Shards"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080251780458598479",
+    "in_reply_to_user_id": "1906595429162299392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080239443970302043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Dream_Shards 我hrt之前睾酮8.3然后每2天12.5mg色，之后测出来压到0.13，现在降到每3天了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_2080239438496722944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5-v2ta8AAcRUl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2080239443970302043",
+        "created_at": "2026-07-23T11:20:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T12:20:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080251780458598479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1906595429162299392",
+              "start": 0,
+              "username": "Dream_Shards"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080251780458598479",
+        "in_reply_to_user_id": "1906595429162299392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080239443970302043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dream_Shards 我hrt之前睾酮8.3然后每2天12.5mg色，之后测出来压到0.13，现在降到每3天了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080239438496722944"
+          ]
+        },
+        "author_id": "1906595429162299392",
+        "conversation_id": "2080239443970302043",
+        "created_at": "2026-07-23T10:31:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T11:31:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080239443970302043"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NNfewnADVn",
+              "end": 124,
+              "expanded_url": "https://x.com/Dream_Shards/status/2080239443970302043/photo/1",
+              "media_key": "3_2080239438496722944",
+              "start": 101,
+              "url": "https://t.co/NNfewnADVn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080239443970302043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在hrt四个月后得到的这个检测结果，现在是第五个多月，想控制一下泌乳素，想问一下如果将色从12.5mg/天减到12.5mg/2天会不会有睾酮反弹的可能，并且在hrt之前睾酮水平比较高（10ng/ml） https://t.co/NNfewnADVn"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 627,
+          "like_count": 3275,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 902
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-31T06:32:41.000Z",
+        "description": "一只漂浮的蓝色水母/欢迎同类友跨互fo/hrt：26.2.18/非资深oder/地雷系重力系警告⚠️\n爱人：@zhangxiaofu673",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 54,
+                "username": "zhangxiaofu673"
+              }
+            ]
+          }
+        },
+        "id": "1906595429162299392",
+        "location": "距离你3.2km",
+        "name": "碎梦🍥",
+        "pinned_tweet_id": "2078985913343021487",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076395214382751744/kfcEO0Lf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 269,
+          "following_count": 284,
+          "like_count": 879,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "Dream_Shards",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2085290364148285856",
+    "created_at": "2026-08-06T09:02:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T10:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085290364148285856"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KitsuMio7/stat…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/KitsuMio7/status/2085277902745240019",
+          "start": 26,
+          "url": "https://t.co/q4Lc8sKHzD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085290364148285856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085277902745240019",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗骗你的啊，点一下「扫描检测硬件改动」就又出来了（ https://t.co/q4Lc8sKHzD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2085277895237513216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPBlMoubMAAMd_U.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2085290364148285856",
+        "created_at": "2026-08-06T09:02:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T10:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085290364148285856"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KitsuMio7/stat…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/KitsuMio7/status/2085277902745240019",
+              "start": 26,
+              "url": "https://t.co/q4Lc8sKHzD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085290364148285856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085277902745240019",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗骗你的啊，点一下「扫描检测硬件改动」就又出来了（ https://t.co/q4Lc8sKHzD"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085277895237513216"
+          ]
+        },
+        "author_id": "2060679315126439936",
+        "conversation_id": "2085277902745240019",
+        "created_at": "2026-08-06T08:12:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:12:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085277902745240019"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XZMe21IPq9",
+              "end": 33,
+              "expanded_url": "https://x.com/KitsuMio7/status/2085277902745240019/photo/1",
+              "media_key": "3_2085277895237513216",
+              "start": 10,
+              "url": "https://t.co/XZMe21IPq9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085277902745240019",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 273,
+          "like_count": 21,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "确定要卸载睾丸吗？ https://t.co/XZMe21IPq9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 758,
+          "like_count": 4145,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 1128
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-30T11:13:54.000Z",
+        "description": "MtF | HRT 2023 | ENTP | ASD | ADHD | DID | 早发性性别不一致 | 声音女性化 | MioMtFWiki 创建&维护者 | 激进形式平权主义 | 激进性别自决主义 | 反性别权利分化 | 反性别认同解构 | 碎碎念@Mioeecv | 同类互fo喵～",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 127,
+                "username": "Mioeecv"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kitsumio.github.io/MioMtFWiki",
+                "end": 23,
+                "expanded_url": "https://kitsumio.github.io/MioMtFWiki",
+                "start": 0,
+                "url": "https://t.co/Rw9ougFO2F"
+              }
+            ]
+          }
+        },
+        "id": "2060679315126439936",
+        "location": "距离你 325m",
+        "name": "橘川澪KitsuMio🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2067490830429118730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082448349387763712/cKmd-wgx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 1262,
+          "like_count": 2477,
+          "listed_count": 5,
+          "media_count": 200,
+          "tweet_count": 1476
+        },
+        "url": "https://t.co/Rw9ougFO2F",
+        "username": "KitsuMio7",
+        "verified": true
+      }
+    ]
+  }
+}

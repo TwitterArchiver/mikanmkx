@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087446924345716907",
+    "created_at": "2026-08-12T08:36:37.000Z",
+    "display_text_range": [
+      15,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T09:36:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087458219828650448"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1938537315586244608",
+          "start": 0,
+          "username": "ruoruoruoMing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087458219828650448",
+    "in_reply_to_user_id": "1938537315586244608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087450580998668590",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ruoruoruoMing 谢谢喵～"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087446924345716907",
+        "created_at": "2026-08-12T08:36:37.000Z",
+        "display_text_range": [
+          15,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:36:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087458219828650448"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1938537315586244608",
+              "start": 0,
+              "username": "ruoruoruoMing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087458219828650448",
+        "in_reply_to_user_id": "1938537315586244608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087450580998668590",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ruoruoruoMing 谢谢喵～"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1938537315586244608",
+        "conversation_id": "2087446924345716907",
+        "created_at": "2026-08-12T08:06:16.000Z",
+        "display_text_range": [
+          10,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T09:06:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087450580998668590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087450580998668590",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087446924345716907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 恭喜喵！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087458219828650448",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1001,
+          "following_count": 796,
+          "like_count": 4496,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 1227
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-27T09:58:21.000Z",
+        "description": "08|高三毕业生|INFP|十分社恐|交通迷|F1梅奔+法拉利粉|音游|天际线\nmtx?|🏳️‍⚧️友跨|含糖🍥\n互fo喵\n另一个号@feng_sulfone\n可以来找我聊天喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 66,
+                "username": "feng_sulfone"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/ruo_ming",
+                "end": 23,
+                "expanded_url": "https://ngl.link/ruo_ming",
+                "start": 0,
+                "url": "https://t.co/1YBPxsv9lA"
+              }
+            ]
+          }
+        },
+        "id": "1938537315586244608",
+        "is_identity_verified": false,
+        "location": "TJ",
+        "most_recent_tweet_id": "2087450730806517923",
+        "name": "ruo_Ming",
+        "pinned_tweet_id": "2085718252437823727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1938537315586244608/1772355120",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027423783368511488/BkyHZST5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 655,
+          "following_count": 767,
+          "like_count": 3520,
+          "listed_count": 0,
+          "media_count": 129,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/1YBPxsv9lA",
+        "username": "ruoruoruoMing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

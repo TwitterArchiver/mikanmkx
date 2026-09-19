@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2083792813867876661",
+    "created_at": "2026-08-02T05:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T06:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083792813867876661"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2055498933535924224",
+          "start": 3,
+          "username": "rewolF0307"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083792813867876661",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083746306103910730",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @rewolF0307: 如果有一天我见到了另一个时空的我自己，而她生来就是女孩子\n……那我会自卑地，嫉妒地去死的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2083792813867876661",
+        "created_at": "2026-08-02T05:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083792813867876661"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2055498933535924224",
+              "start": 3,
+              "username": "rewolF0307"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083792813867876661",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083746306103910730",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @rewolF0307: 如果有一天我见到了另一个时空的我自己，而她生来就是女孩子\n……那我会自卑地，嫉妒地去死的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2055498933535924224",
+        "conversation_id": "2083746306103910730",
+        "created_at": "2026-08-02T02:46:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T03:46:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083746306103910730"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083746306103910730",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 302,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "如果有一天我见到了另一个时空的我自己，而她生来就是女孩子\n……那我会自卑地，嫉妒地去死的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 821,
+          "following_count": 687,
+          "like_count": 3828,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1056
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-05-16T04:01:59.000Z",
+        "description": "🏳️‍⚧️|Birth 2010.03.07|高二|偶尔玩些音游|在学化妆|在学习c++和JavaScript|梦想是成为理想的自己|无聊时经常内耗|喜欢听ACG歌曲，术力口以及草东|不🚬不🍺不od不鉴证|喜欢发呆|想要有人陪",
+        "id": "2055498933535924224",
+        "location": "在你的怀里哦，我爱你喵",
+        "name": "朝花rewolF",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073712160799424512/TxpIClce_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 69,
+          "like_count": 5767,
+          "listed_count": 1,
+          "media_count": 31,
+          "tweet_count": 486
+        },
+        "url": "",
+        "username": "rewolF0307",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079535253237252096"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1284106361979039746",
+          "name": "Fujifilm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Photography",
+          "id": "847869714860605440",
+          "name": "Photography"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1284106361979039746",
+          "name": "Fujifilm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1521498419751120896",
+          "name": "Photography brands"
+        }
+      }
+    ],
+    "conversation_id": "2079535900535685534",
+    "created_at": "2026-07-21T11:56:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T12:56:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079535900535685534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Aqt0SzK0Pa",
+          "end": 155,
+          "expanded_url": "https://x.com/mikanmkx/status/2079535900535685534/photo/1",
+          "media_key": "3_2079535253237252096",
+          "start": 132,
+          "url": "https://t.co/Aqt0SzK0Pa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079535900535685534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "No. 5\n2022/12/29\n摩周湖，北海道，日本\nFUJIFILM X-S10\nFujinon XF16-80mm F4 R OIS WR\n---\n非常神奇的一张照片喵，本来那天一整天都是阴天结果我到摩周湖突然就放晴了，于是拍下了这张，冬天的北海道真的很棒 https://t.co/Aqt0SzK0Pa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 724,
+        "media_key": "3_2079535253237252096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNv-S4MbwAAvp_O.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079535253237252096"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Photography",
+              "id": "847869714860605440",
+              "name": "Photography"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1284106361979039746",
+              "name": "Fujifilm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1521498419751120896",
+              "name": "Photography brands"
+            }
+          }
+        ],
+        "conversation_id": "2079535900535685534",
+        "created_at": "2026-07-21T11:56:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T12:56:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079535900535685534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Aqt0SzK0Pa",
+              "end": 155,
+              "expanded_url": "https://x.com/mikanmkx/status/2079535900535685534/photo/1",
+              "media_key": "3_2079535253237252096",
+              "start": 132,
+              "url": "https://t.co/Aqt0SzK0Pa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079535900535685534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "No. 5\n2022/12/29\n摩周湖，北海道，日本\nFUJIFILM X-S10\nFujinon XF16-80mm F4 R OIS WR\n---\n非常神奇的一张照片喵，本来那天一整天都是阴天结果我到摩周湖突然就放晴了，于是拍下了这张，冬天的北海道真的很棒 https://t.co/Aqt0SzK0Pa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 737,
+          "following_count": 616,
+          "like_count": 3141,
+          "listed_count": 2,
+          "media_count": 202,
+          "tweet_count": 873
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

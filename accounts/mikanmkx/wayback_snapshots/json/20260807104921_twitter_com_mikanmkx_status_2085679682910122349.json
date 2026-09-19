@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2085679671941955585"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2085669812584473004",
+    "created_at": "2026-08-07T10:49:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T11:49:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085679682910122349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MTHpG2EbFQ",
+          "end": 50,
+          "expanded_url": "https://x.com/mikanmkx/status/2085679682910122349/photo/1",
+          "media_key": "3_2085679671941955585",
+          "start": 27,
+          "url": "https://t.co/MTHpG2EbFQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085679682910122349",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085669812584473004",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn Transair：跨性别航空 https://t.co/MTHpG2EbFQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2552,
+        "media_key": "3_2085679671941955585",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHSnHlagAEt9ao.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2085669795132067840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPHJoNmb0AAq_Nk.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085679671941955585"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2085669812584473004",
+        "created_at": "2026-08-07T10:49:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085679682910122349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MTHpG2EbFQ",
+              "end": 50,
+              "expanded_url": "https://x.com/mikanmkx/status/2085679682910122349/photo/1",
+              "media_key": "3_2085679671941955585",
+              "start": 27,
+              "url": "https://t.co/MTHpG2EbFQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085679682910122349",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085669812584473004",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn Transair：跨性别航空 https://t.co/MTHpG2EbFQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2085669795132067840"
+          ]
+        },
+        "author_id": "2033116026410598400",
+        "conversation_id": "2085669812584473004",
+        "created_at": "2026-08-07T10:10:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T11:10:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085669812584473004"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K3MmalnDVL",
+              "end": 42,
+              "expanded_url": "https://x.com/Irosas_xyn/status/2085669812584473004/photo/1",
+              "media_key": "3_2085669795132067840",
+              "start": 19,
+              "url": "https://t.co/K3MmalnDVL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085669812584473004",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "第一眼把这个理解成了巴尔干跨性别者🤨 https://t.co/K3MmalnDVL"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 765,
+          "like_count": 4222,
+          "listed_count": 3,
+          "media_count": 241,
+          "tweet_count": 1146
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF｜双｜出厂日期11.05.12｜🍥26.04.30｜无证｜不键政不OD｜休学ing｜182cm BMI 27+😭\n生在白旗下，长在阴沟里 \n里推：@Irosas_sub\n无墙内联系方式\nhttps://t.co/qIlOM00IQY\nhttps://t.co/gIYkKuBCiS",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 76,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 119,
+                "expanded_url": "http://telegram.me/irosas_xyn",
+                "start": 96,
+                "url": "https://t.co/qIlOM00IQY"
+              },
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 143,
+                "expanded_url": "http://ngl.link/irosas_xyn",
+                "start": 120,
+                "url": "https://t.co/gIYkKuBCiS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/irosas…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/irosas.bsky.social",
+                "start": 0,
+                "url": "https://t.co/atwlxRSHUE"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "location": "Jinan",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2081378766279131405",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1028,
+          "following_count": 396,
+          "like_count": 1403,
+          "listed_count": 6,
+          "media_count": 64,
+          "tweet_count": 1389
+        },
+        "url": "https://t.co/atwlxRSHUE",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,625 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2088544306118479872"
+      ],
+      "media_source_tweet_id": [
+        "2088544333230399889"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041302998",
+          "name": "ラブライブ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2088890561591926875",
+    "created_at": "2026-08-16T07:28:14.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T08:28:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088890561591926875"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 25,
+          "start": 13,
+          "tag": "ラブライブサンシャイン"
+        },
+        {
+          "end": 43,
+          "start": 27,
+          "tag": "メガジャンボ寝そべりぬいぐるみ"
+        },
+        {
+          "end": 49,
+          "start": 45,
+          "tag": "渡辺曜"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1436926542311878660",
+          "start": 3,
+          "username": "403_net"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/2UWqtWYKa3",
+          "end": 73,
+          "expanded_url": "https://x.com/403_net/status/2088544333230399889/video/1",
+          "media_key": "7_2088544306118479872",
+          "start": 50,
+          "url": "https://t.co/2UWqtWYKa3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088890561591926875",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "7_2088544306118479872"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1382
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088544333230399889",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @403_net: #ラブライブサンシャイン \n#メガジャンボ寝そべりぬいぐるみ \n#渡辺曜 https://t.co/2UWqtWYKa3"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 77666,
+        "height": 1280,
+        "media_key": "7_2088544306118479872",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2088544306118479872/pu/img/GT09T5pRnfuD8x-o.jpg",
+        "public_metrics": {
+          "view_count": 158362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2088544306118479872/pu/vid/avc1/320x568/zThg55SI-3mdsgEO.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2088544306118479872/pu/vid/avc1/480x852/ZiL0HZoPM17v964j.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2088544306118479872/pu/vid/avc1/720x1280/PUQqOQ-yJTzhfq7q.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2088544306118479872/pu/pl/fseNSR0PgWtAYrMr.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2088544306118479872"
+          ],
+          "media_source_tweet_id": [
+            "2088544333230399889"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2088890561591926875",
+        "created_at": "2026-08-16T07:28:14.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T08:28:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088890561591926875"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 25,
+              "start": 13,
+              "tag": "ラブライブサンシャイン"
+            },
+            {
+              "end": 43,
+              "start": 27,
+              "tag": "メガジャンボ寝そべりぬいぐるみ"
+            },
+            {
+              "end": 49,
+              "start": 45,
+              "tag": "渡辺曜"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1436926542311878660",
+              "start": 3,
+              "username": "403_net"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UWqtWYKa3",
+              "end": 73,
+              "expanded_url": "https://x.com/403_net/status/2088544333230399889/video/1",
+              "media_key": "7_2088544306118479872",
+              "start": 50,
+              "url": "https://t.co/2UWqtWYKa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088890561591926875",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "7_2088544306118479872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1382
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088544333230399889",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @403_net: #ラブライブサンシャイン \n#メガジャンボ寝そべりぬいぐるみ \n#渡辺曜 https://t.co/2UWqtWYKa3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2088544306118479872"
+          ]
+        },
+        "author_id": "1436926542311878660",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2088544333230399889",
+        "created_at": "2026-08-15T08:32:26.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T09:32:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088544333230399889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "ラブライブサンシャイン"
+            },
+            {
+              "end": 30,
+              "start": 14,
+              "tag": "メガジャンボ寝そべりぬいぐるみ"
+            },
+            {
+              "end": 36,
+              "start": 32,
+              "tag": "渡辺曜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2UWqtWYKa3",
+              "end": 60,
+              "expanded_url": "https://x.com/403_net/status/2088544333230399889/video/1",
+              "media_key": "7_2088544306118479872",
+              "start": 37,
+              "url": "https://t.co/2UWqtWYKa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088544333230399889",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "7_2088544306118479872"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 874,
+          "impression_count": 394810,
+          "like_count": 5344,
+          "quote_count": 126,
+          "reply_count": 37,
+          "retweet_count": 1382
+        },
+        "reply_settings": "everyone",
+        "text": "#ラブライブサンシャイン \n#メガジャンボ寝そべりぬいぐるみ \n#渡辺曜 https://t.co/2UWqtWYKa3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2088890561591926875",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 804,
+          "like_count": 4766,
+          "listed_count": 3,
+          "media_count": 260,
+          "tweet_count": 1283
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-12T05:36:09.000Z",
+        "description": "会員数10万人｜宅配クリーニング「ネットで洗濯.com」｜ぬいぐるみ、NewEra、帽子、スーツケース、高級ダウン、チャイルドシート、ベビーカー、ヘルメット、ウェットスーツ、ゴルフ、登山、羽毛布団を専門クリーニング・修理｜#ネットで洗濯com｜職人のキラリと光る技術をアップ中｜フォローしてください😍",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 121,
+                "start": 111,
+                "tag": "ネットで洗濯com"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "net929.com",
+                "end": 23,
+                "expanded_url": "https://net929.com",
+                "start": 0,
+                "url": "https://t.co/gOmzy6Yhmk"
+              }
+            ]
+          }
+        },
+        "id": "1436926542311878660",
+        "is_identity_verified": true,
+        "location": "山梨県南都留郡富士河口湖町船津３１６１－２",
+        "most_recent_tweet_id": "2088867007634837665",
+        "name": "ネットで洗濯.com【大切な１点を任せられるクリーニング店】",
+        "pinned_tweet_id": "1872541942195900852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1436926542311878660/1704675000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1439877029390737408/CztIICEz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 72290,
+          "following_count": 12,
+          "like_count": 9459,
+          "listed_count": 199,
+          "media_count": 2190,
+          "tweet_count": 4205
+        },
+        "url": "https://t.co/gOmzy6Yhmk",
+        "username": "403_net",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

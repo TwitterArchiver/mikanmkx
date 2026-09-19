@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2086729408660860964",
+    "created_at": "2026-08-10T14:41:01.000Z",
+    "display_text_range": [
+      17,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T15:41:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086825150906093823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2032516808951902208",
+          "start": 0,
+          "username": "Jeffrey20011221"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086825150906093823",
+    "in_reply_to_user_id": "2032516808951902208",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086729408660860964",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jeffrey20011221 下周去北三问问刘烨成年人能不能开"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2086729408660860964",
+        "created_at": "2026-08-10T14:41:01.000Z",
+        "display_text_range": [
+          17,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:41:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086825150906093823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2032516808951902208",
+              "start": 0,
+              "username": "Jeffrey20011221"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086825150906093823",
+        "in_reply_to_user_id": "2032516808951902208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086729408660860964",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jeffrey20011221 下周去北三问问刘烨成年人能不能开"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2032516808951902208",
+        "conversation_id": "2086729408660860964",
+        "created_at": "2026-08-10T08:20:35.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T09:20:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086729408660860964"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086729408660860964",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2602,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "紧急纠正一个错误，上次说的上海九院生殖整复外科的医生说可以开GnRH是错的！！！\n今天去了九院的东部院区的性别专科门诊刘蔡钺医生说不能开！！全国只有广东能开！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2086825150906093823",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 784,
+          "like_count": 4392,
+          "listed_count": 3,
+          "media_count": 246,
+          "tweet_count": 1192
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-13T18:00:14.000Z",
+        "description": "@Jeff12212001 转生\nMTF in progress 🏳️‍⚧️\nAlways happy to make more trans friends.\nCollecting fountain pens 🖋️\n家长党/速通大证🫣",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 0,
+                "username": "Jeff12212001"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rheafeng",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rheafeng",
+                "start": 0,
+                "url": "https://t.co/UHHpuDe2ED"
+              }
+            ]
+          }
+        },
+        "id": "2032516808951902208",
+        "is_identity_verified": false,
+        "location": "Birmingham, England",
+        "most_recent_tweet_id": "2086824127172645241",
+        "name": "Jeff姐夫 (Rhea)",
+        "pinned_tweet_id": "2053223857318764933",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2032516808951902208/1775574040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052498282249650180/swsCu4G1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 719,
+          "like_count": 3831,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 1083
+        },
+        "url": "https://t.co/UHHpuDe2ED",
+        "username": "Jeffrey20011221",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

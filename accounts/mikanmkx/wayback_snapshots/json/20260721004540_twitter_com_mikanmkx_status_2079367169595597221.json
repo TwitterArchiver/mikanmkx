@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2079367169595597221",
+    "created_at": "2026-07-21T00:45:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T01:45:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079367169595597221"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Lotus_2025/sta…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/Lotus_2025/status/2079204542554739159",
+          "start": 15,
+          "url": "https://t.co/eoyActGCtR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079367169595597221",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079204542554739159",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我去不早说，还好我有奈子（逃 https://t.co/eoyActGCtR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079204539287453696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNrRgyubwAAiieg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2079367169595597221",
+        "created_at": "2026-07-21T00:45:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T01:45:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079367169595597221"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Lotus_2025/sta…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/Lotus_2025/status/2079204542554739159",
+              "start": 15,
+              "url": "https://t.co/eoyActGCtR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079367169595597221",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079204542554739159",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我去不早说，还好我有奈子（逃 https://t.co/eoyActGCtR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079204539287453696"
+          ]
+        },
+        "author_id": "1830208274790248448",
+        "conversation_id": "2079204542554739159",
+        "created_at": "2026-07-20T13:59:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T14:59:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079204542554739159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dzSv14ejC0",
+              "end": 42,
+              "expanded_url": "https://x.com/Lotus_2025/status/2079204542554739159/photo/1",
+              "media_key": "3_2079204539287453696",
+              "start": 19,
+              "url": "https://t.co/dzSv14ejC0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079204542554739159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 3020,
+          "like_count": 178,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "夏天出门不要戴义乳，会热出一身痱子🥵 https://t.co/dzSv14ejC0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 731,
+          "following_count": 602,
+          "like_count": 3093,
+          "listed_count": 2,
+          "media_count": 199,
+          "tweet_count": 860
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-01T11:37:29.000Z",
+        "description": "♂，研究牲，偏爱好向\n郁田阳希&秦谷美铃&筱泽广P，馬の骨\n偶尔出没于各地漫展",
+        "id": "1830208274790248448",
+        "location": "工位",
+        "name": "Lotus-2",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052383130972254209/PHSCfUoC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3182,
+          "following_count": 3653,
+          "like_count": 31428,
+          "listed_count": 13,
+          "media_count": 183,
+          "tweet_count": 3033
+        },
+        "url": "",
+        "username": "Lotus_2025",
+        "verified": false
+      }
+    ]
+  }
+}

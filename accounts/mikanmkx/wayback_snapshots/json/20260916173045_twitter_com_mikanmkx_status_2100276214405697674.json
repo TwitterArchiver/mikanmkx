@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2100271658728857609",
+    "created_at": "2026-09-16T17:30:45.000Z",
+    "display_text_range": [
+      10,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T18:30:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100276214405697674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1486893272622505984",
+          "start": 0,
+          "username": "Kuriyona"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100276214405697674",
+    "in_reply_to_user_id": "1486893272622505984",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100271658728857609",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuriyona 抱抱你。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2100268758803861504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWnTvVa0AAQPaZ.jpg",
+        "width": 2048
+      },
+      {
+        "height": 683,
+        "media_key": "3_2100268758808100864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSWnTvWbgAArPNp.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2100271658728857609",
+        "created_at": "2026-09-16T17:30:45.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100276214405697674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1486893272622505984",
+              "start": 0,
+              "username": "Kuriyona"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100276214405697674",
+        "in_reply_to_user_id": "1486893272622505984",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100271658728857609",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuriyona 抱抱你。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100268758803861504",
+            "3_2100268758808100864"
+          ]
+        },
+        "author_id": "1486893272622505984",
+        "conversation_id": "2100271658728857609",
+        "created_at": "2026-09-16T17:12:39.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T18:01:10.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100268768098386217",
+          "2100271658728857609"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/T7Wl5P14hu",
+              "end": 173,
+              "expanded_url": "https://x.com/Kuriyona/status/2100271658728857609/photo/1",
+              "media_key": "3_2100268758803861504",
+              "start": 150,
+              "url": "https://t.co/T7Wl5P14hu"
+            },
+            {
+              "display_url": "pic.x.com/T7Wl5P14hu",
+              "end": 173,
+              "expanded_url": "https://x.com/Kuriyona/status/2100271658728857609/photo/1",
+              "media_key": "3_2100268758808100864",
+              "start": 150,
+              "url": "https://t.co/T7Wl5P14hu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100271658728857609",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100268758803861504"
+          },
+          {
+            "media_key": "3_2100268758808100864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 70,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道呢，我是因为自己心底里还是不想死还是说说只是因为在那时身上只带了些没啥伤害性的药...\n为什么不在旁边跳河呢？为什么被人劝说了好久还是去医院了呢...\n我不知道，好难受，但是还是会想着真的有好多很会在意我的人吧...我至今周围遇到的都是好人\n可能还是会有这个世界有所留念吧\n\n事发 9/15 https://t.co/T7Wl5P14hu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2100276214405697674",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 983,
+          "like_count": 6900,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 1690
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-28T02:46:07.000Z",
+        "description": "请称呼我「未晞」喵\n\n尽可能的活着吧...\n\n对象 @bluse50\n\n08.06.28 | 🏳️‍⚧️ | 兴趣使然的开发者 | 166cm 60+kg || 大证含糖🍥",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 26,
+                "username": "bluse50"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuriyona.com",
+                "end": 23,
+                "expanded_url": "https://kuriyona.com/",
+                "start": 0,
+                "url": "https://t.co/PIToyCAoL1"
+              }
+            ]
+          }
+        },
+        "id": "1486893272622505984",
+        "is_identity_verified": true,
+        "location": "杭州 / 临安 | 绍兴 / ZPTC",
+        "most_recent_tweet_id": "2100274935092650223",
+        "name": "Kuriyona 🏳️‍⚧️",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079289637819105280/r0Azk0r8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 602,
+          "following_count": 417,
+          "like_count": 2804,
+          "listed_count": 3,
+          "media_count": 95,
+          "tweet_count": 559
+        },
+        "url": "https://t.co/PIToyCAoL1",
+        "username": "Kuriyona",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

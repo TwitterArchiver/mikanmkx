@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2084856116505387268",
+    "created_at": "2026-08-05T07:45:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T08:45:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084908741540073899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1236685274907906049",
+          "start": 0,
+          "username": "jiafeimao3591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084908741540073899",
+    "in_reply_to_user_id": "1236685274907906049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084856116505387268",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiafeimao3591 真能教吗xs我托福113来着（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084856116505387268",
+        "created_at": "2026-08-05T07:45:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T08:45:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084908741540073899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1236685274907906049",
+              "start": 0,
+              "username": "jiafeimao3591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084908741540073899",
+        "in_reply_to_user_id": "1236685274907906049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084856116505387268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiafeimao3591 真能教吗xs我托福113来着（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236685274907906049",
+        "conversation_id": "2084856116505387268",
+        "created_at": "2026-08-05T04:16:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:16:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084856116505387268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084856116505387268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 730,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我准备再考一次雅思，目标8分（8.5的话我学术写作真的不太行）。上次考雅思18年，一转眼八年过去了🤣🤣\n\n我要是考过了就去新东方面试雅思老师，回来告诉你们现在教培机构收不收人证不符的跨女🥰🥰"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 926,
+          "following_count": 754,
+          "like_count": 4085,
+          "listed_count": 3,
+          "media_count": 235,
+          "tweet_count": 1118
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别🏳️‍⚧️/无证hrt中/暂居荷兰，家在长春/曾经的化竞党，吉林省省一/JLU化学本科/欧硕打算转学ing/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，经常发疯/喜欢同类，男生勿扰",
+        "id": "1236685274907906049",
+        "location": "The Netherlands",
+        "name": "坏猪宝宝🐷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049379601412202496/2BRcVdsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 422,
+          "like_count": 358,
+          "listed_count": 3,
+          "media_count": 68,
+          "tweet_count": 882
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": true
+      }
+    ]
+  }
+}

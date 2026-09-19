@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2100286258975330592",
+    "created_at": "2026-09-16T18:10:40.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T19:10:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100286258975330592"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1430973520452800515",
+          "start": 3,
+          "username": "XmeowwoemX_017"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100286258975330592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100189096438333749",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "RT @XmeowwoemX_017: 唉😮‍💨在和人出门 hang out 这件事上的经验上，我就是远远比不上一名16岁高中生的平均水平……\n如果被问及自家住了二十年的那片城区，或是上了一年多的学的地方的市中心 有什么好吃的好玩的，甚至只是被问到“你有什么想吃的/想玩的”，我…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2100286258975330592",
+        "created_at": "2026-09-16T18:10:40.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:10:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100286258975330592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1430973520452800515",
+              "start": 3,
+              "username": "XmeowwoemX_017"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100286258975330592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100189096438333749",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "RT @XmeowwoemX_017: 唉😮‍💨在和人出门 hang out 这件事上的经验上，我就是远远比不上一名16岁高中生的平均水平……\n如果被问及自家住了二十年的那片城区，或是上了一年多的学的地方的市中心 有什么好吃的好玩的，甚至只是被问到“你有什么想吃的/想玩的”，我…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1430973520452800515",
+        "conversation_id": "2100189096438333749",
+        "created_at": "2026-09-16T11:44:34.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T12:44:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100189096438333749"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100189096438333749",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 595,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "following",
+        "text": "唉😮‍💨在和人出门 hang out 这件事上的经验上，我就是远远比不上一名16岁高中生的平均水平……\n如果被问及自家住了二十年的那片城区，或是上了一年多的学的地方的市中心 有什么好吃的好玩的，甚至只是被问到“你有什么想吃的/想玩的”，我的大脑都会一片空白……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2100286258975330592",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234,
+          "following_count": 983,
+          "like_count": 6904,
+          "listed_count": 3,
+          "media_count": 323,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-26T19:22:14.000Z",
+        "description": "关于当下和过去的碎碎念 🏳️‍⚧️(not quite binary) transfem | 22yo | HRT since: Feb 2025 (CPA) / Jun 2025 (E2) \n很孤单请和我抱抱",
+        "id": "1430973520452800515",
+        "is_identity_verified": false,
+        "location": "Auckland, NZ / Beijing ",
+        "most_recent_tweet_id": "2100249816878231749",
+        "name": "💜（猫病第iii期",
+        "pinned_tweet_id": "2056706170178748500",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1430973520452800515/1685132943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1680217398081880065/thsuWemZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1637,
+          "following_count": 424,
+          "like_count": 43969,
+          "listed_count": 7,
+          "media_count": 764,
+          "tweet_count": 5925
+        },
+        "url": "",
+        "username": "XmeowwoemX_017",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

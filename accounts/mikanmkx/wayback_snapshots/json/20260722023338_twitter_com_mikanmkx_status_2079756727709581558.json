@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2079756727709581558",
+    "created_at": "2026-07-22T02:33:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T03:33:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079756727709581558"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/reina93/status…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/reina93/status/2079728721754488834",
+          "start": 17,
+          "url": "https://t.co/AnqY5qPpZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079756727709581558",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079728721754488834",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我需要立刻获得这个bot的提示词 https://t.co/AnqY5qPpZ4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2079756727709581558",
+        "created_at": "2026-07-22T02:33:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T03:33:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079756727709581558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/reina93/status…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/reina93/status/2079728721754488834",
+              "start": 17,
+              "url": "https://t.co/AnqY5qPpZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079756727709581558",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079728721754488834",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我需要立刻获得这个bot的提示词 https://t.co/AnqY5qPpZ4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "26640428",
+        "conversation_id": "2079728413376729301",
+        "created_at": "2026-07-22T00:42:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T01:42:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079728721754488834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079728721754488834",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 648,
+          "like_count": 15,
+          "quote_count": 5,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079728413376729301",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love 原来真的是同类喵！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 617,
+          "like_count": 3177,
+          "listed_count": 2,
+          "media_count": 203,
+          "tweet_count": 883
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2009-03-26T00:27:27.000Z",
+        "description": "银狐VPN，下载即送2天免费，邀请好友送1天，网络不稳定？提前准备，有备无患。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "foxlink.top/invite/DLCOLSES",
+                "end": 23,
+                "expanded_url": "https://foxlink.top/invite/DLCOLSES",
+                "start": 0,
+                "url": "https://t.co/mVtCDZAYWC"
+              }
+            ]
+          }
+        },
+        "id": "26640428",
+        "name": "银狐VPN全球漫游",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078251925842313216/FlDU_PLF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 46,
+          "like_count": 162,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 115
+        },
+        "url": "https://t.co/mVtCDZAYWC",
+        "username": "reina93",
+        "verified": false
+      }
+    ]
+  }
+}

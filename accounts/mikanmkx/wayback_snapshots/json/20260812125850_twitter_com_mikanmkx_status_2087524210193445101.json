@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087446924345716907",
+    "created_at": "2026-08-12T12:58:50.000Z",
+    "display_text_range": [
+      9,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T13:58:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087524210193445101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1672078534469369856",
+          "start": 0,
+          "username": "csl1027"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087524210193445101",
+    "in_reply_to_user_id": "1672078534469369856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087522854460100619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@csl1027 🥰谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087446924345716907",
+        "created_at": "2026-08-12T12:58:50.000Z",
+        "display_text_range": [
+          9,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:58:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087524210193445101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1672078534469369856",
+              "start": 0,
+              "username": "csl1027"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087524210193445101",
+        "in_reply_to_user_id": "1672078534469369856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087522854460100619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@csl1027 🥰谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1672078534469369856",
+        "conversation_id": "2087446924345716907",
+        "created_at": "2026-08-12T12:53:27.000Z",
+        "display_text_range": [
+          10,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T13:53:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087522854460100619"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087522854460100619",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087446924345716907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 恭喜咪(＾ω＾)ﾉ🎉"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087524210193445101",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1007,
+          "following_count": 798,
+          "like_count": 4560,
+          "listed_count": 3,
+          "media_count": 251,
+          "tweet_count": 1250
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-23T03:06:25.000Z",
+        "description": "mtf🏳️‍⚧️🍥 | 📮:clipsule@outlook.com | 无证HRT:2026.3.15 | 不混🏳️‍⚧️圈 | 不改花刀 | 出厂2008.10.27 | 艰难存活ing | 家暴党 | 163cm/46kg | 妈妈@yefengSylvia | 计算机技术宅 | 小号@csl081027",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 132,
+                "start": 119,
+                "username": "yefengSylvia"
+              },
+              {
+                "end": 156,
+                "start": 146,
+                "username": "csl081027"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "me.clipsule.cn",
+                "end": 23,
+                "expanded_url": "https://me.clipsule.cn/",
+                "start": 0,
+                "url": "https://t.co/VAVAt3H09t"
+              }
+            ]
+          }
+        },
+        "id": "1672078534469369856",
+        "is_identity_verified": false,
+        "location": "江苏 徐州",
+        "most_recent_tweet_id": "2087523623242539205",
+        "name": "晴れ猫🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2083481236304208095",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1672078534469369856/1781672466",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067110268417802243/nDzW43nF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 755,
+          "following_count": 36,
+          "like_count": 465,
+          "listed_count": 3,
+          "media_count": 91,
+          "tweet_count": 399
+        },
+        "url": "https://t.co/VAVAt3H09t",
+        "username": "csl1027",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

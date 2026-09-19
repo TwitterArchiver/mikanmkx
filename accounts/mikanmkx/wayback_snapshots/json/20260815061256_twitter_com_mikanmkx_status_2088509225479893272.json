@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2088490737344065794",
+    "created_at": "2026-08-15T06:12:56.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T07:12:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088509225479893272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1659416047626383365",
+          "start": 0,
+          "username": "M1ku_3kyu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088509225479893272",
+    "in_reply_to_user_id": "1659416047626383365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088490737344065794",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M1ku_3kyu9 他这个建议跟给我的一模一样😂"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2088490726544089088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvPQCBboAAWytq.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2088490737344065794",
+        "created_at": "2026-08-15T06:12:56.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T07:12:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088509225479893272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1659416047626383365",
+              "start": 0,
+              "username": "M1ku_3kyu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088509225479893272",
+        "in_reply_to_user_id": "1659416047626383365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088490737344065794",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M1ku_3kyu9 他这个建议跟给我的一模一样😂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088490726544089088"
+          ]
+        },
+        "author_id": "1659416047626383365",
+        "conversation_id": "2088490737344065794",
+        "created_at": "2026-08-15T04:59:28.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T05:59:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088490737344065794"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VFeIaZlIWu",
+              "end": 83,
+              "expanded_url": "https://x.com/M1ku_3kyu9/status/2088490737344065794/photo/1",
+              "media_key": "3_2088490726544089088",
+              "start": 60,
+              "url": "https://t.co/VFeIaZlIWu"
+            },
+            {
+              "display_url": "x.com/M1ku_3kyu9/sta…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/M1ku_3kyu9/status/2088474772577681905",
+              "start": 84,
+              "url": "https://t.co/vVlSnDa2wD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088490737344065794",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088490726544089088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 339,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088474772577681905",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "李老师很友好，但是知道我有自主经济能力还有空到处跑之后决定一纸病历把我介绍到北三去找潘柏林老师😇，这不折磨我老年人吗🫠 https://t.co/VFeIaZlIWu https://t.co/vVlSnDa2wD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2088509225479893272",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1014,
+          "following_count": 807,
+          "like_count": 4724,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 1270
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-19T04:31:03.000Z",
+        "description": "♊INFJ-T | 社恐 | 爱搞抽象的懒虫 | 鉴证🆖✖️ | Born in 2002 | 180cm（想变矮） | HRT since 26.03  | Direct Ph.D.🎓 | Aerospace Control Engineering 🛰️ | 独居/深柜ing | 努力pass中💪",
+        "id": "1659416047626383365",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2088490737344065794",
+        "name": "F1r🍥fly🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659416047626383365/1782177532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910104246456320/7qQ-potg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 123,
+          "like_count": 324,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "M1ku_3kyu9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2095405937117000015",
+    "created_at": "2026-09-03T07:30:36.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:30:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095414138545852717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "908312740455907330",
+          "start": 0,
+          "username": "qiuylove"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095414138545852717",
+    "in_reply_to_user_id": "908312740455907330",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095413945985339665",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qiuylove 铨洲也就十块钱（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2095413945985339665].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2095413945985339665",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2095413945985339665"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2095405937117000015",
+        "created_at": "2026-09-03T07:30:36.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:30:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095414138545852717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "908312740455907330",
+              "start": 0,
+              "username": "qiuylove"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095414138545852717",
+        "in_reply_to_user_id": "908312740455907330",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095413945985339665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiuylove 铨洲也就十块钱（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2095414138545852717",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1164,
+          "following_count": 938,
+          "like_count": 6208,
+          "listed_count": 3,
+          "media_count": 301,
+          "tweet_count": 1541
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-09-14T12:53:27.000Z",
+        "description": "⚠️fo前请DM说明来意/❤️纯情女高？！/单取大概率回block/🥵涩涩or技术推/🥺出厂16年的人类小女孩喵/退役CChOer/INFP/les/sub/免费私信树洞 /✈️https://t.co/BFK1NVzxjb / 阿弃主人@Ak1raQ_love (这个不是对象喵对象是顺女) / 有对象❤️勿扰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Ak1raQ_love"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/xyn8964",
+                "end": 112,
+                "expanded_url": "https://t.me/xyn8964",
+                "start": 89,
+                "url": "https://t.co/BFK1NVzxjb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dmit.io/aff.php?aff=16…",
+                "end": 23,
+                "expanded_url": "https://www.dmit.io/aff.php?aff=16563",
+                "start": 0,
+                "url": "https://t.co/paxAwGcaiJ"
+              }
+            ]
+          }
+        },
+        "id": "908312740455907330",
+        "is_identity_verified": false,
+        "location": "Seattle, WA",
+        "most_recent_tweet_id": "2046391493729063289",
+        "name": "小秋月 🎀🕯️",
+        "pinned_tweet_id": "2024703264550498423",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/908312740455907330/1723091129",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940249656916664320/-CxMK7qJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 419,
+          "following_count": 949,
+          "like_count": 92551,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 4107
+        },
+        "url": "https://t.co/paxAwGcaiJ",
+        "username": "qiuylove",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2081218174440341782",
+    "created_at": "2026-07-26T03:20:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:20:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081218174440341782"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/meeeei_Gt/stat…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/meeeei_Gt/status/2081152475843990014",
+          "start": 13,
+          "url": "https://t.co/zQNbSZCWko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081218174440341782",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081152475843990014",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊？？？？？？？？？？？ https://t.co/zQNbSZCWko"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2081218174440341782",
+        "created_at": "2026-07-26T03:20:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:20:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081218174440341782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/meeeei_Gt/stat…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/meeeei_Gt/status/2081152475843990014",
+              "start": 13,
+              "url": "https://t.co/zQNbSZCWko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081218174440341782",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081152475843990014",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊？？？？？？？？？？？ https://t.co/zQNbSZCWko"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507761075089211397",
+        "conversation_id": "2081152475843990014",
+        "created_at": "2026-07-25T22:59:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T23:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081152475843990014"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081152475843990014",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【訃報】\n\nいつも猫月めいを応援してくださっている皆様へ\n\nこのたび、猫月めいが永眠いたしましたことをご報告申し上げます。\n\n生前は皆様より温かいご支援、ご声援を賜りましたこと、本人に代わりまして心より御礼申し上げます。\n\n突然のお知らせとなりましたことを深くお詫び申し上げますとともに、ご理解賜りますようお願い申し上げます。\n\nなお、予定しておりました生誕ライブ及びバーイベントは中止とさせていただきます。\n\nチケットの払い戻し方法につきましては、準備が整い次第、後日あらためてご案内いたします。\n\n現在、関係各所へのご連絡を順次進めております。突然の出来事のため、ご連絡が行き届いていない場合もございますが、何卒お待ちくださいますようお願い申し上げます。\n\n葬儀につきましては近親者のみで執り行います。\n\nこれまで猫月めいを応援してくださった皆様に、心より感謝申し上げます。\n\n令和8年7月26日\n\n猫月めい 家族一同"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1089,
+          "impression_count": 2496397,
+          "like_count": 4305,
+          "quote_count": 386,
+          "reply_count": 605,
+          "retweet_count": 1394
+        },
+        "reply_settings": "everyone",
+        "text": "【訃報】\n\nいつも猫月めいを応援してくださっている皆様へ\n\nこのたび、猫月めいが永眠いたしましたことをご報告申し上げます。\n\n生前は皆様より温かいご支援、ご声援を賜りましたこと、本人に代わりまして心より御礼申し上げます。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 643,
+          "like_count": 3447,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 968
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2022-03-26T16:47:16.000Z",
+        "description": "Guitarist🎸￤元薬剤師💊 ￤#めいちゅーる💚🐾\nBand▶︎終末のダイヤモンド @LastDiamond2026\nworks▶︎BanG Dream!, 艦これ1MYB等 \ncontact▶︎✉️nyaon.9ma@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "めいちゅーる"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "LastDiamond2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekozukimei",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekozukimei",
+                "start": 0,
+                "url": "https://t.co/OVr9sqGR0G"
+              }
+            ]
+          }
+        },
+        "id": "1507761075089211397",
+        "name": "猫月めい",
+        "pinned_tweet_id": "2032773976389464163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756946292725747712/BDmXqs5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13891,
+          "following_count": 375,
+          "like_count": 5603,
+          "listed_count": 93,
+          "media_count": 588,
+          "tweet_count": 3275
+        },
+        "url": "https://t.co/OVr9sqGR0G",
+        "username": "meeeei_Gt",
+        "verified": true
+      }
+    ]
+  }
+}

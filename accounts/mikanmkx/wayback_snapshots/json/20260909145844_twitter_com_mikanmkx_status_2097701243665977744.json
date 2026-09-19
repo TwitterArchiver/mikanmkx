@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2097698960442065353",
+    "created_at": "2026-09-09T14:58:44.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T15:58:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097701243665977744"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1164441995298742272",
+          "start": 0,
+          "username": "yyyfexc45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097701243665977744",
+    "in_reply_to_user_id": "1164441995298742272",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097699490941849677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyfexc45 真的好玩（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2097698960442065353",
+        "created_at": "2026-09-09T14:58:44.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:58:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097701243665977744"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1164441995298742272",
+              "start": 0,
+              "username": "yyyfexc45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097701243665977744",
+        "in_reply_to_user_id": "1164441995298742272",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097699490941849677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyfexc45 真的好玩（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164441995298742272",
+        "conversation_id": "2097698960442065353",
+        "created_at": "2026-09-09T14:51:46.000Z",
+        "display_text_range": [
+          10,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T15:51:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097699490941849677"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097699490941849677",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097699161890312255",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 没玩过...而且我玩横版动作游戏很菜...🐱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2097701243665977744",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1191,
+          "following_count": 960,
+          "like_count": 6595,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 1613
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-22T07:39:50.000Z",
+        "description": "mtx/f | intp | 无证 | hrt 2026.5.12 | 165/48\n社恐 | 术 | 烤 | 粥 | 单机 pc/ns | 查成分互fo\n备用机@xxxfexc414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 81,
+                "username": "xxxfexc414"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fexc45",
+                "end": 23,
+                "expanded_url": "http://t.me/fexc45",
+                "start": 0,
+                "url": "https://t.co/aN98VkxSqs"
+              }
+            ]
+          }
+        },
+        "id": "1164441995298742272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097700165906042897",
+        "name": "fexc45",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164441995298742272/1787363058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095814321532203008/BNVD711o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 297,
+          "following_count": 761,
+          "like_count": 3765,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 514
+        },
+        "url": "https://t.co/aN98VkxSqs",
+        "username": "yyyfexc45",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

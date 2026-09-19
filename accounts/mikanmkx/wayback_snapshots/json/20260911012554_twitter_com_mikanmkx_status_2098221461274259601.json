@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2098111575798448296",
+    "created_at": "2026-09-11T01:25:54.000Z",
+    "display_text_range": [
+      14,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T02:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098221461274259601"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3945538153",
+          "start": 0,
+          "username": "cold_dweller"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098221461274259601",
+    "in_reply_to_user_id": "3945538153",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098119434078765097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@cold_dweller That was the plan until I realized that I don't know how to \"befriend\" other people😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2098111575798448296",
+        "created_at": "2026-09-11T01:25:54.000Z",
+        "display_text_range": [
+          14,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098221461274259601"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3945538153",
+              "start": 0,
+              "username": "cold_dweller"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098221461274259601",
+        "in_reply_to_user_id": "3945538153",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098119434078765097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@cold_dweller That was the plan until I realized that I don't know how to \"befriend\" other people😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3945538153",
+        "conversation_id": "2098111575798448296",
+        "created_at": "2026-09-10T18:40:28.000Z",
+        "display_text_range": [
+          10,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T19:40:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098119434078765097"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098119434078765097",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098111575798448296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx May I interest you of my method... I usually befriend other transfem who are the same country as me through online platform and then ask to meet up."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2098221461274259601",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1194,
+          "following_count": 960,
+          "like_count": 6670,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 1631
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-19T09:23:47.000Z",
+        "description": "Agender transfeminine.\nLesbian | Demisexual. \nAuDHD. \nHRT 20/10/2023. \nAnarchist and communist. \n\nChilling with my two beautiful transgender girlfriends.\n\nNSFW",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "witch-emilia.straw.page",
+                "end": 23,
+                "expanded_url": "http://witch-emilia.straw.page",
+                "start": 0,
+                "url": "https://t.co/c1ncOvxp3V"
+              }
+            ]
+          }
+        },
+        "id": "3945538153",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️ She/it",
+        "most_recent_tweet_id": "2098173549777424528",
+        "name": "Katarina (no longer Emilia) 🐱🍵 🏳️‍⚧️",
+        "pinned_tweet_id": "2064223442220777711",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3945538153/1761653118",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021489768102756360/hoJBWMBh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 593,
+          "following_count": 177,
+          "like_count": 128576,
+          "listed_count": 2,
+          "media_count": 1089,
+          "tweet_count": 14878
+        },
+        "url": "https://t.co/c1ncOvxp3V",
+        "username": "cold_dweller",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

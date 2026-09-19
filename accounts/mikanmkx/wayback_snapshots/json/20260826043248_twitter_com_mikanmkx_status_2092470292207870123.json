@@ -1,0 +1,399 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1132013015690178560",
+          "name": "Makoto Shinkai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1132013015690178560",
+          "name": "Makoto Shinkai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352442350125056",
+          "name": "Animation directors, producers, & writers"
+        }
+      }
+    ],
+    "conversation_id": "2092470292207870123",
+    "created_at": "2026-08-26T04:32:48.000Z",
+    "display_text_range": [
+      0,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T05:32:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092470292207870123"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/livedoornews/s…",
+          "end": 49,
+          "expanded_url": "https://twitter.com/livedoornews/status/2092265996107055151",
+          "start": 26,
+          "url": "https://t.co/mXpX0rHbFL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092470292207870123",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092265996107055151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我记得我当时去电影院看了快10遍，是不是一种预示（ https://t.co/mXpX0rHbFL"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 513,
+        "media_key": "3_2088514640804519937",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPvlABlbIAEJsRw.png",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2092470292207870123",
+        "created_at": "2026-08-26T04:32:48.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T05:32:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092470292207870123"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/livedoornews/s…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/livedoornews/status/2092265996107055151",
+              "start": 26,
+              "url": "https://t.co/mXpX0rHbFL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092470292207870123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092265996107055151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我记得我当时去电影院看了快10遍，是不是一种预示（ https://t.co/mXpX0rHbFL"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088514640804519937"
+          ]
+        },
+        "author_id": "17306975",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          }
+        ],
+        "conversation_id": "2092265996107055151",
+        "created_at": "2026-08-25T15:01:00.000Z",
+        "display_text_range": [
+          0,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T16:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092265996107055151"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xYuPW22dOc",
+              "end": 114,
+              "expanded_url": "https://x.com/livedoornews/status/2092265996107055151/photo/1",
+              "media_key": "3_2088514640804519937",
+              "start": 91,
+              "url": "https://t.co/xYuPW22dOc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092265996107055151",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2088514640804519937"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 829,
+          "impression_count": 1054085,
+          "like_count": 15120,
+          "quote_count": 1406,
+          "reply_count": 125,
+          "retweet_count": 4231
+        },
+        "reply_settings": "everyone",
+        "text": "【祝】本日8月26日で『君の名は。』公開10周年\n\n2016年8月26日に公開。新海誠氏が監督・脚本を務めた。興行収入は250.3億円を記録しており、歴代5位にランクインしている。 https://t.co/xYuPW22dOc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2092470292207870123",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1081,
+          "following_count": 879,
+          "like_count": 5681,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1448
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-11-11T09:56:31.000Z",
+        "description": "国内・海外のニュースや芸能情報、ネットで話題の小ネタまで、幅広いジャンルのニュースをいち早くお伝えします。また、Amazonや楽天などのおトクなお買い物情報も発信中です。 ■公式アプリhttps://t.co/mboL5a5cKL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "onl.la/JHuxZ3v",
+                "end": 115,
+                "expanded_url": "http://onl.la/JHuxZ3v",
+                "start": 92,
+                "url": "https://t.co/mboL5a5cKL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.livedoor.com",
+                "end": 23,
+                "expanded_url": "http://news.livedoor.com/",
+                "start": 0,
+                "url": "https://t.co/wgqBLjY4vo"
+              }
+            ]
+          }
+        },
+        "id": "17306975",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092462041697022018",
+        "name": "ライブドアニュース",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17306975/1693883446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698896423025270784/GhIkQiXi_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2204110,
+          "following_count": 108,
+          "like_count": 2281,
+          "listed_count": 14062,
+          "media_count": 295299,
+          "tweet_count": 475749
+        },
+        "url": "https://t.co/wgqBLjY4vo",
+        "username": "livedoornews",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

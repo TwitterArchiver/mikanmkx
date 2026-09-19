@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2081152475843990014",
+    "created_at": "2026-07-26T03:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T04:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081218794308137122"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1890726710821453824",
+          "start": 0,
+          "username": "nagasakisoyoyo"
+        },
+        {
+          "end": 26,
+          "id": "1507761075089211397",
+          "start": 16,
+          "username": "meeeei_Gt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081218794308137122",
+    "in_reply_to_user_id": "1890726710821453824",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081197407053001018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nagasakisoyoyo @meeeei_Gt 真给我看晕了😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2081152475843990014",
+        "created_at": "2026-07-26T03:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081218794308137122"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1890726710821453824",
+              "start": 0,
+              "username": "nagasakisoyoyo"
+            },
+            {
+              "end": 26,
+              "id": "1507761075089211397",
+              "start": 16,
+              "username": "meeeei_Gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081218794308137122",
+        "in_reply_to_user_id": "1890726710821453824",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081197407053001018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nagasakisoyoyo @meeeei_Gt 真给我看晕了😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1890726710821453824",
+        "conversation_id": "2081152475843990014",
+        "created_at": "2026-07-26T01:58:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T02:58:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081197407053001018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1507761075089211397",
+              "start": 0,
+              "username": "meeeei_Gt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081197407053001018",
+        "in_reply_to_user_id": "1507761075089211397",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081152475843990014",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@meeeei_Gt ご冥福をお祈りします🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 765,
+          "following_count": 643,
+          "like_count": 3448,
+          "listed_count": 2,
+          "media_count": 219,
+          "tweet_count": 969
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-15T11:35:58.000Z",
+        "description": "元垢凍結@soyosan_rabu/留学生/新人バンドリマー/Mygo箱推しで特にそよ推し/百合/タメ⚪︎/フォローバ99%/日本語/中文/English いいね≠賛成/ Social Democrat🌹🟥↙️🇪🇺🇩🇪🇺🇦🏳️‍🌈/they or them",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 4,
+                "username": "soyosan_rabu"
+              }
+            ]
+          }
+        },
+        "id": "1890726710821453824",
+        "name": "そよよ2号機🌹🌈",
+        "pinned_tweet_id": "2013096353124233222",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049092757638307840/y_3mEsx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 1794,
+          "like_count": 61975,
+          "listed_count": 8,
+          "media_count": 172,
+          "tweet_count": 5060
+        },
+        "url": "",
+        "username": "nagasakisoyoyo",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-26T16:47:16.000Z",
+        "description": "Guitarist🎸￤元薬剤師💊 ￤#めいちゅーる💚🐾\nBand▶︎終末のダイヤモンド @LastDiamond2026\nworks▶︎BanG Dream!, 艦これ1MYB等 \ncontact▶︎✉️nyaon.9ma@gmail.com",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 18,
+                "tag": "めいちゅーる"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 60,
+                "start": 44,
+                "username": "LastDiamond2026"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nekozukimei",
+                "end": 23,
+                "expanded_url": "https://lit.link/nekozukimei",
+                "start": 0,
+                "url": "https://t.co/OVr9sqGR0G"
+              }
+            ]
+          }
+        },
+        "id": "1507761075089211397",
+        "name": "猫月めい",
+        "pinned_tweet_id": "2032773976389464163",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1756946292725747712/BDmXqs5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13905,
+          "following_count": 375,
+          "like_count": 5603,
+          "listed_count": 94,
+          "media_count": 588,
+          "tweet_count": 3275
+        },
+        "url": "https://t.co/OVr9sqGR0G",
+        "username": "meeeei_Gt",
+        "verified": true
+      }
+    ]
+  }
+}

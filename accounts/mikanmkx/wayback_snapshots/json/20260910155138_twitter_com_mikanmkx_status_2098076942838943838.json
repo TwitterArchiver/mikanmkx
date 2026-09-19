@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098059647978704896"
+      ],
+      "media_source_tweet_id": [
+        "2098060315476856902"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1485970564841816065",
+          "name": "World Suicide Prevention Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1485970564841816065",
+          "name": "World Suicide Prevention Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1485970564841816065",
+          "name": "World Suicide Prevention Day"
+        }
+      }
+    ],
+    "conversation_id": "2098076942838943838",
+    "created_at": "2026-09-10T15:51:38.000Z",
+    "display_text_range": [
+      0,
+      113
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:51:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098076942838943838"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "206348770",
+          "start": 3,
+          "username": "Cut_The_Rope"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Global vetted directory of helplines, hotlines and crisis lines. Chat, text or phone support with suicide, anxiety, depression, domestic violence, gender& sexual identity and more.",
+          "display_url": "findahelpline.com",
+          "end": 76,
+          "expanded_url": "https://findahelpline.com/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2096104877889900546/rQo0mwxZ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2096104877889900546/rQo0mwxZ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 53,
+          "status": 200,
+          "title": "Find A Helpline | Free emotional support in 130+ countries",
+          "unwound_url": "https://findahelpline.com/",
+          "url": "https://t.co/vGOR4Hf0zl"
+        },
+        {
+          "display_url": "pic.x.com/m5C3QjwI9m",
+          "end": 113,
+          "expanded_url": "https://x.com/Cut_The_Rope/status/2098060315476856902/photo/1",
+          "media_key": "3_2098059647978704896",
+          "start": 90,
+          "url": "https://t.co/m5C3QjwI9m"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098076942838943838",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2098059647978704896"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3377
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098060315476856902",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Cut_The_Rope: it's world suicide prevention day\n\nhttps://t.co/vGOR4Hf0zl\n\nplease stay https://t.co/m5C3QjwI9m"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2098059647978704896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3OIkNaEAALSt-.png",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098059647978704896"
+          ],
+          "media_source_tweet_id": [
+            "2098060315476856902"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          }
+        ],
+        "conversation_id": "2098076942838943838",
+        "created_at": "2026-09-10T15:51:38.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:51:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098076942838943838"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "206348770",
+              "start": 3,
+              "username": "Cut_The_Rope"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Global vetted directory of helplines, hotlines and crisis lines. Chat, text or phone support with suicide, anxiety, depression, domestic violence, gender& sexual identity and more.",
+              "display_url": "findahelpline.com",
+              "end": 76,
+              "expanded_url": "https://findahelpline.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2096104877889900546/rQo0mwxZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096104877889900546/rQo0mwxZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 53,
+              "status": 200,
+              "title": "Find A Helpline | Free emotional support in 130+ countries",
+              "unwound_url": "https://findahelpline.com/",
+              "url": "https://t.co/vGOR4Hf0zl"
+            },
+            {
+              "display_url": "pic.x.com/m5C3QjwI9m",
+              "end": 113,
+              "expanded_url": "https://x.com/Cut_The_Rope/status/2098060315476856902/photo/1",
+              "media_key": "3_2098059647978704896",
+              "start": 90,
+              "url": "https://t.co/m5C3QjwI9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098076942838943838",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098059647978704896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3377
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098060315476856902",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Cut_The_Rope: it's world suicide prevention day\n\nhttps://t.co/vGOR4Hf0zl\n\nplease stay https://t.co/m5C3QjwI9m"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098059647978704896"
+          ]
+        },
+        "author_id": "206348770",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1485970564841816065",
+              "name": "World Suicide Prevention Day"
+            }
+          }
+        ],
+        "conversation_id": "2098060315476856902",
+        "created_at": "2026-09-10T14:45:33.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T15:45:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098060315476856902"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Global vetted directory of helplines, hotlines and crisis lines. Chat, text or phone support with suicide, anxiety, depression, domestic violence, gender& sexual identity and more.",
+              "display_url": "findahelpline.com",
+              "end": 58,
+              "expanded_url": "https://findahelpline.com/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2096104877889900546/rQo0mwxZ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2096104877889900546/rQo0mwxZ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 35,
+              "status": 200,
+              "title": "Find A Helpline | Free emotional support in 130+ countries",
+              "unwound_url": "https://findahelpline.com/",
+              "url": "https://t.co/vGOR4Hf0zl"
+            },
+            {
+              "display_url": "pic.x.com/m5C3QjwI9m",
+              "end": 95,
+              "expanded_url": "https://x.com/Cut_The_Rope/status/2098060315476856902/photo/1",
+              "media_key": "3_2098059647978704896",
+              "start": 72,
+              "url": "https://t.co/m5C3QjwI9m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098060315476856902",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098059647978704896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 963,
+          "impression_count": 120730,
+          "like_count": 15221,
+          "quote_count": 215,
+          "reply_count": 104,
+          "retweet_count": 3377
+        },
+        "reply_settings": "everyone",
+        "text": "it's world suicide prevention day\n\nhttps://t.co/vGOR4Hf0zl\n\nplease stay https://t.co/m5C3QjwI9m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2098076942838943838",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 959,
+          "like_count": 6654,
+          "listed_count": 3,
+          "media_count": 310,
+          "tweet_count": 1626
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-22T19:39:02.000Z",
+        "description": "Chaotic green monster in pursuit of candy 🍬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "zeptolab.com/omnom",
+                "end": 23,
+                "expanded_url": "https://www.zeptolab.com/omnom",
+                "start": 0,
+                "url": "https://t.co/5aIS3tko9r"
+              }
+            ]
+          }
+        },
+        "id": "206348770",
+        "is_identity_verified": false,
+        "location": "Your phone",
+        "most_recent_tweet_id": "2098076666954236066",
+        "name": "Om Nom",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/206348770/1759310415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033503058123223040/RFo4R0jA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115746,
+          "following_count": 142,
+          "like_count": 2594,
+          "listed_count": 202,
+          "media_count": 1743,
+          "tweet_count": 5441
+        },
+        "url": "https://t.co/5aIS3tko9r",
+        "username": "Cut_The_Rope",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

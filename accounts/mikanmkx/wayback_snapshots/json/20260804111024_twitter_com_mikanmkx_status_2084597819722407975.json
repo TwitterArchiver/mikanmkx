@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084597515132006400"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2084597819722407975",
+    "created_at": "2026-08-04T11:10:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T12:10:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084597819722407975"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/daRk00dCvY",
+          "end": 62,
+          "expanded_url": "https://x.com/mikanmkx/status/2084597819722407975/photo/1",
+          "media_key": "3_2084597515132006400",
+          "start": 39,
+          "url": "https://t.co/daRk00dCvY"
+        },
+        {
+          "display_url": "x.com/mikanmkx/statu…",
+          "end": 86,
+          "expanded_url": "https://twitter.com/mikanmkx/status/2084595830468870638",
+          "start": 63,
+          "url": "https://t.co/MLqIWqQkmm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084597819722407975",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084595830468870638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "日本竟然能买到？差不多700多一瓶，看到有人说10mg每天就能有效压制睾酮🤔 https://t.co/daRk00dCvY https://t.co/MLqIWqQkmm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1340,
+        "media_key": "3_2084597515132006400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO36ZTUa8AAe2Go.jpg",
+        "width": 2746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084597515132006400"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084597819722407975",
+        "created_at": "2026-08-04T11:10:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084597819722407975"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/daRk00dCvY",
+              "end": 62,
+              "expanded_url": "https://x.com/mikanmkx/status/2084597819722407975/photo/1",
+              "media_key": "3_2084597515132006400",
+              "start": 39,
+              "url": "https://t.co/daRk00dCvY"
+            },
+            {
+              "display_url": "x.com/mikanmkx/statu…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/mikanmkx/status/2084595830468870638",
+              "start": 63,
+              "url": "https://t.co/MLqIWqQkmm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084597819722407975",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084595830468870638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "日本竟然能买到？差不多700多一瓶，看到有人说10mg每天就能有效压制睾酮🤔 https://t.co/daRk00dCvY https://t.co/MLqIWqQkmm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084595830468870638",
+        "created_at": "2026-08-04T11:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T12:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084595830468870638"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084595830468870638",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好像有种叫relugolix的口服gnrha不知道有人了解吗，好像国外有人在吃这个，听说还有买原料药自己做胶囊吃的？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 903,
+          "following_count": 742,
+          "like_count": 4013,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 1103
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      }
+    ]
+  }
+}

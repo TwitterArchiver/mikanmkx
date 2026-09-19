@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2089599593822691663",
+    "created_at": "2026-08-18T06:25:40.000Z",
+    "display_text_range": [
+      0,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T07:25:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089599593822691663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3019993781",
+          "start": 0,
+          "username": "MRBlackPhoenix7"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/YahooNewsTopic…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/YahooNewsTopics/status/2089352547601649869",
+          "start": 32,
+          "url": "https://t.co/DodizSVwo0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089599593822691663",
+    "in_reply_to_user_id": "3019993781",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089352547601649869",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MRBlackPhoenix7 可能这就是为什么要打开车窗（ https://t.co/DodizSVwo0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2089599593822691663",
+        "created_at": "2026-08-18T06:25:40.000Z",
+        "display_text_range": [
+          0,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T07:25:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089599593822691663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3019993781",
+              "start": 0,
+              "username": "MRBlackPhoenix7"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/YahooNewsTopic…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/YahooNewsTopics/status/2089352547601649869",
+              "start": 32,
+              "url": "https://t.co/DodizSVwo0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089599593822691663",
+        "in_reply_to_user_id": "3019993781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089352547601649869",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MRBlackPhoenix7 可能这就是为什么要打开车窗（ https://t.co/DodizSVwo0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "88846085",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1418265706076917762",
+              "name": "Yahoo News"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2089352547601649869",
+        "created_at": "2026-08-17T14:04:00.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089352547601649869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "東急電鉄は17日、東京都世田谷区にある世田谷線の踏切で、遮断機が上がったまま電車が通過するトラブルがあったと発表した。人や車などとの接触はなく、同社が原因を調べている。",
+              "display_url": "news.yahoo.co.jp/pickup/6592116",
+              "end": 42,
+              "expanded_url": "https://news.yahoo.co.jp/pickup/6592116",
+              "start": 19,
+              "status": 200,
+              "title": "踏切開いたまま電車通過 東急電鉄 - Yahoo!ニュース",
+              "unwound_url": "https://news.yahoo.co.jp/pickup/6592116",
+              "url": "https://t.co/8BrMpEmdl7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089352547601649869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 139,
+          "impression_count": 574467,
+          "like_count": 1225,
+          "quote_count": 114,
+          "reply_count": 36,
+          "retweet_count": 306
+        },
+        "reply_settings": "everyone",
+        "text": "【踏切開いたまま電車通過 東急電鉄】\nhttps://t.co/8BrMpEmdl7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2089599593822691663",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1031,
+          "following_count": 821,
+          "like_count": 4904,
+          "listed_count": 3,
+          "media_count": 266,
+          "tweet_count": 1305
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-05T15:43:46.000Z",
+        "description": "Aqours推，MyGO!!!!!推，sww推，爱坐火车；\n简体中文(繁體可看)→bìpǐ/\nEnglish→WBP/\n日本語→ひびき；\ndelusionally Nagasaki Soyo's boyfriend",
+        "id": "3019993781",
+        "is_identity_verified": false,
+        "location": "静岡 沼津市",
+        "most_recent_tweet_id": "2084624390491394307",
+        "name": "ひびき♣避否WBP",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3019993781/1676630268",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061196172287688704/w4eukRGJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 1408,
+          "like_count": 48460,
+          "listed_count": 2,
+          "media_count": 155,
+          "tweet_count": 3388
+        },
+        "url": "",
+        "username": "MRBlackPhoenix7",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1708099235982479360/7A6D4yj-_bigger.png",
+          "description": "LINEヤフー株式会社",
+          "url": "https://twitter.com/lycorp_jp",
+          "user_id": [
+            "1651388420663693312"
+          ]
+        },
+        "created_at": "2009-11-10T03:59:51.000Z",
+        "description": "Yahoo!ニュースの公式アカウントです。365日24時間、Yahoo! JAPANトップページに掲出される話題を速報でお届け。※株式会社アフロ社提供の写真を使用している場合があります。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "news.yahoo.co.jp",
+                "end": 23,
+                "expanded_url": "https://news.yahoo.co.jp/",
+                "start": 0,
+                "url": "https://t.co/PORT0VCtyG"
+              }
+            ]
+          }
+        },
+        "id": "88846085",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089599425148776467",
+        "name": "Yahoo!ニュース",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/88846085/1557715365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/875506779743895552/jqN_tEe4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2044300,
+          "following_count": 8,
+          "like_count": 0,
+          "listed_count": 22320,
+          "media_count": 3988,
+          "tweet_count": 595600
+        },
+        "url": "https://t.co/PORT0VCtyG",
+        "username": "YahooNewsTopics",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

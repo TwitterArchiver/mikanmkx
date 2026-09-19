@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2088600978530714038",
+    "created_at": "2026-08-15T12:17:32.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T13:17:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088600978530714038"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nanami_mua/sta…",
+          "end": 82,
+          "expanded_url": "https://twitter.com/nanami_mua/status/2088574024716857592",
+          "start": 59,
+          "url": "https://t.co/pR50D2LnTX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088600978530714038",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088574024716857592",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "高中至少还有同班同学还有舍友总有人可以说话，大一舍友两个外国人那时候我英语还不好，大二以后出去租房子住就没人说话了😭 https://t.co/pR50D2LnTX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2088600978530714038",
+        "created_at": "2026-08-15T12:17:32.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T13:17:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088600978530714038"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanami_mua/sta…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/nanami_mua/status/2088574024716857592",
+              "start": 59,
+              "url": "https://t.co/pR50D2LnTX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088600978530714038",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088574024716857592",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "高中至少还有同班同学还有舍友总有人可以说话，大一舍友两个外国人那时候我英语还不好，大二以后出去租房子住就没人说话了😭 https://t.co/pR50D2LnTX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2088525334568468953",
+        "created_at": "2026-08-15T10:30:25.000Z",
+        "display_text_range": [
+          13,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T11:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088574024716857592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1565691463685795840",
+              "start": 0,
+              "username": "barutan8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088574024716857592",
+        "in_reply_to_user_id": "1565691463685795840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088525334568468953",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@barutan8964 没有朋友，高中时期哪怕被当成异类还是有人忍不住无聊和我讲话，大学就是极端的孤独，没有朋友更没人讲话"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2088600978530714038",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1013,
+          "following_count": 806,
+          "like_count": 4730,
+          "listed_count": 3,
+          "media_count": 259,
+          "tweet_count": 1273
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/言论含有政治内容致歉/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 67,
+                "start": 55,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 86,
+                "start": 73,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088597613151183324",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2085555860215136277",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1360522586317348865/1764742642",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1355,
+          "following_count": 517,
+          "like_count": 93935,
+          "listed_count": 10,
+          "media_count": 936,
+          "tweet_count": 12197
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-09-02T13:22:22.000Z",
+        "description": "讨厌炒作狗和meme bot 王烟洛连坐斯密马赛🙂‍↕️\n🥰脑婆@bin_x_13",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 32,
+                "username": "bin_x_13"
+              }
+            ]
+          }
+        },
+        "id": "1565691463685795840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088587938485686685",
+        "name": "巴尔坦🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565691605516193792/56qrU4dH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 326,
+          "like_count": 22824,
+          "listed_count": 0,
+          "media_count": 228,
+          "tweet_count": 4084
+        },
+        "url": "",
+        "username": "barutan8964",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

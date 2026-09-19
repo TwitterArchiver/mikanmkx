@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095800991920902144",
+        "3_2095801069947461632",
+        "3_2095801081381216256",
+        "3_2095801096111591424"
+      ],
+      "media_source_tweet_id": [
+        "2095801352236728502",
+        "2095801352236728502",
+        "2095801352236728502",
+        "2095801352236728502"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2095894462270677293",
+    "created_at": "2026-09-04T15:19:14.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:19:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095894462270677293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1381190667255226371",
+          "start": 3,
+          "username": "Nitto_Photo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gj7sVxyHyx",
+          "end": 53,
+          "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+          "media_key": "3_2095800991920902144",
+          "start": 30,
+          "url": "https://t.co/gj7sVxyHyx"
+        },
+        {
+          "display_url": "pic.x.com/gj7sVxyHyx",
+          "end": 53,
+          "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+          "media_key": "3_2095801069947461632",
+          "start": 30,
+          "url": "https://t.co/gj7sVxyHyx"
+        },
+        {
+          "display_url": "pic.x.com/gj7sVxyHyx",
+          "end": 53,
+          "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+          "media_key": "3_2095801081381216256",
+          "start": 30,
+          "url": "https://t.co/gj7sVxyHyx"
+        },
+        {
+          "display_url": "pic.x.com/gj7sVxyHyx",
+          "end": 53,
+          "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+          "media_key": "3_2095801096111591424",
+          "start": 30,
+          "url": "https://t.co/gj7sVxyHyx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095894462270677293",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2095800991920902144"
+      },
+      {
+        "media_key": "3_2095801069947461632"
+      },
+      {
+        "media_key": "3_2095801081381216256"
+      },
+      {
+        "media_key": "3_2095801096111591424"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 63
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095801352236728502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Nitto_Photo: Blue moments https://t.co/gj7sVxyHyx"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2560,
+        "media_key": "3_2095800991920902144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXH5etbUAAogUE.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2095801069947461632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXH-BYaIAABLHP.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2560,
+        "media_key": "3_2095801081381216256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXH-r-bYAA2A5T.jpg",
+        "width": 3840
+      },
+      {
+        "height": 2160,
+        "media_key": "3_2095801096111591424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXH_i2bEAAZD8Z.jpg",
+        "width": 3840
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095800991920902144",
+            "3_2095801069947461632",
+            "3_2095801081381216256",
+            "3_2095801096111591424"
+          ],
+          "media_source_tweet_id": [
+            "2095801352236728502",
+            "2095801352236728502",
+            "2095801352236728502",
+            "2095801352236728502"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2095894462270677293",
+        "created_at": "2026-09-04T15:19:14.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095894462270677293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1381190667255226371",
+              "start": 3,
+              "username": "Nitto_Photo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gj7sVxyHyx",
+              "end": 53,
+              "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+              "media_key": "3_2095800991920902144",
+              "start": 30,
+              "url": "https://t.co/gj7sVxyHyx"
+            },
+            {
+              "display_url": "pic.x.com/gj7sVxyHyx",
+              "end": 53,
+              "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+              "media_key": "3_2095801069947461632",
+              "start": 30,
+              "url": "https://t.co/gj7sVxyHyx"
+            },
+            {
+              "display_url": "pic.x.com/gj7sVxyHyx",
+              "end": 53,
+              "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+              "media_key": "3_2095801081381216256",
+              "start": 30,
+              "url": "https://t.co/gj7sVxyHyx"
+            },
+            {
+              "display_url": "pic.x.com/gj7sVxyHyx",
+              "end": 53,
+              "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+              "media_key": "3_2095801096111591424",
+              "start": 30,
+              "url": "https://t.co/gj7sVxyHyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095894462270677293",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095800991920902144"
+          },
+          {
+            "media_key": "3_2095801069947461632"
+          },
+          {
+            "media_key": "3_2095801081381216256"
+          },
+          {
+            "media_key": "3_2095801096111591424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 63
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095801352236728502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Nitto_Photo: Blue moments https://t.co/gj7sVxyHyx"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095800991920902144",
+            "3_2095801069947461632",
+            "3_2095801081381216256",
+            "3_2095801096111591424"
+          ]
+        },
+        "author_id": "1381190667255226371",
+        "conversation_id": "2095801352236728502",
+        "created_at": "2026-09-04T09:09:15.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:09:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095801352236728502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gj7sVxyHyx",
+              "end": 36,
+              "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+              "media_key": "3_2095800991920902144",
+              "start": 13,
+              "url": "https://t.co/gj7sVxyHyx"
+            },
+            {
+              "display_url": "pic.x.com/gj7sVxyHyx",
+              "end": 36,
+              "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+              "media_key": "3_2095801069947461632",
+              "start": 13,
+              "url": "https://t.co/gj7sVxyHyx"
+            },
+            {
+              "display_url": "pic.x.com/gj7sVxyHyx",
+              "end": 36,
+              "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+              "media_key": "3_2095801081381216256",
+              "start": 13,
+              "url": "https://t.co/gj7sVxyHyx"
+            },
+            {
+              "display_url": "pic.x.com/gj7sVxyHyx",
+              "end": 36,
+              "expanded_url": "https://x.com/Nitto_Photo/status/2095801352236728502/photo/1",
+              "media_key": "3_2095801096111591424",
+              "start": 13,
+              "url": "https://t.co/gj7sVxyHyx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095801352236728502",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2095800991920902144"
+          },
+          {
+            "media_key": "3_2095801069947461632"
+          },
+          {
+            "media_key": "3_2095801081381216256"
+          },
+          {
+            "media_key": "3_2095801096111591424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 64,
+          "impression_count": 12419,
+          "like_count": 610,
+          "quote_count": 1,
+          "reply_count": 9,
+          "retweet_count": 63
+        },
+        "reply_settings": "everyone",
+        "text": "Blue moments https://t.co/gj7sVxyHyx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2095894462270677293",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1174,
+          "following_count": 947,
+          "like_count": 6299,
+          "listed_count": 3,
+          "media_count": 306,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-11T10:22:02.000Z",
+        "description": "“悪”天候の伝道師⛈️\nhttps://t.co/LDyRjeq750",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nitto-photography.stores.jp",
+                "end": 35,
+                "expanded_url": "https://nitto-photography.stores.jp",
+                "start": 12,
+                "url": "https://t.co/LDyRjeq750"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bio.site/nitto",
+                "end": 23,
+                "expanded_url": "http://bio.site/nitto",
+                "start": 0,
+                "url": "https://t.co/malIFTmRtQ"
+              }
+            ]
+          }
+        },
+        "id": "1381190667255226371",
+        "is_identity_verified": true,
+        "location": "Tokyo, Japan",
+        "most_recent_tweet_id": "2095862857632272744",
+        "name": "Nitto",
+        "pinned_tweet_id": "2082406152898543772",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1381190667255226371/1787494139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1816854571295342592/_REdF-ZI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30844,
+          "following_count": 1087,
+          "like_count": 493136,
+          "listed_count": 356,
+          "media_count": 2386,
+          "tweet_count": 24308
+        },
+        "url": "https://t.co/malIFTmRtQ",
+        "username": "Nitto_Photo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

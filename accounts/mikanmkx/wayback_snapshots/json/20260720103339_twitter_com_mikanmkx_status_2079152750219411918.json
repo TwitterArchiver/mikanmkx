@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2079150992705441948",
+    "created_at": "2026-07-20T10:33:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T11:33:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079152750219411918"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2033116026410598400",
+          "start": 0,
+          "username": "Irosas_xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079152750219411918",
+    "in_reply_to_user_id": "2033116026410598400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079150992705441948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Irosas_xyn 这没什么的，我青春期也没什么gd（除了不太喜欢声音，大概"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2079150992705441948",
+        "created_at": "2026-07-20T10:33:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:33:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079152750219411918"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2033116026410598400",
+              "start": 0,
+              "username": "Irosas_xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079152750219411918",
+        "in_reply_to_user_id": "2033116026410598400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079150992705441948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Irosas_xyn 这没什么的，我青春期也没什么gd（除了不太喜欢声音，大概"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033116026410598400",
+        "conversation_id": "2079150992705441948",
+        "created_at": "2026-07-20T10:26:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T11:26:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079150992705441948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079150992705441948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实还挺想了解大家的\n我觉得我不够典型啊\n青春期以前没有明显的gd，也暂时没有被赶出去……\n……这么一说感觉自己在装*一样\n对不起对不起对不起对不起\n我不该这么说的，对不起，我不该说出来的，我的错，我的罪"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 597,
+          "like_count": 3063,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 857
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-15T09:40:49.000Z",
+        "description": "MtF | les | 出厂年份11 | 🍥26.04.30 | 无证含糖 | 不键不O不割 | 休学ing | 182cm😭 BMI 27+😭\nサブ垢：@Irosas_sub\n无墙内联系方式\n给我私信喵 https://t.co/4Ea9D5x42k\n同类会尽量回fo\n匿名提问喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 77,
+                "username": "Irosas_sub"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "telegram.me/irosas_xyn",
+                "end": 126,
+                "expanded_url": "https://telegram.me/irosas_xyn",
+                "start": 103,
+                "url": "https://t.co/4Ea9D5x42k"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/irosas_xyn",
+                "end": 23,
+                "expanded_url": "https://ngl.link/irosas_xyn",
+                "start": 0,
+                "url": "https://t.co/lPmbVtIV4t"
+              }
+            ]
+          }
+        },
+        "id": "2033116026410598400",
+        "name": "Irosas🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2078116422644109710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068820111767842816/CyiUvjMF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 303,
+          "following_count": 183,
+          "like_count": 577,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 684
+        },
+        "url": "https://t.co/lPmbVtIV4t",
+        "username": "Irosas_xyn",
+        "verified": true
+      }
+    ]
+  }
+}

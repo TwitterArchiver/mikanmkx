@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2080549889323462728",
+    "created_at": "2026-07-24T08:31:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T09:31:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080571651507556671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1984997071435489280",
+          "start": 0,
+          "username": "NianKui59953"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080571651507556671",
+    "in_reply_to_user_id": "1984997071435489280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080570385305850290",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NianKui59953 谢谢喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2080549889323462728",
+        "created_at": "2026-07-24T08:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080571651507556671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1984997071435489280",
+              "start": 0,
+              "username": "NianKui59953"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080571651507556671",
+        "in_reply_to_user_id": "1984997071435489280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080570385305850290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NianKui59953 谢谢喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1984997071435489280",
+        "conversation_id": "2080549889323462728",
+        "created_at": "2026-07-24T08:26:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T09:26:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080570385305850290"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080570385305850290",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080549889323462728",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 恭喜！"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 752,
+          "following_count": 629,
+          "like_count": 3350,
+          "listed_count": 2,
+          "media_count": 216,
+          "tweet_count": 940
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-11-02T14:52:51.000Z",
+        "description": "mtf🏳️‍⚧️（无证无糖）|179cm/47kg|社恐&表达障碍（不怎么会说话...）|永远14岁|互fo欢迎|可交朋友喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikuzuy",
+                "end": 23,
+                "expanded_url": "http://t.me/mikuzuy",
+                "start": 0,
+                "url": "https://t.co/aLPRrkCTSF"
+              }
+            ]
+          }
+        },
+        "id": "1984997071435489280",
+        "location": "Changsha,Hunan,the PRC ",
+        "name": "葉落風隨🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051665313440337920/Li2spKXN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 521,
+          "following_count": 1228,
+          "like_count": 7532,
+          "listed_count": 1,
+          "media_count": 30,
+          "tweet_count": 977
+        },
+        "url": "https://t.co/aLPRrkCTSF",
+        "username": "NianKui59953",
+        "verified": false
+      }
+    ]
+  }
+}

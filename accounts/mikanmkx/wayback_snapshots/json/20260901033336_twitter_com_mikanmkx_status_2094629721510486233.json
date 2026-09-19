@@ -1,0 +1,291 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2094629721510486233",
+    "created_at": "2026-09-01T03:33:36.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094629721510486233"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1489468526826082312",
+          "start": 3,
+          "username": "Diamond_Kokoro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094629721510486233",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094541811440365803",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Diamond_Kokoro: 【求擴散】🏳️‍⚧️🍥關於色譜龍、補佳樂的商標出售問題\n\n引文為不完全真實的信息。Bayer的確於2023年11月出售Androcur®️ 和Progynova®️ ，但出售商標意味的是出售上市注册权、分销经销权和商标品牌使用权，也就是說…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094541804431622144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFOrHxaQAAVf9y.jpg",
+        "width": 942
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2094541804368789504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRFOrHibgAAlxE2.jpg",
+        "width": 942
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2094629721510486233",
+        "created_at": "2026-09-01T03:33:36.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094629721510486233"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1489468526826082312",
+              "start": 3,
+              "username": "Diamond_Kokoro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094629721510486233",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094541811440365803",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Diamond_Kokoro: 【求擴散】🏳️‍⚧️🍥關於色譜龍、補佳樂的商標出售問題\n\n引文為不完全真實的信息。Bayer的確於2023年11月出售Androcur®️ 和Progynova®️ ，但出售商標意味的是出售上市注册权、分销经销权和商标品牌使用权，也就是說…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094541804431622144",
+            "3_2094541804368789504"
+          ]
+        },
+        "author_id": "1489468526826082312",
+        "conversation_id": "2094541811440365803",
+        "created_at": "2026-08-31T21:44:17.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T22:44:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094541811440365803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SOJ2vzAxWQ",
+              "end": 177,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2094541811440365803/photo/1",
+              "media_key": "3_2094541804431622144",
+              "start": 154,
+              "url": "https://t.co/SOJ2vzAxWQ"
+            },
+            {
+              "display_url": "pic.x.com/SOJ2vzAxWQ",
+              "end": 177,
+              "expanded_url": "https://x.com/Diamond_Kokoro/status/2094541811440365803/photo/1",
+              "media_key": "3_2094541804368789504",
+              "start": 154,
+              "url": "https://t.co/SOJ2vzAxWQ"
+            },
+            {
+              "display_url": "x.com/tttypezhi/stat…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/tttypezhi/status/2094493259896934660",
+              "start": 178,
+              "url": "https://t.co/7R6GMGdvXQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094541811440365803",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2094541804431622144"
+          },
+          {
+            "media_key": "3_2094541804368789504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "【求擴散】🏳️‍⚧️🍥關於色譜龍、補佳樂的商標出售問題\n\n引文為不完全真實的信息。Bayer的確於2023年11月出售Androcur®️ 和Progynova®️ ，但出售商標意味的是出售上市注册权、分销经销权和商标品牌使用权，也就是說，用書本來比喻，只是Androcur®️ 和Progynova ®️ 的發行商/出版社、封面裝幀發生了更替，而書的內容、內頁排版和紙張、印裝廠都沒變。這樣比喻是因為，ADVANZ Pharma接手Androcur®️ 這一商標後，仍然是由Bayer的工廠進行生產。由Bayer生產但㩗有ADVANZ商標的Androcur ®️ 已經在歐美陸續鋪開銷售，且Androcur的知識產權仍為Bayer所有（ADVANZ沒有生產Androcur的技術，必須依賴Bayer的生產管線）。因此，「攜有Bayer商標的」Androcur ®️ 的確是存貨，但Androcur ®️ 本身並沒有停產，並且是以原有的生產管線、protocol繼續穩步生產，只是換了經銷商；並且ADVANZ的Androcur和Bayer的Androcur在藥效上不會有任何區別。\n\n（ADVANZ相當於承擔一個市場營銷的職能，負責藥物的運營而不是是生產，利用其市場網絡完成全球銷售。畢竟，①Progynova ®️ 在全球範圍內的需求量如此大而穩定，怎麼可能停產；②沒有藥廠會買一個產品只是為了停止生產它。）\n\n不過，這也意味著次級市場將要發生很大的變化，因為藥商需要意識到ADVANZ和Bayer的Androcur/Progynova並無區別，並且它們的供貨渠道可能也需要更新了。\n\n圖1:EMC（英國合法藥物電子名錄）的ADVANZ Androcur詳情頁，更新於2024年（可見2024年ADVANZ已在分銷新Androcur，不存在商標易手後停產的說法）。其中「營銷授權持有人」為ADVANZ Pharm Limited，但「生產廠」仍為Bayer柏林，或Bayer魏瑪。\n\n图2: Base de données publique des médicaments（法国药品公共数据库）的Androcur詳情頁，「生產廠」仍為Bayer柏林，或Bayer魏瑪。\n\n國際市場和國內政策風雲變幻，希望大家不要造謠傳謠，確保信息的真實和準確性；也希望藥商能及時獲取充足、正確的信息，為社群多做貢獻，共克時艱。🙏。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 795,
+          "like_count": 25,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094493259896934660",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【求擴散】🏳️‍⚧️🍥關於色譜龍、補佳樂的商標出售問題\n\n引文為不完全真實的信息。Bayer的確於2023年11月出售Androcur®️ 和Progynova®️ ，但出售商標意味的是出售上市注册权、分销经销权和商标品牌使用权，也就是說，用書本來比喻，只是Androcur®️ 和Progynova ®️ https://t.co/SOJ2vzAxWQ https://t.co/7R6GMGdvXQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2094629721510486233",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1133,
+          "following_count": 911,
+          "like_count": 6038,
+          "listed_count": 3,
+          "media_count": 297,
+          "tweet_count": 1516
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-04T05:19:13.000Z",
+        "description": "永愛@irisdesombres",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 2,
+                "username": "irisdesombres"
+              }
+            ]
+          }
+        },
+        "id": "1489468526826082312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094624734365495754",
+        "name": "鴉尾羽",
+        "pinned_tweet_id": "2093991202240799012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1489468526826082312/1787065081",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093164867863875584/Yt-1SraP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 804,
+          "following_count": 209,
+          "like_count": 17576,
+          "listed_count": 3,
+          "media_count": 539,
+          "tweet_count": 12941
+        },
+        "url": "",
+        "username": "Diamond_Kokoro",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

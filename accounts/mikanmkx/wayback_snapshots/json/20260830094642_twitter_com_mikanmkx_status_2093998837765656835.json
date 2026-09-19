@@ -1,0 +1,233 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2093585555766616094",
+    "created_at": "2026-08-30T09:46:42.000Z",
+    "display_text_range": [
+      11,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T10:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093998837765656835"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "2093327934673326080",
+          "start": 0,
+          "username": "Shioalati"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093998837765656835",
+    "in_reply_to_user_id": "2093327934673326080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093729559338463640",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioalati 我一直觉得红牛好喝但最近感觉到红牛的后味好奇怪（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2093585555766616094",
+        "created_at": "2026-08-30T09:46:42.000Z",
+        "display_text_range": [
+          11,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093998837765656835"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "2093327934673326080",
+              "start": 0,
+              "username": "Shioalati"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093998837765656835",
+        "in_reply_to_user_id": "2093327934673326080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093729559338463640",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioalati 我一直觉得红牛好喝但最近感觉到红牛的后味好奇怪（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2093327934673326080",
+        "conversation_id": "2093585555766616094",
+        "created_at": "2026-08-29T15:56:41.000Z",
+        "display_text_range": [
+          10,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T16:56:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093729559338463640"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093729559338463640",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093585555766616094",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 虽然但是，，这不是很正常吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2093998837765656835",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 906,
+          "like_count": 5957,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1501
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-28T13:22:29.000Z",
+        "description": "🏳️‍🌈 🐱Nyan-binary|🧊是盐粒不是冰块|🍥只是放个鱼板|欢迎互fo|🪷犹如莲花不着水，亦如日月不住空🌙",
+        "id": "2093327934673326080",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093878268755870161",
+        "name": "海盐alati🧊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2093327934673326080/1787923768",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093806525047537664/OVfNJF91_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 4,
+          "like_count": 260,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 64
+        },
+        "url": "",
+        "username": "Shioalati",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

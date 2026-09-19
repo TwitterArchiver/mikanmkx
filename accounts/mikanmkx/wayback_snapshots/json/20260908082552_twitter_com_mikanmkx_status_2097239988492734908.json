@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2097239988492734908",
+    "created_at": "2026-09-08T08:25:52.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T09:25:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097239988492734908"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/JREast_News/st…",
+          "end": 73,
+          "expanded_url": "https://twitter.com/JREast_News/status/2097203973975351462",
+          "start": 50,
+          "url": "https://t.co/ag46d2jtwR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097239988492734908",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097203973975351462",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "那个🐧当吉祥物当得蛮好的你把他去换了干什么你告诉我，在推特投票垫底，你倒告诉我怎么解释，脸都不要了 https://t.co/ag46d2jtwR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 526,
+        "media_key": "3_2097203930824654848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrD3RZbQAAMxL4.png",
+        "width": 526
+      },
+      {
+        "height": 518,
+        "media_key": "3_2097203943516631040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrD4ArbcAAiL9K.png",
+        "width": 518
+      },
+      {
+        "height": 530,
+        "media_key": "3_2097203960050581504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRrD4-RbgAA_nY9.png",
+        "width": 531
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2097239988492734908",
+        "created_at": "2026-09-08T08:25:52.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T09:25:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097239988492734908"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/JREast_News/st…",
+              "end": 73,
+              "expanded_url": "https://twitter.com/JREast_News/status/2097203973975351462",
+              "start": 50,
+              "url": "https://t.co/ag46d2jtwR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097239988492734908",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097203973975351462",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "那个🐧当吉祥物当得蛮好的你把他去换了干什么你告诉我，在推特投票垫底，你倒告诉我怎么解释，脸都不要了 https://t.co/ag46d2jtwR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097203930824654848",
+            "3_2097203943516631040",
+            "3_2097203960050581504"
+          ]
+        },
+        "author_id": "1641361663021694976",
+        "conversation_id": "2097203973975351462",
+        "created_at": "2026-09-08T06:02:46.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T07:02:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097203973975351462"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BWlctS0D1V",
+              "end": 150,
+              "expanded_url": "https://x.com/JREast_News/status/2097203973975351462/photo/1",
+              "media_key": "3_2097203930824654848",
+              "start": 127,
+              "url": "https://t.co/BWlctS0D1V"
+            },
+            {
+              "display_url": "pic.x.com/BWlctS0D1V",
+              "end": 150,
+              "expanded_url": "https://x.com/JREast_News/status/2097203973975351462/photo/1",
+              "media_key": "3_2097203943516631040",
+              "start": 127,
+              "url": "https://t.co/BWlctS0D1V"
+            },
+            {
+              "display_url": "pic.x.com/BWlctS0D1V",
+              "end": 150,
+              "expanded_url": "https://x.com/JREast_News/status/2097203973975351462/photo/1",
+              "media_key": "3_2097203960050581504",
+              "start": 127,
+              "url": "https://t.co/BWlctS0D1V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097203973975351462",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097203930824654848"
+          },
+          {
+            "media_key": "3_2097203943516631040"
+          },
+          {
+            "media_key": "3_2097203960050581504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 402,
+                "start": 396,
+                "tag": "JR東日本"
+              },
+              {
+                "end": 409,
+                "start": 403,
+                "tag": "Suica"
+              },
+              {
+                "end": 418,
+                "start": 410,
+                "tag": "新キャラクター"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "jreast.co.jp/suica-new-char…",
+                "end": 286,
+                "expanded_url": "https://www.jreast.co.jp/suica-new-character-vote/",
+                "start": 263,
+                "url": "https://t.co/EJoFNgSYuL"
+              },
+              {
+                "display_url": "jreast.co.jp/press/2026/202…",
+                "end": 394,
+                "expanded_url": "https://www.jreast.co.jp/press/2026/20260908_ho01.pdf",
+                "start": 371,
+                "url": "https://t.co/iPl8iYyvVD"
+              }
+            ]
+          },
+          "text": "／\nSuicaの新たなイメージキャラクターの選考投票をスタートします📢\n＼\n\nSuica導入時からイメージキャラクターを担ってきた「Suicaのペンギン」は、2027年3月31日に卒業し、同年4月1日から新たなイメージキャラクターにバトンタッチします🤝\nこれに伴い、新たなキャラクターを選考するお客さま投票を本日9月8日15時からスタートしました🎉\n最も多くの票を獲得した候補を新たなイメージキャラクターとして採用し、Suicaを導入した記念日である11月18日に発表します🎊\n\n↓↓↓お客さま投票の特設サイトはこちら↓↓↓\nhttps://t.co/EJoFNgSYuL\n特設サイトでは、原案候補の選定に至る過程をまとめた動画公開や、投票に関する注意事項も掲載していますので、ぜひご覧ください❗\n\n↓↓↓プレスリリースの詳細はこちら↓↓↓\nhttps://t.co/iPl8iYyvVD\n\n#JR東日本 #Suica #新キャラクター"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3275,
+          "impression_count": 3216238,
+          "like_count": 13490,
+          "quote_count": 8179,
+          "reply_count": 898,
+          "retweet_count": 10173
+        },
+        "reply_settings": "everyone",
+        "text": "／\nSuicaの新たなイメージキャラクターの選考投票をスタートします📢\n＼\n\nSuica導入時からイメージキャラクターを担ってきた「Suicaのペンギン」は、2027年3月31日に卒業し、同年4月1日から新たなイメージキャラクターにバトンタッチします🤝 https://t.co/BWlctS0D1V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2097239988492734908",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1188,
+          "following_count": 953,
+          "like_count": 6532,
+          "listed_count": 3,
+          "media_count": 308,
+          "tweet_count": 1604
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/583122926326583297/fdjHKu43_bigger.png",
+          "description": "JR東日本（公式）",
+          "url": "https://twitter.com/JREast_official",
+          "user_id": [
+            "3104527237"
+          ]
+        },
+        "created_at": "2023-03-30T08:48:14.000Z",
+        "description": "JR東日本ニュースリリース専用公式アカウントです。HP上でお知らせしているJR東日本の最新情報をお届けしていきます！お寄せいただいたコメントへのお返事はいたしかねます。ご了承ください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jreast.co.jp/press/index.ht…",
+                "end": 23,
+                "expanded_url": "https://www.jreast.co.jp/press/index.html/",
+                "start": 0,
+                "url": "https://t.co/pc1qdTyG6g"
+              }
+            ]
+          }
+        },
+        "id": "1641361663021694976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097203973975351462",
+        "name": "JR 東日本ニュースリリース【公式】",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1641361663021694976/1770851871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1641367469427417088/zdR8Q4ES_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29780,
+          "following_count": 15,
+          "like_count": 41,
+          "listed_count": 183,
+          "media_count": 776,
+          "tweet_count": 839
+        },
+        "url": "https://t.co/pc1qdTyG6g",
+        "username": "JREast_News",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

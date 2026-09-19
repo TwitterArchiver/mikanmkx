@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2085597223258382795",
+    "created_at": "2026-08-07T05:21:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T06:21:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085597223258382795"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/nhk_news/statu…",
+          "end": 41,
+          "expanded_url": "https://twitter.com/nhk_news/status/2085320462637334778",
+          "start": 18,
+          "url": "https://t.co/0qi7fQHqda"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085597223258382795",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085320462637334778",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "其实我觉得最nb的应该是麻醉医生（ https://t.co/0qi7fQHqda"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14975,
+        "height": 360,
+        "media_key": "7_2085320451602124800",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2085320451602124800/pu/img/J8mJKYzD9TDBdZF_.jpg",
+        "public_metrics": {
+          "view_count": 20095466
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085320451602124800/pu/vid/avc1/480x270/ajzUnQD2Nl24ChBj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2085320451602124800/pu/vid/avc1/640x360/NZkzJCd_0y7V1N-c.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2085320451602124800/pu/pl/lZ76eur62IELlp7J.m3u8?tag=12"
+          }
+        ],
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2085597223258382795",
+        "created_at": "2026-08-07T05:21:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T06:21:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085597223258382795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nhk_news/statu…",
+              "end": 41,
+              "expanded_url": "https://twitter.com/nhk_news/status/2085320462637334778",
+              "start": 18,
+              "url": "https://t.co/0qi7fQHqda"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085597223258382795",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085320462637334778",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "其实我觉得最nb的应该是麻醉医生（ https://t.co/0qi7fQHqda"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2085320451602124800"
+          ]
+        },
+        "author_id": "204245399",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "気象庁によれば、地震がありました。",
+              "id": "1374413205275996170",
+              "name": "地震のニュース（テスト）"
+            }
+          }
+        ],
+        "conversation_id": "2085320462637334778",
+        "created_at": "2026-08-06T11:01:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:01:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085320462637334778"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "【NHK】熊本県八代市の中核病院のひとつ「熊本総合病院」は、地震のあと一般外来の診療を休止していましたが5日、通常診療を再開しました。 病院のカメラには地震発生時の手術室の緊迫した様子が残されていました。",
+              "display_url": "news.web.nhk/newsweb/na/na-…",
+              "end": 87,
+              "expanded_url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2085310691855212544/wTjcu3Wk?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085310691855212544/wTjcu3Wk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 64,
+              "status": 200,
+              "title": "熊本 八代 地震の瞬間 手術室は緊迫した状況に…【動画】 | NHKニュース",
+              "unwound_url": "https://news.web.nhk/newsweb/na/na-k10015198461000",
+              "url": "https://t.co/TS7biPg7wQ"
+            },
+            {
+              "display_url": "pic.x.com/mRtPFegV8B",
+              "end": 111,
+              "expanded_url": "https://x.com/nhk_news/status/2085320462637334778/video/1",
+              "media_key": "7_2085320451602124800",
+              "start": 88,
+              "url": "https://t.co/mRtPFegV8B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085320462637334778",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51817,
+          "impression_count": 46803164,
+          "like_count": 231736,
+          "quote_count": 8882,
+          "reply_count": 2223,
+          "retweet_count": 34595
+        },
+        "reply_settings": "everyone",
+        "text": "通常診療を再開した熊本県八代市の「熊本総合病院」\n\n今回の熊本地震の瞬間、手術室の緊迫した様子が病院のカメラに映っていました↓\nhttps://t.co/TS7biPg7wQ https://t.co/mRtPFegV8B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 940,
+          "following_count": 763,
+          "like_count": 4189,
+          "listed_count": 3,
+          "media_count": 238,
+          "tweet_count": 1137
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2010-10-18T08:15:29.000Z",
+        "description": "NHKニュースの公式アカウントです。最新のニュースを24時間休みなくお届けします。 https://t.co/X9ExoZ8ao6 をご確認、ご了承ください。問い合わせは https://t.co/fMCPIt2S57",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/rules",
+                "end": 65,
+                "expanded_url": "http://nhk.jp/rules",
+                "start": 42,
+                "url": "https://t.co/X9ExoZ8ao6"
+              },
+              {
+                "display_url": "nhk.or.jp/css/",
+                "end": 109,
+                "expanded_url": "http://www.nhk.or.jp/css/",
+                "start": 86,
+                "url": "https://t.co/fMCPIt2S57"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nhk.jp/news",
+                "end": 23,
+                "expanded_url": "http://nhk.jp/news",
+                "start": 0,
+                "url": "https://t.co/bM6wmxNKVo"
+              }
+            ]
+          }
+        },
+        "id": "204245399",
+        "location": "東京都渋谷区神南2-2-1",
+        "name": "NHKニュース",
+        "pinned_tweet_id": "895196466859450368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039180025581490176/gWZQeu5__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3461340,
+          "following_count": 19,
+          "like_count": 6,
+          "listed_count": 66287,
+          "media_count": 21012,
+          "tweet_count": 738829
+        },
+        "url": "https://t.co/bM6wmxNKVo",
+        "username": "nhk_news",
+        "verified": true
+      }
+    ]
+  }
+}

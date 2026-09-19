@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2079840751241068544"
+      ],
+      "media_source_tweet_id": [
+        "2079840805288575370"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2080275103112380756",
+    "created_at": "2026-07-23T12:53:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T13:53:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080275103112380756"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1831008335191269376",
+          "start": 3,
+          "username": "Amonris"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RuenD3b9Q7",
+          "end": 59,
+          "expanded_url": "https://x.com/Amonris/status/2079840805288575370/video/1",
+          "media_key": "13_2079840751241068544",
+          "start": 36,
+          "url": "https://t.co/RuenD3b9Q7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080275103112380756",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1458
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079840805288575370",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Amonris: フレームレスドアの真価は、閉まる瞬間に現れる https://t.co/RuenD3b9Q7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2333,
+        "height": 720,
+        "media_key": "13_2079840751241068544",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2079840751241068544/img/GpH1E4XHSoafWlIX.jpg",
+        "public_metrics": {
+          "view_count": 276223
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079840751241068544/vid/avc1/480x270/kcIKAXMFCctWTZnp.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079840751241068544/vid/avc1/640x360/eCH8qfnGjJ9MWneE.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2079840751241068544/vid/avc1/1280x720/cLfkOf6M4O4IP5f_.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2079840751241068544/pl/hNYnrASLrwgK8_wx.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079840751241068544"
+          ]
+        },
+        "author_id": "1831008335191269376",
+        "conversation_id": "2079840805288575370",
+        "created_at": "2026-07-22T08:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T09:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079840805288575370"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuenD3b9Q7",
+              "end": 46,
+              "expanded_url": "https://x.com/Amonris/status/2079840805288575370/video/1",
+              "media_key": "13_2079840751241068544",
+              "start": 23,
+              "url": "https://t.co/RuenD3b9Q7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079840805288575370",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1316,
+          "impression_count": 656829,
+          "like_count": 12702,
+          "quote_count": 60,
+          "reply_count": 21,
+          "retweet_count": 1458
+        },
+        "reply_settings": "everyone",
+        "text": "フレームレスドアの真価は、閉まる瞬間に現れる https://t.co/RuenD3b9Q7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2079840751241068544"
+          ],
+          "media_source_tweet_id": [
+            "2079840805288575370"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2080275103112380756",
+        "created_at": "2026-07-23T12:53:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:53:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080275103112380756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1831008335191269376",
+              "start": 3,
+              "username": "Amonris"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RuenD3b9Q7",
+              "end": 59,
+              "expanded_url": "https://x.com/Amonris/status/2079840805288575370/video/1",
+              "media_key": "13_2079840751241068544",
+              "start": 36,
+              "url": "https://t.co/RuenD3b9Q7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080275103112380756",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1458
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079840805288575370",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Amonris: フレームレスドアの真価は、閉まる瞬間に現れる https://t.co/RuenD3b9Q7"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 627,
+          "like_count": 3281,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 904
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2024-09-03T16:36:27.000Z",
+        "description": "金髪キャラにめっぽう弱いオタク💛｜萌え豚は熱湯を恐れない｜無言フォロー失礼します🙇",
+        "id": "1831008335191269376",
+        "location": "火星",
+        "name": "Amon",
+        "pinned_tweet_id": "2078389885338058806",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975866681898786816/TgUJoYkQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334,
+          "following_count": 1618,
+          "like_count": 7261,
+          "listed_count": 5,
+          "media_count": 224,
+          "tweet_count": 582
+        },
+        "url": "",
+        "username": "Amonris",
+        "verified": false
+      }
+    ]
+  }
+}

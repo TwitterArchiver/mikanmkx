@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2097547698530373888",
+    "created_at": "2026-09-10T04:02:38.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T05:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097898518866530684"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "729407854973755392",
+          "start": 0,
+          "username": "Arthur2e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097898518866530684",
+    "in_reply_to_user_id": "729407854973755392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097807747719061999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arthur2e5 🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2097547698530373888",
+        "created_at": "2026-09-10T04:02:38.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T05:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097898518866530684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "729407854973755392",
+              "start": 0,
+              "username": "Arthur2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097898518866530684",
+        "in_reply_to_user_id": "729407854973755392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097807747719061999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arthur2e5 🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "729407854973755392",
+        "conversation_id": "2097547698530373888",
+        "created_at": "2026-09-09T22:01:57.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T23:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097807747719061999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097807747719061999",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 24,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097547698530373888",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 有些当天起效的药，是不需要天天吃的…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2097898518866530684",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 959,
+          "like_count": 6619,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 1616
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-08T20:29:19.000Z",
+        "description": "#REDIRECT @Artoria2e5 | A2-Legacy",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 0,
+                "tag": "REDIRECT"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 21,
+                "start": 10,
+                "username": "Artoria2e5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/arthur2e5",
+                "end": 23,
+                "expanded_url": "https://about.me/arthur2e5",
+                "start": 0,
+                "url": "https://t.co/xMizOdlCdb"
+              }
+            ]
+          }
+        },
+        "id": "729407854973755392",
+        "is_identity_verified": false,
+        "location": "CN-SH ",
+        "most_recent_tweet_id": "2097855279979438385",
+        "name": "Mingye Wang 0.97",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729408171622707200/I1mzuiMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 216,
+          "following_count": 300,
+          "like_count": 5871,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1247
+        },
+        "url": "https://t.co/xMizOdlCdb",
+        "username": "Arthur2e5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

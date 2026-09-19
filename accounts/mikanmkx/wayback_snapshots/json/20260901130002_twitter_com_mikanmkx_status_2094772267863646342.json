@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2094658754457530579",
+    "created_at": "2026-09-01T13:00:02.000Z",
+    "display_text_range": [
+      8,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T14:00:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094772267863646342"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2042969235505242112",
+          "start": 0,
+          "username": "lfcypo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094772267863646342",
+    "in_reply_to_user_id": "2042969235505242112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094763388916453827",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lfcypo 隔壁claude就知道什么时候该喵什么时候不该（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 262,
+        "media_key": "3_2094763372101398528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIYMDqacAAGRuo.png",
+        "width": 1070
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2094658754457530579",
+        "created_at": "2026-09-01T13:00:02.000Z",
+        "display_text_range": [
+          8,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T14:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094772267863646342"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2042969235505242112",
+              "start": 0,
+              "username": "lfcypo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094772267863646342",
+        "in_reply_to_user_id": "2042969235505242112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094763388916453827",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lfcypo 隔壁claude就知道什么时候该喵什么时候不该（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094763372101398528"
+          ]
+        },
+        "author_id": "2042969235505242112",
+        "conversation_id": "2094658754457530579",
+        "created_at": "2026-09-01T12:24:45.000Z",
+        "display_text_range": [
+          10,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T13:24:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094763388916453827"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/wz4cvEJb66",
+              "end": 40,
+              "expanded_url": "https://x.com/lfcypo/status/2094763388916453827/photo/1",
+              "media_key": "3_2094763372101398528",
+              "start": 17,
+              "url": "https://t.co/wz4cvEJb66"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094763388916453827",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "und",
+        "media_metadata": [
+          {
+            "media_key": "3_2094763372101398528"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094658754457530579",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx emmmmm https://t.co/wz4cvEJb66"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2094772267863646342",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1146,
+          "following_count": 920,
+          "like_count": 6077,
+          "listed_count": 3,
+          "media_count": 299,
+          "tweet_count": 1520
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-11T14:13:24.000Z",
+        "description": "08 广州/佛山｜高三在读｜计算机/医学/板绘（...真的么？\n可以叫我橙子/ypo｜猫猫｜互fo喵\n\n🏳️‍⚧️是女孩子哦｜很社恐…但想交朋友｜let 🍥 = ();\n\n最好的姐姐 @Kuriyona\n窝的大公司 @candyrect\n\n目标临床医学｜性腺内分泌｜GI/DSD 方向\n「落花笺风信 写万事又新」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 101,
+                "start": 92,
+                "username": "Kuriyona"
+              },
+              {
+                "end": 118,
+                "start": 108,
+                "username": "candyrect"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lfcypo",
+                "end": 23,
+                "expanded_url": "https://github.com/lfcypo",
+                "start": 0,
+                "url": "https://t.co/l8q95vyHka"
+              }
+            ]
+          }
+        },
+        "id": "2042969235505242112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094772167061930488",
+        "name": "立方橙ypo",
+        "pinned_tweet_id": "2094069384168063363",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2042969235505242112/1788175078",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094019683595026433/DANri-Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 473,
+          "like_count": 4945,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 384
+        },
+        "url": "https://t.co/l8q95vyHka",
+        "username": "lfcypo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

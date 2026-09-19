@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Conversation about global finance and economies.",
+          "id": "847511168268644352",
+          "name": "Global Economy"
+        }
+      }
+    ],
+    "conversation_id": "2082824787446120820",
+    "created_at": "2026-07-30T13:45:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-30T14:44:07.000Z",
+      "edits_remaining": 4,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082824562270728349",
+      "2082824787446120820"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/PanKekeTang/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/PanKekeTang/status/2082313891779137901",
+          "start": 20,
+          "url": "https://t.co/IGkuM68KsU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082824787446120820",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082313891779137901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "dude is delusional🤣 https://t.co/IGkuM68KsU"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2082824562270728349",
+        "created_at": "2026-07-30T13:44:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:44:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082824562270728349",
+          "2082824787446120820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PanKekeTang/st…",
+              "end": 42,
+              "expanded_url": "https://twitter.com/PanKekeTang/status/2082313891779137901",
+              "start": 19,
+              "url": "https://t.co/IGkuM68KsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082824562270728349",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082313891779137901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "bro is delusional🤣 https://t.co/IGkuM68KsU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2082824787446120820",
+        "created_at": "2026-07-30T13:45:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T14:44:07.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082824562270728349",
+          "2082824787446120820"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/PanKekeTang/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/PanKekeTang/status/2082313891779137901",
+              "start": 20,
+              "url": "https://t.co/IGkuM68KsU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082824787446120820",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082313891779137901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "dude is delusional🤣 https://t.co/IGkuM68KsU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1932911474868908032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          }
+        ],
+        "conversation_id": "2082313891779137901",
+        "created_at": "2026-07-29T03:54:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T04:54:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082313891779137901"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/C_Peaktusan48/…",
+              "end": 304,
+              "expanded_url": "https://twitter.com/C_Peaktusan48/status/2082275836816757104",
+              "start": 281,
+              "url": "https://t.co/5sF4f552lY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082313891779137901",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 56,
+          "impression_count": 1298907,
+          "like_count": 476,
+          "quote_count": 57,
+          "reply_count": 56,
+          "retweet_count": 28
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082275836816757104",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "My ideal country\nEducation: 🇨🇳\nEconomy: 🇨🇳\nSecurity: 🇨🇳\nArmy: 🇨🇳\nHealthcare: 🇨🇳\nLGBT rights: 🇨🇳\nInfrastructure: 🇨🇳\nCurrency: 🇨🇳\nImmigration: 🇨🇳\nForeign policy: 🇰🇵\nIdeology: Socialism with Chinese Characteristics \nPeople: 🇨🇳\nFreedoms: 🇨🇳\nWeather: 🇨🇳\nNature: 🇨🇳\nFood: 🇨🇳\nCulture: 🇨🇳 https://t.co/5sF4f552lY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 809,
+          "following_count": 678,
+          "like_count": 3734,
+          "listed_count": 2,
+          "media_count": 230,
+          "tweet_count": 1039
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-11T21:23:09.000Z",
+        "description": "中华人民共和国万岁 🫡🇨🇳\n\nShe/They/Nya",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pankeketang.straw.page",
+                "end": 23,
+                "expanded_url": "https://pankeketang.straw.page",
+                "start": 0,
+                "url": "https://t.co/IekKXx2vOl"
+              }
+            ]
+          }
+        },
+        "id": "1932911474868908032",
+        "name": "Juli 🇨🇳🇵🇸☭",
+        "pinned_tweet_id": "2071225728994062578",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053531345155223552/UTPxm6Hw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 792,
+          "following_count": 798,
+          "like_count": 89407,
+          "listed_count": 6,
+          "media_count": 552,
+          "tweet_count": 10472
+        },
+        "url": "https://t.co/IekKXx2vOl",
+        "username": "PanKekeTang",
+        "verified": false
+      }
+    ]
+  }
+}

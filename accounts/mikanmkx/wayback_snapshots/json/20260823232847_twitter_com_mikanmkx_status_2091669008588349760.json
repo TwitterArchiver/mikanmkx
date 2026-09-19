@@ -1,0 +1,418 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2091573687581544822",
+    "created_at": "2026-08-23T23:28:47.000Z",
+    "display_text_range": [
+      12,
+      83
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T00:28:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091669008588349760"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1753293214826848256",
+          "start": 0,
+          "username": "tatanakots"
+        }
+      ],
+      "urls": [
+        {
+          "description": "#鉄道　#旅行　#西園寺ご視聴下さりありがとうございます。感想やリクエスト等ありましたらコメント頂ければ嬉しいです！【旅...",
+          "display_url": "youtu.be/gIl1Ij793WA?si…",
+          "end": 35,
+          "expanded_url": "https://youtu.be/gIl1Ij793WA?si=pfuJGw_ky3M-J1y2",
+          "images": [
+            {
+              "height": 720,
+              "url": "https://pbs.twimg.com/news_img/2091669013860585472/idtS55Oq?format=jpg&name=orig",
+              "width": 1280
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2091669013860585472/idtS55Oq?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 12,
+          "status": 200,
+          "title": "西園寺が日本全国から配達！「地獄の○ーバーイーツ」が最悪すぎる…",
+          "unwound_url": "https://www.youtube.com/watch?si=pfuJGw_ky3M-J1y2&v=gIl1Ij793WA&feature=youtu.be",
+          "url": "https://t.co/m0pu4ToPBK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091669008588349760",
+    "in_reply_to_user_id": "1753293214826848256",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091573687581544822",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tatanakots https://t.co/m0pu4ToPBK\n看到这个视频里的那个外卖网站说要30-40w日元，日本人钱真好赚啊（这玩意一下午就能做出来吧（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2091573687581544822",
+        "created_at": "2026-08-23T23:28:47.000Z",
+        "display_text_range": [
+          12,
+          83
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T00:28:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091669008588349760"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1753293214826848256",
+              "start": 0,
+              "username": "tatanakots"
+            }
+          ],
+          "urls": [
+            {
+              "description": "#鉄道　#旅行　#西園寺ご視聴下さりありがとうございます。感想やリクエスト等ありましたらコメント頂ければ嬉しいです！【旅...",
+              "display_url": "youtu.be/gIl1Ij793WA?si…",
+              "end": 35,
+              "expanded_url": "https://youtu.be/gIl1Ij793WA?si=pfuJGw_ky3M-J1y2",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2091669013860585472/idtS55Oq?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2091669013860585472/idtS55Oq?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 12,
+              "status": 200,
+              "title": "西園寺が日本全国から配達！「地獄の○ーバーイーツ」が最悪すぎる…",
+              "unwound_url": "https://www.youtube.com/watch?si=pfuJGw_ky3M-J1y2&v=gIl1Ij793WA&feature=youtu.be",
+              "url": "https://t.co/m0pu4ToPBK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091669008588349760",
+        "in_reply_to_user_id": "1753293214826848256",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091573687581544822",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tatanakots https://t.co/m0pu4ToPBK\n看到这个视频里的那个外卖网站说要30-40w日元，日本人钱真好赚啊（这玩意一下午就能做出来吧（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1753293214826848256",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Family and parenting",
+              "id": "847547282010497024",
+              "name": "Parenting"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278066760814456832",
+              "name": "Family"
+            }
+          }
+        ],
+        "conversation_id": "2091573687581544822",
+        "created_at": "2026-08-23T17:10:01.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T18:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091573687581544822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/cafjq3/status/…",
+              "end": 94,
+              "expanded_url": "https://twitter.com/cafjq3/status/2091329616413880554",
+              "start": 71,
+              "url": "https://t.co/4xP9Ljfwkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091573687581544822",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 458,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091329616413880554",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "用ai做一个主页再放到github pages上去就能卖2w7日元\n信息差你赢了\n（为什么说ai做那很显然他们自己的介绍页都是一股ai味啊） https://t.co/4xP9Ljfwkp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2091669008588349760",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1066,
+          "following_count": 869,
+          "like_count": 5529,
+          "listed_count": 3,
+          "media_count": 280,
+          "tweet_count": 1420
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-02T05:46:57.000Z",
+        "description": "仲良くしましょうよ〜 She/her ゴミ垢 @tatanakots_sub リア充垢 @tatanakool",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "tatanakots_sub"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "tatanakool"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.mtf.im",
+                "end": 23,
+                "expanded_url": "http://t.mtf.im",
+                "start": 0,
+                "url": "https://t.co/p7LtZlX91l"
+              }
+            ]
+          }
+        },
+        "id": "1753293214826848256",
+        "is_identity_verified": true,
+        "location": "Shanghai, PRC",
+        "most_recent_tweet_id": "2091590978079723799",
+        "name": "たたなこ",
+        "pinned_tweet_id": "1882824834054504553",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1753293214826848256/1777655549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004564453434724352/E0YeuLGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4022,
+          "following_count": 489,
+          "like_count": 34567,
+          "listed_count": 7,
+          "media_count": 1943,
+          "tweet_count": 15266
+        },
+        "url": "https://t.co/p7LtZlX91l",
+        "username": "tatanakots",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2085403651561205894",
+    "created_at": "2026-08-07T03:02:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T04:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085562256310571428"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 18,
+          "id": "881844856770904065",
+          "start": 12,
+          "username": "yyl04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085562256310571428",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085492875610239319",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @yyl04 我至今没搞明白夹腿是个什么操作"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2085403651561205894",
+        "created_at": "2026-08-07T03:02:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T04:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085562256310571428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 18,
+              "id": "881844856770904065",
+              "start": 12,
+              "username": "yyl04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085562256310571428",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085492875610239319",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @yyl04 我至今没搞明白夹腿是个什么操作"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2085403651561205894",
+        "created_at": "2026-08-06T22:27:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T23:27:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085492875610239319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "881844856770904065",
+              "start": 0,
+              "username": "yyl04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085492875610239319",
+        "in_reply_to_user_id": "881844856770904065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 41,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085403651561205894",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyl04 我也是从小到大夹腿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 937,
+          "following_count": 762,
+          "like_count": 4182,
+          "listed_count": 3,
+          "media_count": 237,
+          "tweet_count": 1134
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2085555860215136277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1284,
+          "following_count": 513,
+          "like_count": 93286,
+          "listed_count": 8,
+          "media_count": 924,
+          "tweet_count": 11896
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-03T11:59:32.000Z",
+        "description": "xp展示，🇨🇳🏳️‍🌈⚤中文/En，男孩子20↑，原绝粥铁光遇，霉粉🩵✨，喜欢一切可爱的事物！最喜欢的人、BFF @Stapx_Happy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 57,
+                "username": "Stapx_Happy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/yyl04.…",
+                "end": 23,
+                "expanded_url": "http://bsky.app/profile/yyl04.stapxs.cn",
+                "start": 0,
+                "url": "https://t.co/waBzyoOfcd"
+              }
+            ]
+          }
+        },
+        "id": "881844856770904065",
+        "location": "云南 昆明",
+        "name": "林霂凌yyl",
+        "pinned_tweet_id": "1705263229658861670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033827472639463424/gdO-hJm3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 816,
+          "following_count": 4409,
+          "like_count": 176808,
+          "listed_count": 4,
+          "media_count": 1107,
+          "tweet_count": 17929
+        },
+        "url": "https://t.co/waBzyoOfcd",
+        "username": "yyl04",
+        "verified": false
+      }
+    ]
+  }
+}

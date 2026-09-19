@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095580857742610432"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2095580863300043241",
+    "created_at": "2026-09-03T18:33:06.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T19:33:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095580863300043241"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dlBLgSIUBL",
+          "end": 27,
+          "expanded_url": "https://x.com/mikanmkx/status/2095580863300043241/photo/1",
+          "media_key": "3_2095580857742610432",
+          "start": 4,
+          "url": "https://t.co/dlBLgSIUBL"
+        },
+        {
+          "display_url": "x.com/mikanmkx/statu…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/mikanmkx/status/2095405937117000015",
+          "start": 28,
+          "url": "https://t.co/lPeDqIYS3r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095580863300043241",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2095580857742610432"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095405937117000015",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "完美（ https://t.co/dlBLgSIUBL https://t.co/lPeDqIYS3r"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2095580857742610432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRT_r-_bUAASuYO.jpg",
+        "width": 3000
+      },
+      {
+        "height": 3000,
+        "media_key": "3_2095405927117840384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRglrobYAAoehp.jpg",
+        "width": 4000
+      },
+      {
+        "height": 1444,
+        "media_key": "3_2095405933820297216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRgmEmawAA2yyx.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095580857742610432"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2095580863300043241",
+        "created_at": "2026-09-03T18:33:06.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T19:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095580863300043241"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dlBLgSIUBL",
+              "end": 27,
+              "expanded_url": "https://x.com/mikanmkx/status/2095580863300043241/photo/1",
+              "media_key": "3_2095580857742610432",
+              "start": 4,
+              "url": "https://t.co/dlBLgSIUBL"
+            },
+            {
+              "display_url": "x.com/mikanmkx/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/mikanmkx/status/2095405937117000015",
+              "start": 28,
+              "url": "https://t.co/lPeDqIYS3r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095580863300043241",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095580857742610432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095405937117000015",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "完美（ https://t.co/dlBLgSIUBL https://t.co/lPeDqIYS3r"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095405927117840384",
+            "3_2095405933820297216"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2095405937117000015",
+        "created_at": "2026-09-03T06:58:00.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T07:58:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095405937117000015"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hS8ZdqqGEg",
+              "end": 94,
+              "expanded_url": "https://x.com/mikanmkx/status/2095405937117000015/photo/1",
+              "media_key": "3_2095405927117840384",
+              "start": 71,
+              "url": "https://t.co/hS8ZdqqGEg"
+            },
+            {
+              "display_url": "pic.x.com/hS8ZdqqGEg",
+              "end": 94,
+              "expanded_url": "https://x.com/mikanmkx/status/2095405937117000015/photo/1",
+              "media_key": "3_2095405933820297216",
+              "start": 71,
+              "url": "https://t.co/hS8ZdqqGEg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095405937117000015",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095405927117840384"
+          },
+          {
+            "media_key": "3_2095405933820297216"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 5302,
+          "like_count": 100,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "设计了一个铝合金cnc的凝胶尺喵，在保证尺寸一致的情况下把槽改成了圆弧形这样就不会有凝胶卡在槽里了，而且可以在铨洲白嫖，工程文件放评论区了喵 https://t.co/hS8ZdqqGEg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2095580863300043241",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 937,
+          "like_count": 6249,
+          "listed_count": 3,
+          "media_count": 302,
+          "tweet_count": 1549
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

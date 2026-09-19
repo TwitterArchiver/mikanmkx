@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2093988590602858673",
+    "created_at": "2026-08-30T14:04:58.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T15:04:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094063835347128594"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1659416047626383365",
+          "start": 0,
+          "username": "M1ku_3kyu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094063835347128594",
+    "in_reply_to_user_id": "1659416047626383365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094056629767635401",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@M1ku_3kyu9 😰脱胡子算吗，我觉得脱胡子比这个轻多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2093988590602858673",
+        "created_at": "2026-08-30T14:04:58.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T15:04:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094063835347128594"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1659416047626383365",
+              "start": 0,
+              "username": "M1ku_3kyu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094063835347128594",
+        "in_reply_to_user_id": "1659416047626383365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094056629767635401",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@M1ku_3kyu9 😰脱胡子算吗，我觉得脱胡子比这个轻多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1659416047626383365",
+        "conversation_id": "2093988590602858673",
+        "created_at": "2026-08-30T13:36:20.000Z",
+        "display_text_range": [
+          10,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094056629767635401"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094056629767635401",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093988590602858673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 都说黄金微针很疼，但我觉得黄金微针在我做过有痛感的医美里算最柔和的了🙃"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2094063835347128594",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1120,
+          "following_count": 907,
+          "like_count": 5966,
+          "listed_count": 3,
+          "media_count": 291,
+          "tweet_count": 1502
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-19T04:31:03.000Z",
+        "description": "♊INFJ-T | 社恐 | 爱搞抽象的懒虫 | 鉴证🆖✖️ | Born in 2002 | 180cm（想变矮） | HRT since 26.03  | Direct Ph.D.🎓 | Aerospace Control Engineering 🛰️ | 独居/深柜ing | 努力pass中💪",
+        "id": "1659416047626383365",
+        "is_identity_verified": false,
+        "location": "Shibuya-ku, Tokyo",
+        "most_recent_tweet_id": "2094056629767635401",
+        "name": "F1r🍥fly🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659416047626383365/1782177532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079910104246456320/7qQ-potg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 420,
+          "following_count": 147,
+          "like_count": 521,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 114
+        },
+        "url": "",
+        "username": "M1ku_3kyu9",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

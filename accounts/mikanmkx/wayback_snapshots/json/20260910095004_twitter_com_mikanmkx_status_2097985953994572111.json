@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2097985953994572111",
+    "created_at": "2026-09-10T09:50:04.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T10:50:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097985953994572111"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/KiraMyao/statu…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/KiraMyao/status/2097678232485232957",
+          "start": 20,
+          "url": "https://t.co/ge2K8rGqnK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097985953994572111",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097678232485232957",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "痔疮+洁癖是不是一辈子跟这个无缘了（逃 https://t.co/ge2K8rGqnK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3499,
+        "media_key": "3_2097678224537112576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxzOzKbUAA0ktR.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2097985953994572111",
+        "created_at": "2026-09-10T09:50:04.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T10:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097985953994572111"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/KiraMyao/statu…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/KiraMyao/status/2097678232485232957",
+              "start": 20,
+              "url": "https://t.co/ge2K8rGqnK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097985953994572111",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097678232485232957",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "痔疮+洁癖是不是一辈子跟这个无缘了（逃 https://t.co/ge2K8rGqnK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097678224537112576"
+          ]
+        },
+        "author_id": "1811265295849598976",
+        "conversation_id": "2097678232485232957",
+        "created_at": "2026-09-09T13:27:18.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:25:33.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097677792188178813",
+          "2097678232485232957"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9HwdQTujdJ",
+              "end": 133,
+              "expanded_url": "https://x.com/KiraMyao/status/2097678232485232957/photo/1",
+              "media_key": "3_2097678224537112576",
+              "start": 110,
+              "url": "https://t.co/9HwdQTujdJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097678232485232957",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097678224537112576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 208,
+          "impression_count": 49470,
+          "like_count": 1199,
+          "quote_count": 0,
+          "reply_count": 163,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "阿姨，恭喜你。\n你的宝贝儿子刚才跪在浴室里面疯狂抽查自己屁穴，现已\n口水拉丝，白眼直翻，全身抽搐，肠液满地，骚叫连天，高潮迭起，牛牛流泪，胡言乱语，四肢瘫软，彻底沦陷…\n得益于她的完美表现我们给她颁发了最佳肉便器奖❤️ https://t.co/9HwdQTujdJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2097985953994572111",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1192,
+          "following_count": 959,
+          "like_count": 6631,
+          "listed_count": 3,
+          "media_count": 309,
+          "tweet_count": 1622
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-11T05:04:57.000Z",
+        "description": "KiraMyao🌎きらみゃお🌏星绮喵                                      \n  \nTech💾 meme👻 Equal❤️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kiramyao.com",
+                "end": 23,
+                "expanded_url": "https://kiramyao.com/",
+                "start": 0,
+                "url": "https://t.co/NVGsHKEdLi"
+              }
+            ]
+          }
+        },
+        "id": "1811265295849598976",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2097972719426109599",
+        "name": "KiraMyao🐱",
+        "pinned_tweet_id": "2088478447643578384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1811265295849598976/1772529789",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050442466428616704/Cd6JwXLB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2091,
+          "following_count": 392,
+          "like_count": 11083,
+          "listed_count": 10,
+          "media_count": 466,
+          "tweet_count": 2150
+        },
+        "url": "https://t.co/NVGsHKEdLi",
+        "username": "KiraMyao",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

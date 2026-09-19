@@ -1,0 +1,273 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2080272221482917888"
+      ],
+      "media_source_tweet_id": [
+        "2080272271164502345"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2080279545635299727",
+    "created_at": "2026-07-23T13:11:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T14:11:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080279545635299727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1690388233778331649",
+          "start": 3,
+          "username": "m1zukiqaqaqaq"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/FT5pbt68HI",
+          "end": 47,
+          "expanded_url": "https://x.com/m1zukiqaqaqaq/status/2080272271164502345/photo/1",
+          "media_key": "3_2080272221482917888",
+          "start": 24,
+          "url": "https://t.co/FT5pbt68HI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080279545635299727",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080272271164502345",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @m1zukiqaqaqaq: 严肃首发 https://t.co/FT5pbt68HI"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1944,
+        "media_key": "3_2080272221482917888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN6ckE2aIAAtQpf.jpg",
+        "width": 1014
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080272221482917888"
+          ]
+        },
+        "author_id": "1690388233778331649",
+        "conversation_id": "2080272271164502345",
+        "created_at": "2026-07-23T12:42:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T13:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080272271164502345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FT5pbt68HI",
+              "end": 28,
+              "expanded_url": "https://x.com/m1zukiqaqaqaq/status/2080272271164502345/photo/1",
+              "media_key": "3_2080272221482917888",
+              "start": 5,
+              "url": "https://t.co/FT5pbt68HI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080272271164502345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 58,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "严肃首发 https://t.co/FT5pbt68HI"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080272221482917888"
+          ],
+          "media_source_tweet_id": [
+            "2080272271164502345"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2080279545635299727",
+        "created_at": "2026-07-23T13:11:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T14:11:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080279545635299727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1690388233778331649",
+              "start": 3,
+              "username": "m1zukiqaqaqaq"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/FT5pbt68HI",
+              "end": 47,
+              "expanded_url": "https://x.com/m1zukiqaqaqaq/status/2080272271164502345/photo/1",
+              "media_key": "3_2080272221482917888",
+              "start": 24,
+              "url": "https://t.co/FT5pbt68HI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080279545635299727",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080272271164502345",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @m1zukiqaqaqaq: 严肃首发 https://t.co/FT5pbt68HI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 748,
+          "following_count": 627,
+          "like_count": 3282,
+          "listed_count": 2,
+          "media_count": 211,
+          "tweet_count": 905
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-08-12T15:42:26.000Z",
+        "description": "Ugrad @UCSBPhysics l Journey Developer | HRT 23/08 | 感谢大家支持喵 🚪67🔪+红黑白企鹅",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 6,
+                "username": "UCSBPhysics"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "testflight.apple.com/join/SPGZysjK",
+                "end": 23,
+                "expanded_url": "https://testflight.apple.com/join/SPGZysjK",
+                "start": 0,
+                "url": "https://t.co/NDbzMfBqNJ"
+              }
+            ]
+          }
+        },
+        "id": "1690388233778331649",
+        "location": "Santa Barbara, CA",
+        "name": "MizukiQAQ",
+        "pinned_tweet_id": "2046765807494214040",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044335614024425472/aPs3suWL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 931,
+          "following_count": 894,
+          "like_count": 12017,
+          "listed_count": 0,
+          "media_count": 1068,
+          "tweet_count": 4004
+        },
+        "url": "https://t.co/NDbzMfBqNJ",
+        "username": "m1zukiqaqaqaq",
+        "verified": true
+      }
+    ]
+  }
+}

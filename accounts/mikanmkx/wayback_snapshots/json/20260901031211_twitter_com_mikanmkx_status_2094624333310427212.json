@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2094467127503942092",
+    "created_at": "2026-09-01T03:12:11.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T04:12:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094624333310427212"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1361516790040330241",
+          "start": 0,
+          "username": "wuwuwuwu_u"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094624333310427212",
+    "in_reply_to_user_id": "1361516790040330241",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094614979890774254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wuwuwuwu_u 加了喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2094467127503942092",
+        "created_at": "2026-09-01T03:12:11.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T04:12:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094624333310427212"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1361516790040330241",
+              "start": 0,
+              "username": "wuwuwuwu_u"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094624333310427212",
+        "in_reply_to_user_id": "1361516790040330241",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094614979890774254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wuwuwuwu_u 加了喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1361516790040330241",
+        "conversation_id": "2094467127503942092",
+        "created_at": "2026-09-01T02:35:01.000Z",
+        "display_text_range": [
+          10,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T03:35:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094614979890774254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094614979890774254",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094467127503942092",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 加个好友！\n\nSW-5780-9244-5418"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2094624333310427212",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1131,
+          "following_count": 911,
+          "like_count": 6033,
+          "listed_count": 3,
+          "media_count": 296,
+          "tweet_count": 1513
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-16T03:24:43.000Z",
+        "description": "没想到用什么作为我的简介",
+        "id": "1361516790040330241",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094614979890774254",
+        "name": "呜呜呜🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2050017999202246994",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1361516790040330241/1742249956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901760221296619521/AUFLZMIa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 164,
+          "following_count": 461,
+          "like_count": 1530,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "wuwuwuwu_u",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

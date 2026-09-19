@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2084844244536299541",
+    "created_at": "2026-08-05T04:56:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T05:56:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084866193362710785"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1360522586317348865",
+          "start": 0,
+          "username": "nanami_mua"
+        },
+        {
+          "end": 21,
+          "id": "1552918719440924672",
+          "start": 12,
+          "username": "lumigj02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084866193362710785",
+    "in_reply_to_user_id": "1360522586317348865",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084845732620820702",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanami_mua @lumigj02 理论上可以直接从印度买，比这便宜多了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084844244536299541",
+        "created_at": "2026-08-05T04:56:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T05:56:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084866193362710785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1360522586317348865",
+              "start": 0,
+              "username": "nanami_mua"
+            },
+            {
+              "end": 21,
+              "id": "1552918719440924672",
+              "start": 12,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084866193362710785",
+        "in_reply_to_user_id": "1360522586317348865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084845732620820702",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanami_mua @lumigj02 理论上可以直接从印度买，比这便宜多了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1360522586317348865",
+        "conversation_id": "2084844244536299541",
+        "created_at": "2026-08-05T03:35:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T04:35:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084845732620820702"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1552918719440924672",
+              "start": 0,
+              "username": "lumigj02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084845732620820702",
+        "in_reply_to_user_id": "1552918719440924672",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084844244536299541",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lumigj02 仔细看了下居然是印度药🤔🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 924,
+          "following_count": 752,
+          "like_count": 4070,
+          "listed_count": 3,
+          "media_count": 234,
+          "tweet_count": 1116
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2021-02-13T09:34:08.000Z",
+        "description": "MtX&Non-Binary/🍥25.1.11/半个家长党/100%健全/永远的好妹妹:@LCG_Akiball/愿她安息 @AnranbuSleep",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 56,
+                "start": 44,
+                "username": "LCG_Akiball"
+              },
+              {
+                "end": 75,
+                "start": 62,
+                "username": "AnranbuSleep"
+              }
+            ]
+          }
+        },
+        "id": "1360522586317348865",
+        "name": "Nanameow～",
+        "pinned_tweet_id": "2023776700212097110",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004949115835494400/OuSLocac_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 512,
+          "like_count": 93006,
+          "listed_count": 8,
+          "media_count": 920,
+          "tweet_count": 11779
+        },
+        "url": "",
+        "username": "nanami_mua",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-29T07:27:40.000Z",
+        "description": "@hobartr6/@leetfs1/笨蛋姐姐@hoshi_asuka0089/坏恒@xiaoheng22\n\n头像@TUTAIiiiii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "hobartr6"
+              },
+              {
+                "end": 18,
+                "start": 10,
+                "username": "leetfs1"
+              },
+              {
+                "end": 39,
+                "start": 23,
+                "username": "hoshi_asuka0089"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "xiaoheng22"
+              },
+              {
+                "end": 68,
+                "start": 57,
+                "username": "TUTAIiiiii"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/z_ugc",
+                "end": 23,
+                "expanded_url": "http://t.me/z_ugc",
+                "start": 0,
+                "url": "https://t.co/uFyDvaROgC"
+              }
+            ]
+          }
+        },
+        "id": "1552918719440924672",
+        "location": "糖商(尽量tg,私信有时不推送)➡️",
+        "name": "猫卷",
+        "pinned_tweet_id": "2078640631422042388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071058848476217345/q4Uywia3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 839,
+          "like_count": 4400,
+          "listed_count": 9,
+          "media_count": 152,
+          "tweet_count": 1152
+        },
+        "url": "https://t.co/uFyDvaROgC",
+        "username": "lumigj02",
+        "verified": false
+      }
+    ]
+  }
+}

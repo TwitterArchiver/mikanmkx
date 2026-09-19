@@ -1,0 +1,278 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087464259576119389",
+    "created_at": "2026-08-12T09:55:57.000Z",
+    "display_text_range": [
+      32,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T10:55:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087478185550332331"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1852948864539791360",
+          "start": 0,
+          "username": "Z7862947460634"
+        },
+        {
+          "end": 31,
+          "id": "2011051704440274947",
+          "start": 16,
+          "username": "luminescence_0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087478185550332331",
+    "in_reply_to_user_id": "1852948864539791360",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087477762835824957",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Z7862947460634 @luminescence_0 风险和注射相比差不多吧，还是得看六项结果调，反正我是觉得自制凝胶属于比较差的选项"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087464259576119389",
+        "created_at": "2026-08-12T09:55:57.000Z",
+        "display_text_range": [
+          32,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:55:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087478185550332331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1852948864539791360",
+              "start": 0,
+              "username": "Z7862947460634"
+            },
+            {
+              "end": 31,
+              "id": "2011051704440274947",
+              "start": 16,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087478185550332331",
+        "in_reply_to_user_id": "1852948864539791360",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087477762835824957",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Z7862947460634 @luminescence_0 风险和注射相比差不多吧，还是得看六项结果调，反正我是觉得自制凝胶属于比较差的选项"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852948864539791360",
+        "conversation_id": "2087464259576119389",
+        "created_at": "2026-08-12T09:54:16.000Z",
+        "display_text_range": [
+          26,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T10:54:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087477762835824957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            },
+            {
+              "end": 25,
+              "id": "2011051704440274947",
+              "start": 10,
+              "username": "luminescence_0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087477762835824957",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087471745410453911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx @luminescence_0 那样理论上血栓风险很大，而且吸收率纯属黑箱了吧？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087478185550332331",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1002,
+          "following_count": 796,
+          "like_count": 4508,
+          "listed_count": 3,
+          "media_count": 250,
+          "tweet_count": 1233
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-03T05:40:25.000Z",
+        "description": "你好，这里是迅羽。交个朋友，如何？\n对外身份标识\n2008.01生人 | 友跨(🏳️‍⚧️)的AMAB | 不聊政治(吗?) | 学习公共写作 | 试图找回自己的声音(哪个?) | 互fo | 一个乐子 | 练笔杆子磨嘴皮子 | 咬文嚼字! |",
+        "id": "1852948864539791360",
+        "is_identity_verified": false,
+        "location": "猜猜看？",
+        "most_recent_tweet_id": "2087477762835824957",
+        "name": "迅羽_Xunyu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852948864539791360/1786158771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083165051297628160/TM2Tlu26_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 262,
+          "like_count": 1667,
+          "listed_count": 1,
+          "media_count": 54,
+          "tweet_count": 998
+        },
+        "url": "",
+        "username": "Z7862947460634",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-13T12:24:59.000Z",
+        "description": "Non-binary⚧️ Demisexual 坐标武汉\nThey told me all of my cages were mental \nSo I got wasted like all my potential",
+        "id": "2011051704440274947",
+        "is_identity_verified": false,
+        "location": "L’Amour, Les Baguettes, Paris",
+        "most_recent_tweet_id": "2087476414706749472",
+        "name": "Lumina 🖤🩶🤍💚",
+        "pinned_tweet_id": "2085652563123425773",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2011051704440274947/1786021324",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084587964534075392/6Jteg4vy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 440,
+          "like_count": 3043,
+          "listed_count": 0,
+          "media_count": 11,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "luminescence_0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

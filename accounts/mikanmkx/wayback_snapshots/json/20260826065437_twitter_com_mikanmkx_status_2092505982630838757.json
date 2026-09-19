@@ -1,0 +1,410 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1132013015690178560",
+          "name": "Makoto Shinkai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1132013015690178560",
+          "name": "Makoto Shinkai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166410125994708993",
+          "name": "Directors, producers & writers"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1339352442350125056",
+          "name": "Animation directors, producers, & writers"
+        }
+      }
+    ],
+    "conversation_id": "2092505982630838757",
+    "created_at": "2026-08-26T06:54:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T07:54:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092505982630838757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "147163321",
+          "start": 3,
+          "username": "shinkaimakoto"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092505982630838757",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 875
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092499960776556828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @shinkaimakoto: 『君の名は。』公開から今日で十年とのこと。あっという間ですね。今でもこの物語が誰かの心に残っていることを、とても幸せに思います。僕たち制作チームも、『君の名は。』を通じてたくさんの幸せな経験をもらうことができました。… https://t.…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092499954619355136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQoNn0ebkAAk-75.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2092505982630838757",
+        "created_at": "2026-08-26T06:54:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:54:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092505982630838757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "147163321",
+              "start": 3,
+              "username": "shinkaimakoto"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092505982630838757",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 875
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092499960776556828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @shinkaimakoto: 『君の名は。』公開から今日で十年とのこと。あっという間ですね。今でもこの物語が誰かの心に残っていることを、とても幸せに思います。僕たち制作チームも、『君の名は。』を通じてたくさんの幸せな経験をもらうことができました。… https://t.…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092499954619355136"
+          ]
+        },
+        "author_id": "147163321",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1132013015690178560",
+              "name": "Makoto Shinkai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166410125994708993",
+              "name": "Directors, producers & writers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1339352442350125056",
+              "name": "Animation directors, producers, & writers"
+            }
+          }
+        ],
+        "conversation_id": "2092499960776556828",
+        "created_at": "2026-08-26T06:30:42.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T07:30:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092499960776556828"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wraNBNIwz5",
+              "end": 132,
+              "expanded_url": "https://x.com/shinkaimakoto/status/2092499960776556828/photo/1",
+              "media_key": "3_2092499954619355136",
+              "start": 109,
+              "url": "https://t.co/wraNBNIwz5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092499960776556828",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092499954619355136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "『君の名は。』公開から今日で十年とのこと。あっという間ですね。今でもこの物語が誰かの心に残っていることを、とても幸せに思います。僕たち制作チームも、『君の名は。』を通じてたくさんの幸せな経験をもらうことができました。\n十周年記念イベント等は特にありませんが笑、制作チームは新しい映画をお届けするべく今も制作を続けています。僕個人としてはこの十年で作り方が上達したわけでもなく、未だに映画制作はとても難しい仕事です。十年前と同じように、未知で、わくわくする仕事です。面白い映画を早くお届け出来るように、がんばります。\n画像は、2015年の秋頃に考えていたティザーポスター案です。\n今まで『君の名は。』を観てくださったすべての方に、心から感謝しています。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 216,
+          "impression_count": 30639,
+          "like_count": 3217,
+          "quote_count": 60,
+          "reply_count": 41,
+          "retweet_count": 862
+        },
+        "reply_settings": "everyone",
+        "text": "『君の名は。』公開から今日で十年とのこと。あっという間ですね。今でもこの物語が誰かの心に残っていることを、とても幸せに思います。僕たち制作チームも、『君の名は。』を通じてたくさんの幸せな経験をもらうことができました。 https://t.co/wraNBNIwz5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2092505982630838757",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1082,
+          "following_count": 879,
+          "like_count": 5694,
+          "listed_count": 3,
+          "media_count": 283,
+          "tweet_count": 1454
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-05-23T11:11:55.000Z",
+        "description": "An animation director",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shinkaiworks.com",
+                "end": 23,
+                "expanded_url": "http://www.shinkaiworks.com",
+                "start": 0,
+                "url": "https://t.co/WKabUz8x1u"
+              }
+            ]
+          }
+        },
+        "id": "147163321",
+        "is_identity_verified": false,
+        "location": "Tokyo, Japan",
+        "most_recent_tweet_id": "2092499960776556828",
+        "name": "新海誠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/147163321/1672132038",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1058800222/cat_icon_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1064595,
+          "following_count": 524,
+          "like_count": 3782,
+          "listed_count": 4779,
+          "media_count": 2279,
+          "tweet_count": 9981
+        },
+        "url": "https://t.co/WKabUz8x1u",
+        "username": "shinkaimakoto",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

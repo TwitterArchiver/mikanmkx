@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2095740283329871983",
+    "created_at": "2026-09-04T08:57:21.000Z",
+    "display_text_range": [
+      13,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T09:57:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095798356987486607"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095798356987486607",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095796707749765293",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 我是听说有医生因为觉得那个诊断ガイドライン太过分退出了gid学会（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2095740283329871983",
+        "created_at": "2026-09-04T08:57:21.000Z",
+        "display_text_range": [
+          13,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:57:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095798356987486607"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095798356987486607",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095796707749765293",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 我是听说有医生因为觉得那个诊断ガイドライン太过分退出了gid学会（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "2095740283329871983",
+        "created_at": "2026-09-04T08:50:47.000Z",
+        "display_text_range": [
+          10,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T09:50:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095796707749765293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095796707749765293",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095750852946616497",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 本地人开证得要两个医生下诊断才行，听今天医生说诊断书加起来得写一厘米厚多的纸（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2095798356987486607",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1176,
+          "following_count": 946,
+          "like_count": 6278,
+          "listed_count": 3,
+          "media_count": 304,
+          "tweet_count": 1557
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "大变活🐧了（\n饲养员@penguinmomentjp\n日常/小市民；不友任何群体，\n爱具体的人。\n小号@POI74103175\n照片是高p本人长这样➡️🗿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 63,
+                "start": 51,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWvUFT"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095796707749765293",
+        "name": "優杏@Poi🍧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1362960365055668225/1776762875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5026,
+          "following_count": 331,
+          "like_count": 70485,
+          "listed_count": 18,
+          "media_count": 3376,
+          "tweet_count": 27418
+        },
+        "url": "https://t.co/XlV7pWvUFT",
+        "username": "POI74103174",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

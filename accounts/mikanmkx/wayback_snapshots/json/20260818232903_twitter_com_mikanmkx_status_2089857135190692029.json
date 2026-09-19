@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089750699131428864"
+      ],
+      "media_source_tweet_id": [
+        "2089750712637132839"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2089857135190692029",
+    "created_at": "2026-08-18T23:29:03.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T00:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089857135190692029"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2048765416558735360",
+          "start": 3,
+          "username": "NovaXCode"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/eFLhH7UXMR",
+          "end": 75,
+          "expanded_url": "https://x.com/NovaXCode/status/2089750712637132839/photo/1",
+          "media_key": "3_2089750699131428864",
+          "start": 52,
+          "url": "https://t.co/eFLhH7UXMR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089857135190692029",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2089750699131428864"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 251
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089750712637132839",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NovaXCode: The holy trinity of early warnings 💀 https://t.co/eFLhH7UXMR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1676,
+        "media_key": "3_2089750699131428864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQBJMFraYAAWIuD.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089750699131428864"
+          ],
+          "media_source_tweet_id": [
+            "2089750712637132839"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2089857135190692029",
+        "created_at": "2026-08-18T23:29:03.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T00:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089857135190692029"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2048765416558735360",
+              "start": 3,
+              "username": "NovaXCode"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFLhH7UXMR",
+              "end": 75,
+              "expanded_url": "https://x.com/NovaXCode/status/2089750712637132839/photo/1",
+              "media_key": "3_2089750699131428864",
+              "start": 52,
+              "url": "https://t.co/eFLhH7UXMR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089857135190692029",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089750699131428864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089750712637132839",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NovaXCode: The holy trinity of early warnings 💀 https://t.co/eFLhH7UXMR"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089750699131428864"
+          ]
+        },
+        "author_id": "2048765416558735360",
+        "conversation_id": "2089750712637132839",
+        "created_at": "2026-08-18T16:26:10.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T17:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089750712637132839"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eFLhH7UXMR",
+              "end": 60,
+              "expanded_url": "https://x.com/NovaXCode/status/2089750712637132839/photo/1",
+              "media_key": "3_2089750699131428864",
+              "start": 37,
+              "url": "https://t.co/eFLhH7UXMR"
+            },
+            {
+              "display_url": "x.com/yungtrapaa/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/yungtrapaa/status/570106845907390465",
+              "start": 61,
+              "url": "https://t.co/aBAkfam2bG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089750712637132839",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089750699131428864"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 717,
+          "impression_count": 236763,
+          "like_count": 5428,
+          "quote_count": 8,
+          "reply_count": 37,
+          "retweet_count": 251
+        },
+        "referenced_tweets": [
+          {
+            "id": "570106845907390465",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "The holy trinity of early warnings 💀 https://t.co/eFLhH7UXMR https://t.co/aBAkfam2bG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2089857135190692029",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 823,
+          "like_count": 5005,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 1327
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-27T14:05:31.000Z",
+        "description": "swe @ startup | turning AI research into fun insights | DMs open",
+        "id": "2048765416558735360",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2089758129630450153",
+        "name": "Nova",
+        "pinned_tweet_id": "2089704779182403629",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2048765416558735360/1783242834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058396366855118848/VjSHDBa__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1929,
+          "following_count": 870,
+          "like_count": 21514,
+          "listed_count": 8,
+          "media_count": 708,
+          "tweet_count": 7953
+        },
+        "url": "",
+        "username": "NovaXCode",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

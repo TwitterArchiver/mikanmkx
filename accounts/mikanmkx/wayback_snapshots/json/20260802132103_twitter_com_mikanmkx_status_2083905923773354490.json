@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2083905923773354490",
+    "created_at": "2026-08-02T13:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T14:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083905923773354490"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lfcypo/status/…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/lfcypo/status/2083588485630529917",
+          "start": 9,
+          "url": "https://t.co/KOk9T3qeeO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083905923773354490",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083588485630529917",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "↖️学计算机学的 https://t.co/KOk9T3qeeO"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2083905923773354490",
+        "created_at": "2026-08-02T13:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T14:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083905923773354490"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lfcypo/status/…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/lfcypo/status/2083588485630529917",
+              "start": 9,
+              "url": "https://t.co/KOk9T3qeeO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083905923773354490",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083588485630529917",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "↖️学计算机学的 https://t.co/KOk9T3qeeO"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042969235505242112",
+        "conversation_id": "2083588485630529917",
+        "created_at": "2026-08-01T16:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T17:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083588485630529917"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083588485630529917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 583,
+          "like_count": 11,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "虽然说算是家长党叭（？\n但我爸妈依旧固执的认为我跨性别是因为搞计算机搞的......"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 830,
+          "following_count": 699,
+          "like_count": 3864,
+          "listed_count": 2,
+          "media_count": 231,
+          "tweet_count": 1064
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-11T14:13:24.000Z",
+        "description": "08 广州｜高三在读｜计算机+医学+板绘｜直接叫我ypo吧｜猫猫｜互fo喵！想交朋友w｜想变可爱喵\n\n🏳️‍⚧️是女孩子哦｜很社恐叭｜窝也好想吃糖喵…\n\n最好的姐姐 @Kuriyona\n\n目标暨大临床医学｜内分泌与代谢/性腺内分泌｜跨性别/DSD/妇科研究\n「如果这一切能改变什么的话，那就去做吧！」",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "Kuriyona"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/lfcypo",
+                "end": 23,
+                "expanded_url": "https://github.com/lfcypo",
+                "start": 0,
+                "url": "https://t.co/l8q95vy9uC"
+              }
+            ]
+          }
+        },
+        "id": "2042969235505242112",
+        "name": "lfcypo",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070361298706292736/mRdgCCSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 187,
+          "following_count": 334,
+          "like_count": 2726,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 263
+        },
+        "url": "https://t.co/l8q95vy9uC",
+        "username": "lfcypo",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2093199153279230177",
+    "created_at": "2026-08-28T04:49:02.000Z",
+    "display_text_range": [
+      0,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T05:49:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093199153279230177"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ene11102/statu…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/ene11102/status/2092655177224561127",
+          "start": 11,
+          "url": "https://t.co/CQxkf1yni2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093199153279230177",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092655177224561127",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看⏰是真的性压抑了 https://t.co/CQxkf1yni2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2093199153279230177",
+        "created_at": "2026-08-28T04:49:02.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T05:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093199153279230177"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ene11102/statu…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/ene11102/status/2092655177224561127",
+              "start": 11,
+              "url": "https://t.co/CQxkf1yni2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093199153279230177",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092655177224561127",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看⏰是真的性压抑了 https://t.co/CQxkf1yni2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049304343170686976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1498702169922420739",
+              "name": "Volodymyr Zelensky"
+            }
+          }
+        ],
+        "conversation_id": "2092368766898200680",
+        "created_at": "2026-08-26T16:47:28.000Z",
+        "display_text_range": [
+          13,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:47:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092655177224561127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1120633726478823425",
+              "start": 0,
+              "username": "ZelenskyyUa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092655177224561127",
+        "in_reply_to_user_id": "1120633726478823425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 39523,
+          "like_count": 250,
+          "quote_count": 4,
+          "reply_count": 42,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092368766898200680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZelenskyyUa 要我说实话吗？\n但凡你能在X上看到讨论政治的中国人，那多半不是个精神和心理状态正常的中国人。\n因为正常的中国人上X只是为了看黄色内容，够直白了吗？\nX在中国国内被ban了，笑死我了。\n看着评论区底下所谓乌克兰粉丝和所谓俄罗斯粉丝吵的不可开交，再看着关注的黄色博主，真是一件美事啊😊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2093199153279230177",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1114,
+          "following_count": 900,
+          "like_count": 5808,
+          "listed_count": 3,
+          "media_count": 290,
+          "tweet_count": 1483
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-29T01:46:52.000Z",
+        "description": "",
+        "id": "2049304343170686976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092839982482493515",
+        "name": "ENE11102",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 68,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "url": "",
+        "username": "ene11102",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-23T10:21:15.000Z",
+        "description": "President of Ukraine / Президент України",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "president.gov.ua",
+                "end": 23,
+                "expanded_url": "https://www.president.gov.ua",
+                "start": 0,
+                "url": "https://t.co/ctVL0atMBQ"
+              }
+            ]
+          }
+        },
+        "id": "1120633726478823425",
+        "is_identity_verified": false,
+        "location": "Україна",
+        "most_recent_tweet_id": "2093070134785302843",
+        "name": "Volodymyr Zelenskyy / Володимир Зеленський",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1120633726478823425/1692773060",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585550046740848642/OpGKpqx9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8836962,
+          "following_count": 1,
+          "like_count": 215,
+          "listed_count": 18880,
+          "media_count": 8190,
+          "tweet_count": 16651
+        },
+        "url": "https://t.co/ctVL0atMBQ",
+        "username": "ZelenskyyUa",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

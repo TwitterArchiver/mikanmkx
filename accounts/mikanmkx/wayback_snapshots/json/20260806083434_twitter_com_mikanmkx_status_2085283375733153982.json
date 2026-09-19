@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2085283375733153982",
+    "created_at": "2026-08-06T08:34:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T09:34:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085283375733153982"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/mil000/status/…",
+          "end": 40,
+          "expanded_url": "https://twitter.com/mil000/status/2084825134721085582",
+          "start": 17,
+          "url": "https://t.co/99LgPOMG5f"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085283375733153982",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084825134721085582",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "哥们坐经济舱嘲讽别人收入低🤣🤣🤣 https://t.co/99LgPOMG5f"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2084825105348386816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HO7JYy8bYAAl4jr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2085283375733153982",
+        "created_at": "2026-08-06T08:34:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T09:34:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085283375733153982"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/mil000/status/…",
+              "end": 40,
+              "expanded_url": "https://twitter.com/mil000/status/2084825134721085582",
+              "start": 17,
+              "url": "https://t.co/99LgPOMG5f"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085283375733153982",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084825134721085582",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "哥们坐经济舱嘲讽别人收入低🤣🤣🤣 https://t.co/99LgPOMG5f"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084825105348386816"
+          ]
+        },
+        "author_id": "1712708898275385344",
+        "conversation_id": "2084825134721085582",
+        "created_at": "2026-08-05T02:13:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T03:13:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084825134721085582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0ex6nNdpAy",
+              "end": 92,
+              "expanded_url": "https://x.com/mil000/status/2084825134721085582/photo/1",
+              "media_key": "3_2084825105348386816",
+              "start": 69,
+              "url": "https://t.co/0ex6nNdpAy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084825134721085582",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4593,
+          "impression_count": 27061512,
+          "like_count": 21615,
+          "quote_count": 2213,
+          "reply_count": 7217,
+          "retweet_count": 1013
+        },
+        "reply_settings": "everyone",
+        "text": "why do lower income people love to record airplane landings so much? https://t.co/0ex6nNdpAy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 932,
+          "following_count": 758,
+          "like_count": 4143,
+          "listed_count": 3,
+          "media_count": 236,
+          "tweet_count": 1127
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-13T05:56:47.000Z",
+        "description": "the andy rooney of sf",
+        "id": "1712708898275385344",
+        "location": "San Francisco, CA",
+        "name": "Milo Smith",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072963656170786816/IvpQYQMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9110,
+          "following_count": 665,
+          "like_count": 79138,
+          "listed_count": 39,
+          "media_count": 1544,
+          "tweet_count": 10946
+        },
+        "url": "",
+        "username": "mil000",
+        "verified": true
+      }
+    ]
+  }
+}

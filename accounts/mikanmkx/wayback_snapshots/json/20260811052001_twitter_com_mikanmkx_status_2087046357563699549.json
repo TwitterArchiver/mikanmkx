@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087046357563699549",
+    "created_at": "2026-08-11T05:20:01.000Z",
+    "display_text_range": [
+      0,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T06:20:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087046357563699549"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/xiey57828/stat…",
+          "end": 45,
+          "expanded_url": "https://twitter.com/xiey57828/status/2086823048192352695",
+          "start": 22,
+          "url": "https://t.co/k7HyUdNHu0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087046357563699549",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086823048192352695",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "为什么我睾酮已经够低了还能硬😿要死了要死了 https://t.co/k7HyUdNHu0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087046357563699549",
+        "created_at": "2026-08-11T05:20:01.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T06:20:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087046357563699549"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xiey57828/stat…",
+              "end": 45,
+              "expanded_url": "https://twitter.com/xiey57828/status/2086823048192352695",
+              "start": 22,
+              "url": "https://t.co/k7HyUdNHu0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087046357563699549",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086823048192352695",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "为什么我睾酮已经够低了还能硬😿要死了要死了 https://t.co/k7HyUdNHu0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1887391023976038400",
+        "conversation_id": "2086814124286390288",
+        "created_at": "2026-08-10T14:32:40.000Z",
+        "display_text_range": [
+          11,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:32:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086823048192352695"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1863319222765428736",
+              "start": 0,
+              "username": "Re_ZaoTon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086823048192352695",
+        "in_reply_to_user_id": "1863319222765428736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 154,
+          "like_count": 9,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086814124286390288",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Re_ZaoTon 那玩意立不起来能减少我一半gd😋"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087046357563699549",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 973,
+          "following_count": 784,
+          "like_count": 4423,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 1203
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-06T06:41:19.000Z",
+        "description": "一颗带刺的毛桃，要怎么洗才能洗干净呢？\n算了，不洗了，也不吃了，留着观赏。\n\n反对一切药物滥用、自伤。或许还反跨性别。\n\n恋人@ABC13067637 & @a2517337359\n逃生舱@520xiey57828",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 75,
+                "start": 63,
+                "username": "ABC13067637"
+              },
+              {
+                "end": 90,
+                "start": 78,
+                "username": "a2517337359"
+              },
+              {
+                "end": 107,
+                "start": 94,
+                "username": "520xiey57828"
+              }
+            ]
+          }
+        },
+        "id": "1887391023976038400",
+        "is_identity_verified": false,
+        "location": "温柔乡",
+        "most_recent_tweet_id": "2087036975178223968",
+        "name": "沐桃",
+        "pinned_tweet_id": "2077037874361553375",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1887391023976038400/1784021049",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064234686868791296/okgBiTiX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1433,
+          "following_count": 519,
+          "like_count": 13882,
+          "listed_count": 4,
+          "media_count": 300,
+          "tweet_count": 5177
+        },
+        "url": "",
+        "username": "xiey57828",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

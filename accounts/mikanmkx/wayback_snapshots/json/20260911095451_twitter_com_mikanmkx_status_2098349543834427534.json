@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2098349543834427534",
+    "created_at": "2026-09-11T09:54:51.000Z",
+    "display_text_range": [
+      0,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T10:54:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2098349543834427534"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AnthropicAI/st…",
+          "end": 67,
+          "expanded_url": "https://twitter.com/AnthropicAI/status/2098097512544444447",
+          "start": 44,
+          "url": "https://t.co/gMScaC8rUx"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098349543834427534",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098097512544444447",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虽然有点难绷但鉴于anthropic送了我六个月max 20x我就勉为其难的原谅吧（逃 https://t.co/gMScaC8rUx"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2098349543834427534",
+        "created_at": "2026-09-11T09:54:51.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T10:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098349543834427534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AnthropicAI/st…",
+              "end": 67,
+              "expanded_url": "https://twitter.com/AnthropicAI/status/2098097512544444447",
+              "start": 44,
+              "url": "https://t.co/gMScaC8rUx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098349543834427534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098097512544444447",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虽然有点难绷但鉴于anthropic送了我六个月max 20x我就勉为其难的原谅吧（逃 https://t.co/gMScaC8rUx"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1353836358901501952",
+        "conversation_id": "2098097512544444447",
+        "created_at": "2026-09-10T17:13:22.000Z",
+        "display_text_range": [
+          0,
+          280
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T18:13:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098097512544444447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2098097512544444447",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "anthropic.com/threat-intelli…",
+                "end": 892,
+                "expanded_url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
+                "start": 869,
+                "url": "https://t.co/0EJUnYEgfz"
+              }
+            ]
+          },
+          "text": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report, and used the lessons from them to strengthen our safeguards. Where appropriate, we also shared what we found with authorities and other AI companies.\n\nThese cases are not typical: we’re highlighting some of the most sophisticated misuse we’ve seen. But they’re especially important to discuss, because they show us where AI misuse is headed, where our safeguards work, and where they need to improve.\n\nWe’re publishing this report so others can spot the same activity on their own platforms, and so we can give the public a clearer view of how emerging threats develop.\n\nRead the report: https://t.co/0EJUnYEgfz"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 25382,
+          "impression_count": 19948424,
+          "like_count": 29684,
+          "quote_count": 2834,
+          "reply_count": 1758,
+          "retweet_count": 6485
+        },
+        "reply_settings": "everyone",
+        "text": "We're publishing our most detailed threat intelligence report to date. \n\nIt covers how people tried to misuse Claude—for cyberattacks, influence operations, surveillance, biology, and building weapons—and how we found and stopped them.\n\nWe disrupted every operation in the report,"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2098349543834427534",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1198,
+          "following_count": 964,
+          "like_count": 6684,
+          "listed_count": 3,
+          "media_count": 313,
+          "tweet_count": 1642
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-01-25T22:45:28.000Z",
+        "description": "We're an AI safety and research company that builds reliable, interpretable, and steerable AI systems. Talk to our AI assistant @claudeai on https://t.co/FhDI3KQh0n.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 128,
+                "username": "claudeai"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "claude.ai",
+                "end": 164,
+                "expanded_url": "https://claude.ai",
+                "start": 141,
+                "url": "https://t.co/FhDI3KQh0n"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anthropic.com",
+                "end": 23,
+                "expanded_url": "https://anthropic.com",
+                "start": 0,
+                "url": "https://t.co/w94SABjAXZ"
+              }
+            ]
+          }
+        },
+        "id": "1353836358901501952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098097512544444447",
+        "name": "Anthropic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1353836358901501952/1719228429",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1677169,
+          "following_count": 2,
+          "like_count": 1596,
+          "listed_count": 15092,
+          "media_count": 656,
+          "tweet_count": 1691
+        },
+        "url": "https://t.co/w94SABjAXZ",
+        "username": "AnthropicAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

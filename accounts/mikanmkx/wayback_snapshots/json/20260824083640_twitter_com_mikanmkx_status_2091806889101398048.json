@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2091806889101398048",
+    "created_at": "2026-08-24T08:36:40.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T09:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091806889101398048"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1885664512818520064",
+          "start": 3,
+          "username": "_Exclusive_OR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091806889101398048",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091779563949105505",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @_Exclusive_OR: 绷不住了我的黑眼圈可以当卧蚕用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2091806889101398048",
+        "created_at": "2026-08-24T08:36:40.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T09:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091806889101398048"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1885664512818520064",
+              "start": 3,
+              "username": "_Exclusive_OR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091806889101398048",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091779563949105505",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @_Exclusive_OR: 绷不住了我的黑眼圈可以当卧蚕用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885664512818520064",
+        "conversation_id": "2091779563949105505",
+        "created_at": "2026-08-24T06:48:06.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T07:48:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091779563949105505"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091779563949105505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "绷不住了我的黑眼圈可以当卧蚕用"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2091806889101398048",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1069,
+          "following_count": 871,
+          "like_count": 5563,
+          "listed_count": 3,
+          "media_count": 281,
+          "tweet_count": 1427
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-01T12:20:35.000Z",
+        "description": "小证 / 常驻南京\n同类fo都会回\n雌二醇，好吃",
+        "id": "1885664512818520064",
+        "is_identity_verified": false,
+        "location": "迷宫",
+        "most_recent_tweet_id": "2091779563949105505",
+        "name": "Type-0.(〇式鈴)🍥",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088968125983424512/QeDwZv13_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 104,
+          "like_count": 287,
+          "listed_count": 1,
+          "media_count": 8,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "_Exclusive_OR",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

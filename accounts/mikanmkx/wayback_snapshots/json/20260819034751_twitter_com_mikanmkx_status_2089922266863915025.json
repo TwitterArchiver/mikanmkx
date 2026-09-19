@@ -1,0 +1,490 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089620313596129280"
+      ],
+      "media_source_tweet_id": [
+        "2089620405489192981"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+          "id": "1552291412820893697",
+          "name": "Education Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Graduate school",
+          "id": "852247095461371904",
+          "name": "Graduate school"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+          "id": "847546154439000064",
+          "name": "Education"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Graduate school",
+          "id": "852247095461371904",
+          "name": "Graduate school"
+        }
+      }
+    ],
+    "conversation_id": "2089922266863915025",
+    "created_at": "2026-08-19T03:47:51.000Z",
+    "display_text_range": [
+      0,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T04:47:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089922266863915025"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1245831967171624961",
+          "start": 3,
+          "username": "ScholarshipfPhd"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6OmREEnfaE",
+          "end": 65,
+          "expanded_url": "https://x.com/ScholarshipfPhd/status/2089620405489192981/photo/1",
+          "media_key": "3_2089620313596129280",
+          "start": 42,
+          "url": "https://t.co/6OmREEnfaE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089922266863915025",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2089620313596129280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 442
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089620405489192981",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ScholarshipfPhd: Life of PhD students https://t.co/6OmREEnfaE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1195,
+        "media_key": "3_2089620313596129280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP_SmptWcAAVbQI.jpg",
+        "width": 1316
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089620313596129280"
+          ],
+          "media_source_tweet_id": [
+            "2089620405489192981"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "2089922266863915025",
+        "created_at": "2026-08-19T03:47:51.000Z",
+        "display_text_range": [
+          0,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T04:47:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089922266863915025"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1245831967171624961",
+              "start": 3,
+              "username": "ScholarshipfPhd"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OmREEnfaE",
+              "end": 65,
+              "expanded_url": "https://x.com/ScholarshipfPhd/status/2089620405489192981/photo/1",
+              "media_key": "3_2089620313596129280",
+              "start": 42,
+              "url": "https://t.co/6OmREEnfaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089922266863915025",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089620313596129280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 442
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089620405489192981",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ScholarshipfPhd: Life of PhD students https://t.co/6OmREEnfaE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089620313596129280"
+          ]
+        },
+        "author_id": "1245831967171624961",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "2089620405489192981",
+        "created_at": "2026-08-18T07:48:22.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T08:48:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089620405489192981"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6OmREEnfaE",
+              "end": 44,
+              "expanded_url": "https://x.com/ScholarshipfPhd/status/2089620405489192981/photo/1",
+              "media_key": "3_2089620313596129280",
+              "start": 21,
+              "url": "https://t.co/6OmREEnfaE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089620405489192981",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2089620313596129280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 445,
+          "impression_count": 154275,
+          "like_count": 5086,
+          "quote_count": 50,
+          "reply_count": 29,
+          "retweet_count": 442
+        },
+        "reply_settings": "everyone",
+        "text": "Life of PhD students https://t.co/6OmREEnfaE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2089922266863915025",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1047,
+          "following_count": 823,
+          "like_count": 5058,
+          "listed_count": 3,
+          "media_count": 267,
+          "tweet_count": 1341
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-02T21:56:04.000Z",
+        "description": "PhD, Postdoc & Fellowship scholarships, research tips & more 📚 Stay updated & subscribe for exclusive premium content\nPromotion: support@scholarshipforphd.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "scholarshipforphd.com",
+                "end": 23,
+                "expanded_url": "https://scholarshipforphd.com/",
+                "start": 0,
+                "url": "https://t.co/4crkr0mFFW"
+              }
+            ]
+          }
+        },
+        "id": "1245831967171624961",
+        "is_identity_verified": false,
+        "location": "World Wide",
+        "most_recent_tweet_id": "2089816365456675196",
+        "name": "Scholarship for PhD",
+        "pinned_tweet_id": "1817019720446423539",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1245831967171624961/1585864771",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1245832762315194373/cjhzVk4V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 298207,
+          "following_count": 35,
+          "like_count": 22810,
+          "listed_count": 861,
+          "media_count": 14121,
+          "tweet_count": 24285
+        },
+        "url": "https://t.co/4crkr0mFFW",
+        "username": "ScholarshipfPhd",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

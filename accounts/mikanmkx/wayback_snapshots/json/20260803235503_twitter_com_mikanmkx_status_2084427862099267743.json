@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2084124329948881292",
+    "created_at": "2026-08-03T23:55:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T00:55:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084427862099267743"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2033369318654701568",
+          "start": 0,
+          "username": "Kuroreinyan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084427862099267743",
+    "in_reply_to_user_id": "2033369318654701568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084356205078839350",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kuroreinyan 不知道唉，但似乎很多木桶饭都描述hrt之后原本的性欲会暂时消退然后过一段时间会变成我描述的那样（？），反正就很神奇"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2084124329948881292",
+        "created_at": "2026-08-03T23:55:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T00:55:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084427862099267743"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2033369318654701568",
+              "start": 0,
+              "username": "Kuroreinyan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084427862099267743",
+        "in_reply_to_user_id": "2033369318654701568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084356205078839350",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kuroreinyan 不知道唉，但似乎很多木桶饭都描述hrt之后原本的性欲会暂时消退然后过一段时间会变成我描述的那样（？），反正就很神奇"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2033369318654701568",
+        "conversation_id": "2084124329948881292",
+        "created_at": "2026-08-03T19:10:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T20:10:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084356205078839350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084356205078839350",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 138,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084124329948881292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 女生的性欲是怎么样的啊。。虽然我是afab但是真不知道。我从有星宇开始好像就是非常简单地想凿的感觉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 880,
+          "following_count": 721,
+          "like_count": 3940,
+          "listed_count": 3,
+          "media_count": 232,
+          "tweet_count": 1086
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T02:36:38.000Z",
+        "description": "或许是电波系\nhe/they ftm🏳️‍⚧️hrt：7/2/2026\n愛されたいだけ\n恋爱中 不滥交不od 纯发癫",
+        "id": "2033369318654701568",
+        "location": "抱きしめたい",
+        "name": "空述リモ🍥",
+        "pinned_tweet_id": "2061801588172435462",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083987422707384320/EAB3Wfaf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 128,
+          "like_count": 45,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 82
+        },
+        "url": "",
+        "username": "Kuroreinyan",
+        "verified": false
+      }
+    ]
+  }
+}

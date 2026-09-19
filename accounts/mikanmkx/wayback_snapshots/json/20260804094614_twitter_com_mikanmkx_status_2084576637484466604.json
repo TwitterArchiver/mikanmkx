@@ -1,0 +1,513 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Guitar (second)",
+          "id": "898268412647886851",
+          "name": "Guitar"
+        }
+      }
+    ],
+    "conversation_id": "2084576637484466604",
+    "created_at": "2026-08-04T09:46:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T10:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084576637484466604"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AokiHina_Staff…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/AokiHina_Staff/status/2084112237715960111",
+          "start": 21,
+          "url": "https://t.co/VcJWUmFugg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084576637484466604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084112237715960111",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我是学生，可以给我打个一折吗，我马上下单 https://t.co/VcJWUmFugg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2000,
+        "media_key": "3_2084109732567216128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOw-wnqacAADFeV.jpg",
+        "width": 1414
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "2084576637484466604",
+        "created_at": "2026-08-04T09:46:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T10:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084576637484466604"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AokiHina_Staff…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/AokiHina_Staff/status/2084112237715960111",
+              "start": 21,
+              "url": "https://t.co/VcJWUmFugg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084576637484466604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084112237715960111",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我是学生，可以给我打个一折吗，我马上下单 https://t.co/VcJWUmFugg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084109732567216128"
+          ]
+        },
+        "author_id": "1943156944098988032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Guitar (second)",
+              "id": "898268412647886851",
+              "name": "Guitar"
+            }
+          }
+        ],
+        "conversation_id": "2084112237715960111",
+        "created_at": "2026-08-03T03:00:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:00:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084112237715960111"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "青木陽菜"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n0ASWJN5M3",
+              "end": 168,
+              "expanded_url": "https://x.com/AokiHina_Staff/status/2084112237715960111/photo/1",
+              "media_key": "3_2084109732567216128",
+              "start": 145,
+              "url": "https://t.co/n0ASWJN5M3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084112237715960111",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 24,
+                "start": 19,
+                "tag": "青木陽菜"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "morris-guitar.com/information/20…",
+                "end": 168,
+                "expanded_url": "https://morris-guitar.com/information/2026/0803_01.html",
+                "start": 145,
+                "url": "https://t.co/Avcib4yl8P"
+              }
+            ]
+          },
+          "text": "💠🔹お知らせ🔹💠\n\nMorrisより\n#青木陽菜 のアコースティックギター\n「M-AH」シグネチャーモデルが\n8月5日から販売開始🎸\n全国のモーリスギター取扱店でご購入いただけます✨\n\nさらに‼️ご購入者様限定で\n青木陽菜が出演するスペシャルイベントを開催🐣\n\n詳細は下記をご覧ください👇\nhttps://t.co/Avcib4yl8P"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 113,
+          "impression_count": 204035,
+          "like_count": 1227,
+          "quote_count": 161,
+          "reply_count": 2,
+          "retweet_count": 331
+        },
+        "reply_settings": "everyone",
+        "text": "💠🔹お知らせ🔹💠\n\nMorrisより\n#青木陽菜 のアコースティックギター\n「M-AH」シグネチャーモデルが\n8月5日から販売開始🎸\n全国のモーリスギター取扱店でご購入いただけます✨\n\nさらに‼️ご購入者様限定で\n青木陽菜が出演するスペシャルイベントを開催🐣\n\n詳細は下記をご覧ください👇 https://t.co/n0ASWJN5M3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 896,
+          "following_count": 733,
+          "like_count": 3984,
+          "listed_count": 3,
+          "media_count": 233,
+          "tweet_count": 1095
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-10T03:56:32.000Z",
+        "description": "青木陽菜(＠aoki__hina)の音楽活動に関する最新情報をお知らせするアカウントです。Mini Album「BLAZE」発売中💿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "aoki__hina"
+              }
+            ]
+          }
+        },
+        "id": "1943156944098988032",
+        "location": "日本",
+        "name": "青木陽菜 STAFF",
+        "pinned_tweet_id": "2071881436932518381",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061039760362348544/41HnVzHE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15245,
+          "following_count": 3,
+          "like_count": 6,
+          "listed_count": 66,
+          "media_count": 257,
+          "tweet_count": 531
+        },
+        "url": "",
+        "username": "AokiHina_Staff",
+        "verified": true
+      }
+    ]
+  }
+}

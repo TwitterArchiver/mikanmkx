@@ -1,0 +1,392 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2079267056227438963",
+    "created_at": "2026-07-21T07:51:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T08:51:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079474292329447713"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1171043978201878528",
+          "start": 0,
+          "username": "Claris73645268"
+        },
+        {
+          "end": 26,
+          "id": "1295507211599278081",
+          "start": 16,
+          "username": "AZURE_UwU"
+        },
+        {
+          "end": 39,
+          "id": "1877035470615638016",
+          "start": 27,
+          "username": "LMegurine03"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079474292329447713",
+    "in_reply_to_user_id": "1171043978201878528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079267056227438963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Claris73645268 @AZURE_UwU @LMegurine03 美少女！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2079267046983151617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsKXOCbMAEYNqH.jpg",
+        "width": 1403
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079267046987296770",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsKXODacAIDzrK.jpg",
+        "width": 1399
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2079267046987296769",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsKXODacAElvg5.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2079267046941208576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNsKXN4bMAAmkDd.jpg",
+        "width": 1401
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2079267056227438963",
+        "created_at": "2026-07-21T07:51:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T08:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079474292329447713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1171043978201878528",
+              "start": 0,
+              "username": "Claris73645268"
+            },
+            {
+              "end": 26,
+              "id": "1295507211599278081",
+              "start": 16,
+              "username": "AZURE_UwU"
+            },
+            {
+              "end": 39,
+              "id": "1877035470615638016",
+              "start": 27,
+              "username": "LMegurine03"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079474292329447713",
+        "in_reply_to_user_id": "1171043978201878528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079267056227438963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Claris73645268 @AZURE_UwU @LMegurine03 美少女！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079267046983151617",
+            "3_2079267046987296770",
+            "3_2079267046987296769",
+            "3_2079267046941208576"
+          ]
+        },
+        "author_id": "1171043978201878528",
+        "conversation_id": "2079267056227438963",
+        "created_at": "2026-07-20T18:07:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T19:07:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079267056227438963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1295507211599278081",
+              "start": 1,
+              "username": "AZURE_UwU"
+            },
+            {
+              "end": 24,
+              "id": "1877035470615638016",
+              "start": 12,
+              "username": "LMegurine03"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/y2WY08LTOj",
+              "end": 75,
+              "expanded_url": "https://x.com/Claris73645268/status/2079267056227438963/photo/1",
+              "media_key": "3_2079267046983151617",
+              "start": 52,
+              "url": "https://t.co/y2WY08LTOj"
+            },
+            {
+              "display_url": "pic.x.com/y2WY08LTOj",
+              "end": 75,
+              "expanded_url": "https://x.com/Claris73645268/status/2079267056227438963/photo/1",
+              "media_key": "3_2079267046987296770",
+              "start": 52,
+              "url": "https://t.co/y2WY08LTOj"
+            },
+            {
+              "display_url": "pic.x.com/y2WY08LTOj",
+              "end": 75,
+              "expanded_url": "https://x.com/Claris73645268/status/2079267056227438963/photo/1",
+              "media_key": "3_2079267046987296769",
+              "start": 52,
+              "url": "https://t.co/y2WY08LTOj"
+            },
+            {
+              "display_url": "pic.x.com/y2WY08LTOj",
+              "end": 75,
+              "expanded_url": "https://x.com/Claris73645268/status/2079267056227438963/photo/1",
+              "media_key": "3_2079267046941208576",
+              "start": 52,
+              "url": "https://t.co/y2WY08LTOj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079267056227438963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 37,
+          "impression_count": 24257,
+          "like_count": 228,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "和@AZURE_UwU @LMegurine03 在一起超开心的一天！\n继续假装可爱(๑• . •๑) https://t.co/y2WY08LTOj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "location": "WUH | SAN | LAX | SDJ",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 733,
+          "following_count": 615,
+          "like_count": 3120,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 868
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true
+      },
+      {
+        "created_at": "2019-09-09T12:53:49.000Z",
+        "description": "mtf（？）欢迎来戳☺️同类互fo喵\n@AZURE_UwU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "AZURE_UwU"
+              }
+            ]
+          }
+        },
+        "id": "1171043978201878528",
+        "location": "unknown",
+        "name": "Claris🍥",
+        "pinned_tweet_id": "2079267056227438963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920783097185923072/bUJzL9vB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 352,
+          "like_count": 932,
+          "listed_count": 1,
+          "media_count": 203,
+          "tweet_count": 2729
+        },
+        "url": "",
+        "username": "Claris73645268",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-17T23:46:16.000Z",
+        "description": "电子信息工程系｜（EDA真好玩｜喜欢建模 ｜MDD服药ing。。。",
+        "id": "1295507211599278081",
+        "location": "你心里🩵",
+        "name": "AZURE 🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070767945127800832/3Hm17hRM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 701,
+          "like_count": 19684,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 1251
+        },
+        "url": "",
+        "username": "AZURE_UwU",
+        "verified": true
+      },
+      {
+        "created_at": "2025-01-08T16:52:03.000Z",
+        "description": "Luka fans｜深柜mtx｜互fo｜07｜181/57｜泛性恋｜INTP｜坐标大连｜日语初学者｜随机掉落日常｜欢迎私信｜OCD，ASD，ADHD，Cluster B倾向｜可能有点攻击性，如有误伤抱歉｜希望和大家做朋友~  主队@realmadrid 逃生舱@KChiharu20 主人@YesterdayOrange",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 115,
+                "username": "realmadrid"
+              },
+              {
+                "end": 141,
+                "start": 130,
+                "username": "KChiharu20"
+              },
+              {
+                "end": 160,
+                "start": 144,
+                "username": "YesterdayOrange"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pncyszdusc75790",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pncyszdusc75790",
+                "start": 0,
+                "url": "https://t.co/TPt8JQZ6F0"
+              }
+            ]
+          }
+        },
+        "id": "1877035470615638016",
+        "location": "Castilla, Madrid",
+        "name": "Luka Megurine 03",
+        "pinned_tweet_id": "1909615625351364662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039258162285682688/lVZHAZnj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4444,
+          "following_count": 7500,
+          "like_count": 8199,
+          "listed_count": 8,
+          "media_count": 1882,
+          "tweet_count": 7139
+        },
+        "url": "https://t.co/TPt8JQZ6F0",
+        "username": "LMegurine03",
+        "verified": false
+      }
+    ]
+  }
+}

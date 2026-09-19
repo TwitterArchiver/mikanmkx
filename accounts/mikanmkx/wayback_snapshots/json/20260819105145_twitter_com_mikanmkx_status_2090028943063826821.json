@@ -1,0 +1,230 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2089955153495634065",
+    "created_at": "2026-08-19T10:51:45.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:51:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090028943063826821"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2029393061953122304",
+          "start": 0,
+          "username": "moonyore0318"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090028943063826821",
+    "in_reply_to_user_id": "2029393061953122304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089955153495634065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moonyore0318 我也是搞得我都不想剃🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2089955153495634065",
+        "created_at": "2026-08-19T10:51:45.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:51:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090028943063826821"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2029393061953122304",
+              "start": 0,
+              "username": "moonyore0318"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090028943063826821",
+        "in_reply_to_user_id": "2029393061953122304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089955153495634065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moonyore0318 我也是搞得我都不想剃🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029393061953122304",
+        "conversation_id": "2089955153495634065",
+        "created_at": "2026-08-19T05:58:32.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T06:58:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089955153495634065"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089955153495634065",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 349,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么我刮完腿毛之后就毛囊炎，要怎么避免啊，我腿上现在全是红点点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2090028943063826821",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1041,
+          "following_count": 817,
+          "like_count": 5106,
+          "listed_count": 3,
+          "media_count": 271,
+          "tweet_count": 1355
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-05T03:06:43.000Z",
+        "description": "09/mtf/泛性恋/hrt24.07.26/169cm/55kg/已严肃高中退学/常驻安徽江苏/社交飞舞/社恐（？）/小证含糖/再次深柜ing/\n大号@moonyore8964（已坠机）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 89,
+                "start": 76,
+                "username": "moonyore8964"
+              }
+            ]
+          }
+        },
+        "id": "2029393061953122304",
+        "is_identity_verified": false,
+        "location": "参宿四",
+        "most_recent_tweet_id": "2090009915075010771",
+        "name": "月🍥",
+        "pinned_tweet_id": "2031269959805055133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029393061953122304/1787100655",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088920764594720768/nycd8W1l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 43,
+          "like_count": 197,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 290
+        },
+        "url": "",
+        "username": "moonyore0318",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

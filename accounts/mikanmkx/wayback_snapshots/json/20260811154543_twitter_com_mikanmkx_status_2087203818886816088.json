@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2087203818886816088",
+    "created_at": "2026-08-11T15:45:43.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T16:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087203818886816088"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/AacerF59616/st…",
+          "end": 78,
+          "expanded_url": "https://twitter.com/AacerF59616/status/2087202714916880804",
+          "start": 55,
+          "url": "https://t.co/NKAHXPo2jk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087203818886816088",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087202714916880804",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你说的很对，所以featherline的校准ui会详尽说明置信度，校准的限制，以及如何更有效地进行血液检查（ https://t.co/NKAHXPo2jk"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2087203818886816088",
+        "created_at": "2026-08-11T15:45:43.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087203818886816088"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2087202714916880804",
+              "start": 55,
+              "url": "https://t.co/NKAHXPo2jk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087203818886816088",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087202714916880804",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你说的很对，所以featherline的校准ui会详尽说明置信度，校准的限制，以及如何更有效地进行血液检查（ https://t.co/NKAHXPo2jk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1929798380240465921",
+        "conversation_id": "2087202714916880804",
+        "created_at": "2026-08-11T15:41:20.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T16:41:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087202714916880804"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/AacerF59616/st…",
+              "end": 86,
+              "expanded_url": "https://twitter.com/AacerF59616/status/2087063593934352440",
+              "start": 63,
+              "url": "https://t.co/ZZbtqVvnx9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087202714916880804",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "这个不是轻飘飘的说一句「能准就怪了」的事，推算模型给出的血药浓度是肯定是存在误差的，但一直以来都鲜有人提到「到底有多少误差」\n\n而且据我所知，真的有少部分姐妹是GAHT后相当长一段时间都不去测性激素的，我真的认识个GAHT已经1300+天但一次六项都没测过的，完全凭主观感受去判断是否双高/双低，完全忽视潜在安全风险，这很令人感到害怕……\n\n然后就是有些和我一样刚开始GAHT的新药娘，有不少也是真的会把推算模型在一开始完全不知道个人数据只能通过初始参数去蒙出来的数值当作自己实际数值去参考的，在误差率＞60%的情况下，推算模型给出的数值几乎完全不具备参考价值，如果她们还在不知情的情况下基于这个误差率极高的数值去调整自己的使用剂量，同样会不可避免的出现潜在安全风险。\n\n所以说，我想要稍微提一个建设性意见，就是在首页之类的地方稍微加一些额外提醒，告诉新人在进行校准之前的模型给出的数值置信度较低之类的。\n\nemmmm，就是这样，如果可以看到并采纳的话那最好了，喵～"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 46,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087063593934352440",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个不是轻飘飘的说一句「能准就怪了」的事，推算模型给出的血药浓度是肯定是存在误差的，但一直以来都鲜有人提到「到底有多少误差」 https://t.co/ZZbtqVvnx9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2087203818886816088",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 989,
+          "following_count": 792,
+          "like_count": 4459,
+          "listed_count": 3,
+          "media_count": 249,
+          "tweet_count": 1217
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-03T07:12:53.000Z",
+        "description": "2008.4｜性别指派男 认同女｜HRT：2026.7.9｜家长党｜后室中文写手&基金会中分写手｜喜欢和mtf同类贴贴喵｜戒od戒自伤少见证？｜有小众癖好｜同类可互fo｜可以叫咱小琳 琳琳 大艾 艾姐姐/妹妹",
+        "id": "1929798380240465921",
+        "is_identity_verified": false,
+        "location": "金星 伊什塔高地",
+        "most_recent_tweet_id": "2087202714916880804",
+        "name": "🌙艾丝尔娜·芙蕾琳🌙ᴹᴷ⁻ᴱᵐᵇᵉʳ",
+        "pinned_tweet_id": "2084992339425345670",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1929798380240465921/1751873067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082961413799358464/m2AI6tXH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1034,
+          "following_count": 780,
+          "like_count": 5499,
+          "listed_count": 2,
+          "media_count": 289,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "AacerF59616",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
