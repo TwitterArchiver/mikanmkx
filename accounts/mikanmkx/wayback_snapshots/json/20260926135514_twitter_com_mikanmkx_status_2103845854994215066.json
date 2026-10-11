@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2103845854994215066",
+    "created_at": "2026-09-26T13:55:14.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T14:55:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103845854994215066"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yontengoP/stat…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/yontengoP/status/2103731954944496116",
+          "start": 16,
+          "url": "https://t.co/sur6D69pPA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103845854994215066",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103731954944496116",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "洗烘一体机是世界上最伟大的发明 https://t.co/sur6D69pPA"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2103845854994215066",
+        "created_at": "2026-09-26T13:55:14.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T14:55:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103845854994215066"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yontengoP/stat…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/yontengoP/status/2103731954944496116",
+              "start": 16,
+              "url": "https://t.co/sur6D69pPA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103845854994215066",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103731954944496116",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "洗烘一体机是世界上最伟大的发明 https://t.co/sur6D69pPA"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "82752855",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2103731954944496116",
+        "created_at": "2026-09-26T06:22:38.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T07:22:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103731954944496116"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wni_jp/status/…",
+              "end": 78,
+              "expanded_url": "https://twitter.com/wni_jp/status/2103722790079881441",
+              "start": 55,
+              "url": "https://t.co/MqFk6xVEGQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103731954944496116",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1150,
+          "impression_count": 4159779,
+          "like_count": 8783,
+          "quote_count": 1033,
+          "reply_count": 437,
+          "retweet_count": 1255
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103722790079881441",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "マジで世の中の人\nどうやって洗濯してるの？？\n\n特に子供おるご家族とか\n全員自宅に乾太くん完備してんの？？？ https://t.co/MqFk6xVEGQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2103845854994215066",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1267,
+          "following_count": 1011,
+          "like_count": 7490,
+          "listed_count": 3,
+          "media_count": 349,
+          "tweet_count": 1839
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-10-16T00:23:34.000Z",
+        "description": "📖情シスさん漫画は▶月曜/水曜更新中！✨️\n📖IT漫画も▶土日に更新中！✨️\n\n💻️AIベンチャー/上場企業情シス/ブラックSES/フリーランス経験\n✎週刊ダイヤモンド/📺️ABEMA出演\n\nお仕事依頼はDMに✉️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "note.com/yontengop/n/n2…",
+                "end": 23,
+                "expanded_url": "https://note.com/yontengop/n/n27022beb77b8",
+                "start": 0,
+                "url": "https://t.co/sfH3L2StSI"
+              }
+            ]
+          }
+        },
+        "id": "82752855",
+        "is_identity_verified": false,
+        "location": "IT業界",
+        "most_recent_tweet_id": "2103824229850587606",
+        "name": "よんてんごP",
+        "pinned_tweet_id": "2097449405389689292",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663282902371819523/lpuX-jxP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85457,
+          "following_count": 5662,
+          "like_count": 21277,
+          "listed_count": 1258,
+          "media_count": 24470,
+          "tweet_count": 193073
+        },
+        "url": "https://t.co/sfH3L2StSI",
+        "username": "yontengoP",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

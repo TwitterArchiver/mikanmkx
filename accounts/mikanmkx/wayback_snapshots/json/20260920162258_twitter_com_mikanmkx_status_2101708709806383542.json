@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Linux",
+          "id": "848959431836487680",
+          "name": "Linux"
+        }
+      }
+    ],
+    "conversation_id": "2101708709806383542",
+    "created_at": "2026-09-20T16:22:58.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101708709806383542"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/thsottiaux/sta…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/thsottiaux/status/2101431497437950458",
+          "start": 36,
+          "url": "https://t.co/Zu1M0nXBPi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101708709806383542",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101431497437950458",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "they've been saying this since 2006 https://t.co/Zu1M0nXBPi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2101708709806383542",
+        "created_at": "2026-09-20T16:22:58.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101708709806383542"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/thsottiaux/sta…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/thsottiaux/status/2101431497437950458",
+              "start": 36,
+              "url": "https://t.co/Zu1M0nXBPi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101708709806383542",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101431497437950458",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "they've been saying this since 2006 https://t.co/Zu1M0nXBPi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1953337039510003712",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2101431497437950458",
+        "created_at": "2026-09-19T22:01:26.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T23:01:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101431497437950458"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101431497437950458",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 618,
+          "impression_count": 1284883,
+          "like_count": 12769,
+          "quote_count": 339,
+          "reply_count": 1447,
+          "retweet_count": 591
+        },
+        "reply_settings": "everyone",
+        "text": "2026 is the year of linux desktop"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2101708709806383542",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1244,
+          "following_count": 979,
+          "like_count": 7138,
+          "listed_count": 3,
+          "media_count": 332,
+          "tweet_count": 1745
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-07T06:07:07.000Z",
+        "description": "Codex & ChatGPT @OpenAI",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 16,
+                "username": "OpenAI"
+              }
+            ]
+          }
+        },
+        "id": "1953337039510003712",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101554478940070162",
+        "name": "Tibo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093807917833281537/2yBgpwVV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 704976,
+          "following_count": 72,
+          "like_count": 9863,
+          "listed_count": 3440,
+          "media_count": 138,
+          "tweet_count": 2999
+        },
+        "url": "",
+        "username": "thsottiaux",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

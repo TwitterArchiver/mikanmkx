@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2103754240460247248",
+    "created_at": "2026-09-26T08:20:51.000Z",
+    "display_text_range": [
+      13,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103761705729921316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794664666033201152",
+          "start": 0,
+          "username": "Springfyhuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103761705729921316",
+    "in_reply_to_user_id": "1794664666033201152",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103754240460247248",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Springfyhuo 问ai"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2103754240460247248",
+        "created_at": "2026-09-26T08:20:51.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103761705729921316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794664666033201152",
+              "start": 0,
+              "username": "Springfyhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103761705729921316",
+        "in_reply_to_user_id": "1794664666033201152",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103754240460247248",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Springfyhuo 问ai"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794664666033201152",
+        "conversation_id": "2103754240460247248",
+        "created_at": "2026-09-26T07:51:11.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:51:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103754240460247248"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103754240460247248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 38,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我应该学点啥……这样太颓废了，推都没什么可发……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2103761705729921316",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1264,
+          "following_count": 1004,
+          "like_count": 7471,
+          "listed_count": 3,
+          "media_count": 348,
+          "tweet_count": 1832
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-26T09:40:34.000Z",
+        "description": "ADHD | ASD（疑似）🫪 | 底层码农🖥️ | 古法编程非遗传人 📜 🪶 | 北漂ing🥹| bron in 2004 🎂",
+        "id": "1794664666033201152",
+        "is_identity_verified": false,
+        "location": "常量池",
+        "most_recent_tweet_id": "2103756864580370653",
+        "name": "Spring",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794664666033201152/1788707796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096548612042002432/IIVGqGZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 69,
+          "following_count": 736,
+          "like_count": 841,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 346
+        },
+        "url": "",
+        "username": "Springfyhuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

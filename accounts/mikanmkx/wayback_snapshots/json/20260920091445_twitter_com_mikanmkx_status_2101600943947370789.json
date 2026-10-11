@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2101574942848381198",
+    "created_at": "2026-09-20T09:14:45.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T10:14:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101600943947370789"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1117644610396778501",
+          "start": 0,
+          "username": "canderyy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101600943947370789",
+    "in_reply_to_user_id": "1117644610396778501",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101592960341315620",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@canderyy 问了claude说正确使用的话并不比西林瓶差🤔"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2101574942848381198",
+        "created_at": "2026-09-20T09:14:45.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T10:14:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101600943947370789"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1117644610396778501",
+              "start": 0,
+              "username": "canderyy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101600943947370789",
+        "in_reply_to_user_id": "1117644610396778501",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101592960341315620",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@canderyy 问了claude说正确使用的话并不比西林瓶差🤔"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1117644610396778501",
+        "conversation_id": "2101574942848381198",
+        "created_at": "2026-09-20T08:43:02.000Z",
+        "display_text_range": [
+          10,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:43:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101592960341315620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101592960341315620",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101574942848381198",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 不太建议，保存条件不友好，甚至不如西林瓶."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2101600943947370789",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1240,
+          "following_count": 979,
+          "like_count": 7087,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 1731
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-15T04:23:34.000Z",
+        "description": "这个世界只有三种人会珍惜你，父母\\爱人\\子女，父母会老去，子女会离家，只有爱人能够陪你一路走下去，尊重自己的爱人，不要成为遗憾。也只有爱人会一让再让，但这永远是有限的退让，不要太过贪心。感谢你的陪伴。-------贪心又胆小的人。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/canderyy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/canderyy",
+                "start": 0,
+                "url": "https://t.co/Czq26oiDM0"
+              }
+            ]
+          }
+        },
+        "id": "1117644610396778501",
+        "is_identity_verified": false,
+        "location": "浙江省宁波市",
+        "most_recent_tweet_id": "2101592960341315620",
+        "name": "向晚初霁",
+        "pinned_tweet_id": "1943202703271956749",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085632194538807296/qWi_RHc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 739,
+          "following_count": 151,
+          "like_count": 5258,
+          "listed_count": 2,
+          "media_count": 74,
+          "tweet_count": 2094
+        },
+        "url": "https://t.co/Czq26oiDM0",
+        "username": "canderyy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

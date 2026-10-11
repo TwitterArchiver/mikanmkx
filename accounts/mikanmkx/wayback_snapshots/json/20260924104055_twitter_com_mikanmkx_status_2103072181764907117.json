@@ -1,0 +1,345 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102964335052300288"
+      ],
+      "media_source_tweet_id": [
+        "2102964378626932849"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2103072181764907117",
+    "created_at": "2026-09-24T10:40:55.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T11:40:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103072181764907117"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1930508629997948928",
+          "start": 3,
+          "username": "Dark_Accel"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tUmGvwYmNB",
+          "end": 39,
+          "expanded_url": "https://x.com/Dark_Accel/status/2102964378626932849/photo/1",
+          "media_key": "3_2102964335052300288",
+          "start": 16,
+          "url": "https://t.co/tUmGvwYmNB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103072181764907117",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2102964335052300288"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102964378626932849",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Dark_Accel: https://t.co/tUmGvwYmNB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1086,
+        "media_key": "3_2102964335052300288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS8667YboAAn3J9.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102964335052300288"
+          ],
+          "media_source_tweet_id": [
+            "2102964378626932849"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2103072181764907117",
+        "created_at": "2026-09-24T10:40:55.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:40:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103072181764907117"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1930508629997948928",
+              "start": 3,
+              "username": "Dark_Accel"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUmGvwYmNB",
+              "end": 39,
+              "expanded_url": "https://x.com/Dark_Accel/status/2102964378626932849/photo/1",
+              "media_key": "3_2102964335052300288",
+              "start": 16,
+              "url": "https://t.co/tUmGvwYmNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103072181764907117",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102964335052300288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102964378626932849",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Dark_Accel: https://t.co/tUmGvwYmNB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102964335052300288"
+          ]
+        },
+        "author_id": "1930508629997948928",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2102964378626932849",
+        "created_at": "2026-09-24T03:32:33.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:32:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102964378626932849"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/tUmGvwYmNB",
+              "end": 23,
+              "expanded_url": "https://x.com/Dark_Accel/status/2102964378626932849/photo/1",
+              "media_key": "3_2102964335052300288",
+              "start": 0,
+              "url": "https://t.co/tUmGvwYmNB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102964378626932849",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2102964335052300288"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 5366,
+          "like_count": 373,
+          "quote_count": 2,
+          "reply_count": 5,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/tUmGvwYmNB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2103072181764907117",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1254,
+          "following_count": 991,
+          "like_count": 7368,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 1806
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-05T06:15:04.000Z",
+        "description": "AI\n\nUse NovelAI \n\nhttps://t.co/RKef2Kk5dm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/3439532",
+                "end": 41,
+                "expanded_url": "https://www.pixiv.net/users/3439532",
+                "start": 18,
+                "url": "https://t.co/RKef2Kk5dm"
+              }
+            ]
+          }
+        },
+        "id": "1930508629997948928",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103042105140793468",
+        "name": "DarkAccel",
+        "pinned_tweet_id": "2101326771102888412",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1930508629997948928/1787681241",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092312884009394176/20NWXQR1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7870,
+          "following_count": 0,
+          "like_count": 218,
+          "listed_count": 30,
+          "media_count": 2517,
+          "tweet_count": 2586
+        },
+        "url": "",
+        "username": "Dark_Accel",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

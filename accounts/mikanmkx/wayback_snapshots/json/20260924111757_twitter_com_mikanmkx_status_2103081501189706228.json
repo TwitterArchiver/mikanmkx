@@ -1,0 +1,339 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2103081501189706228",
+    "created_at": "2026-09-24T11:17:57.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T12:17:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103081501189706228"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/RyanSael/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/RyanSael/status/2102591147927654847",
+          "start": 12,
+          "url": "https://t.co/Lgr3UbO13N"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103081501189706228",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102591147927654847",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "仿佛看到。。。后面忘了 https://t.co/Lgr3UbO13N"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32000,
+        "height": 1080,
+        "media_key": "13_2102589341197619200",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102589341197619200/img/yc_23PO0WRs63QWw.jpg",
+        "public_metrics": {
+          "view_count": 251641
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102589341197619200/vid/avc1/640x360/d_ln0N2BLLZd_b1x.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102589341197619200/vid/avc1/1280x720/5X-1BAr0mSoZZrj5.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102589341197619200/vid/avc1/1920x1080/0zt2fNiA4QMgvhkM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102589341197619200/pl/yhPqDCcTbETqasYA.m3u8"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102589341197619200/vid/avc1/480x270/xAb2NQHfDuYRgPax.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2103081501189706228",
+        "created_at": "2026-09-24T11:17:57.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:17:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103081501189706228"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/RyanSael/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/RyanSael/status/2102591147927654847",
+              "start": 12,
+              "url": "https://t.co/Lgr3UbO13N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103081501189706228",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102591147927654847",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "仿佛看到。。。后面忘了 https://t.co/Lgr3UbO13N"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102589341197619200"
+          ]
+        },
+        "author_id": "135840760",
+        "conversation_id": "2102591147927654847",
+        "created_at": "2026-09-23T02:49:28.000Z",
+        "display_text_range": [
+          0,
+          278
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T03:49:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102591147927654847"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Everyone knows when a photo is blurry. Almost nobody has seen the exact plane where it turns sharp. Open a lens, turn the focus ring and watch that plane sweep through a tiny world.",
+              "display_url": "lens.lab.sael.net",
+              "end": 182,
+              "expanded_url": "https://lens.lab.sael.net",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102591164209864704/av_AATde?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102591164209864704/av_AATde?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 159,
+              "status": 200,
+              "title": "The Plane of Focus — a lens, opened up",
+              "unwound_url": "https://lens.lab.sael.net",
+              "url": "https://t.co/uqDgUs8H9h"
+            },
+            {
+              "display_url": "pic.x.com/pkdmmlRqU2",
+              "end": 302,
+              "expanded_url": "https://x.com/RyanSael/status/2102591147927654847/video/1",
+              "media_key": "13_2102589341197619200",
+              "start": 279,
+              "url": "https://t.co/pkdmmlRqU2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102591147927654847",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102589341197619200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5138,
+          "impression_count": 598791,
+          "like_count": 9003,
+          "quote_count": 131,
+          "reply_count": 241,
+          "retweet_count": 601
+        },
+        "reply_settings": "everyone",
+        "text": "I asked Opus 5.5 to explain camera focus by building an interactive lens lab\n\nHere's what it came up with after 1 hour 26 minutes in one shot, $25.66 API cost\nhttps://t.co/uqDgUs8H9h\n\nMove the focus ring and you can see the glass elements shift the sharp plane through the scene https://t.co/pkdmmlRqU2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2103081501189706228",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1255,
+          "following_count": 999,
+          "like_count": 7378,
+          "listed_count": 3,
+          "media_count": 346,
+          "tweet_count": 1807
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-22T10:54:11.000Z",
+        "description": "AAA quality slop in public:\nhttps://t.co/JAkNEGRhHf\n\nhttps://t.co/F2rHfH6LUY\nhttps://t.co/GZd2z1Y3D4\n\n3D, Creative Web, Product Design.\nuse Threejs since 2016.\nUnity, Unreal since v3.",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sael.net",
+                "end": 51,
+                "expanded_url": "http://sael.net",
+                "start": 28,
+                "url": "https://t.co/JAkNEGRhHf"
+              },
+              {
+                "display_url": "airace.lol",
+                "end": 76,
+                "expanded_url": "http://airace.lol",
+                "start": 53,
+                "url": "https://t.co/F2rHfH6LUY"
+              },
+              {
+                "display_url": "dat.city",
+                "end": 100,
+                "expanded_url": "http://dat.city",
+                "start": 77,
+                "url": "https://t.co/GZd2z1Y3D4"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "dat.city",
+                "end": 23,
+                "expanded_url": "https://dat.city",
+                "start": 0,
+                "url": "https://t.co/70WI4F88Zr"
+              }
+            ]
+          }
+        },
+        "id": "135840760",
+        "is_identity_verified": true,
+        "location": "gamifying world stats 👉🏼",
+        "most_recent_tweet_id": "2103062441378877779",
+        "name": "Ryan Sael",
+        "pinned_tweet_id": "2074066638765473989",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/135840760/1772703735",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070153731409350656/Q2dbbhA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2311,
+          "following_count": 737,
+          "like_count": 2683,
+          "listed_count": 28,
+          "media_count": 322,
+          "tweet_count": 2122
+        },
+        "url": "https://t.co/70WI4F88Zr",
+        "username": "RyanSael",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

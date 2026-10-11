@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2105765532129697842",
+    "created_at": "2026-10-01T21:03:20.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T22:03:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105765532129697842"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SeanNichol8254…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/SeanNichol82542/status/2104923525337473485",
+          "start": 16,
+          "url": "https://t.co/HryvnDQwuN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105765532129697842",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104923525337473485",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "啊不是原来面基都有涩涩环节的吗 https://t.co/HryvnDQwuN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1029,
+        "media_key": "3_2104923510019858432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYwx64aIAAYJkS.jpg",
+        "width": 1077
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104923510015692800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYwx63akAAHuiW.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1867,
+        "media_key": "3_2104923510019891200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTYwx64aoAAgWtg.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2105765532129697842",
+        "created_at": "2026-10-01T21:03:20.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T22:03:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105765532129697842"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SeanNichol8254…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/SeanNichol82542/status/2104923525337473485",
+              "start": 16,
+              "url": "https://t.co/HryvnDQwuN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105765532129697842",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104923525337473485",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "啊不是原来面基都有涩涩环节的吗 https://t.co/HryvnDQwuN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104923510019858432",
+            "3_2104923510015692800",
+            "3_2104923510019891200"
+          ]
+        },
+        "author_id": "1757092308426629120",
+        "conversation_id": "2104923525337473485",
+        "created_at": "2026-09-29T13:17:30.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104923525337473485"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YvrNHNBd5N",
+              "end": 53,
+              "expanded_url": "https://x.com/SeanNichol82542/status/2104923525337473485/photo/1",
+              "media_key": "3_2104923510019858432",
+              "start": 30,
+              "url": "https://t.co/YvrNHNBd5N"
+            },
+            {
+              "display_url": "pic.x.com/YvrNHNBd5N",
+              "end": 53,
+              "expanded_url": "https://x.com/SeanNichol82542/status/2104923525337473485/photo/1",
+              "media_key": "3_2104923510015692800",
+              "start": 30,
+              "url": "https://t.co/YvrNHNBd5N"
+            },
+            {
+              "display_url": "pic.x.com/YvrNHNBd5N",
+              "end": 53,
+              "expanded_url": "https://x.com/SeanNichol82542/status/2104923525337473485/photo/1",
+              "media_key": "3_2104923510019891200",
+              "start": 30,
+              "url": "https://t.co/YvrNHNBd5N"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104923525337473485",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104923510019858432"
+          },
+          {
+            "media_key": "3_2104923510015692800"
+          },
+          {
+            "media_key": "3_2104923510019891200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 202,
+          "impression_count": 1734919,
+          "like_count": 834,
+          "quote_count": 40,
+          "reply_count": 863,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "八月无套面基。。。手臂上开始长东西。。。这不是艾滋吧。。。 https://t.co/YvrNHNBd5N"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2105765532129697842",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1275,
+          "following_count": 1014,
+          "like_count": 7709,
+          "listed_count": 2,
+          "media_count": 355,
+          "tweet_count": 1883
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T17:20:30.000Z",
+        "description": "嘿嘿MTF一枚🏳️‍⚧️是个话唠微微社恐/会看私信滴/喜欢已读不回/喜欢分享日常/爱睡觉💤/未出柜/工作💼中/喜欢小猫小狗🐕",
+        "id": "1757092308426629120",
+        "is_identity_verified": false,
+        "location": "似乎长长薄薄的一生 自始自终都在淋雨",
+        "most_recent_tweet_id": "2105708132844675398",
+        "name": "绝情费洛蒙^Mizuki^🏳️‍⚧️",
+        "pinned_tweet_id": "1963174490562871425",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757092308426629120/1778665938",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054499923689938945/5qEkDMZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1510,
+          "following_count": 408,
+          "like_count": 911,
+          "listed_count": 5,
+          "media_count": 15,
+          "tweet_count": 287
+        },
+        "url": "",
+        "username": "SeanNichol82542",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

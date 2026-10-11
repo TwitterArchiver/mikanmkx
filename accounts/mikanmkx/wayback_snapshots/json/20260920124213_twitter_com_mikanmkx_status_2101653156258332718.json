@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2101287954731946089",
+    "created_at": "2026-09-20T12:42:13.000Z",
+    "display_text_range": [
+      13,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:42:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101653156258332718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2035898194366963712",
+          "start": 0,
+          "username": "ApplerinQAQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101653156258332718",
+    "in_reply_to_user_id": "2035898194366963712",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101287954731946089",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ApplerinQAQ 还真是我写新app第一件事就是做个服务器进去方便agent跳过ui直接调试"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2101287954731946089",
+        "created_at": "2026-09-20T12:42:13.000Z",
+        "display_text_range": [
+          13,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:42:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101653156258332718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2035898194366963712",
+              "start": 0,
+              "username": "ApplerinQAQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101653156258332718",
+        "in_reply_to_user_id": "2035898194366963712",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101287954731946089",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ApplerinQAQ 还真是我写新app第一件事就是做个服务器进去方便agent跳过ui直接调试"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2035898194366963712",
+        "conversation_id": "2101287954731946089",
+        "created_at": "2026-09-19T12:31:03.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:31:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101287954731946089"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ScarletKc/stat…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/ScarletKc/status/2101240882712174697",
+              "start": 62,
+              "url": "https://t.co/kMAGygz2rR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101287954731946089",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2456,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101240882712174697",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们需要所有GUI应用暴露命令行操作或者对外接口给AI操作，用图形页面做Computer Use的方案永远只会是过渡时刻😡 https://t.co/kMAGygz2rR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2101653156258332718",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1241,
+          "following_count": 979,
+          "like_count": 7118,
+          "listed_count": 3,
+          "media_count": 331,
+          "tweet_count": 1740
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T01:55:45.000Z",
+        "description": "Maybe I just want to fly. Wanna live I don't want to die. / ENTP-T / Maybe She or Her or u like ~ / 2005 / Monitoring AI💕",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "JustKidding-ovo.link",
+                "end": 23,
+                "expanded_url": "https://JustKidding-ovo.link",
+                "start": 0,
+                "url": "https://t.co/J3LiQmTMdI"
+              }
+            ]
+          }
+        },
+        "id": "2035898194366963712",
+        "is_identity_verified": false,
+        "location": "With MEEP",
+        "most_recent_tweet_id": "2101651664583512075",
+        "name": "Applerin🍎",
+        "pinned_tweet_id": "2101230269445615842",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035898194366963712/1780554317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101496538996580352/XhwCKsTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 287,
+          "following_count": 174,
+          "like_count": 2499,
+          "listed_count": 2,
+          "media_count": 106,
+          "tweet_count": 1551
+        },
+        "url": "https://t.co/J3LiQmTMdI",
+        "username": "ApplerinQAQ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2101430935766151388",
+    "created_at": "2026-09-20T06:58:39.000Z",
+    "display_text_range": [
+      10,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T07:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101566694896382398"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1856301878814093315",
+          "start": 0,
+          "username": "NextShua"
+        }
+      ],
+      "urls": [
+        {
+          "description": "watch what's in stock across your favorite shops",
+          "display_url": "diyhrt.coffee",
+          "end": 37,
+          "expanded_url": "https://diyhrt.coffee",
+          "start": 14,
+          "status": 200,
+          "title": "diyhrt",
+          "unwound_url": "https://diyhrt.coffee",
+          "url": "https://t.co/F1nANVlnxY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101566694896382398",
+    "in_reply_to_user_id": "1856301878814093315",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101503658139758659",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NextShua 国外。。https://t.co/F1nANVlnxY"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2101430935766151388",
+        "created_at": "2026-09-20T06:58:39.000Z",
+        "display_text_range": [
+          10,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T07:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101566694896382398"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1856301878814093315",
+              "start": 0,
+              "username": "NextShua"
+            }
+          ],
+          "urls": [
+            {
+              "description": "watch what's in stock across your favorite shops",
+              "display_url": "diyhrt.coffee",
+              "end": 37,
+              "expanded_url": "https://diyhrt.coffee",
+              "start": 14,
+              "status": 200,
+              "title": "diyhrt",
+              "unwound_url": "https://diyhrt.coffee",
+              "url": "https://t.co/F1nANVlnxY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101566694896382398",
+        "in_reply_to_user_id": "1856301878814093315",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101503658139758659",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NextShua 国外。。https://t.co/F1nANVlnxY"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1856301878814093315",
+        "conversation_id": "2101430935766151388",
+        "created_at": "2026-09-20T02:48:10.000Z",
+        "display_text_range": [
+          10,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T03:48:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101503658139758659"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101503658139758659",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 45,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101430935766151388",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 庚酸雌二醇从哪买🤔我只知道EV常见一点"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2101566694896382398",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 979,
+          "like_count": 7077,
+          "listed_count": 3,
+          "media_count": 328,
+          "tweet_count": 1728
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-12T11:44:02.000Z",
+        "description": "10后|查看https://t.co/zFjQ21fAfc谢谢喵|我喜欢你",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "github.com/Shua-github",
+                "end": 29,
+                "expanded_url": "http://github.com/Shua-github",
+                "start": 6,
+                "url": "https://t.co/zFjQ21fAfc"
+              }
+            ]
+          }
+        },
+        "id": "1856301878814093315",
+        "is_identity_verified": false,
+        "location": "距离你2km",
+        "most_recent_tweet_id": "2101507558544666641",
+        "name": "Shua",
+        "pinned_tweet_id": "2093604887066189955",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072271050394759168/7WunDsaY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 110,
+          "like_count": 1818,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "NextShua",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

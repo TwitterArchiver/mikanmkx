@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2102641027047989304",
+    "created_at": "2026-09-23T06:07:40.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:07:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102641027047989304"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Yzmtsky6666/st…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/Yzmtsky6666/status/2102354029624131797",
+          "start": 30,
+          "url": "https://t.co/5Y6PYm15xX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102641027047989304",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102354029624131797",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我知道几位很厉害的，但推上的号基本没有任何xyn刻板印象（ https://t.co/5Y6PYm15xX"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2102641027047989304",
+        "created_at": "2026-09-23T06:07:40.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:07:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102641027047989304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Yzmtsky6666/st…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/Yzmtsky6666/status/2102354029624131797",
+              "start": 30,
+              "url": "https://t.co/5Y6PYm15xX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102641027047989304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102354029624131797",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我知道几位很厉害的，但推上的号基本没有任何xyn刻板印象（ https://t.co/5Y6PYm15xX"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2007024792172699649",
+        "conversation_id": "2102354029624131797",
+        "created_at": "2026-09-22T11:07:15.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:07:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102354029624131797"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/xijiu_/status/…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/xijiu_/status/2102290591262589180",
+              "start": 33,
+              "url": "https://t.co/VqcS1YUcFb"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102354029624131797",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 16784,
+          "like_count": 106,
+          "quote_count": 2,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102290591262589180",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "浙江大学真的有小药娘吗？\n高学历药娘和普通药娘好像活在两个世界啊 https://t.co/VqcS1YUcFb"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2102641027047989304",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1250,
+          "following_count": 995,
+          "like_count": 7256,
+          "listed_count": 3,
+          "media_count": 337,
+          "tweet_count": 1776
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-02T09:43:04.000Z",
+        "description": "tg群邀请链:https://t.co/TFLondy2En\nmtx？🏳️‍⚧️|在极致的理性与感性间反复横跳|进步主义者|高敏型|生物爱好者|不od，远离成瘾物|无性别刻板，性取向立场|相信自由意志与个体的主观能动性|相信人造子宫是让全人类通向平等的希望。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/yzmtsky6666",
+                "end": 30,
+                "expanded_url": "https://t.me/yzmtsky6666",
+                "start": 7,
+                "url": "https://t.co/TFLondy2En"
+              }
+            ]
+          }
+        },
+        "id": "2007024792172699649",
+        "is_identity_verified": false,
+        "location": "世界的尽头",
+        "most_recent_tweet_id": "2102639128969895987",
+        "name": "Yzmt🏳️‍⚧️",
+        "pinned_tweet_id": "2102321389914988859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2007024792172699649/1790069776",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090310882178011137/i-SL7hJ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 596,
+          "following_count": 344,
+          "like_count": 1057,
+          "listed_count": 1,
+          "media_count": 16,
+          "tweet_count": 525
+        },
+        "url": "",
+        "username": "Yzmtsky6666",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

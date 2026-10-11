@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106589634277126144"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2106589639335399859",
+    "created_at": "2026-10-04T03:38:03.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:38:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106589639335399859"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0rTGINRhZ4",
+          "end": 86,
+          "expanded_url": "https://x.com/mikanmkx/status/2106589639335399859/photo/1",
+          "media_key": "3_2106589634277126144",
+          "start": 63,
+          "url": "https://t.co/0rTGINRhZ4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106589639335399859",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2106589634277126144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "是不是只有我觉得第五代普锐斯很丑？我真的无法接受a柱和引擎盖连接处那个凹陷的角度，说实话感觉像兰博基尼追尾卡车把a柱压弯了（ https://t.co/0rTGINRhZ4"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 666,
+        "media_key": "3_2106589634277126144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTwcHHabsAAj2Yv.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106589634277126144"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2106589639335399859",
+        "created_at": "2026-10-04T03:38:03.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:38:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106589639335399859"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0rTGINRhZ4",
+              "end": 86,
+              "expanded_url": "https://x.com/mikanmkx/status/2106589639335399859/photo/1",
+              "media_key": "3_2106589634277126144",
+              "start": 63,
+              "url": "https://t.co/0rTGINRhZ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106589639335399859",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106589634277126144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "是不是只有我觉得第五代普锐斯很丑？我真的无法接受a柱和引擎盖连接处那个凹陷的角度，说实话感觉像兰博基尼追尾卡车把a柱压弯了（ https://t.co/0rTGINRhZ4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2106589639335399859",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1291,
+          "following_count": 1011,
+          "like_count": 7776,
+          "listed_count": 2,
+          "media_count": 358,
+          "tweet_count": 1890
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102306906597740544"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2102306913354670427",
+    "created_at": "2026-09-22T08:00:01.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T09:00:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102306913354670427"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/npweXklSiD",
+          "end": 115,
+          "expanded_url": "https://x.com/mikanmkx/status/2102306913354670427/photo/1",
+          "media_key": "3_2102306906597740544",
+          "start": 92,
+          "url": "https://t.co/npweXklSiD"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102306913354670427",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2102306906597740544"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "想起来我还有这个自制谐波赤道仪的坑吃灰半年了没填，明明只要最后焊几个零件就能装起来了但是一直没动力搞完😭\n虽然我没仔细算钱但肯定是超支了，这样看下来还不如买个商业产品我早就能用上了😭 https://t.co/npweXklSiD"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2102306906597740544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSzk_jib0AA0Js_.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102306906597740544"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2102306913354670427",
+        "created_at": "2026-09-22T08:00:01.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T09:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102306913354670427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/npweXklSiD",
+              "end": 115,
+              "expanded_url": "https://x.com/mikanmkx/status/2102306913354670427/photo/1",
+              "media_key": "3_2102306906597740544",
+              "start": 92,
+              "url": "https://t.co/npweXklSiD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102306913354670427",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102306906597740544"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "想起来我还有这个自制谐波赤道仪的坑吃灰半年了没填，明明只要最后焊几个零件就能装起来了但是一直没动力搞完😭\n虽然我没仔细算钱但肯定是超支了，这样看下来还不如买个商业产品我早就能用上了😭 https://t.co/npweXklSiD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2102306913354670427",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 994,
+          "like_count": 7199,
+          "listed_count": 3,
+          "media_count": 335,
+          "tweet_count": 1763
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

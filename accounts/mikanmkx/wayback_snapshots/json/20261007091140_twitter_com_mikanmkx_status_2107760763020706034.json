@@ -1,0 +1,308 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2107732594586775880",
+    "created_at": "2026-10-07T09:11:40.000Z",
+    "display_text_range": [
+      20,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T10:11:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107760763020706034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "3184828508",
+          "start": 0,
+          "username": "astraorsa"
+        },
+        {
+          "end": 19,
+          "id": "741127492614950913",
+          "start": 11,
+          "username": "Lakr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107760763020706034",
+    "in_reply_to_user_id": "3184828508",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107741645571838223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@astraorsa @Lakr233 拆了但如同没拆，动不动就拒绝（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2107732594586775880",
+        "created_at": "2026-10-07T09:11:40.000Z",
+        "display_text_range": [
+          20,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:11:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107760763020706034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "3184828508",
+              "start": 0,
+              "username": "astraorsa"
+            },
+            {
+              "end": 19,
+              "id": "741127492614950913",
+              "start": 11,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107760763020706034",
+        "in_reply_to_user_id": "3184828508",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107741645571838223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@astraorsa @Lakr233 拆了但如同没拆，动不动就拒绝（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "3184828508",
+        "conversation_id": "2107732594586775880",
+        "created_at": "2026-10-07T07:55:42.000Z",
+        "display_text_range": [
+          9,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T08:55:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107741645571838223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "741127492614950913",
+              "start": 0,
+              "username": "Lakr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107741645571838223",
+        "in_reply_to_user_id": "741127492614950913",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 714,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107732594586775880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Lakr233 就是拆掉 safeguard 的 fable 5.1（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2107760763020706034",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1294,
+          "following_count": 1016,
+          "like_count": 7864,
+          "listed_count": 2,
+          "media_count": 362,
+          "tweet_count": 1908
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-05-04T05:39:44.000Z",
+        "description": "矮纸斜行闲作草，晴窗细乳戏分茶",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "cynosura.one",
+                "end": 23,
+                "expanded_url": "https://cynosura.one",
+                "start": 0,
+                "url": "https://t.co/REjBdAN66j"
+              }
+            ]
+          }
+        },
+        "id": "3184828508",
+        "is_identity_verified": false,
+        "location": "TON 618",
+        "most_recent_tweet_id": "2107748777079849074",
+        "name": "千草茶",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3184828508/1780219785",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104321481757057025/6q0HuW0E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10018,
+          "following_count": 1296,
+          "like_count": 57425,
+          "listed_count": 48,
+          "media_count": 8760,
+          "tweet_count": 51396
+        },
+        "url": "https://t.co/REjBdAN66j",
+        "username": "astraorsa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-10T04:38:58.000Z",
+        "description": "我不会在个人资料里头放除了 https://t.co/kOWUWwv8Hx 的链接。 #-a-different-kind-of-human.\n\nPs: 若是被认定为生成式推文账号，则会被关小黑屋。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 37,
+                "expanded_url": "http://qaq.wiki",
+                "start": 14,
+                "url": "https://t.co/kOWUWwv8Hx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "qaq.wiki",
+                "end": 23,
+                "expanded_url": "https://qaq.wiki",
+                "start": 0,
+                "url": "https://t.co/FIGSbdeyAW"
+              }
+            ]
+          }
+        },
+        "id": "741127492614950913",
+        "is_identity_verified": false,
+        "location": "!?(･_･;? 天方夜谭.spaceCraft",
+        "most_recent_tweet_id": "2107751886527074578",
+        "name": "砍砍.ᐟ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/741127492614950913/1757436331",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101344339976957952/HDStcE7x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38505,
+          "following_count": 434,
+          "like_count": 67294,
+          "listed_count": 240,
+          "media_count": 53,
+          "tweet_count": 84
+        },
+        "url": "https://t.co/FIGSbdeyAW",
+        "username": "Lakr233",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

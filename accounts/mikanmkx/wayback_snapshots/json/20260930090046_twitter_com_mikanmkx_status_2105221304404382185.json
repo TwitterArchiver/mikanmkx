@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2105101701124706758",
+    "created_at": "2026-09-30T09:00:46.000Z",
+    "display_text_range": [
+      11,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T10:00:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105221304404382185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "729407854973755392",
+          "start": 0,
+          "username": "Arthur2e5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105221304404382185",
+    "in_reply_to_user_id": "729407854973755392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105101701124706758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Arthur2e5 我也想，但我感觉我会考试却不知道怎么教别人（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3023,
+        "media_key": "3_2105101653884203008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTbSzQfa8AA9RZb.jpg",
+        "width": 4031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2105101701124706758",
+        "created_at": "2026-09-30T09:00:46.000Z",
+        "display_text_range": [
+          11,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T10:00:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105221304404382185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "729407854973755392",
+              "start": 0,
+              "username": "Arthur2e5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105221304404382185",
+        "in_reply_to_user_id": "729407854973755392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105101701124706758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Arthur2e5 我也想，但我感觉我会考试却不知道怎么教别人（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105101653884203008"
+          ]
+        },
+        "author_id": "729407854973755392",
+        "conversation_id": "2105101701124706758",
+        "created_at": "2026-09-30T01:05:31.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T02:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105101701124706758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8UvlFdwwZ",
+              "end": 52,
+              "expanded_url": "https://x.com/Arthur2e5/status/2105101701124706758/photo/1",
+              "media_key": "3_2105101653884203008",
+              "start": 29,
+              "url": "https://t.co/C8UvlFdwwZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105101701124706758",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105101653884203008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 744,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不知道英语辅导怎么收钱，但我有这个，我也是真想赚钱…… https://t.co/C8UvlFdwwZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2105221304404382185",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1265,
+          "following_count": 1008,
+          "like_count": 7638,
+          "listed_count": 2,
+          "media_count": 353,
+          "tweet_count": 1870
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-08T20:29:19.000Z",
+        "description": "这个号是曾用名 | Artoria2e5 elsewhere",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "about.me/arthur2e5",
+                "end": 23,
+                "expanded_url": "https://about.me/arthur2e5",
+                "start": 0,
+                "url": "https://t.co/xMizOdma2J"
+              }
+            ]
+          }
+        },
+        "id": "729407854973755392",
+        "is_identity_verified": false,
+        "location": "CN-SH ",
+        "most_recent_tweet_id": "2105210396001083515",
+        "name": "Mingye Wang 0.97",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/729408171622707200/I1mzuiMN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 379,
+          "like_count": 7687,
+          "listed_count": 1,
+          "media_count": 12,
+          "tweet_count": 1606
+        },
+        "url": "https://t.co/xMizOdma2J",
+        "username": "Arthur2e5",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

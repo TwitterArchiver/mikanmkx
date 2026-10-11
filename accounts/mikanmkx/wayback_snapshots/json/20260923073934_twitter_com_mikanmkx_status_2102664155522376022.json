@@ -1,0 +1,448 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102664151625785344"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "California",
+          "id": "856860158428798977",
+          "name": "California"
+        }
+      }
+    ],
+    "conversation_id": "2102664155522376022",
+    "created_at": "2026-09-23T07:39:34.000Z",
+    "display_text_range": [
+      0,
+      2
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T08:39:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102664155522376022"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iWzXozpaSZ",
+          "end": 26,
+          "expanded_url": "https://x.com/mikanmkx/status/2102664155522376022/photo/1",
+          "media_key": "3_2102664151625785344",
+          "start": 3,
+          "url": "https://t.co/iWzXozpaSZ"
+        },
+        {
+          "display_url": "x.com/UofCalifornia/…",
+          "end": 50,
+          "expanded_url": "https://twitter.com/UofCalifornia/status/2102427705115324670",
+          "start": 27,
+          "url": "https://t.co/hsOjQK70L9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102664155522376022",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2102664151625785344"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102427705115324670",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "🤔🤣 https://t.co/iWzXozpaSZ https://t.co/hsOjQK70L9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2102664151625785344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS4p58-aYAA_jK0.jpg",
+        "width": 1536
+      },
+      {
+        "duration_ms": 9140,
+        "height": 1350,
+        "media_key": "13_2102215405507158016",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102215405507158016/img/Emv_dDtuqcCeQrLb.jpg",
+        "public_metrics": {
+          "view_count": 8051
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102215405507158016/vid/avc1/320x400/SsEa2JoexiDbRUyd.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102215405507158016/vid/avc1/720x900/bNu_uzaa0Ax4W8HH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102215405507158016/pl/RU1jEu3YPBRudNNq.m3u8"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102215405507158016/vid/avc1/1080x1350/svyvK15Wzm5lSFBT.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102215405507158016/vid/avc1/480x600/OfqaugZtKToE2HqU.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102664151625785344"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2102664155522376022",
+        "created_at": "2026-09-23T07:39:34.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:39:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102664155522376022"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iWzXozpaSZ",
+              "end": 26,
+              "expanded_url": "https://x.com/mikanmkx/status/2102664155522376022/photo/1",
+              "media_key": "3_2102664151625785344",
+              "start": 3,
+              "url": "https://t.co/iWzXozpaSZ"
+            },
+            {
+              "display_url": "x.com/UofCalifornia/…",
+              "end": 50,
+              "expanded_url": "https://twitter.com/UofCalifornia/status/2102427705115324670",
+              "start": 27,
+              "url": "https://t.co/hsOjQK70L9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102664155522376022",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102664151625785344"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102427705115324670",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤔🤣 https://t.co/iWzXozpaSZ https://t.co/hsOjQK70L9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102215405507158016"
+          ]
+        },
+        "author_id": "89793645",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1294251834106732546",
+              "name": "University of California Los Angeles"
+            }
+          },
+          {
+            "domain": {
+              "description": "Colleges & universities around the world",
+              "id": "157",
+              "name": "Colleges & Universities"
+            },
+            "entity": {
+              "id": "1298715487476449280",
+              "name": "University of California Berkeley"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          }
+        ],
+        "conversation_id": "2102427705115324670",
+        "created_at": "2026-09-22T16:00:00.000Z",
+        "display_text_range": [
+          0,
+          232
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T17:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102427705115324670"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 100,
+              "id": "176932593",
+              "start": 89,
+              "username": "UCBerkeley"
+            },
+            {
+              "end": 110,
+              "id": "18918483",
+              "start": 105,
+              "username": "UCLA"
+            },
+            {
+              "end": 231,
+              "id": "6577642",
+              "start": 224,
+              "username": "usnews"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3cKtGa9VDi",
+              "end": 256,
+              "expanded_url": "https://x.com/UofCalifornia/status/2102427705115324670/video/1",
+              "media_key": "13_2102215405507158016",
+              "start": 233,
+              "url": "https://t.co/3cKtGa9VDi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102427705115324670",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2102215405507158016"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 43020,
+          "like_count": 287,
+          "quote_count": 11,
+          "reply_count": 20,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "The University of California is home to the nation’s No. 1 public university (twice)! 🥇\n\n@UCBerkeley and @UCLA are tied for America’s #1 public university in the new 2027 Best Colleges rankings, released today (Sept. 22) by @usnews. https://t.co/3cKtGa9VDi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2102664155522376022",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1251,
+          "following_count": 995,
+          "like_count": 7268,
+          "listed_count": 3,
+          "media_count": 338,
+          "tweet_count": 1778
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-11-13T21:09:50.000Z",
+        "description": "Official handle for the University of California system. For UCOP press releases and campus breaking news, follow @UC_Newsroom.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 114,
+                "username": "UC_Newsroom"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "universityofcalifornia.edu",
+                "end": 23,
+                "expanded_url": "https://www.universityofcalifornia.edu",
+                "start": 0,
+                "url": "https://t.co/jVnDGFRiE5"
+              }
+            ]
+          }
+        },
+        "id": "89793645",
+        "is_identity_verified": false,
+        "location": "socialmedia(at)ucop(dot)edu ",
+        "most_recent_tweet_id": "2102427710387556769",
+        "name": "University of California",
+        "pinned_tweet_id": "2084672611770847454",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/89793645/1698083877",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099901587988840448/Q8kqa5sV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 34756,
+          "following_count": 232,
+          "like_count": 42209,
+          "listed_count": 367,
+          "media_count": 3494,
+          "tweet_count": 27594
+        },
+        "url": "https://t.co/jVnDGFRiE5",
+        "username": "UofCalifornia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

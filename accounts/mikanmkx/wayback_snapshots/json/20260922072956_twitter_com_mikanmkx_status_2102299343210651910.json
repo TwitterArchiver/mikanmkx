@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2102282506506830272",
+    "created_at": "2026-09-22T07:29:56.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T08:29:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102299343210651910"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1144647115030708224",
+          "start": 0,
+          "username": "nekotanko_shiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102299343210651910",
+    "in_reply_to_user_id": "1144647115030708224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102299168215818568",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nekotanko_shiro 我买了好多年了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2102282506506830272",
+        "created_at": "2026-09-22T07:29:56.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:29:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102299343210651910"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1144647115030708224",
+              "start": 0,
+              "username": "nekotanko_shiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102299343210651910",
+        "in_reply_to_user_id": "1144647115030708224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102299168215818568",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nekotanko_shiro 我买了好多年了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1144647115030708224",
+        "conversation_id": "2102282506506830272",
+        "created_at": "2026-09-22T07:29:15.000Z",
+        "display_text_range": [
+          10,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T08:29:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102299168215818568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102299168215818568",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102298388482170909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 感覺應該夠喵😋\n有興趣、有轉接環的話可以玩玩看巧攝app🐱🐱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2102299343210651910",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1248,
+          "following_count": 994,
+          "like_count": 7197,
+          "listed_count": 3,
+          "media_count": 334,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-28T16:41:53.000Z",
+        "description": "吃糖的一隻貓/mtf.x/姛/貝歇氏症/ベーチェット病🐱🏳️‍⚧️\n最愛的妹妹:@xian_zi17640\nGAHT:2026/06/05 アンドロカー/安德卡 06/12 プロギノバ/補佳樂🍥\n台灣華語/台語/日本語N1\n98碼農大貓 風景/星景/動物/交通攝影📷\n可以叫我小白/白醬/しろちゃんで呼んでね🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 40,
+                "username": "xian_zi17640"
+              }
+            ]
+          }
+        },
+        "id": "1144647115030708224",
+        "is_identity_verified": false,
+        "location": "そらの果て",
+        "most_recent_tweet_id": "2102299168215818568",
+        "name": "ねこたん-白🐱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088530748236242975",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1144647115030708224/1785685617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083124833509052416/38zTT0fA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 524,
+          "following_count": 1151,
+          "like_count": 20340,
+          "listed_count": 1,
+          "media_count": 133,
+          "tweet_count": 3413
+        },
+        "url": "",
+        "username": "nekotanko_shiro",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

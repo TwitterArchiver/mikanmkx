@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2103481887880864182",
+    "created_at": "2026-09-25T14:35:21.000Z",
+    "display_text_range": [
+      13,
+      72
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T15:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103493566714753175"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1794664666033201152",
+          "start": 0,
+          "username": "Springfyhuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103493566714753175",
+    "in_reply_to_user_id": "1794664666033201152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103492186205753518",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Springfyhuo 我有mbp，windows天天不是蓝屏就是卡死或者黑屏，我都不知道是哪里有问题，怀疑是pbo超太高或者显卡用太久了。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2103481887880864182",
+        "created_at": "2026-09-25T14:35:21.000Z",
+        "display_text_range": [
+          13,
+          72
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103493566714753175"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1794664666033201152",
+              "start": 0,
+              "username": "Springfyhuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103493566714753175",
+        "in_reply_to_user_id": "1794664666033201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103492186205753518",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Springfyhuo 我有mbp，windows天天不是蓝屏就是卡死或者黑屏，我都不知道是哪里有问题，怀疑是pbo超太高或者显卡用太久了。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794664666033201152",
+        "conversation_id": "2103481887880864182",
+        "created_at": "2026-09-25T14:29:52.000Z",
+        "display_text_range": [
+          10,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T15:29:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103492186205753518"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103492186205753518",
+        "in_reply_to_user_id": "1794664666033201152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103489909550186739",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 有条件换mac吧……我win蓝过屏🥸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2103493566714753175",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1263,
+          "following_count": 1004,
+          "like_count": 7451,
+          "listed_count": 3,
+          "media_count": 347,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-26T09:40:34.000Z",
+        "description": "ADHD | ASD（疑似）🫪 | 底层码农🖥️ | 古法编程非遗传人 📜 🪶 | 北漂ing🥹| bron in 2004 🎂",
+        "id": "1794664666033201152",
+        "is_identity_verified": false,
+        "location": "常量池",
+        "most_recent_tweet_id": "2103492186205753518",
+        "name": "Spring",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794664666033201152/1788707796",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096548612042002432/IIVGqGZd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 731,
+          "like_count": 811,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 297
+        },
+        "url": "",
+        "username": "Springfyhuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

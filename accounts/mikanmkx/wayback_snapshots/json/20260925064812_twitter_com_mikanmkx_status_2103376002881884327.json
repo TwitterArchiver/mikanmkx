@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103115432689647617"
+      ],
+      "media_source_tweet_id": [
+        "2103115458782306442"
+      ]
+    },
+    "author_id": "1988674513517834244",
+    "conversation_id": "2103376002881884327",
+    "created_at": "2026-09-25T06:48:12.000Z",
+    "display_text_range": [
+      0,
+      55
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T07:48:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103376002881884327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1908553457411514373",
+          "start": 3,
+          "username": "aiueo7095110"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/30uO7dG83n",
+          "end": 55,
+          "expanded_url": "https://x.com/aiueo7095110/status/2103115458782306442/photo/1",
+          "media_key": "3_2103115432689647617",
+          "start": 32,
+          "url": "https://t.co/30uO7dG83n"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103376002881884327",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2103115432689647617"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 236
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103115458782306442",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aiueo7095110: 日本人の大体が読める中国語 https://t.co/30uO7dG83n"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2371,
+        "media_key": "3_2103115432689647617",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_EV98bwAEfM0Z.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103115432689647617"
+          ],
+          "media_source_tweet_id": [
+            "2103115458782306442"
+          ]
+        },
+        "author_id": "1988674513517834244",
+        "conversation_id": "2103376002881884327",
+        "created_at": "2026-09-25T06:48:12.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T07:48:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103376002881884327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1908553457411514373",
+              "start": 3,
+              "username": "aiueo7095110"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/30uO7dG83n",
+              "end": 55,
+              "expanded_url": "https://x.com/aiueo7095110/status/2103115458782306442/photo/1",
+              "media_key": "3_2103115432689647617",
+              "start": 32,
+              "url": "https://t.co/30uO7dG83n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103376002881884327",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103115432689647617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 236
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103115458782306442",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aiueo7095110: 日本人の大体が読める中国語 https://t.co/30uO7dG83n"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103115432689647617"
+          ]
+        },
+        "author_id": "1908553457411514373",
+        "conversation_id": "2103115458782306442",
+        "created_at": "2026-09-24T13:32:54.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T14:32:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103115458782306442"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/30uO7dG83n",
+              "end": 37,
+              "expanded_url": "https://x.com/aiueo7095110/status/2103115458782306442/photo/1",
+              "media_key": "3_2103115432689647617",
+              "start": 14,
+              "url": "https://t.co/30uO7dG83n"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103115458782306442",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2103115432689647617"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 162,
+          "impression_count": 136519,
+          "like_count": 3022,
+          "quote_count": 3,
+          "reply_count": 38,
+          "retweet_count": 236
+        },
+        "reply_settings": "everyone",
+        "text": "日本人の大体が読める中国語 https://t.co/30uO7dG83n"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2103376002881884327",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1260,
+          "following_count": 999,
+          "like_count": 7425,
+          "listed_count": 3,
+          "media_count": 347,
+          "tweet_count": 1816
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-05T16:13:40.000Z",
+        "description": "反アフィカス\n例のアレ\n@9315TAKUYA9315 本垢",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 12,
+                "username": "9315TAKUYA9315"
+              }
+            ]
+          }
+        },
+        "id": "1908553457411514373",
+        "is_identity_verified": false,
+        "location": "てんめぐ全裸bot",
+        "most_recent_tweet_id": "2103343459843326336",
+        "name": "浅野_mania",
+        "pinned_tweet_id": "2101256691111116923",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1908553457411514373/1753797677",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078703670271873024/WoxCzPMv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2961,
+          "following_count": 1681,
+          "like_count": 5359,
+          "listed_count": 9,
+          "media_count": 1332,
+          "tweet_count": 6243
+        },
+        "url": "",
+        "username": "aiueo7095110",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

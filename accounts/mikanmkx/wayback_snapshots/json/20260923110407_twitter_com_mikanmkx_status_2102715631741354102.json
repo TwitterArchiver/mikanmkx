@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1988674513517834244",
+    "conversation_id": "2102688070466466230",
+    "created_at": "2026-09-23T11:04:07.000Z",
+    "display_text_range": [
+      17,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T12:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102715631741354102"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1910937639269888000",
+          "start": 0,
+          "username": "NJMPUydvf294498"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102715631741354102",
+    "in_reply_to_user_id": "1910937639269888000",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102709241803096561",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NJMPUydvf294498 谷歌的结果有时候很奇怪，特别是中文"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1988674513517834244",
+        "conversation_id": "2102688070466466230",
+        "created_at": "2026-09-23T11:04:07.000Z",
+        "display_text_range": [
+          17,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102715631741354102"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1910937639269888000",
+              "start": 0,
+              "username": "NJMPUydvf294498"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102715631741354102",
+        "in_reply_to_user_id": "1910937639269888000",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102709241803096561",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NJMPUydvf294498 谷歌的结果有时候很奇怪，特别是中文"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910937639269888000",
+        "conversation_id": "2102688070466466230",
+        "created_at": "2026-09-23T10:38:44.000Z",
+        "display_text_range": [
+          10,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T11:38:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102709241803096561"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1988674513517834244",
+              "start": 0,
+              "username": "mikanmkx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102709241803096561",
+        "in_reply_to_user_id": "1988674513517834244",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102688070466466230",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikanmkx 用谷歌引擎嘛？我一直用的必应"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-11-12T18:25:36.000Z",
+        "description": "MtF🍥🏳‍⚧ | ZH/EN/JA | HRT 20260401 | nsyc | Aqours🍊 | Poppin'Party✨ | MyGO!!!!!🐧 | Aviation✈ | (Astro)Photography🌌📷 | PhD Student | LLM/Multimodal | 同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "asterismlabs.io",
+                "end": 23,
+                "expanded_url": "http://asterismlabs.io",
+                "start": 0,
+                "url": "https://t.co/3eHNiPcr0m"
+              }
+            ]
+          }
+        },
+        "id": "1988674513517834244",
+        "is_identity_verified": true,
+        "location": "WUH | SAN | LAX | SDJ",
+        "most_recent_tweet_id": "2102715631741354102",
+        "name": "みかんミックス🍥",
+        "pinned_tweet_id": "2070499116673831421",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1988674513517834244/1784134304",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061459126849552385/AgwLvcsw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1253,
+          "following_count": 995,
+          "like_count": 7282,
+          "listed_count": 3,
+          "media_count": 340,
+          "tweet_count": 1783
+        },
+        "url": "https://t.co/3eHNiPcr0m",
+        "username": "mikanmkx",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-12T06:07:14.000Z",
+        "description": "hrt:2026.8.24｜168cm 60kg｜BMI22 体脂14.6%｜指派男性 认同女性｜GAHT：2026.9.8｜缺安全感｜🎂阴历04.9.17／证05.6.6｜称呼随意",
+        "id": "1910937639269888000",
+        "is_identity_verified": false,
+        "location": "楠娘岛",
+        "most_recent_tweet_id": "2102713521700286470",
+        "name": "要期待未来啊🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2101573839482392864",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910937639269888000/1785835057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087189162810355712/NWJ9xOc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1536,
+          "following_count": 990,
+          "like_count": 1687,
+          "listed_count": 2,
+          "media_count": 187,
+          "tweet_count": 1621
+        },
+        "url": "",
+        "username": "NJMPUydvf294498",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
